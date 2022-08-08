@@ -1,0 +1,1556 @@
+measure{
+  key: "total-Tokens-F1"
+  value: "32.86"
+}
+measure{
+  key: "total-Sentences-F1"
+  value: "29.83"
+}
+measure{
+  key: "total-Words-F1"
+  value: "32.77"
+}
+measure{
+  key: "total-UPOS-F1"
+  value: "29.58"
+}
+measure{
+  key: "total-XPOS-F1"
+  value: "11.09"
+}
+measure{
+  key: "total-Feats-F1"
+  value: "25.44"
+}
+measure{
+  key: "total-AllTags-F1"
+  value: "9.62"
+}
+measure{
+  key: "total-Lemmas-F1"
+  value: "6.95"
+}
+measure{
+  key: "total-UAS-F1"
+  value: "24.46"
+}
+measure{
+  key: "total-LAS-F1"
+  value: "22.07"
+}
+measure{
+  key: "total-CLAS-F1"
+  value: "20.38"
+}
+measure{
+  key: "ar_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ar-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "bg-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "bxr-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ca-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "cs_cac-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "cs_cltt-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "cs_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "cs-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "cu-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "da-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "de_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "de-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "el-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "en_lines-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "en_partut-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "en_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "en-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "es_ancora-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "es_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "es-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "et-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "eu-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fa-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fi_ftb-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fi_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fi-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fr_partut-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fr_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fr_sequoia-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fr-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ga-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "gl_treegal-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "gl-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "got-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "grc_proiel-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "grc-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "he-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "hi_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "hi-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "hr-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "hsb-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "hu-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "id-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "it_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "it-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ja_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ja-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "kk-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "kmr-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ko-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "la_ittb-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "la_proiel-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "la-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "la-Tokens-F1"
+  value: "99.99"
+}
+measure{
+  key: "la-Sentences-F1"
+  value: "98.14"
+}
+measure{
+  key: "la-Words-F1"
+  value: "99.99"
+}
+measure{
+  key: "la-UPOS-F1"
+  value: "88.57"
+}
+measure{
+  key: "la-XPOS-F1"
+  value: "68.96"
+}
+measure{
+  key: "la-Feats-F1"
+  value: "67.45"
+}
+measure{
+  key: "la-AllTags-F1"
+  value: "63.15"
+}
+measure{
+  key: "la-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "la-UAS-F1"
+  value: "60.60"
+}
+measure{
+  key: "la-LAS-F1"
+  value: "49.32"
+}
+measure{
+  key: "la-CLAS-F1"
+  value: "43.46"
+}
+measure{
+  key: "lv-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "lv-Tokens-F1"
+  value: "99.45"
+}
+measure{
+  key: "lv-Sentences-F1"
+  value: "98.80"
+}
+measure{
+  key: "lv-Words-F1"
+  value: "99.45"
+}
+measure{
+  key: "lv-UPOS-F1"
+  value: "90.09"
+}
+measure{
+  key: "lv-XPOS-F1"
+  value: "26.52"
+}
+measure{
+  key: "lv-Feats-F1"
+  value: "68.60"
+}
+measure{
+  key: "lv-AllTags-F1"
+  value: "25.92"
+}
+measure{
+  key: "lv-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "lv-UAS-F1"
+  value: "69.15"
+}
+measure{
+  key: "lv-LAS-F1"
+  value: "60.94"
+}
+measure{
+  key: "lv-CLAS-F1"
+  value: "55.40"
+}
+measure{
+  key: "nl_lassysmall-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "nl_lassysmall-Tokens-F1"
+  value: "99.93"
+}
+measure{
+  key: "nl_lassysmall-Sentences-F1"
+  value: "82.80"
+}
+measure{
+  key: "nl_lassysmall-Words-F1"
+  value: "99.93"
+}
+measure{
+  key: "nl_lassysmall-UPOS-F1"
+  value: "97.74"
+}
+measure{
+  key: "nl_lassysmall-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl_lassysmall-Feats-F1"
+  value: "95.74"
+}
+measure{
+  key: "nl_lassysmall-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl_lassysmall-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl_lassysmall-UAS-F1"
+  value: "86.35"
+}
+measure{
+  key: "nl_lassysmall-LAS-F1"
+  value: "82.67"
+}
+measure{
+  key: "nl_lassysmall-CLAS-F1"
+  value: "78.43"
+}
+measure{
+  key: "nl-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "nl-Tokens-F1"
+  value: "99.79"
+}
+measure{
+  key: "nl-Sentences-F1"
+  value: "76.83"
+}
+measure{
+  key: "nl-Words-F1"
+  value: "99.79"
+}
+measure{
+  key: "nl-UPOS-F1"
+  value: "92.04"
+}
+measure{
+  key: "nl-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl-Feats-F1"
+  value: "87.45"
+}
+measure{
+  key: "nl-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl-UAS-F1"
+  value: "77.93"
+}
+measure{
+  key: "nl-LAS-F1"
+  value: "72.00"
+}
+measure{
+  key: "nl-CLAS-F1"
+  value: "64.78"
+}
+measure{
+  key: "no_bokmaal-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "no_bokmaal-Tokens-F1"
+  value: "99.85"
+}
+measure{
+  key: "no_bokmaal-Sentences-F1"
+  value: "96.26"
+}
+measure{
+  key: "no_bokmaal-Words-F1"
+  value: "99.85"
+}
+measure{
+  key: "no_bokmaal-UPOS-F1"
+  value: "96.64"
+}
+measure{
+  key: "no_bokmaal-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "no_bokmaal-Feats-F1"
+  value: "90.78"
+}
+measure{
+  key: "no_bokmaal-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "no_bokmaal-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "no_bokmaal-UAS-F1"
+  value: "85.80"
+}
+measure{
+  key: "no_bokmaal-LAS-F1"
+  value: "82.60"
+}
+measure{
+  key: "no_bokmaal-CLAS-F1"
+  value: "78.69"
+}
+measure{
+  key: "no_nynorsk-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "no_nynorsk-Tokens-F1"
+  value: "96.99"
+}
+measure{
+  key: "no_nynorsk-Sentences-F1"
+  value: "80.51"
+}
+measure{
+  key: "no_nynorsk-Words-F1"
+  value: "96.99"
+}
+measure{
+  key: "no_nynorsk-UPOS-F1"
+  value: "28.19"
+}
+measure{
+  key: "no_nynorsk-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "no_nynorsk-Feats-F1"
+  value: "25.88"
+}
+measure{
+  key: "no_nynorsk-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "no_nynorsk-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "no_nynorsk-UAS-F1"
+  value: "23.91"
+}
+measure{
+  key: "no_nynorsk-LAS-F1"
+  value: "6.57"
+}
+measure{
+  key: "no_nynorsk-CLAS-F1"
+  value: "4.67"
+}
+measure{
+  key: "pl-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "pl-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "pl-Sentences-F1"
+  value: "98.73"
+}
+measure{
+  key: "pl-Words-F1"
+  value: "98.99"
+}
+measure{
+  key: "pl-UPOS-F1"
+  value: "95.66"
+}
+measure{
+  key: "pl-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "pl-Feats-F1"
+  value: "77.12"
+}
+measure{
+  key: "pl-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "pl-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "pl-UAS-F1"
+  value: "84.05"
+}
+measure{
+  key: "pl-LAS-F1"
+  value: "78.61"
+}
+measure{
+  key: "pl-CLAS-F1"
+  value: "74.92"
+}
+measure{
+  key: "pt_br-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "pt_br-Tokens-F1"
+  value: "99.93"
+}
+measure{
+  key: "pt_br-Sentences-F1"
+  value: "96.63"
+}
+measure{
+  key: "pt_br-Words-F1"
+  value: "99.83"
+}
+measure{
+  key: "pt_br-UPOS-F1"
+  value: "97.42"
+}
+measure{
+  key: "pt_br-XPOS-F1"
+  value: "97.42"
+}
+measure{
+  key: "pt_br-Feats-F1"
+  value: "99.70"
+}
+measure{
+  key: "pt_br-AllTags-F1"
+  value: "97.35"
+}
+measure{
+  key: "pt_br-Lemmas-F1"
+  value: "86.77"
+}
+measure{
+  key: "pt_br-UAS-F1"
+  value: "87.57"
+}
+measure{
+  key: "pt_br-LAS-F1"
+  value: "85.41"
+}
+measure{
+  key: "pt_br-CLAS-F1"
+  value: "79.33"
+}
+measure{
+  key: "pt_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "pt_pud-Tokens-F1"
+  value: "98.51"
+}
+measure{
+  key: "pt_pud-Sentences-F1"
+  value: "97.32"
+}
+measure{
+  key: "pt_pud-Words-F1"
+  value: "98.51"
+}
+measure{
+  key: "pt_pud-UPOS-F1"
+  value: "88.00"
+}
+measure{
+  key: "pt_pud-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "pt_pud-Feats-F1"
+  value: "58.80"
+}
+measure{
+  key: "pt_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "pt_pud-Lemmas-F1"
+  value: "85.87"
+}
+measure{
+  key: "pt_pud-UAS-F1"
+  value: "78.75"
+}
+measure{
+  key: "pt_pud-LAS-F1"
+  value: "72.85"
+}
+measure{
+  key: "pt_pud-CLAS-F1"
+  value: "66.15"
+}
+measure{
+  key: "pt-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "pt-Tokens-F1"
+  value: "99.71"
+}
+measure{
+  key: "pt-Sentences-F1"
+  value: "91.67"
+}
+measure{
+  key: "pt-Words-F1"
+  value: "99.34"
+}
+measure{
+  key: "pt-UPOS-F1"
+  value: "96.51"
+}
+measure{
+  key: "pt-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "pt-Feats-F1"
+  value: "92.24"
+}
+measure{
+  key: "pt-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "pt-Lemmas-F1"
+  value: "0.02"
+}
+measure{
+  key: "pt-UAS-F1"
+  value: "85.15"
+}
+measure{
+  key: "pt-LAS-F1"
+  value: "82.03"
+}
+measure{
+  key: "pt-CLAS-F1"
+  value: "75.94"
+}
+measure{
+  key: "ro-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ro-Tokens-F1"
+  value: "99.64"
+}
+measure{
+  key: "ro-Sentences-F1"
+  value: "94.79"
+}
+measure{
+  key: "ro-Words-F1"
+  value: "99.64"
+}
+measure{
+  key: "ro-UPOS-F1"
+  value: "96.71"
+}
+measure{
+  key: "ro-XPOS-F1"
+  value: "9.43"
+}
+measure{
+  key: "ro-Feats-F1"
+  value: "89.06"
+}
+measure{
+  key: "ro-AllTags-F1"
+  value: "8.84"
+}
+measure{
+  key: "ro-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ro-UAS-F1"
+  value: "86.68"
+}
+measure{
+  key: "ro-LAS-F1"
+  value: "81.19"
+}
+measure{
+  key: "ro-CLAS-F1"
+  value: "75.74"
+}
+measure{
+  key: "ru_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ru_pud-Tokens-F1"
+  value: "97.15"
+}
+measure{
+  key: "ru_pud-Sentences-F1"
+  value: "97.23"
+}
+measure{
+  key: "ru_pud-Words-F1"
+  value: "97.15"
+}
+measure{
+  key: "ru_pud-UPOS-F1"
+  value: "85.67"
+}
+measure{
+  key: "ru_pud-XPOS-F1"
+  value: "79.23"
+}
+measure{
+  key: "ru_pud-Feats-F1"
+  value: "37.33"
+}
+measure{
+  key: "ru_pud-AllTags-F1"
+  value: "33.78"
+}
+measure{
+  key: "ru_pud-Lemmas-F1"
+  value: "97.15"
+}
+measure{
+  key: "ru_pud-UAS-F1"
+  value: "77.50"
+}
+measure{
+  key: "ru_pud-LAS-F1"
+  value: "69.46"
+}
+measure{
+  key: "ru_pud-CLAS-F1"
+  value: "65.82"
+}
+measure{
+  key: "ru_syntagrus-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ru_syntagrus-Tokens-F1"
+  value: "99.69"
+}
+measure{
+  key: "ru_syntagrus-Sentences-F1"
+  value: "97.97"
+}
+measure{
+  key: "ru_syntagrus-Words-F1"
+  value: "99.69"
+}
+measure{
+  key: "ru_syntagrus-UPOS-F1"
+  value: "98.20"
+}
+measure{
+  key: "ru_syntagrus-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru_syntagrus-Feats-F1"
+  value: "90.38"
+}
+measure{
+  key: "ru_syntagrus-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru_syntagrus-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru_syntagrus-UAS-F1"
+  value: "89.36"
+}
+measure{
+  key: "ru_syntagrus-LAS-F1"
+  value: "86.83"
+}
+measure{
+  key: "ru_syntagrus-CLAS-F1"
+  value: "82.24"
+}
+measure{
+  key: "ru-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ru-Tokens-F1"
+  value: "99.81"
+}
+measure{
+  key: "ru-Sentences-F1"
+  value: "95.75"
+}
+measure{
+  key: "ru-Words-F1"
+  value: "99.81"
+}
+measure{
+  key: "ru-UPOS-F1"
+  value: "95.49"
+}
+measure{
+  key: "ru-XPOS-F1"
+  value: "95.24"
+}
+measure{
+  key: "ru-Feats-F1"
+  value: "80.24"
+}
+measure{
+  key: "ru-AllTags-F1"
+  value: "78.75"
+}
+measure{
+  key: "ru-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru-UAS-F1"
+  value: "81.58"
+}
+measure{
+  key: "ru-LAS-F1"
+  value: "76.53"
+}
+measure{
+  key: "ru-CLAS-F1"
+  value: "74.01"
+}
+measure{
+  key: "sk-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sk-Tokens-F1"
+  value: "99.98"
+}
+measure{
+  key: "sk-Sentences-F1"
+  value: "82.04"
+}
+measure{
+  key: "sk-Words-F1"
+  value: "99.98"
+}
+measure{
+  key: "sk-UPOS-F1"
+  value: "94.22"
+}
+measure{
+  key: "sk-XPOS-F1"
+  value: "0.90"
+}
+measure{
+  key: "sk-Feats-F1"
+  value: "68.49"
+}
+measure{
+  key: "sk-AllTags-F1"
+  value: "0.75"
+}
+measure{
+  key: "sk-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "sk-UAS-F1"
+  value: "81.58"
+}
+measure{
+  key: "sk-LAS-F1"
+  value: "76.23"
+}
+measure{
+  key: "sk-CLAS-F1"
+  value: "72.12"
+}
+measure{
+  key: "sl_sst-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sl_sst-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "sl_sst-Sentences-F1"
+  value: "17.58"
+}
+measure{
+  key: "sl_sst-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "sl_sst-UPOS-F1"
+  value: "91.78"
+}
+measure{
+  key: "sl_sst-XPOS-F1"
+  value: "13.97"
+}
+measure{
+  key: "sl_sst-Feats-F1"
+  value: "75.60"
+}
+measure{
+  key: "sl_sst-AllTags-F1"
+  value: "9.37"
+}
+measure{
+  key: "sl_sst-Lemmas-F1"
+  value: "1.23"
+}
+measure{
+  key: "sl_sst-UAS-F1"
+  value: "56.73"
+}
+measure{
+  key: "sl_sst-LAS-F1"
+  value: "49.53"
+}
+measure{
+  key: "sl_sst-CLAS-F1"
+  value: "44.31"
+}
+measure{
+  key: "sl-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sl-Tokens-F1"
+  value: "99.93"
+}
+measure{
+  key: "sl-Sentences-F1"
+  value: "99.24"
+}
+measure{
+  key: "sl-Words-F1"
+  value: "99.93"
+}
+measure{
+  key: "sl-UPOS-F1"
+  value: "96.92"
+}
+measure{
+  key: "sl-XPOS-F1"
+  value: "14.55"
+}
+measure{
+  key: "sl-Feats-F1"
+  value: "81.73"
+}
+measure{
+  key: "sl-AllTags-F1"
+  value: "10.96"
+}
+measure{
+  key: "sl-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "sl-UAS-F1"
+  value: "85.74"
+}
+measure{
+  key: "sl-LAS-F1"
+  value: "82.19"
+}
+measure{
+  key: "sl-CLAS-F1"
+  value: "78.19"
+}
+measure{
+  key: "sme-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sv_lines-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sv_lines-Tokens-F1"
+  value: "99.98"
+}
+measure{
+  key: "sv_lines-Sentences-F1"
+  value: "87.08"
+}
+measure{
+  key: "sv_lines-Words-F1"
+  value: "99.98"
+}
+measure{
+  key: "sv_lines-UPOS-F1"
+  value: "94.88"
+}
+measure{
+  key: "sv_lines-XPOS-F1"
+  value: "62.88"
+}
+measure{
+  key: "sv_lines-Feats-F1"
+  value: "99.98"
+}
+measure{
+  key: "sv_lines-AllTags-F1"
+  value: "61.28"
+}
+measure{
+  key: "sv_lines-Lemmas-F1"
+  value: "99.98"
+}
+measure{
+  key: "sv_lines-UAS-F1"
+  value: "80.33"
+}
+measure{
+  key: "sv_lines-LAS-F1"
+  value: "74.89"
+}
+measure{
+  key: "sv_lines-CLAS-F1"
+  value: "70.70"
+}
+measure{
+  key: "sv_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sv_pud-Tokens-F1"
+  value: "98.39"
+}
+measure{
+  key: "sv_pud-Sentences-F1"
+  value: "94.11"
+}
+measure{
+  key: "sv_pud-Words-F1"
+  value: "98.39"
+}
+measure{
+  key: "sv_pud-UPOS-F1"
+  value: "92.54"
+}
+measure{
+  key: "sv_pud-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv_pud-Feats-F1"
+  value: "69.40"
+}
+measure{
+  key: "sv_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv_pud-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv_pud-UAS-F1"
+  value: "75.94"
+}
+measure{
+  key: "sv_pud-LAS-F1"
+  value: "70.76"
+}
+measure{
+  key: "sv_pud-CLAS-F1"
+  value: "66.36"
+}
+measure{
+  key: "sv-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sv-Tokens-F1"
+  value: "99.84"
+}
+measure{
+  key: "sv-Sentences-F1"
+  value: "94.92"
+}
+measure{
+  key: "sv-Words-F1"
+  value: "99.84"
+}
+measure{
+  key: "sv-UPOS-F1"
+  value: "96.05"
+}
+measure{
+  key: "sv-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv-Feats-F1"
+  value: "89.81"
+}
+measure{
+  key: "sv-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv-UAS-F1"
+  value: "82.31"
+}
+measure{
+  key: "sv-LAS-F1"
+  value: "77.70"
+}
+measure{
+  key: "sv-CLAS-F1"
+  value: "74.03"
+}
+measure{
+  key: "tr_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "tr_pud-Tokens-F1"
+  value: "98.19"
+}
+measure{
+  key: "tr_pud-Sentences-F1"
+  value: "93.00"
+}
+measure{
+  key: "tr_pud-Words-F1"
+  value: "94.94"
+}
+measure{
+  key: "tr_pud-UPOS-F1"
+  value: "68.80"
+}
+measure{
+  key: "tr_pud-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "tr_pud-Feats-F1"
+  value: "22.41"
+}
+measure{
+  key: "tr_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "tr_pud-Lemmas-F1"
+  value: "94.94"
+}
+measure{
+  key: "tr_pud-UAS-F1"
+  value: "52.75"
+}
+measure{
+  key: "tr_pud-LAS-F1"
+  value: "31.53"
+}
+measure{
+  key: "tr_pud-CLAS-F1"
+  value: "25.70"
+}
+measure{
+  key: "tr-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "tr-Tokens-F1"
+  value: "99.86"
+}
+measure{
+  key: "tr-Sentences-F1"
+  value: "96.32"
+}
+measure{
+  key: "tr-Words-F1"
+  value: "97.13"
+}
+measure{
+  key: "tr-UPOS-F1"
+  value: "91.30"
+}
+measure{
+  key: "tr-XPOS-F1"
+  value: "90.45"
+}
+measure{
+  key: "tr-Feats-F1"
+  value: "78.62"
+}
+measure{
+  key: "tr-AllTags-F1"
+  value: "76.60"
+}
+measure{
+  key: "tr-Lemmas-F1"
+  value: "0.06"
+}
+measure{
+  key: "tr-UAS-F1"
+  value: "61.69"
+}
+measure{
+  key: "tr-LAS-F1"
+  value: "53.08"
+}
+measure{
+  key: "tr-CLAS-F1"
+  value: "48.71"
+}
+measure{
+  key: "ug-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ug-Tokens-F1"
+  value: "96.94"
+}
+measure{
+  key: "ug-Sentences-F1"
+  value: "67.13"
+}
+measure{
+  key: "ug-Words-F1"
+  value: "96.94"
+}
+measure{
+  key: "ug-UPOS-F1"
+  value: "74.76"
+}
+measure{
+  key: "ug-XPOS-F1"
+  value: "76.87"
+}
+measure{
+  key: "ug-Feats-F1"
+  value: "96.94"
+}
+measure{
+  key: "ug-AllTags-F1"
+  value: "73.33"
+}
+measure{
+  key: "ug-Lemmas-F1"
+  value: "96.94"
+}
+measure{
+  key: "ug-UAS-F1"
+  value: "54.54"
+}
+measure{
+  key: "ug-LAS-F1"
+  value: "34.57"
+}
+measure{
+  key: "ug-CLAS-F1"
+  value: "24.03"
+}
+measure{
+  key: "uk-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "uk-Tokens-F1"
+  value: "99.82"
+}
+measure{
+  key: "uk-Sentences-F1"
+  value: "92.49"
+}
+measure{
+  key: "uk-Words-F1"
+  value: "99.82"
+}
+measure{
+  key: "uk-UPOS-F1"
+  value: "90.08"
+}
+measure{
+  key: "uk-XPOS-F1"
+  value: "8.95"
+}
+measure{
+  key: "uk-Feats-F1"
+  value: "62.26"
+}
+measure{
+  key: "uk-AllTags-F1"
+  value: "7.76"
+}
+measure{
+  key: "uk-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "uk-UAS-F1"
+  value: "73.52"
+}
+measure{
+  key: "uk-LAS-F1"
+  value: "65.17"
+}
+measure{
+  key: "uk-CLAS-F1"
+  value: "59.55"
+}
+measure{
+  key: "ur-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ur-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "ur-Sentences-F1"
+  value: "97.67"
+}
+measure{
+  key: "ur-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "ur-UPOS-F1"
+  value: "93.17"
+}
+measure{
+  key: "ur-XPOS-F1"
+  value: "91.23"
+}
+measure{
+  key: "ur-Feats-F1"
+  value: "78.21"
+}
+measure{
+  key: "ur-AllTags-F1"
+  value: "73.17"
+}
+measure{
+  key: "ur-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ur-UAS-F1"
+  value: "85.22"
+}
+measure{
+  key: "ur-LAS-F1"
+  value: "78.61"
+}
+measure{
+  key: "ur-CLAS-F1"
+  value: "70.96"
+}
+measure{
+  key: "vi-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "vi-Tokens-F1"
+  value: "83.80"
+}
+measure{
+  key: "vi-Sentences-F1"
+  value: "92.44"
+}
+measure{
+  key: "vi-Words-F1"
+  value: "83.80"
+}
+measure{
+  key: "vi-UPOS-F1"
+  value: "75.84"
+}
+measure{
+  key: "vi-XPOS-F1"
+  value: "72.94"
+}
+measure{
+  key: "vi-Feats-F1"
+  value: "83.56"
+}
+measure{
+  key: "vi-AllTags-F1"
+  value: "72.16"
+}
+measure{
+  key: "vi-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "vi-UAS-F1"
+  value: "46.16"
+}
+measure{
+  key: "vi-LAS-F1"
+  value: "40.89"
+}
+measure{
+  key: "vi-CLAS-F1"
+  value: "36.73"
+}
+measure{
+  key: "zh-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "zh-Tokens-F1"
+  value: "94.57"
+}
+measure{
+  key: "zh-Sentences-F1"
+  value: "98.50"
+}
+measure{
+  key: "zh-Words-F1"
+  value: "94.57"
+}
+measure{
+  key: "zh-UPOS-F1"
+  value: "88.36"
+}
+measure{
+  key: "zh-XPOS-F1"
+  value: "88.40"
+}
+measure{
+  key: "zh-Feats-F1"
+  value: "92.90"
+}
+measure{
+  key: "zh-AllTags-F1"
+  value: "86.07"
+}
+measure{
+  key: "zh-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "zh-UAS-F1"
+  value: "70.35"
+}
+measure{
+  key: "zh-LAS-F1"
+  value: "65.15"
+}
+measure{
+  key: "zh-CLAS-F1"
+  value: "60.06"
+}

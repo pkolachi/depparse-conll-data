@@ -1,0 +1,27 @@
+python run_posteval.py /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/HIT-SCIR/2017-05-24-16-51-58/output
+
+
+[2017-05-24 16:55:22]  dcteng's raw-to-stn.code
+[2017-05-24 16:55:22]  [2017-05-24 16:55:24]  bzheng's ./segment.py ja
+[2017-05-24 16:56:20]  dcteng's postag.code
+[2017-05-24 16:56:20]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/ja_pud.pos -i /media/data/yxwang/models/ja.infos -s list-tree -k ja --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_ja-mod.params --extra_emb ../resources/pruned_embedding/ja.ext-vec > /tmp/HIT-SCIR/2017-05-24-16-51-58/output/ja_pud.conllu
+[2017-05-24 17:02:49]  dcteng's raw-to-stn.code
+[2017-05-24 17:02:49]  [2017-05-24 17:02:50]  bzheng's ./segment.py ja
+[2017-05-24 17:03:35]  dcteng's postag.code
+[2017-05-24 17:03:35]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/ja.pos -i /media/data/yxwang/models/ja.infos -s list-tree -k ja --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_ja-mod.params --extra_emb ../resources/pruned_embedding/ja.ext-vec > /tmp/HIT-SCIR/2017-05-24-16-51-58/output/ja.conllu
+[2017-05-24 17:07:28]  dcteng's raw-to-stn.code
+[2017-05-24 17:07:28]  [2017-05-24 17:07:29]  bzheng's ./segment.py vi
+[2017-05-24 17:08:14]  dcteng's postag.code
+[2017-05-24 17:08:14]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/vi.pos -i /media/data/yxwang/models/vi.infos -s list-tree -k vi --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_vi-mod1.params --model2 /media/data/yxwang/models/parser_vi-mod2.params --extra_emb ../resources/pruned_embedding/vi.ext-vec > /tmp/HIT-SCIR/2017-05-24-16-51-58/output/vi.conllu
+[2017-05-24 17:13:04]  dcteng's raw-to-stn.code
+[2017-05-24 17:13:04]  [2017-05-24 17:13:06]  bzheng's ./segment.py zh
+[2017-05-24 17:14:09]  dcteng's postag.code
+[2017-05-24 17:14:09]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/zh.pos -i /media/data/yxwang/models/zh.infos -s list-tree -k zh --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_zh-mod1.params --model2 /media/data/yxwang/models/parser_zh-mod2.params --extra_emb ../resources/pruned_embedding/zh.ext-vec > /tmp/HIT-SCIR/2017-05-24-16-51-58/output/zh.conllu
+./tokenizer.sh ja /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja_pud.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/ja_pud.tok
+ja_pud
+./tokenizer.sh ja /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/ja.tok
+ja
+./tokenizer.sh vi /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/vi.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/vi.tok
+vi
+./tokenizer.sh zh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/zh.tok
+zh

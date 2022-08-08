@@ -1,0 +1,7 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/Mengest/2017-05-15-11-48-07/output
+├── [705K]  bxr.conllu
+├── [743K]  hsb.conllu
+├── [721K]  kmr.conllu
+└── [677K]  sme.conllu
+
+0 directories, 4 files

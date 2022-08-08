@@ -1,0 +1,26 @@
+Traceback (most recent call last):
+  File "run.py", line 174, in <module>
+    main()
+  File "run.py", line 169, in main
+    lang_name, model_filename, batchsize=args.batchsize)
+  File "run.py", line 83, in run
+    model, vocab_files = load_trained_model(model_filename, lang_name)
+  File "run.py", line 76, in load_trained_model
+    serializers.load_hdf5(model_file_path, model)
+  File "/home/NAIST-SATO/.pyenv/versions/anaconda2-4.1.1/lib/python2.7/site-packages/chainer-1.23.0-py2.7.egg/chainer/serializers/hdf5.py", line 143, in load_hdf5
+    d.load(obj)
+  File "/home/NAIST-SATO/.pyenv/versions/anaconda2-4.1.1/lib/python2.7/site-packages/chainer-1.23.0-py2.7.egg/chainer/serializer.py", line 85, in load
+    obj.serialize(self)
+  File "/home/NAIST-SATO/.pyenv/versions/anaconda2-4.1.1/lib/python2.7/site-packages/chainer-1.23.0-py2.7.egg/chainer/link.py", line 691, in serialize
+    d[name].serialize(serializer[name])
+  File "/home/NAIST-SATO/.pyenv/versions/anaconda2-4.1.1/lib/python2.7/site-packages/chainer-1.23.0-py2.7.egg/chainer/link.py", line 691, in serialize
+    d[name].serialize(serializer[name])
+  File "/home/NAIST-SATO/.pyenv/versions/anaconda2-4.1.1/lib/python2.7/site-packages/chainer-1.23.0-py2.7.egg/chainer/link.py", line 482, in serialize
+    serializer(name, d[name].data)
+  File "/home/NAIST-SATO/.pyenv/versions/anaconda2-4.1.1/lib/python2.7/site-packages/chainer-1.23.0-py2.7.egg/chainer/serializers/hdf5.py", line 119, in __call__
+    dataset.read_direct(value)
+  File "/home/NAIST-SATO/.pyenv/versions/anaconda2-4.1.1/lib/python2.7/site-packages/h5py/_hl/dataset.py", line 640, in read_direct
+    for mspace in dest_sel.broadcast(source_sel.mshape):
+  File "/home/NAIST-SATO/.pyenv/versions/anaconda2-4.1.1/lib/python2.7/site-packages/h5py/_hl/selections.py", line 297, in broadcast
+    raise TypeError("Can't broadcast %s -> %s" % (target_shape, count))
+TypeError: Can't broadcast (9875, 100) -> (13244, 100)

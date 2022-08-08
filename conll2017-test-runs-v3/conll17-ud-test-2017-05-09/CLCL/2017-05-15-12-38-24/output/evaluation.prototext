@@ -1,0 +1,764 @@
+measure{
+  key: "total-Tokens-F1"
+  value: "11.09"
+}
+measure{
+  key: "total-Sentences-F1"
+  value: "8.89"
+}
+measure{
+  key: "total-Words-F1"
+  value: "10.87"
+}
+measure{
+  key: "total-UPOS-F1"
+  value: "10.10"
+}
+measure{
+  key: "total-XPOS-F1"
+  value: "10.02"
+}
+measure{
+  key: "total-Feats-F1"
+  value: "9.77"
+}
+measure{
+  key: "total-AllTags-F1"
+  value: "9.41"
+}
+measure{
+  key: "total-Lemmas-F1"
+  value: "10.03"
+}
+measure{
+  key: "total-UAS-F1"
+  value: "6.59"
+}
+measure{
+  key: "total-LAS-F1"
+  value: "5.80"
+}
+measure{
+  key: "total-CLAS-F1"
+  value: "5.19"
+}
+measure{
+  key: "ar_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ar-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "bg-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "bxr-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ca-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "cs_cac-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "cs_cltt-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "cs_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "cs-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "cu-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "da-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "de_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "de-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "el-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "en_lines-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "en_partut-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "en_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "en-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "es_ancora-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "es_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "es-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "et-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "eu-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fa-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fi_ftb-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fi_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fi-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fr_partut-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fr_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fr_sequoia-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "fr_sequoia-Tokens-F1"
+  value: "99.77"
+}
+measure{
+  key: "fr_sequoia-Sentences-F1"
+  value: "83.75"
+}
+measure{
+  key: "fr_sequoia-Words-F1"
+  value: "99.06"
+}
+measure{
+  key: "fr_sequoia-UPOS-F1"
+  value: "95.40"
+}
+measure{
+  key: "fr_sequoia-XPOS-F1"
+  value: "99.06"
+}
+measure{
+  key: "fr_sequoia-Feats-F1"
+  value: "94.28"
+}
+measure{
+  key: "fr_sequoia-AllTags-F1"
+  value: "93.14"
+}
+measure{
+  key: "fr_sequoia-Lemmas-F1"
+  value: "96.65"
+}
+measure{
+  key: "fr_sequoia-UAS-F1"
+  value: "79.99"
+}
+measure{
+  key: "fr_sequoia-LAS-F1"
+  value: "76.36"
+}
+measure{
+  key: "fr_sequoia-CLAS-F1"
+  value: "70.09"
+}
+measure{
+  key: "fr-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "fr-Tokens-F1"
+  value: "99.75"
+}
+measure{
+  key: "fr-Sentences-F1"
+  value: "93.59"
+}
+measure{
+  key: "fr-Words-F1"
+  value: "98.87"
+}
+measure{
+  key: "fr-UPOS-F1"
+  value: "95.33"
+}
+measure{
+  key: "fr-XPOS-F1"
+  value: "98.87"
+}
+measure{
+  key: "fr-Feats-F1"
+  value: "95.39"
+}
+measure{
+  key: "fr-AllTags-F1"
+  value: "94.15"
+}
+measure{
+  key: "fr-Lemmas-F1"
+  value: "96.44"
+}
+measure{
+  key: "fr-UAS-F1"
+  value: "83.41"
+}
+measure{
+  key: "fr-LAS-F1"
+  value: "79.85"
+}
+measure{
+  key: "fr-CLAS-F1"
+  value: "75.45"
+}
+measure{
+  key: "ga-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ga-Tokens-F1"
+  value: "99.29"
+}
+measure{
+  key: "ga-Sentences-F1"
+  value: "95.81"
+}
+measure{
+  key: "ga-Words-F1"
+  value: "99.29"
+}
+measure{
+  key: "ga-UPOS-F1"
+  value: "88.17"
+}
+measure{
+  key: "ga-XPOS-F1"
+  value: "87.27"
+}
+measure{
+  key: "ga-Feats-F1"
+  value: "75.53"
+}
+measure{
+  key: "ga-AllTags-F1"
+  value: "72.84"
+}
+measure{
+  key: "ga-Lemmas-F1"
+  value: "85.21"
+}
+measure{
+  key: "ga-UAS-F1"
+  value: "22.43"
+}
+measure{
+  key: "ga-LAS-F1"
+  value: "4.30"
+}
+measure{
+  key: "ga-CLAS-F1"
+  value: "2.66"
+}
+measure{
+  key: "gl_treegal-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "gl_treegal-Tokens-F1"
+  value: "99.59"
+}
+measure{
+  key: "gl_treegal-Sentences-F1"
+  value: "81.63"
+}
+measure{
+  key: "gl_treegal-Words-F1"
+  value: "98.62"
+}
+measure{
+  key: "gl_treegal-UPOS-F1"
+  value: "90.69"
+}
+measure{
+  key: "gl_treegal-XPOS-F1"
+  value: "87.22"
+}
+measure{
+  key: "gl_treegal-Feats-F1"
+  value: "89.25"
+}
+measure{
+  key: "gl_treegal-AllTags-F1"
+  value: "86.30"
+}
+measure{
+  key: "gl_treegal-Lemmas-F1"
+  value: "92.30"
+}
+measure{
+  key: "gl_treegal-UAS-F1"
+  value: "13.83"
+}
+measure{
+  key: "gl_treegal-LAS-F1"
+  value: "2.76"
+}
+measure{
+  key: "gl_treegal-CLAS-F1"
+  value: "2.06"
+}
+measure{
+  key: "gl-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "gl-Tokens-F1"
+  value: "99.92"
+}
+measure{
+  key: "gl-Sentences-F1"
+  value: "96.15"
+}
+measure{
+  key: "gl-Words-F1"
+  value: "99.92"
+}
+measure{
+  key: "gl-UPOS-F1"
+  value: "96.84"
+}
+measure{
+  key: "gl-XPOS-F1"
+  value: "96.23"
+}
+measure{
+  key: "gl-Feats-F1"
+  value: "99.69"
+}
+measure{
+  key: "gl-AllTags-F1"
+  value: "95.87"
+}
+measure{
+  key: "gl-Lemmas-F1"
+  value: "96.72"
+}
+measure{
+  key: "gl-UAS-F1"
+  value: "79.53"
+}
+measure{
+  key: "gl-LAS-F1"
+  value: "75.93"
+}
+measure{
+  key: "gl-CLAS-F1"
+  value: "68.36"
+}
+measure{
+  key: "got-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "got-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "got-Sentences-F1"
+  value: "27.85"
+}
+measure{
+  key: "got-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "got-UPOS-F1"
+  value: "93.55"
+}
+measure{
+  key: "got-XPOS-F1"
+  value: "94.29"
+}
+measure{
+  key: "got-Feats-F1"
+  value: "86.26"
+}
+measure{
+  key: "got-AllTags-F1"
+  value: "84.23"
+}
+measure{
+  key: "got-Lemmas-F1"
+  value: "92.05"
+}
+measure{
+  key: "got-UAS-F1"
+  value: "65.00"
+}
+measure{
+  key: "got-LAS-F1"
+  value: "57.72"
+}
+measure{
+  key: "got-CLAS-F1"
+  value: "53.85"
+}
+measure{
+  key: "grc_proiel-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "grc_proiel-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "grc_proiel-Sentences-F1"
+  value: "43.11"
+}
+measure{
+  key: "grc_proiel-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "grc_proiel-UPOS-F1"
+  value: "95.72"
+}
+measure{
+  key: "grc_proiel-XPOS-F1"
+  value: "96.00"
+}
+measure{
+  key: "grc_proiel-Feats-F1"
+  value: "88.49"
+}
+measure{
+  key: "grc_proiel-AllTags-F1"
+  value: "86.98"
+}
+measure{
+  key: "grc_proiel-Lemmas-F1"
+  value: "92.25"
+}
+measure{
+  key: "grc_proiel-UAS-F1"
+  value: "67.79"
+}
+measure{
+  key: "grc_proiel-LAS-F1"
+  value: "62.83"
+}
+measure{
+  key: "grc_proiel-CLAS-F1"
+  value: "54.38"
+}
+measure{
+  key: "grc-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "grc-Tokens-F1"
+  value: "99.95"
+}
+measure{
+  key: "grc-Sentences-F1"
+  value: "98.43"
+}
+measure{
+  key: "grc-Words-F1"
+  value: "99.95"
+}
+measure{
+  key: "grc-UPOS-F1"
+  value: "82.13"
+}
+measure{
+  key: "grc-XPOS-F1"
+  value: "72.05"
+}
+measure{
+  key: "grc-Feats-F1"
+  value: "85.71"
+}
+measure{
+  key: "grc-AllTags-F1"
+  value: "72.04"
+}
+measure{
+  key: "grc-Lemmas-F1"
+  value: "81.91"
+}
+measure{
+  key: "grc-UAS-F1"
+  value: "61.63"
+}
+measure{
+  key: "grc-LAS-F1"
+  value: "54.56"
+}
+measure{
+  key: "grc-CLAS-F1"
+  value: "47.68"
+}
+measure{
+  key: "he-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "he-Tokens-F1"
+  value: "99.94"
+}
+measure{
+  key: "he-Sentences-F1"
+  value: "99.39"
+}
+measure{
+  key: "he-Words-F1"
+  value: "84.82"
+}
+measure{
+  key: "he-UPOS-F1"
+  value: "80.48"
+}
+measure{
+  key: "he-XPOS-F1"
+  value: "80.48"
+}
+measure{
+  key: "he-Feats-F1"
+  value: "77.16"
+}
+measure{
+  key: "he-AllTags-F1"
+  value: "76.34"
+}
+measure{
+  key: "he-Lemmas-F1"
+  value: "78.91"
+}
+measure{
+  key: "he-UAS-F1"
+  value: "59.81"
+}
+measure{
+  key: "he-LAS-F1"
+  value: "55.36"
+}
+measure{
+  key: "he-CLAS-F1"
+  value: "45.96"
+}
+measure{
+  key: "hi_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "hi-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "hr-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "hsb-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "hu-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "id-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "it_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "it-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ja_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ja-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "kk-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "kmr-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ko-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "la_ittb-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "la_proiel-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "la-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "lv-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "nl_lassysmall-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "nl-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "no_bokmaal-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "no_nynorsk-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "pl-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "pt_br-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "pt_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "pt-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ro-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ru_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ru_syntagrus-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ru-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sk-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sl_sst-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sl-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sme-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sv_lines-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sv_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sv-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "tr_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "tr-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ug-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "uk-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ur-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "vi-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "zh-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}

@@ -1,0 +1,7 @@
+/bin/bash ./run_pipe.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 none /tmp/METU/2017-05-12-14-59-32/output  METU-2017-05-12-14-59-32
+
+
+INPUT DIR  : /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09
+OUTPUT DIR : /tmp/METU/2017-05-12-14-59-32/output
+
+Time: Fr 12. Mai 15:01:50 CEST 2017

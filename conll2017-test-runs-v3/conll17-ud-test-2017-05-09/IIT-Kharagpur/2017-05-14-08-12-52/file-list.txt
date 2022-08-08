@@ -1,0 +1,4 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/IIT-Kharagpur/2017-05-14-07-39-57/../2017-05-14-08-12-52/output
+└── [ 52K]  evaluation.prototext
+
+0 directories, 1 file

@@ -1,0 +1,5 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/LIMSI-LIPN/2017-05-13-16-28-36/../2017-05-14-03-47-23/output
+├── [ 40K]  evaluation.bin
+└── [ 52K]  evaluation.prototext
+
+0 directories, 2 files

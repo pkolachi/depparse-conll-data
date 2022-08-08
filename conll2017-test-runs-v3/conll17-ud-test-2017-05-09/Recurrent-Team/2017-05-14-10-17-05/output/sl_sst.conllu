@@ -1,0 +1,13 @@
+#0
+1
+2
+3
+1	ja	ja	PART	Q	_	3	cop	_	_
+2	[name:personal]	[name:personal]	PROPN	X	_	3	advmod	_	_
+3	[name:personal]	[name:personal]	PROPN	X	_	3	nsubj	_	_
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	nummod	_	_
+5	tako	tako	ADV	Rgp	Degree=Pos	9	advmod	_	_
+6	lepa	lep	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	flat:name	_	_
+7	ej	ej	INTJ	I	_	6	csubj	_	_
+8	tako	tako	ADV	Rgp	Degree=Pos	12	nummod	_	_
+9	lepa	lep	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	obj	_	_

@@ -1,0 +1,2 @@
+92.08user 29.04system 2:03.15elapsed 98%CPU (0avgtext+0avgdata 476708maxresident)k
+0inputs+128outputs (0major+348779minor)pagefaults 0swaps

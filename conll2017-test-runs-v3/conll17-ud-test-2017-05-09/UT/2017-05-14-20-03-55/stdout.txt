@@ -1,0 +1,346 @@
+/home/UT/system/run.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/UT/2017-05-14-20-03-55/output
+
+
+Language: bxr-0
+Model: UD_Buryat
+start surprise language script
+Surprise language script done
+Language: en-lines
+Model: UD_English
+Start udpipe
+UDPipe done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 26.4866940975 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_English/embedding/wiki.2en.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+908 sentences read.
+Finished predicting test 38.608383894
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/en_lines.conllu.voting
+double root 1 10
+# sent_id = 29
+double root 1 9
+# sent_id = 73
+double root 9 11
+# sent_id = 113
+double root 1 3
+# sent_id = 118
+double root 2 7
+# sent_id = 128
+double root 3 8
+# sent_id = 145
+double root 10 14
+# sent_id = 174
+double root 3 18
+# sent_id = 229
+double root 2 8
+# sent_id = 307
+double root 2 16
+# sent_id = 312
+double root 2 8
+# sent_id = 349
+double root 14 15
+# sent_id = 367
+double root 3 7
+# sent_id = 374
+double root 4 14
+# sent_id = 381
+double root 4 11
+# sent_id = 416
+double root 5 24
+# sent_id = 440
+double root 2 22
+# sent_id = 446
+double root 7 9
+# sent_id = 451
+double root 3 4
+# sent_id = 455
+double root 2 6
+# sent_id = 489
+double root 2 9
+# sent_id = 518
+double root 10 17
+# sent_id = 597
+double root 5 13
+# sent_id = 610
+double root 4 29
+# sent_id = 666
+double root 14 23
+# sent_id = 673
+double root 7 8
+double root 7 11
+# sent_id = 679
+double root 1 3
+# sent_id = 691
+double root 4 8
+# sent_id = 704
+double root 6 14
+# sent_id = 748
+double root 12 17
+# sent_id = 751
+double root 11 13
+# sent_id = 784
+double root 3 16
+# sent_id = 796
+double root 4 8
+# sent_id = 808
+double root 3 17
+# sent_id = 814
+double root 1 14
+# sent_id = 836
+double root 7 10
+# sent_id = 842
+double root 11 13
+# sent_id = 847
+double root 2 8
+# sent_id = 853
+double root 1 9
+# sent_id = 859
+double root 1 13
+# sent_id = 897
+Multiple roots removed
+Language: en-partut
+Model: UD_English
+Start udpipe
+UDPipe done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 23.716999054 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_English/embedding/wiki.2en.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+503 sentences read.
+Finished predicting test 29.6155760288
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/en_partut.conllu.voting
+double root 22 31
+# sent_id = 21
+double root 8 18
+# sent_id = 23
+double root 7 21
+# sent_id = 34
+double root 8 13
+# sent_id = 35
+double root 2 30
+# sent_id = 36
+double root 1 3
+# sent_id = 39
+double root 3 4
+double root 3 7
+# sent_id = 40
+double root 3 5
+# sent_id = 48
+double root 9 11
+# sent_id = 51
+double root 3 30
+# sent_id = 101
+double root 7 9
+# sent_id = 140
+double root 3 27
+# sent_id = 155
+double root 1 11
+# sent_id = 164
+double root 1 6
+# sent_id = 186
+double root 1 7
+# sent_id = 194
+double root 8 9
+# sent_id = 222
+double root 6 7
+# sent_id = 230
+double root 6 31
+# sent_id = 231
+double root 1 12
+# sent_id = 235
+double root 1 12
+# sent_id = 274
+double root 5 8
+# sent_id = 284
+double root 8 12
+# sent_id = 291
+double root 3 22
+# sent_id = 318
+double root 4 20
+# sent_id = 319
+double root 9 11
+# sent_id = 388
+double root 7 18
+# sent_id = 397
+double root 1 3
+# sent_id = 418
+double root 5 43
+# sent_id = 435
+double root 2 3
+# sent_id = 495
+double root 5 15
+# sent_id = 497
+double root 11 19
+# sent_id = 502
+Multiple roots removed
+Language: en-pud
+Model: UD_English
+Start udpipe
+UDPipe done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 35.0207140446 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_English/embedding/wiki.2en.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1018 sentences read.
+Finished predicting test 57.993737936
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/en_pud.conllu.voting
+double root 9 29
+# newdoc
+double root 5 12
+# newpar
+double root 4 22
+# sent_id = 44
+double root 7 14
+# newpar
+double root 18 29
+# sent_id = 50
+double root 6 14
+# sent_id = 57
+double root 1 26
+# newpar
+double root 1 13
+# newpar
+double root 8 29
+# newpar
+double root 1 3
+# sent_id = 114
+double root 1 32
+# newpar
+double root 1 13
+# newpar
+double root 4 6
+# sent_id = 138
+double root 11 16
+# newpar
+double root 3 14
+double root 3 18
+# sent_id = 149
+double root 3 11
+# sent_id = 154
+double root 5 8
+# sent_id = 202
+double root 6 7
+# newpar
+double root 13 16
+# sent_id = 228
+double root 5 29
+# sent_id = 229
+double root 1 9
+# sent_id = 237
+double root 3 7
+# sent_id = 245
+double root 12 18
+# sent_id = 317
+double root 8 16
+# newpar
+double root 4 12
+# sent_id = 354
+double root 1 14
+# newpar
+double root 2 8
+# newpar
+double root 2 18
+# newpar
+double root 1 19
+# newpar
+double root 4 9
+# sent_id = 475
+double root 10 25
+# sent_id = 479
+double root 5 16
+# sent_id = 483
+double root 4 24
+# sent_id = 517
+double root 4 5
+# newpar
+double root 7 13
+# sent_id = 580
+double root 5 12
+# sent_id = 615
+double root 11 16
+# sent_id = 620
+double root 5 22
+# newpar
+double root 7 12
+# sent_id = 683
+double root 2 12
+# sent_id = 688
+double root 5 18
+# newpar
+double root 6 8
+# sent_id = 708
+double root 5 20
+# sent_id = 717
+double root 7 34
+# sent_id = 826
+double root 6 13
+# newpar
+double root 2 10
+# sent_id = 851
+double root 2 8
+# sent_id = 855
+double root 4 6
+# sent_id = 1002
+double root 7 14
+# sent_id = 1010
+Multiple roots removed
+Language: en-0
+Model: UD_English
+Start udpipe
+UDPipe done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 16.1144239902 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_English/embedding/wiki.2en.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+317 sentences read.
+Finished predicting test 14.9225928783
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/en.conllu.voting
+Multiple roots removed
+Language: fa-0
+Model: UD_Persian
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 34.6129488945 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)

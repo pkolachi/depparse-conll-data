@@ -1,0 +1,45 @@
+#0
+1
+2
+3
+1	كتبت	كَتَب	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	3	punct	_	_
+2	كوري	كوري	X	U---------	_	1	obj	_	_
+3	شولمان	شولمان	X	U---------	_	5	amod	_	SpaceAfter=No
+4	,	,	PUNCT	G---------	_	5	nmod	_	_
+5	المساعدة	مُسَاعَدَة	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	9	case	_	_
+6	الخاصة	خَاصّ	ADJ	A-----FS4D	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	_
+7	لأوباما	لاوباما	X	U---------	_	_	_	_	_
+8	في	فِي	ADP	P---------	AdpType=Prep	9	acl	_	_
+9	تدوينة	تدوينة	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	10	nsubj	_	_
+10-11	نشرتها	_	_	_	_	10	obj	_	_
+10	نشرت	نَشَر	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	12	nmod	_	_
+11	ها	هُوَ	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	punct	_	_
+12	يوم	يَوم	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	34	punct	_	_
+13	الإثنين	اِثنَان	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	34	cc	_	SpaceAfter=No
+14	:	:	PUNCT	G---------	_	34	nsubj	_	_
+15	"	"	PUNCT	G---------	_	19	case	_	SpaceAfter=No
+16	فيما	فِيمَا	CCONJ	C---------	_	17	nmod	_	_
+17	الكثير	كَثِير	ADJ	A-----MS4D	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	19	nmod	_	_
+18	من	مِن	ADP	P---------	AdpType=Prep	19	amod	_	_
+19	عمليات	عَمَلِيَّة	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	17	nmod	_	_
+20	الانتقال	اِنتِقَال	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	22	amod	_	_
+21	الرقمي	رَقَمِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	25	case	_	_
+22	غير	غَير	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	17	nmod	_	_
+23	مسبوقة	مَسبُوق	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	25	amod	_	_
+24	في	فِي	ADP	P---------	AdpType=Prep	25	punct	_	_
+25	الولايات	وِلَايَة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	_	_	_	_
+26	المتحدة	مُتَّحِد	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	34	advmod:emph	_	SpaceAfter=No
+27	,	,	PUNCT	G---------	_	34	advmod:emph	_	_
+28-29	فإن	_	_	_	_	29	nsubj	_	_
+28	ف	فَ	CCONJ	C---------	_	30	amod	_	_
+29	إن	إِنَّ	PART	F---------	_	_	_	_	_
+30	الانتقال	اِنتِقَال	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	33	case	_	_
+31	السلمي	سِلمِيّ	ADJ	A-----MS4D	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	30	nmod	_	_
+32-33	للسلطة	_	_	_	_	1	conj	_	_
+32	ل	لِ	ADP	P---------	AdpType=Prep	_	_	_	_
+33	السلطة	سُلطَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	38	mark	_	_
+34	سبق	سَبَق	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	38	nsubj	_	_
+35-36	له	_	_	_	_	38	advmod:emph	_	_
+35	ل	لِ	ADP	P---------	AdpType=Prep	34	csubj	_	_
+36	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	38	punct	_	_
+37	أن	أَن	CCONJ	C---------	_	38	punct	_	_

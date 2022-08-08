@@ -1,0 +1,5 @@
+python test.py /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/ECNU/2017-05-12-15-04-32/output
+
+
+/usr/bin/python
+/usr/bin/python

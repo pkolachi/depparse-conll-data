@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "afterParsing.py", line 18, in <module>
+    print cf[0]+"\t"+cf[1]+"\t"+cf[2]+"\t"+cf[3]+"\t"+cf[4]+"\t"+cf[5]+"\t"+pf[6]+"\t"+pf[7]+"\t"+cf[8]+"\t"+cf[9].rstrip();
+IndexError: list index out of range

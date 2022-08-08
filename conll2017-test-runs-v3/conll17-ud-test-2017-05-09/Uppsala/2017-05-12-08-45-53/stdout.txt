@@ -1,0 +1,1123 @@
+sh /home/Uppsala/bash_script.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/Uppsala/2017-05-12-08-45-53/output
+
+
+Encoding:  utf-8
+Joint sentence segmentation...
+Defining transducer...
+Initialization....
+Bucket 1, 58.576063 seconds
+Done. Time consumed: 80 seconds
+Loading weights....
+Loaded.
+Loading transducer...
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Defining transducer...
+Initialization....
+Bucket 1, 57.760904 seconds
+Done. Time consumed: 78 seconds
+Loading weights....
+Loaded.
+Loading transducer...
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.844796 seconds
+Done. Time consumed: 55 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.879068 seconds
+Done. Time consumed: 55 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.673244 seconds
+Done. Time consumed: 55 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.591546 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.006244 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.678948 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.481949 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.636104 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.282839 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.342803 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.250327 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.123111 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.422906 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.534609 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 57.957370 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.505756 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.716970 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.338697 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.324998 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.482310 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.946951 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.621450 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.542454 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.260598 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.916417 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.488487 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.268480 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.552119 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.675703 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.677637 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.871587 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.345537 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.665590 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.654292 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 57.303730 seconds
+Done. Time consumed: 57 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Defining transducer...
+Initialization....
+Bucket 1, 56.582338 seconds
+Done. Time consumed: 71 seconds
+Loading weights....
+Loaded.
+Loading transducer...
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.933371 seconds
+Done. Time consumed: 57 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.579328 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.453999 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 57.220268 seconds
+Done. Time consumed: 57 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.537397 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.370629 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.436967 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.571348 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.751809 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.170385 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.930867 seconds
+Done. Time consumed: 55 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.727305 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.532623 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.906118 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.077837 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.931260 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 57.104499 seconds
+Done. Time consumed: 57 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.968310 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.945155 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.976313 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.831039 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 57.090376 seconds
+Done. Time consumed: 57 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.208680 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.789410 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.775895 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.323512 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.659827 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.035534 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.340262 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.060175 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.690631 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.685626 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.476777 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.370995 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.418741 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.071173 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.397954 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.609424 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.291818 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 60.283189 seconds
+Done. Time consumed: 60 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.726203 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.738495 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 57.450589 seconds
+Done. Time consumed: 57 seconds
+Loading weights....
+Loaded.
+Done.
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1019 sentences read.
+Time: 45s
+Finished predicting test 45.4904999733
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+828 sentences read.
+Time: 65s
+Finished predicting test 64.7620999813
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1112 sentences read.
+Time: 36s
+Finished predicting test 35.7703249454
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1849 sentences read.
+Time: 1.1e+02s
+Finished predicting test 113.94120717
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+627 sentences read.
+Time: 23s
+Finished predicting test 23.2234699726
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+302 sentences read.
+Time: 21s
+Finished predicting test 20.7387270927
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1028 sentences read.
+Time: 38s
+Finished predicting test 38.2190349102
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+10192 sentences read.
+Time: 3.5e+02s
+Finished predicting test 347.667026997
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1090 sentences read.
+Time: 26s
+Finished predicting test 25.7104039192
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+542 sentences read.
+Time: 20s
+Finished predicting test 19.6795010567
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1095 sentences read.
+Time: 44s
+Finished predicting test 44.3554029465
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+892 sentences read.
+Time: 33s
+Finished predicting test 33.3499429226
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+438 sentences read.
+Time: 23s
+Finished predicting test 22.8840479851
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+910 sentences read.
+Time: 30s
+Finished predicting test 29.7670478821
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+500 sentences read.
+Time: 23s
+Finished predicting test 22.5115427971
+Using external embedding: None
+Failing on en_pud. Error: Test file not found 
+
+Using external embedding: None
+Failing on en. Error: Test file not found 
+
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1726 sentences read.
+Time: 1e+02s
+Finished predicting test 102.588093996
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1032 sentences read.
+Time: 46s
+Finished predicting test 46.4169309139
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+417 sentences read.
+Time: 25s
+Finished predicting test 24.8678338528
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+927 sentences read.
+Time: 24s
+Finished predicting test 24.1327078342
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1801 sentences read.
+Time: 50s
+Finished predicting test 50.3080739975
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+601 sentences read.
+Time: 34s
+Finished predicting test 33.9544291496
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1766 sentences read.
+Time: 36s
+Finished predicting test 36.4764671326
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1054 sentences read.
+Time: 34s
+Finished predicting test 34.150203228
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1504 sentences read.
+Time: 44s
+Finished predicting test 43.857986927
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+401 sentences read.
+Time: 20s
+Finished predicting test 20.0598840714
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1038 sentences read.
+Time: 49s
+Finished predicting test 49.429913044
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+433 sentences read.
+Time: 19s
+Finished predicting test 19.1127178669
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+413 sentences read.
+Time: 20s
+Finished predicting test 20.247492075
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+453 sentences read.
+Time: 20s
+Finished predicting test 20.2068648338
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+398 sentences read.
+Time: 20s
+Finished predicting test 19.933065176
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+869 sentences read.
+Time: 56s
+Finished predicting test 55.5607509613
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+935 sentences read.
+Time: 22s
+Finished predicting test 22.2031559944
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+839 sentences read.
+Time: 34s
+Finished predicting test 33.9245421886
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1300 sentences read.
+Time: 51s
+Finished predicting test 50.8975770473
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+492 sentences read.
+Time: 23s
+Finished predicting test 23.2390389442
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1018 sentences read.
+Time: 56s
+Finished predicting test 56.3320910931
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1676 sentences read.
+Time: 86s
+Finished predicting test 85.7452700138
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+599 sentences read.
+Time: 28s
+Finished predicting test 27.7234530449
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+452 sentences read.
+Time: 22s
+Finished predicting test 21.509428978
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+546 sentences read.
+Time: 24s
+Finished predicting test 23.867305994
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1041 sentences read.
+Time: 46s
+Finished predicting test 46.0505259037
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+483 sentences read.
+Time: 20s
+Finished predicting test 20.2244222164
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1006 sentences read.
+Time: 50s
+Finished predicting test 50.2413809299
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+545 sentences read.
+Time: 25s
+Finished predicting test 24.7871198654
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+957 sentences read.
+Time: 23s
+Finished predicting test 23.4763419628
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+753 sentences read.
+Time: 20s
+Finished predicting test 20.2052161694
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+998 sentences read.
+Time: 27s
+Finished predicting test 26.7295770645
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+946 sentences read.
+Time: 22s
+Finished predicting test 21.7423760891
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+959 sentences read.
+Time: 20s
+Finished predicting test 20.2626490593
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+754 sentences read.
+Time: 21s
+Finished predicting test 21.2860770226
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+611 sentences read.
+Time: 24s
+Finished predicting test 23.9711799622
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1941 sentences read.
+Time: 62s
+Finished predicting test 62.1449248791
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1501 sentences read.
+Time: 49s
+Finished predicting test 49.2245049477
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1104 sentences read.
+Time: 21s
+Finished predicting test 20.9854550362
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1202 sentences read.
+Time: 61s
+Finished predicting test 61.1597321033
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1041 sentences read.
+Time: 46s
+Finished predicting test 46.0659489632
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+464 sentences read.
+Time: 20s
+Finished predicting test 19.6989748478
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+727 sentences read.
+Time: 31s
+Finished predicting test 31.1532790661
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1009 sentences read.
+Time: 45s
+Finished predicting test 44.5780899525
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+6477 sentences read.
+Time: 2.8e+02s
+Finished predicting test 277.172359943
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+595 sentences read.
+Time: 26s
+Finished predicting test 26.2346470356
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1030 sentences read.
+Time: 27s
+Finished predicting test 26.7212049961
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+652 sentences read.
+Time: 21s
+Finished predicting test 20.8986251354
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+795 sentences read.
+Time: 28s
+Finished predicting test 28.3324379921
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+911 sentences read.
+Time: 30s
+Finished predicting test 30.3569629192
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1108 sentences read.
+Time: 37s
+Finished predicting test 36.8553721905
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1222 sentences read.
+Time: 38s
+Finished predicting test 37.769534111
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1057 sentences read.
+Time: 37s
+Finished predicting test 37.2958080769
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+992 sentences read.
+Time: 20s
+Finished predicting test 19.959307909
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+843 sentences read.
+Time: 29s
+Finished predicting test 28.5165150166
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+534 sentences read.
+Time: 32s
+Finished predicting test 32.4856190681
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+838 sentences read.
+Time: 22s
+Finished predicting test 22.3533899784
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+502 sentences read.
+Time: 24s
+Finished predicting test 23.529487133
+Using external embedding: None
+0 dropped non-projective sentences.
+898 sentences read.
+Time: 21s
+Using external embedding: None
+0 dropped non-projective sentences.
+647 sentences read.
+Time: 19s
+Using external embedding: None
+0 dropped non-projective sentences.
+1005 sentences read.
+Time: 21s
+Using external embedding: None
+0 dropped non-projective sentences.
+754 sentences read.
+Time: 17s
+Using external embedding: None
+0 dropped non-projective sentences.
+867 sentences read.
+Time: 19s
+Using external embedding: None
+0 dropped non-projective sentences.
+822 sentences read.
+Time: 22s

@@ -1,0 +1,40 @@
+Loading UDPipe model: done.
+Warning: Unknown character: K
+Warning: Unknown character: i
+Warning: Unknown character: '
+Warning: Unknown character: F
+[dynet] random seed: 1942793330
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1090998339
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: N
+Warning: Unknown character: E
+Warning: Unknown character: F
+Warning: Unknown character: R
+Warning: Unknown character: P
+Warning: Unknown character: H
+Warning: Unknown character: ❊
+[dynet] random seed: 2453618818
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2218308330
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: Cannot load UDPipe model 'bxr.kk.embedding.udpipe'!
+Loading UDPipe model: done.
+Warning: Unknown character: 
+Warning: Unknown character: ª
+[dynet] random seed: 1204040106
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 349132985
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.

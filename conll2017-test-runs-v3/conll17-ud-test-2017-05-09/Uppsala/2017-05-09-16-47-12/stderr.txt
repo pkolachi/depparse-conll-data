@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "json_parser.py", line 30, in <module>
+    parser_include_file.write(j_i['name'])
+KeyError: 'name'
+[dynet] random seed: 3445687328
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "src/parser.py", line 214, in <module>
+    om = OptionsManager(options)
+  File "/home/Uppsala/bist-parser/uuparser/bist-parser/barchybrid/src/options_manager.py", line 43, in __init__
+    options.metadataF)
+  File "/home/Uppsala/bist-parser/uuparser/bist-parser/barchybrid/src/utils.py", line 182, in conll_dir_to_list
+    for treebank_info in treebank_metadata if treebank_info['name'] in languages]
+KeyError: 'name'

@@ -1,0 +1,2 @@
+16.38user 18.08system 0:36.04elapsed 95%CPU (0avgtext+0avgdata 245408maxresident)k
+0inputs+48outputs (0major+172680minor)pagefaults 0swaps

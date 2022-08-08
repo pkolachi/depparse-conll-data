@@ -1,0 +1,496 @@
+[dynet] random seed: 1098449924
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 01:48:09 apredict:30] Using external embedding: /var/www/abird/data/emb/ar.skip.forms.50.vectors
+[I 170513 01:48:10 abird_basic:94] Load external vec. dimensions 50
+[I 170513 01:48:19 apredict:48] Finished Load 9.0844s
+[I 170513 01:51:21 utils:153] 597 sentences read.
+[I 170513 01:51:21 utils:154] 0 dropped non-projective sentences.
+[I 170513 01:51:21 apredict:60] Finished Predict 182.13962602615356
+[dynet] random seed: 301833761
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 01:51:22 apredict:30] Using external embedding: /var/www/abird/data/emb/bg.skip.forms.50.vectors
+[I 170513 01:51:22 abird_basic:94] Load external vec. dimensions 50
+[I 170513 01:51:32 apredict:48] Finished Load 10.1855s
+[I 170513 01:53:20 utils:153] 1088 sentences read.
+[I 170513 01:53:20 utils:154] 0 dropped non-projective sentences.
+[I 170513 01:53:20 apredict:60] Finished Predict 107.64304089546204
+[dynet] random seed: 1246417285
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 01:53:21 apredict:30] Using external embedding: /var/www/abird/data/emb/ca.skip.forms.50.vectors
+[I 170513 01:53:21 abird_basic:94] Load external vec. dimensions 50
+[I 170513 01:53:31 apredict:48] Finished Load 9.2604s
+[I 170513 02:00:07 utils:153] 1851 sentences read.
+[I 170513 02:00:07 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:00:07 apredict:60] Finished Predict 396.5396625995636
+[dynet] random seed: 4170728266
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:00:08 apredict:30] Using external embedding: /var/www/abird/data/emb/cs_cac.skip.forms.50.vectors
+[I 170513 02:00:09 abird_basic:94] Load external vec. dimensions 50
+terminate called after throwing an instance of 'boost::archive::archive_exception'
+  what():  input stream error
+Aborted (core dumped)
+[dynet] random seed: 3037249565
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:00:20 apredict:30] Using external embedding: /var/www/abird/data/emb/cs_cltt.skip.forms.50.vectors
+[I 170513 02:00:20 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:00:25 apredict:48] Finished Load 5.6536s
+[I 170513 02:01:31 utils:153] 316 sentences read.
+[I 170513 02:01:31 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:01:31 apredict:60] Finished Predict 65.39704918861389
+[dynet] random seed: 1001309405
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:01:31 apredict:30] Using external embedding: /var/www/abird/data/emb/cs.skip.forms.50.vectors
+[I 170513 02:01:35 abird_basic:94] Load external vec. dimensions 50
+terminate called after throwing an instance of 'boost::archive::archive_exception'
+  what():  input stream error
+Aborted (core dumped)
+[dynet] random seed: 2783651162
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:01:44 apredict:30] Using external embedding: /var/www/abird/data/emb/cu.skip.forms.50.vectors
+[I 170513 02:01:44 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:01:50 apredict:48] Finished Load 5.4513s
+[I 170513 02:03:06 utils:153] 917 sentences read.
+[I 170513 02:03:06 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:03:06 apredict:60] Finished Predict 76.39993047714233
+[dynet] random seed: 3296756463
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:03:07 apredict:30] Using external embedding: /var/www/abird/data/emb/da.skip.forms.50.vectors
+[I 170513 02:03:07 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:03:14 apredict:48] Finished Load 7.0335s
+[I 170513 02:04:25 utils:153] 564 sentences read.
+[I 170513 02:04:25 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:04:26 apredict:60] Finished Predict 71.45767068862915
+[dynet] random seed: 1139464848
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:04:26 apredict:30] Using external embedding: /var/www/abird/data/emb/de.skip.forms.50.vectors
+[I 170513 02:04:27 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:04:39 apredict:48] Finished Load 11.5811s
+[I 170513 02:06:21 utils:153] 909 sentences read.
+[I 170513 02:06:21 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:06:21 apredict:60] Finished Predict 102.86774921417236
+[dynet] random seed: 3305139170
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:06:22 apredict:30] Using external embedding: /var/www/abird/data/emb/el.skip.forms.50.vectors
+[I 170513 02:06:22 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:06:29 apredict:48] Finished Load 6.4169s
+[I 170513 02:07:36 utils:153] 445 sentences read.
+[I 170513 02:07:36 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:07:36 apredict:60] Finished Predict 67.79338049888611
+[dynet] random seed: 757166644
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:07:37 apredict:30] Using external embedding: /var/www/abird/data/emb/en_lines.skip.forms.50.vectors
+[I 170513 02:07:37 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:07:43 apredict:48] Finished Load 5.6906s
+[I 170513 02:09:38 utils:153] 908 sentences read.
+[I 170513 02:09:38 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:09:39 apredict:60] Finished Predict 115.73515582084656
+[dynet] random seed: 2641571225
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:09:39 apredict:30] Using external embedding: /var/www/abird/data/emb/en_partut.skip.forms.50.vectors
+[I 170513 02:09:39 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:09:45 apredict:48] Finished Load 5.5053s
+[I 170513 02:11:00 utils:153] 503 sentences read.
+[I 170513 02:11:00 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:11:00 apredict:60] Finished Predict 75.00006866455078
+[dynet] random seed: 2798963484
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:11:00 apredict:30] Using external embedding: /var/www/abird/data/emb/en.skip.forms.50.vectors
+[I 170513 02:11:01 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:11:09 apredict:48] Finished Load 7.8370s
+[I 170513 02:14:21 utils:153] 1698 sentences read.
+[I 170513 02:14:21 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:14:22 apredict:60] Finished Predict 192.9833812713623
+[dynet] random seed: 1194564016
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:14:22 apredict:30] Using external embedding: /var/www/abird/data/emb/es_ancora.skip.forms.50.vectors
+[I 170513 02:14:23 abird_basic:94] Load external vec. dimensions 50
+terminate called after throwing an instance of 'boost::archive::archive_exception'
+  what():  input stream error
+Aborted (core dumped)
+[dynet] random seed: 1594861283
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:14:23 apredict:30] Using external embedding: /var/www/abird/data/emb/es.skip.forms.50.vectors
+[I 170513 02:14:24 abird_basic:94] Load external vec. dimensions 50
+terminate called after throwing an instance of 'boost::archive::archive_exception'
+  what():  input stream error
+Aborted (core dumped)
+[dynet] random seed: 498813190
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:14:26 apredict:30] Using external embedding: /var/www/abird/data/emb/et.skip.forms.50.vectors
+[I 170513 02:14:26 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:14:32 apredict:48] Finished Load 5.5724s
+[I 170513 02:15:50 utils:153] 952 sentences read.
+[I 170513 02:15:50 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:15:50 apredict:60] Finished Predict 78.15516185760498
+[dynet] random seed: 1206831789
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:15:51 apredict:30] Using external embedding: /var/www/abird/data/emb/eu.skip.forms.50.vectors
+[I 170513 02:15:51 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:15:58 apredict:48] Finished Load 6.6720s
+[I 170513 02:18:49 utils:153] 1802 sentences read.
+[I 170513 02:18:49 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:18:49 apredict:60] Finished Predict 171.11273741722107
+[dynet] random seed: 3681259771
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:18:49 apredict:30] Using external embedding: /var/www/abird/data/emb/fa.skip.forms.50.vectors
+[I 170513 02:18:50 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:18:57 apredict:48] Finished Load 6.9399s
+[I 170513 02:20:46 utils:153] 598 sentences read.
+[I 170513 02:20:46 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:20:46 apredict:60] Finished Predict 109.89424920082092
+[dynet] random seed: 1787359002
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:20:47 apredict:30] Using external embedding: /var/www/abird/data/emb/fi_ftb.skip.forms.50.vectors
+[I 170513 02:20:48 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:20:58 apredict:48] Finished Load 10.4164s
+[I 170513 02:22:57 utils:153] 1795 sentences read.
+[I 170513 02:22:57 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:22:57 apredict:60] Finished Predict 119.26440787315369
+[dynet] random seed: 891706538
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:22:58 apredict:30] Using external embedding: /var/www/abird/data/emb/fi.skip.forms.50.vectors
+[I 170513 02:22:59 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:23:10 apredict:48] Finished Load 11.5743s
+[I 170513 02:25:25 utils:153] 1444 sentences read.
+[I 170513 02:25:25 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:25:25 apredict:60] Finished Predict 134.91303253173828
+[dynet] random seed: 3422955966
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:25:26 apredict:30] Using external embedding: /var/www/abird/data/emb/fr_sequoia.skip.forms.50.vectors
+[I 170513 02:25:26 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:25:32 apredict:48] Finished Load 5.7054s
+[I 170513 02:26:33 utils:153] 430 sentences read.
+[I 170513 02:26:33 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:26:33 apredict:60] Finished Predict 61.159688234329224
+[dynet] random seed: 1060841427
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:26:34 apredict:30] Using external embedding: /var/www/abird/data/emb/fr.skip.forms.50.vectors
+[I 170513 02:26:35 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:26:45 apredict:48] Finished Load 10.3217s
+[I 170513 02:27:53 utils:153] 411 sentences read.
+[I 170513 02:27:53 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:27:53 apredict:60] Finished Predict 68.3319628238678
+[dynet] random seed: 1448324003
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:27:54 apredict:30] Using external embedding: /var/www/abird/data/emb/gl.skip.forms.50.vectors
+[I 170513 02:27:54 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:28:02 apredict:48] Finished Load 8.0511s
+[I 170513 02:31:06 utils:153] 877 sentences read.
+[I 170513 02:31:06 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:31:06 apredict:60] Finished Predict 183.93895769119263
+[dynet] random seed: 131462848
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:31:07 apredict:30] Using external embedding: /var/www/abird/data/emb/got.skip.forms.50.vectors
+[I 170513 02:31:07 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:31:12 apredict:48] Finished Load 5.5418s
+[I 170513 02:32:23 utils:153] 825 sentences read.
+[I 170513 02:32:23 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:32:23 apredict:60] Finished Predict 70.43201518058777
+[dynet] random seed: 1238634561
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:32:23 apredict:30] Using external embedding: /var/www/abird/data/emb/grc_proiel.skip.forms.50.vectors
+[I 170513 02:32:24 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:32:32 apredict:48] Finished Load 8.2599s
+[I 170513 02:34:02 utils:153] 869 sentences read.
+[I 170513 02:34:02 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:34:02 apredict:60] Finished Predict 90.21806502342224
+[dynet] random seed: 2441216621
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:34:03 apredict:30] Using external embedding: /var/www/abird/data/emb/grc.skip.forms.50.vectors
+[I 170513 02:34:04 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:34:11 apredict:48] Finished Load 7.5171s
+[I 170513 02:36:28 utils:153] 1309 sentences read.
+[I 170513 02:36:28 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:36:28 apredict:60] Finished Predict 137.07553267478943
+[dynet] random seed: 2754006657
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:36:29 apredict:30] Using external embedding: /var/www/abird/data/emb/he.skip.forms.50.vectors
+[I 170513 02:36:29 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:36:36 apredict:48] Finished Load 7.0289s
+[I 170513 02:37:48 utils:153] 491 sentences read.
+[I 170513 02:37:48 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:37:48 apredict:60] Finished Predict 71.42726397514343
+[dynet] random seed: 1504414588
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:37:48 apredict:30] Using external embedding: /var/www/abird/data/emb/hi.skip.forms.50.vectors
+[I 170513 02:37:49 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:37:56 apredict:48] Finished Load 7.6984s
+[I 170513 02:41:49 utils:153] 1675 sentences read.
+[I 170513 02:41:49 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:41:49 apredict:60] Finished Predict 232.69066190719604
+[dynet] random seed: 965453555
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:41:50 apredict:30] Using external embedding: /var/www/abird/data/emb/hr.skip.forms.50.vectors
+[I 170513 02:41:50 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:42:00 apredict:48] Finished Load 9.4689s
+[I 170513 02:43:22 utils:153] 601 sentences read.
+[I 170513 02:43:22 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:43:22 apredict:60] Finished Predict 81.95529198646545
+[dynet] random seed: 306982510
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:43:22 apredict:30] Using external embedding: /var/www/abird/data/emb/hu.skip.forms.50.vectors
+[I 170513 02:43:22 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:43:28 apredict:48] Finished Load 5.6646s
+[I 170513 02:44:28 utils:153] 461 sentences read.
+[I 170513 02:44:28 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:44:29 apredict:60] Finished Predict 60.373111963272095
+[dynet] random seed: 4228670359
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:44:29 apredict:30] Using external embedding: /var/www/abird/data/emb/id.skip.forms.50.vectors
+[I 170513 02:44:29 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:44:37 apredict:48] Finished Load 7.2625s
+[I 170513 02:45:46 utils:153] 562 sentences read.
+[I 170513 02:45:46 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:45:46 apredict:60] Finished Predict 69.23249530792236
+[dynet] random seed: 3543671901
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:45:46 apredict:30] Using external embedding: /var/www/abird/data/emb/it.skip.forms.50.vectors
+[I 170513 02:45:47 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:45:56 apredict:48] Finished Load 9.2936s
+[I 170513 02:46:57 utils:153] 484 sentences read.
+[I 170513 02:46:57 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:46:57 apredict:60] Finished Predict 60.68278908729553
+[dynet] random seed: 3741184564
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:46:57 apredict:30] Using external embedding: /var/www/abird/data/emb/ja.skip.forms.50.vectors
+[I 170513 02:46:58 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:47:06 apredict:48] Finished Load 7.9943s
+[I 170513 02:48:27 utils:153] 545 sentences read.
+[I 170513 02:48:27 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:48:27 apredict:60] Finished Predict 80.78114700317383
+[dynet] random seed: 3861760689
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:48:27 apredict:30] Using external embedding: /var/www/abird/data/emb/ko.skip.forms.50.vectors
+[I 170513 02:48:28 abird_basic:94] Load external vec. dimensions 50
+terminate called after throwing an instance of 'boost::archive::archive_exception'
+  what():  input stream error
+Aborted (core dumped)
+[dynet] random seed: 1541311399
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:48:36 apredict:30] Using external embedding: /var/www/abird/data/emb/la_ittb.skip.forms.50.vectors
+[I 170513 02:48:37 abird_basic:94] Load external vec. dimensions 50
+terminate called after throwing an instance of 'boost::archive::archive_exception'
+  what():  input stream error
+Aborted (core dumped)
+[dynet] random seed: 1651221935
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:48:38 apredict:30] Using external embedding: /var/www/abird/data/emb/la_proiel.skip.forms.50.vectors
+[I 170513 02:48:38 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:48:46 apredict:48] Finished Load 7.7626s
+[I 170513 02:50:07 utils:153] 591 sentences read.
+[I 170513 02:50:07 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:50:07 apredict:60] Finished Predict 80.63471698760986
+[dynet] random seed: 2681213474
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:50:07 apredict:30] Using external embedding: /var/www/abird/data/emb/lv.skip.forms.50.vectors
+[I 170513 02:50:07 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:50:14 apredict:48] Finished Load 6.2090s
+[I 170513 02:51:21 utils:153] 920 sentences read.
+[I 170513 02:51:21 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:51:21 apredict:60] Finished Predict 67.2330253124237
+[dynet] random seed: 2082018545
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:51:21 apredict:30] Using external embedding: /var/www/abird/data/emb/nl_lassysmall.skip.forms.50.vectors
+[I 170513 02:51:22 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:51:28 apredict:48] Finished Load 6.3287s
+[I 170513 02:52:33 utils:153] 767 sentences read.
+[I 170513 02:52:33 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:52:33 apredict:60] Finished Predict 64.55047488212585
+[dynet] random seed: 2161983541
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:52:33 apredict:30] Using external embedding: /var/www/abird/data/emb/nl.skip.forms.50.vectors
+[I 170513 02:52:34 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:52:42 apredict:48] Finished Load 8.7377s
+[I 170513 02:53:50 utils:153] 588 sentences read.
+[I 170513 02:53:50 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:53:50 apredict:60] Finished Predict 67.56579875946045
+[dynet] random seed: 3544919057
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:53:50 apredict:30] Using external embedding: /var/www/abird/data/emb/no_bokmaal.skip.forms.50.vectors
+[I 170513 02:53:51 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:54:00 apredict:48] Finished Load 9.1673s
+[I 170513 02:56:53 utils:153] 1931 sentences read.
+[I 170513 02:56:53 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:56:53 apredict:60] Finished Predict 172.9283962249756
+[dynet] random seed: 4023405487
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:56:54 apredict:30] Using external embedding: /var/www/abird/data/emb/no_nynorsk.skip.forms.50.vectors
+[I 170513 02:56:54 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:57:04 apredict:48] Finished Load 9.1922s
+[I 170513 02:59:37 utils:153] 1453 sentences read.
+[I 170513 02:59:37 utils:154] 0 dropped non-projective sentences.
+[I 170513 02:59:37 apredict:60] Finished Predict 153.46237230300903
+[dynet] random seed: 4036819890
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 02:59:38 apredict:30] Using external embedding: /var/www/abird/data/emb/pl.skip.forms.50.vectors
+[I 170513 02:59:38 abird_basic:94] Load external vec. dimensions 50
+[I 170513 02:59:46 apredict:48] Finished Load 7.9210s
+[I 170513 03:01:04 utils:153] 1100 sentences read.
+[I 170513 03:01:04 utils:154] 0 dropped non-projective sentences.
+[I 170513 03:01:04 apredict:60] Finished Predict 77.71333837509155
+[dynet] random seed: 75194006
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 03:01:04 apredict:30] Using external embedding: /var/www/abird/data/emb/pt_br.skip.forms.50.vectors
+[I 170513 03:01:05 abird_basic:94] Load external vec. dimensions 50
+[I 170513 03:01:15 apredict:48] Finished Load 10.3034s
+[I 170513 03:04:23 utils:153] 1200 sentences read.
+[I 170513 03:04:23 utils:154] 0 dropped non-projective sentences.
+[I 170513 03:04:23 apredict:60] Finished Predict 187.67435455322266
+[dynet] random seed: 2863382169
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 03:04:24 apredict:30] Using external embedding: /var/www/abird/data/emb/pt.skip.forms.50.vectors
+[I 170513 03:04:24 abird_basic:94] Load external vec. dimensions 50
+[I 170513 03:04:32 apredict:48] Finished Load 7.7227s
+[I 170513 03:05:38 utils:153] 463 sentences read.
+[I 170513 03:05:38 utils:154] 0 dropped non-projective sentences.
+[I 170513 03:05:39 apredict:60] Finished Predict 66.6319088935852
+[dynet] random seed: 2883713958
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 03:05:39 apredict:30] Using external embedding: /var/www/abird/data/emb/ro.skip.forms.50.vectors
+[I 170513 03:05:40 abird_basic:94] Load external vec. dimensions 50
+[I 170513 03:05:47 apredict:48] Finished Load 7.7638s
+Traceback (most recent call last):
+  File "apredict.py", line 93, in <module>
+    main()
+  File "apredict.py", line 58, in main
+    pred = list(parser.Predict(opt.test))
+  File "/var/www/abird/abird_basic.py", line 311, in Predict
+    scores = self._evaluate(stack, buf, False)
+  File "/var/www/abird/abird_basic.py", line 264, in _evaluate
+    scrs, uscrs = routput.value(), output.value()
+  File "_dynet.pyx", line 1301, in _dynet.Expression.value (_dynet.cpp:27392)
+  File "_dynet.pyx", line 1315, in _dynet.Expression.value (_dynet.cpp:27225)
+ValueError: Out-of-bounds attempt to access index 12363 for LookupParameter of size 9581
+[dynet] random seed: 2752193123
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 03:05:48 apredict:30] Using external embedding: /var/www/abird/data/emb/ru_syntagrus.skip.forms.50.vectors
+[I 170513 03:05:50 abird_basic:94] Load external vec. dimensions 50
+terminate called after throwing an instance of 'boost::archive::archive_exception'
+  what():  input stream error
+Aborted (core dumped)
+[dynet] random seed: 3034649206
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 03:06:00 apredict:30] Using external embedding: /var/www/abird/data/emb/ru.skip.forms.50.vectors
+[I 170513 03:06:00 abird_basic:94] Load external vec. dimensions 50
+terminate called after throwing an instance of 'boost::archive::archive_exception'
+  what():  input stream error
+Aborted (core dumped)
+[dynet] random seed: 393918413
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 03:06:02 apredict:30] Using external embedding: /var/www/abird/data/emb/sk.skip.forms.50.vectors
+[I 170513 03:06:03 abird_basic:94] Load external vec. dimensions 50
+[I 170513 03:06:11 apredict:48] Finished Load 8.5098s
+[I 170513 03:07:33 utils:153] 1082 sentences read.
+[I 170513 03:07:33 utils:154] 0 dropped non-projective sentences.
+[I 170513 03:07:33 apredict:60] Finished Predict 82.23205852508545
+[dynet] random seed: 40768661
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 03:07:34 apredict:30] Using external embedding: /var/www/abird/data/emb/sl.skip.forms.50.vectors
+[I 170513 03:07:34 abird_basic:94] Load external vec. dimensions 50
+[I 170513 03:07:41 apredict:48] Finished Load 6.9288s
+[I 170513 03:08:58 utils:153] 788 sentences read.
+[I 170513 03:08:58 utils:154] 0 dropped non-projective sentences.
+[I 170513 03:08:58 apredict:60] Finished Predict 76.8659086227417
+[dynet] random seed: 3756292065
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 03:08:59 apredict:30] Using external embedding: /var/www/abird/data/emb/sv_lines.skip.forms.50.vectors
+[I 170513 03:08:59 abird_basic:94] Load external vec. dimensions 50
+[I 170513 03:09:05 apredict:48] Finished Load 6.5714s
+[I 170513 03:10:29 utils:153] 907 sentences read.
+[I 170513 03:10:29 utils:154] 0 dropped non-projective sentences.
+[I 170513 03:10:29 apredict:60] Finished Predict 83.26638269424438
+[dynet] random seed: 4187090858
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 03:10:29 apredict:30] Using external embedding: /var/www/abird/data/emb/sv.skip.forms.50.vectors
+[I 170513 03:10:29 abird_basic:94] Load external vec. dimensions 50
+[I 170513 03:10:36 apredict:48] Finished Load 7.1002s
+[I 170513 03:12:42 utils:153] 1207 sentences read.
+[I 170513 03:12:42 utils:154] 0 dropped non-projective sentences.
+[I 170513 03:12:42 apredict:60] Finished Predict 125.87083005905151
+[dynet] random seed: 460437413
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 03:12:43 apredict:30] Using external embedding: /var/www/abird/data/emb/tr.skip.forms.50.vectors
+[I 170513 03:12:43 abird_basic:94] Load external vec. dimensions 50
+[I 170513 03:12:50 apredict:48] Finished Load 7.0054s
+[I 170513 03:14:02 utils:153] 983 sentences read.
+[I 170513 03:14:02 utils:154] 0 dropped non-projective sentences.
+[I 170513 03:14:02 apredict:60] Finished Predict 71.91653394699097
+[dynet] random seed: 854149590
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 03:14:03 apredict:30] Using external embedding: /var/www/abird/data/emb/ur.skip.forms.50.vectors
+[I 170513 03:14:03 abird_basic:94] Load external vec. dimensions 50
+[I 170513 03:14:10 apredict:48] Finished Load 7.0279s
+[I 170513 03:15:36 utils:153] 535 sentences read.
+[I 170513 03:15:36 utils:154] 0 dropped non-projective sentences.
+[I 170513 03:15:36 apredict:60] Finished Predict 85.89713144302368
+[dynet] random seed: 3406348483
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 03:15:36 apredict:30] Using external embedding: /var/www/abird/data/emb/vi.skip.forms.50.vectors
+[I 170513 03:15:37 abird_basic:94] Load external vec. dimensions 50
+[I 170513 03:15:42 apredict:48] Finished Load 5.1449s
+[I 170513 03:16:55 utils:153] 833 sentences read.
+[I 170513 03:16:55 utils:154] 0 dropped non-projective sentences.
+[I 170513 03:16:55 apredict:60] Finished Predict 73.03754615783691
+[dynet] random seed: 1256333795
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[I 170513 03:16:55 apredict:30] Using external embedding: /var/www/abird/data/emb/zh.skip.forms.50.vectors
+[I 170513 03:16:56 abird_basic:94] Load external vec. dimensions 50
+[I 170513 03:17:04 apredict:48] Finished Load 8.0526s
+[I 170513 03:18:17 utils:153] 494 sentences read.
+[I 170513 03:18:17 utils:154] 0 dropped non-projective sentences.
+[I 170513 03:18:17 apredict:60] Finished Predict 73.51938223838806

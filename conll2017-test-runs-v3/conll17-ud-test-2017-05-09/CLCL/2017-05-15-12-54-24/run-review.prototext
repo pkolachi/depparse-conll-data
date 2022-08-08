@@ -1,0 +1,9 @@
+runId: "2017-05-15-12-54-24"
+reviewerId: "conll17-master"
+reviewDate: "Mon May 15 21:38:59 CEST 2017"
+missingOutput: true
+invalidOutput: true
+comment: "Kazakh score is almost zero."
+hasErrors: true
+hasWarnings: false
+hasNoErrors: false

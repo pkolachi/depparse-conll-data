@@ -1,0 +1,15 @@
+#0
+1
+2
+3
+1	У	у	ADP	Spsl	Case=Loc	2	nmod	_	_
+2	домі	домий	NOUN	Ncmsln	Animacy=Inan|Case=Loc|Gender=Masc	4	nmod	_	_
+3	римського	римський	ADJ	Ao-nsgf	Case=Gen|Gender=Neut	2	cop	_	_
+4	патриція	патриція	NOUN	Ncnsgn	Animacy=Inan|Case=Gen|Gender=Neut	2	amod	_	_
+5	Руфіна	Руфін	PROPN	Npmsgy	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv	2	nsubj	_	_
+6	була	бути	AUX	Vapis-sf	Aspect=Imp|Gender=Fem|Mood=Ind|Tense=Past|VerbForm=Fin	10	punct	_	_
+7	прегарна	прегарний	ADJ	Ao-fsns	Case=Nom|Gender=Fem	11	amod	_	_
+8	фреска	фресок	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem	13	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	U	_	13	cc	_	_
+10	зображення	зображення	ADJ	Afpfsns	Case=Nom|Degree=Pos|Gender=Fem	8	acl	_	_
+11	Венери	Венера	NOUN	Ncfpnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	punct	_	_

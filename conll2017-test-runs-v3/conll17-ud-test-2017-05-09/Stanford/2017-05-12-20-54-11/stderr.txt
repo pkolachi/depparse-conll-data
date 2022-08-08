@@ -1,0 +1,73 @@
+conll17-scripts/run.sh: line 4: /home/Stanford/.bashrc: No such file or directory
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 54, in __init__
+    pretrained_vocab = PretrainedVocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 46, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 76, in load
+    with open_func(self.filename, 'rb') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 54, in __init__
+    pretrained_vocab = PretrainedVocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 46, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 76, in load
+    with open_func(self.filename, 'rb') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 54, in __init__
+    pretrained_vocab = PretrainedVocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 46, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 76, in load
+    with open_func(self.filename, 'rb') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: ''
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 54, in __init__
+    pretrained_vocab = PretrainedVocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 46, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 76, in load
+    with open_func(self.filename, 'rb') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: ''

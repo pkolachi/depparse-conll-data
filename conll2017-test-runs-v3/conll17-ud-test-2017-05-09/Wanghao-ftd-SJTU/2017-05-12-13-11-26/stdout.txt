@@ -1,0 +1,3 @@
+python deploy.py /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 ./outputfiles
+
+

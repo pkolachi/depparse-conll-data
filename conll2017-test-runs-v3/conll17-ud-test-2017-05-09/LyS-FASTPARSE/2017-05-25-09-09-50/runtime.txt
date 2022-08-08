@@ -1,0 +1,2 @@
+94866.11user 15991.99system 31:42:47elapsed 97%CPU (0avgtext+0avgdata 55797816maxresident)k
+115000inputs+1034448outputs (204major+68246584minor)pagefaults 0swaps

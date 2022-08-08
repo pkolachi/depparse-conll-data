@@ -1,0 +1,7 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/HIT-SCIR/2017-05-24-16-51-58/output
+├── [442K]  ja.conllu
+├── [952K]  ja_pud.conllu
+├── [440K]  vi.conllu
+└── [436K]  zh.conllu
+
+0 directories, 4 files

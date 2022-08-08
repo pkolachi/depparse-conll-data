@@ -1,0 +1,3 @@
+/home/Recurrent-Team/run_tira.py -i /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 -o /tmp/Recurrent-Team/2017-05-12-18-22-24/output
+
+

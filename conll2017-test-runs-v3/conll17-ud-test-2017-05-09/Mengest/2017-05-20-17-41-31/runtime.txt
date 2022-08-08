@@ -1,0 +1,2 @@
+2019.32user 1774.67system 1:05:51elapsed 96%CPU (0avgtext+0avgdata 2948620maxresident)k
+4539376inputs+245160outputs (215major+2981025minor)pagefaults 0swaps

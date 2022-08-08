@@ -1,0 +1,1248 @@
+measure{
+  key: "total-Tokens-F1"
+  value: "24.36"
+}
+measure{
+  key: "total-Sentences-F1"
+  value: "22.20"
+}
+measure{
+  key: "total-Words-F1"
+  value: "24.36"
+}
+measure{
+  key: "total-UPOS-F1"
+  value: "22.00"
+}
+measure{
+  key: "total-XPOS-F1"
+  value: "12.05"
+}
+measure{
+  key: "total-Feats-F1"
+  value: "17.85"
+}
+measure{
+  key: "total-AllTags-F1"
+  value: "10.05"
+}
+measure{
+  key: "total-Lemmas-F1"
+  value: "12.30"
+}
+measure{
+  key: "total-UAS-F1"
+  value: "17.38"
+}
+measure{
+  key: "total-LAS-F1"
+  value: "15.18"
+}
+measure{
+  key: "total-CLAS-F1"
+  value: "13.57"
+}
+measure{
+  key: "ar_pud-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "ar-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "bg-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "bxr-Status"
+  value: "Error: The system file is empty"
+}
+measure{
+  key: "ca-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "cs_cac-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "cs_cltt-Status"
+  value: "Error: The system file is empty"
+}
+measure{
+  key: "cs_pud-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "cs-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "cu-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "da-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "de_pud-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "de-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "el-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "en_lines-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "en_lines-Tokens-F1"
+  value: "99.94"
+}
+measure{
+  key: "en_lines-Sentences-F1"
+  value: "85.84"
+}
+measure{
+  key: "en_lines-Words-F1"
+  value: "99.94"
+}
+measure{
+  key: "en_lines-UPOS-F1"
+  value: "91.69"
+}
+measure{
+  key: "en_lines-XPOS-F1"
+  value: "0.24"
+}
+measure{
+  key: "en_lines-Feats-F1"
+  value: "35.21"
+}
+measure{
+  key: "en_lines-AllTags-F1"
+  value: "0.24"
+}
+measure{
+  key: "en_lines-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_lines-UAS-F1"
+  value: "75.84"
+}
+measure{
+  key: "en_lines-LAS-F1"
+  value: "67.97"
+}
+measure{
+  key: "en_lines-CLAS-F1"
+  value: "63.89"
+}
+measure{
+  key: "en_partut-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "en_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "en_pud-Tokens-F1"
+  value: "99.66"
+}
+measure{
+  key: "en_pud-Sentences-F1"
+  value: "97.13"
+}
+measure{
+  key: "en_pud-Words-F1"
+  value: "99.66"
+}
+measure{
+  key: "en_pud-UPOS-F1"
+  value: "94.01"
+}
+measure{
+  key: "en_pud-XPOS-F1"
+  value: "92.93"
+}
+measure{
+  key: "en_pud-Feats-F1"
+  value: "94.07"
+}
+measure{
+  key: "en_pud-AllTags-F1"
+  value: "90.02"
+}
+measure{
+  key: "en_pud-Lemmas-F1"
+  value: "94.30"
+}
+measure{
+  key: "en_pud-UAS-F1"
+  value: "82.41"
+}
+measure{
+  key: "en_pud-LAS-F1"
+  value: "76.07"
+}
+measure{
+  key: "en_pud-CLAS-F1"
+  value: "70.05"
+}
+measure{
+  key: "en-Status"
+  value: "Error: The system file is empty"
+}
+measure{
+  key: "es_ancora-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "es_pud-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "es-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "et-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "eu-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fa-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "fi_ftb-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fi_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fi-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fr_partut-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "fr_pud-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "fr_sequoia-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "fr-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "ga-Status"
+  value: "Error: The system file is empty"
+}
+measure{
+  key: "gl_treegal-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "gl-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "gl-Tokens-F1"
+  value: "99.92"
+}
+measure{
+  key: "gl-Sentences-F1"
+  value: "96.15"
+}
+measure{
+  key: "gl-Words-F1"
+  value: "99.92"
+}
+measure{
+  key: "gl-UPOS-F1"
+  value: "96.88"
+}
+measure{
+  key: "gl-XPOS-F1"
+  value: "44.12"
+}
+measure{
+  key: "gl-Feats-F1"
+  value: "99.73"
+}
+measure{
+  key: "gl-AllTags-F1"
+  value: "43.96"
+}
+measure{
+  key: "gl-Lemmas-F1"
+  value: "44.01"
+}
+measure{
+  key: "gl-UAS-F1"
+  value: "79.75"
+}
+measure{
+  key: "gl-LAS-F1"
+  value: "74.26"
+}
+measure{
+  key: "gl-CLAS-F1"
+  value: "65.80"
+}
+measure{
+  key: "got-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "got-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "got-Sentences-F1"
+  value: "27.85"
+}
+measure{
+  key: "got-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "got-UPOS-F1"
+  value: "94.38"
+}
+measure{
+  key: "got-XPOS-F1"
+  value: "38.58"
+}
+measure{
+  key: "got-Feats-F1"
+  value: "87.46"
+}
+measure{
+  key: "got-AllTags-F1"
+  value: "34.49"
+}
+measure{
+  key: "got-Lemmas-F1"
+  value: "36.53"
+}
+measure{
+  key: "got-UAS-F1"
+  value: "63.75"
+}
+measure{
+  key: "got-LAS-F1"
+  value: "53.09"
+}
+measure{
+  key: "got-CLAS-F1"
+  value: "47.83"
+}
+measure{
+  key: "grc_proiel-Status"
+  value: "Error: The system file is empty"
+}
+measure{
+  key: "grc-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "grc-Tokens-F1"
+  value: "99.95"
+}
+measure{
+  key: "grc-Sentences-F1"
+  value: "98.43"
+}
+measure{
+  key: "grc-Words-F1"
+  value: "99.95"
+}
+measure{
+  key: "grc-UPOS-F1"
+  value: "85.61"
+}
+measure{
+  key: "grc-XPOS-F1"
+  value: "27.58"
+}
+measure{
+  key: "grc-Feats-F1"
+  value: "86.85"
+}
+measure{
+  key: "grc-AllTags-F1"
+  value: "27.58"
+}
+measure{
+  key: "grc-Lemmas-F1"
+  value: "31.16"
+}
+measure{
+  key: "grc-UAS-F1"
+  value: "52.55"
+}
+measure{
+  key: "grc-LAS-F1"
+  value: "42.16"
+}
+measure{
+  key: "grc-CLAS-F1"
+  value: "32.50"
+}
+measure{
+  key: "he-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "hi_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "hi_pud-Tokens-F1"
+  value: "97.81"
+}
+measure{
+  key: "hi_pud-Sentences-F1"
+  value: "90.83"
+}
+measure{
+  key: "hi_pud-Words-F1"
+  value: "97.81"
+}
+measure{
+  key: "hi_pud-UPOS-F1"
+  value: "83.32"
+}
+measure{
+  key: "hi_pud-XPOS-F1"
+  value: "16.55"
+}
+measure{
+  key: "hi_pud-Feats-F1"
+  value: "17.07"
+}
+measure{
+  key: "hi_pud-AllTags-F1"
+  value: "2.52"
+}
+measure{
+  key: "hi_pud-Lemmas-F1"
+  value: "48.40"
+}
+measure{
+  key: "hi_pud-UAS-F1"
+  value: "62.45"
+}
+measure{
+  key: "hi_pud-LAS-F1"
+  value: "49.67"
+}
+measure{
+  key: "hi_pud-CLAS-F1"
+  value: "42.86"
+}
+measure{
+  key: "hi-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "hi-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "hi-Sentences-F1"
+  value: "99.20"
+}
+measure{
+  key: "hi-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "hi-UPOS-F1"
+  value: "95.99"
+}
+measure{
+  key: "hi-XPOS-F1"
+  value: "46.98"
+}
+measure{
+  key: "hi-Feats-F1"
+  value: "90.52"
+}
+measure{
+  key: "hi-AllTags-F1"
+  value: "43.36"
+}
+measure{
+  key: "hi-Lemmas-F1"
+  value: "48.63"
+}
+measure{
+  key: "hi-UAS-F1"
+  value: "90.28"
+}
+measure{
+  key: "hi-LAS-F1"
+  value: "85.31"
+}
+measure{
+  key: "hi-CLAS-F1"
+  value: "79.31"
+}
+measure{
+  key: "hr-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "hr-Tokens-F1"
+  value: "99.93"
+}
+measure{
+  key: "hr-Sentences-F1"
+  value: "96.92"
+}
+measure{
+  key: "hr-Words-F1"
+  value: "99.93"
+}
+measure{
+  key: "hr-UPOS-F1"
+  value: "96.12"
+}
+measure{
+  key: "hr-XPOS-F1"
+  value: "99.93"
+}
+measure{
+  key: "hr-Feats-F1"
+  value: "84.88"
+}
+measure{
+  key: "hr-AllTags-F1"
+  value: "84.04"
+}
+measure{
+  key: "hr-Lemmas-F1"
+  value: "42.76"
+}
+measure{
+  key: "hr-UAS-F1"
+  value: "83.62"
+}
+measure{
+  key: "hr-LAS-F1"
+  value: "75.77"
+}
+measure{
+  key: "hr-CLAS-F1"
+  value: "71.39"
+}
+measure{
+  key: "hsb-Status"
+  value: "Error: The system file is empty"
+}
+measure{
+  key: "hu-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "hu-Tokens-F1"
+  value: "99.82"
+}
+measure{
+  key: "hu-Sentences-F1"
+  value: "93.85"
+}
+measure{
+  key: "hu-Words-F1"
+  value: "99.82"
+}
+measure{
+  key: "hu-UPOS-F1"
+  value: "91.93"
+}
+measure{
+  key: "hu-XPOS-F1"
+  value: "99.82"
+}
+measure{
+  key: "hu-Feats-F1"
+  value: "71.44"
+}
+measure{
+  key: "hu-AllTags-F1"
+  value: "70.54"
+}
+measure{
+  key: "hu-Lemmas-F1"
+  value: "37.39"
+}
+measure{
+  key: "hu-UAS-F1"
+  value: "68.30"
+}
+measure{
+  key: "hu-LAS-F1"
+  value: "57.50"
+}
+measure{
+  key: "hu-CLAS-F1"
+  value: "52.39"
+}
+measure{
+  key: "id-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "id-Tokens-F1"
+  value: "99.99"
+}
+measure{
+  key: "id-Sentences-F1"
+  value: "91.15"
+}
+measure{
+  key: "id-Words-F1"
+  value: "99.99"
+}
+measure{
+  key: "id-UPOS-F1"
+  value: "93.52"
+}
+measure{
+  key: "id-XPOS-F1"
+  value: "99.99"
+}
+measure{
+  key: "id-Feats-F1"
+  value: "99.49"
+}
+measure{
+  key: "id-AllTags-F1"
+  value: "93.50"
+}
+measure{
+  key: "id-Lemmas-F1"
+  value: "99.99"
+}
+measure{
+  key: "id-UAS-F1"
+  value: "81.27"
+}
+measure{
+  key: "id-LAS-F1"
+  value: "72.99"
+}
+measure{
+  key: "id-CLAS-F1"
+  value: "69.95"
+}
+measure{
+  key: "it_pud-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "it-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "ja_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ja_pud-Tokens-F1"
+  value: "91.06"
+}
+measure{
+  key: "ja_pud-Sentences-F1"
+  value: "94.89"
+}
+measure{
+  key: "ja_pud-Words-F1"
+  value: "91.06"
+}
+measure{
+  key: "ja_pud-UPOS-F1"
+  value: "88.48"
+}
+measure{
+  key: "ja_pud-XPOS-F1"
+  value: "7.50"
+}
+measure{
+  key: "ja_pud-Feats-F1"
+  value: "52.82"
+}
+measure{
+  key: "ja_pud-AllTags-F1"
+  value: "6.84"
+}
+measure{
+  key: "ja_pud-Lemmas-F1"
+  value: "43.12"
+}
+measure{
+  key: "ja_pud-UAS-F1"
+  value: "77.43"
+}
+measure{
+  key: "ja_pud-LAS-F1"
+  value: "76.31"
+}
+measure{
+  key: "ja_pud-CLAS-F1"
+  value: "66.27"
+}
+measure{
+  key: "ja-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ja-Tokens-F1"
+  value: "89.68"
+}
+measure{
+  key: "ja-Sentences-F1"
+  value: "94.92"
+}
+measure{
+  key: "ja-Words-F1"
+  value: "89.68"
+}
+measure{
+  key: "ja-UPOS-F1"
+  value: "86.96"
+}
+measure{
+  key: "ja-XPOS-F1"
+  value: "89.68"
+}
+measure{
+  key: "ja-Feats-F1"
+  value: "89.67"
+}
+measure{
+  key: "ja-AllTags-F1"
+  value: "86.96"
+}
+measure{
+  key: "ja-Lemmas-F1"
+  value: "43.80"
+}
+measure{
+  key: "ja-UAS-F1"
+  value: "74.58"
+}
+measure{
+  key: "ja-LAS-F1"
+  value: "72.78"
+}
+measure{
+  key: "ja-CLAS-F1"
+  value: "62.88"
+}
+measure{
+  key: "kk-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "kmr-Status"
+  value: "Error: The system file is empty"
+}
+measure{
+  key: "ko-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ko-Tokens-F1"
+  value: "99.73"
+}
+measure{
+  key: "ko-Sentences-F1"
+  value: "93.05"
+}
+measure{
+  key: "ko-Words-F1"
+  value: "99.73"
+}
+measure{
+  key: "ko-UPOS-F1"
+  value: "93.78"
+}
+measure{
+  key: "ko-XPOS-F1"
+  value: "40.07"
+}
+measure{
+  key: "ko-Feats-F1"
+  value: "99.35"
+}
+measure{
+  key: "ko-AllTags-F1"
+  value: "40.07"
+}
+measure{
+  key: "ko-Lemmas-F1"
+  value: "96.20"
+}
+measure{
+  key: "ko-UAS-F1"
+  value: "70.94"
+}
+measure{
+  key: "ko-LAS-F1"
+  value: "60.51"
+}
+measure{
+  key: "ko-CLAS-F1"
+  value: "57.63"
+}
+measure{
+  key: "la_ittb-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "la_ittb-Tokens-F1"
+  value: "99.99"
+}
+measure{
+  key: "la_ittb-Sentences-F1"
+  value: "93.24"
+}
+measure{
+  key: "la_ittb-Words-F1"
+  value: "99.99"
+}
+measure{
+  key: "la_ittb-UPOS-F1"
+  value: "72.98"
+}
+measure{
+  key: "la_ittb-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "la_ittb-Feats-F1"
+  value: "42.98"
+}
+measure{
+  key: "la_ittb-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "la_ittb-Lemmas-F1"
+  value: "21.73"
+}
+measure{
+  key: "la_ittb-UAS-F1"
+  value: "42.41"
+}
+measure{
+  key: "la_ittb-LAS-F1"
+  value: "28.59"
+}
+measure{
+  key: "la_ittb-CLAS-F1"
+  value: "23.69"
+}
+measure{
+  key: "la_proiel-Status"
+  value: "Error: The system file is empty"
+}
+measure{
+  key: "la-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "la-Tokens-F1"
+  value: "99.99"
+}
+measure{
+  key: "la-Sentences-F1"
+  value: "98.09"
+}
+measure{
+  key: "la-Words-F1"
+  value: "99.99"
+}
+measure{
+  key: "la-UPOS-F1"
+  value: "83.89"
+}
+measure{
+  key: "la-XPOS-F1"
+  value: "25.35"
+}
+measure{
+  key: "la-Feats-F1"
+  value: "73.26"
+}
+measure{
+  key: "la-AllTags-F1"
+  value: "25.34"
+}
+measure{
+  key: "la-Lemmas-F1"
+  value: "48.15"
+}
+measure{
+  key: "la-UAS-F1"
+  value: "51.70"
+}
+measure{
+  key: "la-LAS-F1"
+  value: "38.57"
+}
+measure{
+  key: "la-CLAS-F1"
+  value: "32.40"
+}
+measure{
+  key: "lv-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "lv-Tokens-F1"
+  value: "98.91"
+}
+measure{
+  key: "lv-Sentences-F1"
+  value: "98.59"
+}
+measure{
+  key: "lv-Words-F1"
+  value: "98.91"
+}
+measure{
+  key: "lv-UPOS-F1"
+  value: "88.43"
+}
+measure{
+  key: "lv-XPOS-F1"
+  value: "32.99"
+}
+measure{
+  key: "lv-Feats-F1"
+  value: "82.39"
+}
+measure{
+  key: "lv-AllTags-F1"
+  value: "32.80"
+}
+measure{
+  key: "lv-Lemmas-F1"
+  value: "85.56"
+}
+measure{
+  key: "lv-UAS-F1"
+  value: "66.04"
+}
+measure{
+  key: "lv-LAS-F1"
+  value: "55.72"
+}
+measure{
+  key: "lv-CLAS-F1"
+  value: "49.02"
+}
+measure{
+  key: "nl_lassysmall-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "nl_lassysmall-Tokens-F1"
+  value: "99.93"
+}
+measure{
+  key: "nl_lassysmall-Sentences-F1"
+  value: "78.62"
+}
+measure{
+  key: "nl_lassysmall-Words-F1"
+  value: "99.93"
+}
+measure{
+  key: "nl_lassysmall-UPOS-F1"
+  value: "85.12"
+}
+measure{
+  key: "nl_lassysmall-XPOS-F1"
+  value: "54.14"
+}
+measure{
+  key: "nl_lassysmall-Feats-F1"
+  value: "15.25"
+}
+measure{
+  key: "nl_lassysmall-AllTags-F1"
+  value: "7.43"
+}
+measure{
+  key: "nl_lassysmall-Lemmas-F1"
+  value: "38.14"
+}
+measure{
+  key: "nl_lassysmall-UAS-F1"
+  value: "69.22"
+}
+measure{
+  key: "nl_lassysmall-LAS-F1"
+  value: "54.42"
+}
+measure{
+  key: "nl_lassysmall-CLAS-F1"
+  value: "47.38"
+}
+measure{
+  key: "nl-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "nl-Tokens-F1"
+  value: "99.88"
+}
+measure{
+  key: "nl-Sentences-F1"
+  value: "77.14"
+}
+measure{
+  key: "nl-Words-F1"
+  value: "99.88"
+}
+measure{
+  key: "nl-UPOS-F1"
+  value: "91.42"
+}
+measure{
+  key: "nl-XPOS-F1"
+  value: "40.86"
+}
+measure{
+  key: "nl-Feats-F1"
+  value: "89.84"
+}
+measure{
+  key: "nl-AllTags-F1"
+  value: "40.47"
+}
+measure{
+  key: "nl-Lemmas-F1"
+  value: "41.20"
+}
+measure{
+  key: "nl-UAS-F1"
+  value: "73.38"
+}
+measure{
+  key: "nl-LAS-F1"
+  value: "65.22"
+}
+measure{
+  key: "nl-CLAS-F1"
+  value: "56.27"
+}
+measure{
+  key: "no_bokmaal-Status"
+  value: "Error: The system file is empty"
+}
+measure{
+  key: "no_nynorsk-Status"
+  value: "Error: The system file is empty"
+}
+measure{
+  key: "pl-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "pt_br-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "pt_pud-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "pt-Status"
+  value: "Error: There is a format error (tabs, ID values, etc) in generated CoNLL-U file"
+}
+measure{
+  key: "ro-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ro-Tokens-F1"
+  value: "99.64"
+}
+measure{
+  key: "ro-Sentences-F1"
+  value: "93.42"
+}
+measure{
+  key: "ro-Words-F1"
+  value: "99.64"
+}
+measure{
+  key: "ro-UPOS-F1"
+  value: "96.68"
+}
+measure{
+  key: "ro-XPOS-F1"
+  value: "50.09"
+}
+measure{
+  key: "ro-Feats-F1"
+  value: "95.96"
+}
+measure{
+  key: "ro-AllTags-F1"
+  value: "50.02"
+}
+measure{
+  key: "ro-Lemmas-F1"
+  value: "95.47"
+}
+measure{
+  key: "ro-UAS-F1"
+  value: "84.20"
+}
+measure{
+  key: "ro-LAS-F1"
+  value: "76.73"
+}
+measure{
+  key: "ro-CLAS-F1"
+  value: "69.92"
+}
+measure{
+  key: "ru_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ru_pud-Tokens-F1"
+  value: "97.18"
+}
+measure{
+  key: "ru_pud-Sentences-F1"
+  value: "98.95"
+}
+measure{
+  key: "ru_pud-Words-F1"
+  value: "97.18"
+}
+measure{
+  key: "ru_pud-UPOS-F1"
+  value: "71.00"
+}
+measure{
+  key: "ru_pud-XPOS-F1"
+  value: "68.82"
+}
+measure{
+  key: "ru_pud-Feats-F1"
+  value: "37.81"
+}
+measure{
+  key: "ru_pud-AllTags-F1"
+  value: "33.92"
+}
+measure{
+  key: "ru_pud-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru_pud-UAS-F1"
+  value: "57.49"
+}
+measure{
+  key: "ru_pud-LAS-F1"
+  value: "45.63"
+}
+measure{
+  key: "ru_pud-CLAS-F1"
+  value: "37.99"
+}
+measure{
+  key: "ru_syntagrus-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ru-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sk-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sl_sst-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sl-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sme-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sv_lines-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sv_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sv-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "tr_pud-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "tr-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ug-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "uk-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ur-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "vi-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "zh-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}

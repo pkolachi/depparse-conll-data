@@ -1,0 +1,9 @@
+python /home/Recurrent-Team/run_tira.py -i /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 -o /tmp/Recurrent-Team/2017-05-14-22-57-08/output
+
+
+perl /home/Recurrent-Team/tools/conllu_to_conllx.pl /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh-udpipe.conllu > /tmp/Recurrent-Team/2017-05-14-22-57-08/output/zhconllx
+python /home/Recurrent-Team/lexical_enabled_6.py -i /tmp/Recurrent-Team/2017-05-14-22-57-08/output/zhconllx -o /tmp/Recurrent-Team/2017-05-14-22-57-08/output/zhconllx-typo -p zh: -j 2
+python /home/Recurrent-Team/beforeParsing.py -f /tmp/Recurrent-Team/2017-05-14-22-57-08/output/zhconllx-typo > /tmp/Recurrent-Team/2017-05-14-22-57-08/output/zhto_parse
+java -jar /home/Recurrent-Team/CoNLL2017/ParseOracleArcStd.jar -t -1 -l 1 -c /tmp/Recurrent-Team/2017-05-14-22-57-08/output/zhto_parse -i /tmp/Recurrent-Team/2017-05-14-22-57-08/output/zhto_parse > /tmp/Recurrent-Team/2017-05-14-22-57-08/output/zhoracle
+/home/Recurrent-Team/language-universal-parser/parser/lstm-parse -P -S --training_data /media/data/data/zh/treebank_train.arcstd --dev_data /tmp/Recurrent-Team/2017-05-14-22-57-08/output/zhoracle --pretrained_dim 300 --pretrained /media/data/fastText/wiki.zh.vec_lid --brown_clusters  /home/Recurrent-Team/data/formatted-uni-clusters.256 --dynet_mem 50000 -m /media/data/models/parser_pos_2_32_64_16_60_12_10-pid84107.params  -C /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh-udpipe.conllu > /tmp/Recurrent-Team/2017-05-14-22-57-08/output/zhconllx_final_output 2>stderrforrun.log
+python afterParsing.py -c /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh-udpipe.conllu -p /tmp/Recurrent-Team/2017-05-14-22-57-08/output/zhconllx_final_output > /tmp/Recurrent-Team/2017-05-14-22-57-08/output/zh.conllu

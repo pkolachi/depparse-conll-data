@@ -1,0 +1,2106 @@
+loading ccg tagger for ar
+2017-05-14 08:07:28,189-|Supertagger:        load|-INFO-> loaded model from models_ccg/ar.pickle
+tagging ccg for ar dev
+2017-05-14 08:07:28,189-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:07:46,671-|Supertagger:         tag|-INFO-> 18.48s extracted test features
+2017-05-14 08:07:46,671-|Supertagger:         tag|-INFO-> processed 1000 sentences
+2017-05-14 08:07:48,476-|Supertagger:         tag|-INFO-> 1.80s generated predictions
+2017-05-14 08:07:48,927-|Supertagger:         tag|-INFO-> 0.45s saved as data_ccg/ar_pud-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/ar-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.454 (s)
+Initializing dependency parser ... done [10.0 sec].
+Test File: data_ccg/ar_pud-udpipe-ccg-2.conllu
+OOV Words: 3723 / 20086 = 18.54%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 20086 words in 1000 sentences in 8.3s at 2416.5 w/s, 120.3 sent/s.
+
+
+
+loading ccg tagger for ar
+2017-05-14 08:08:12,267-|Supertagger:        load|-INFO-> loaded model from models_ccg/ar.pickle
+tagging ccg for ar dev
+2017-05-14 08:08:12,267-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:08:24,808-|Supertagger:         tag|-INFO-> 12.54s extracted test features
+2017-05-14 08:08:24,809-|Supertagger:         tag|-INFO-> processed 597 sentences
+2017-05-14 08:08:26,938-|Supertagger:         tag|-INFO-> 2.13s generated predictions
+2017-05-14 08:08:27,479-|Supertagger:         tag|-INFO-> 0.54s saved as data_ccg/ar-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/ar-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.346 (s)
+Initializing dependency parser ... done [9.2 sec].
+Test File: data_ccg/ar-udpipe-ccg-2.conllu
+OOV Words: 2378 / 27578 = 8.62%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 27578 words in 597 sentences in 8.7s at 3179.8 w/s, 68.8 sent/s.
+
+
+
+loading ccg tagger for bg
+2017-05-14 08:08:48,728-|Supertagger:        load|-INFO-> loaded model from models_ccg/bg.pickle
+tagging ccg for bg dev
+2017-05-14 08:08:48,729-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:09:06,324-|Supertagger:         tag|-INFO-> 17.59s extracted test features
+2017-05-14 08:09:06,324-|Supertagger:         tag|-INFO-> processed 1088 sentences
+2017-05-14 08:09:07,384-|Supertagger:         tag|-INFO-> 1.06s generated predictions
+2017-05-14 08:09:07,662-|Supertagger:         tag|-INFO-> 0.28s saved as data_ccg/bg-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/bg-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 71
+#Labels: 35
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.506 (s)
+Initializing dependency parser ... done [9.7 sec].
+Test File: data_ccg/bg-udpipe-ccg-2.conllu
+OOV Words: 1932 / 15719 = 12.29%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 15719 words in 1088 sentences in 5.6s at 2806.0 w/s, 194.2 sent/s.
+
+
+
+loading ccg tagger for ru
+2017-05-14 08:09:26,218-|Supertagger:        load|-INFO-> loaded model from models_ccg/ru.pickle
+tagging ccg for ru dev
+2017-05-14 08:09:26,218-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:09:39,395-|Supertagger:         tag|-INFO-> 13.18s extracted test features
+2017-05-14 08:09:39,395-|Supertagger:         tag|-INFO-> processed 900 sentences
+2017-05-14 08:09:40,000-|Supertagger:         tag|-INFO-> 0.61s generated predictions
+2017-05-14 08:09:40,213-|Supertagger:         tag|-INFO-> 0.21s saved as data_ccg/bxr-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/ru-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 81
+#Labels: 40
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.716 (s)
+Initializing dependency parser ... done [10.7 sec].
+Test File: data_ccg/bxr-udpipe-ccg-2.conllu
+OOV Words: 8065 / 10028 = 80.42%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10028 words in 900 sentences in 16.1s at 623.5 w/s, 56.0 sent/s.
+
+
+
+loading ccg tagger for ca
+2017-05-14 08:10:10,522-|Supertagger:        load|-INFO-> loaded model from models_ccg/ca.pickle
+tagging ccg for ca dev
+2017-05-14 08:10:10,523-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:10:45,025-|Supertagger:         tag|-INFO-> 34.50s extracted test features
+2017-05-14 08:10:45,025-|Supertagger:         tag|-INFO-> processed 1851 sentences
+2017-05-14 08:10:50,264-|Supertagger:         tag|-INFO-> 5.24s generated predictions
+2017-05-14 08:10:51,220-|Supertagger:         tag|-INFO-> 0.95s saved as data_ccg/ca-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/ca-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 67
+#Labels: 33
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.338 (s)
+Initializing dependency parser ... done [9.8 sec].
+Test File: data_ccg/ca-udpipe-ccg-2.conllu
+OOV Words: 2922 / 57912 = 5.05%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 57912 words in 1851 sentences in 16.9s at 3434.7 w/s, 109.8 sent/s.
+
+
+
+loading ccg tagger for cs_cac
+2017-05-14 08:11:23,734-|Supertagger:        load|-INFO-> loaded model from models_ccg/cs_cac.pickle
+tagging ccg for cs_cac dev
+2017-05-14 08:11:23,735-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:11:35,064-|Supertagger:         tag|-INFO-> 11.33s extracted test features
+2017-05-14 08:11:35,064-|Supertagger:         tag|-INFO-> processed 628 sentences
+2017-05-14 08:11:36,152-|Supertagger:         tag|-INFO-> 1.09s generated predictions
+2017-05-14 08:11:36,384-|Supertagger:         tag|-INFO-> 0.23s saved as data_ccg/cs_cac-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/cs_cac-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 83
+#Labels: 41
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.39 (s)
+Initializing dependency parser ... done [14.4 sec].
+Test File: data_ccg/cs_cac-udpipe-ccg-2.conllu
+OOV Words: 1367 / 10862 = 12.59%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10862 words in 628 sentences in 5.1s at 2134.8 w/s, 123.4 sent/s.
+
+
+
+loading ccg tagger for cs_cltt
+2017-05-14 08:11:58,886-|Supertagger:        load|-INFO-> loaded model from models_ccg/cs_cltt.pickle
+tagging ccg for cs_cltt dev
+2017-05-14 08:11:58,887-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:12:06,104-|Supertagger:         tag|-INFO-> 7.22s extracted test features
+2017-05-14 08:12:06,105-|Supertagger:         tag|-INFO-> processed 316 sentences
+2017-05-14 08:12:06,856-|Supertagger:         tag|-INFO-> 0.75s generated predictions
+2017-05-14 08:12:07,070-|Supertagger:         tag|-INFO-> 0.21s saved as data_ccg/cs_cltt-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/cs_cltt-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 71
+#Labels: 35
+ROOTLABEL: root
+PreComputed 22959, Elapsed Time: 1.176 (s)
+Initializing dependency parser ... done [3.8 sec].
+Test File: data_ccg/cs_cltt-udpipe-ccg-2.conllu
+OOV Words: 1496 / 10708 = 13.97%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10708 words in 316 sentences in 5.0s at 2143.7 w/s, 63.3 sent/s.
+
+
+
+loading ccg tagger for cs
+2017-05-14 08:12:19,090-|Supertagger:        load|-INFO-> loaded model from models_ccg/cs.pickle
+tagging ccg for cs dev
+2017-05-14 08:12:19,090-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:12:37,849-|Supertagger:         tag|-INFO-> 18.76s extracted test features
+2017-05-14 08:12:37,849-|Supertagger:         tag|-INFO-> processed 1016 sentences
+2017-05-14 08:12:39,779-|Supertagger:         tag|-INFO-> 1.93s generated predictions
+2017-05-14 08:12:40,109-|Supertagger:         tag|-INFO-> 0.33s saved as data_ccg/cs_pud-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/cs-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 83
+#Labels: 41
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.846 (s)
+Initializing dependency parser ... done [20.0 sec].
+Test File: data_ccg/cs_pud-udpipe-ccg-2.conllu
+OOV Words: 2131 / 18621 = 11.44%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 18621 words in 1016 sentences in 8.4s at 2224.2 w/s, 121.4 sent/s.
+
+
+
+loading ccg tagger for cs
+2017-05-14 08:13:11,917-|Supertagger:        load|-INFO-> loaded model from models_ccg/cs.pickle
+tagging ccg for cs dev
+2017-05-14 08:13:11,920-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:16:32,638-|Supertagger:         tag|-INFO-> 200.72s extracted test features
+2017-05-14 08:16:32,639-|Supertagger:         tag|-INFO-> processed 9853 sentences
+2017-05-14 08:16:53,573-|Supertagger:         tag|-INFO-> 20.93s generated predictions
+2017-05-14 08:16:57,124-|Supertagger:         tag|-INFO-> 3.55s saved as data_ccg/cs-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/cs-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 83
+#Labels: 41
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.76 (s)
+Initializing dependency parser ... done [19.2 sec].
+Test File: data_ccg/cs-udpipe-ccg-2.conllu
+OOV Words: 12265 / 173781 = 7.06%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 173781 words in 9853 sentences in 57.0s at 3048.7 w/s, 172.9 sent/s.
+
+
+
+loading ccg tagger for cu
+2017-05-14 08:18:36,443-|Supertagger:        load|-INFO-> loaded model from models_ccg/cu.pickle
+tagging ccg for cu dev
+2017-05-14 08:18:36,444-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:18:50,430-|Supertagger:         tag|-INFO-> 13.99s extracted test features
+2017-05-14 08:18:50,430-|Supertagger:         tag|-INFO-> processed 917 sentences
+2017-05-14 08:18:51,079-|Supertagger:         tag|-INFO-> 0.65s generated predictions
+2017-05-14 08:18:51,263-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/cu-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/cu-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 63
+#Labels: 31
+ROOTLABEL: root
+PreComputed 46537, Elapsed Time: 2.209 (s)
+Initializing dependency parser ... done [5.4 sec].
+Test File: data_ccg/cu-udpipe-ccg-2.conllu
+OOV Words: 1419 / 10034 = 14.14%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10034 words in 917 sentences in 4.0s at 2490.4 w/s, 227.6 sent/s.
+
+
+
+loading ccg tagger for da
+2017-05-14 08:19:03,659-|Supertagger:        load|-INFO-> loaded model from models_ccg/da.pickle
+tagging ccg for da dev
+2017-05-14 08:19:03,661-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:19:13,033-|Supertagger:         tag|-INFO-> 9.37s extracted test features
+2017-05-14 08:19:13,034-|Supertagger:         tag|-INFO-> processed 564 sentences
+2017-05-14 08:19:13,791-|Supertagger:         tag|-INFO-> 0.76s generated predictions
+2017-05-14 08:19:13,953-|Supertagger:         tag|-INFO-> 0.16s saved as data_ccg/da-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/da-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 73
+#Labels: 36
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.198 (s)
+Initializing dependency parser ... done [8.3 sec].
+Test File: data_ccg/da-udpipe-ccg-2.conllu
+OOV Words: 1541 / 10045 = 15.34%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10045 words in 564 sentences in 3.7s at 2736.3 w/s, 153.6 sent/s.
+
+
+
+loading ccg tagger for de
+2017-05-14 08:19:28,700-|Supertagger:        load|-INFO-> loaded model from models_ccg/de.pickle
+tagging ccg for de dev
+2017-05-14 08:19:28,700-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:19:46,508-|Supertagger:         tag|-INFO-> 17.81s extracted test features
+2017-05-14 08:19:46,508-|Supertagger:         tag|-INFO-> processed 1102 sentences
+2017-05-14 08:19:48,054-|Supertagger:         tag|-INFO-> 1.55s generated predictions
+2017-05-14 08:19:48,401-|Supertagger:         tag|-INFO-> 0.35s saved as data_ccg/de_pud-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/de-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 71
+#Labels: 35
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.383 (s)
+Initializing dependency parser ... done [11.8 sec].
+Test File: data_ccg/de_pud-udpipe-ccg-2.conllu
+OOV Words: 2813 / 21068 = 13.35%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 21068 words in 1102 sentences in 7.7s at 2748.2 w/s, 143.8 sent/s.
+
+
+
+loading ccg tagger for de
+2017-05-14 08:20:11,143-|Supertagger:        load|-INFO-> loaded model from models_ccg/de.pickle
+tagging ccg for de dev
+2017-05-14 08:20:11,143-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:20:25,412-|Supertagger:         tag|-INFO-> 14.27s extracted test features
+2017-05-14 08:20:25,412-|Supertagger:         tag|-INFO-> processed 909 sentences
+2017-05-14 08:20:26,622-|Supertagger:         tag|-INFO-> 1.21s generated predictions
+2017-05-14 08:20:26,887-|Supertagger:         tag|-INFO-> 0.26s saved as data_ccg/de-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/de-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 71
+#Labels: 35
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.373 (s)
+Initializing dependency parser ... done [11.7 sec].
+Test File: data_ccg/de-udpipe-ccg-2.conllu
+OOV Words: 1913 / 16287 = 11.75%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 16287 words in 909 sentences in 6.3s at 2593.9 w/s, 144.8 sent/s.
+
+
+
+loading ccg tagger for el
+2017-05-14 08:20:48,140-|Supertagger:        load|-INFO-> loaded model from models_ccg/el.pickle
+tagging ccg for el dev
+2017-05-14 08:20:48,141-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:20:56,149-|Supertagger:         tag|-INFO-> 8.01s extracted test features
+2017-05-14 08:20:56,149-|Supertagger:         tag|-INFO-> processed 445 sentences
+2017-05-14 08:20:56,814-|Supertagger:         tag|-INFO-> 0.66s generated predictions
+2017-05-14 08:20:56,992-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/el-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/el-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 68204, Elapsed Time: 3.583 (s)
+Initializing dependency parser ... done [7.5 sec].
+Test File: data_ccg/el-udpipe-ccg-2.conllu
+OOV Words: 1789 / 10428 = 17.16%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10428 words in 445 sentences in 4.8s at 2173.0 w/s, 92.7 sent/s.
+
+
+
+loading ccg tagger for en_lines
+2017-05-14 08:21:12,133-|Supertagger:        load|-INFO-> loaded model from models_ccg/en_lines.pickle
+tagging ccg for en_lines dev
+2017-05-14 08:21:12,133-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:21:24,168-|Supertagger:         tag|-INFO-> 12.03s extracted test features
+2017-05-14 08:21:24,168-|Supertagger:         tag|-INFO-> processed 908 sentences
+2017-05-14 08:21:24,836-|Supertagger:         tag|-INFO-> 0.67s generated predictions
+2017-05-14 08:21:25,071-|Supertagger:         tag|-INFO-> 0.24s saved as data_ccg/en_lines-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/en_lines-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 75
+#Labels: 37
+ROOTLABEL: root
+PreComputed 48373, Elapsed Time: 2.104 (s)
+Initializing dependency parser ... done [5.0 sec].
+Test File: data_ccg/en_lines-udpipe-ccg-2.conllu
+OOV Words: 1617 / 15626 = 10.35%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 15626 words in 908 sentences in 5.1s at 3038.3 w/s, 176.6 sent/s.
+
+
+
+loading ccg tagger for en_partut
+2017-05-14 08:21:38,002-|Supertagger:        load|-INFO-> loaded model from models_ccg/en_partut.pickle
+tagging ccg for en_partut dev
+2017-05-14 08:21:38,002-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:21:45,971-|Supertagger:         tag|-INFO-> 7.97s extracted test features
+2017-05-14 08:21:45,971-|Supertagger:         tag|-INFO-> processed 503 sentences
+2017-05-14 08:21:46,586-|Supertagger:         tag|-INFO-> 0.61s generated predictions
+2017-05-14 08:21:46,766-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/en_partut-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/en_partut-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 89
+#Labels: 44
+ROOTLABEL: root
+PreComputed 48739, Elapsed Time: 2.16 (s)
+Initializing dependency parser ... done [5.2 sec].
+Test File: data_ccg/en_partut-udpipe-ccg-2.conllu
+OOV Words: 1380 / 11513 = 11.99%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 11513 words in 503 sentences in 4.4s at 2590.7 w/s, 113.2 sent/s.
+
+
+
+loading ccg tagger for en
+2017-05-14 08:21:59,287-|Supertagger:        load|-INFO-> loaded model from models_ccg/en.pickle
+tagging ccg for en dev
+2017-05-14 08:21:59,288-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:22:15,687-|Supertagger:         tag|-INFO-> 16.40s extracted test features
+2017-05-14 08:22:15,687-|Supertagger:         tag|-INFO-> processed 1018 sentences
+2017-05-14 08:22:17,162-|Supertagger:         tag|-INFO-> 1.48s generated predictions
+2017-05-14 08:22:17,492-|Supertagger:         tag|-INFO-> 0.33s saved as data_ccg/en_pud-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/en-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 101
+#Labels: 50
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.304 (s)
+Initializing dependency parser ... done [8.6 sec].
+Test File: data_ccg/en_pud-udpipe-ccg-2.conllu
+OOV Words: 2415 / 21155 = 11.42%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 21155 words in 1018 sentences in 7.6s at 2787.6 w/s, 134.1 sent/s.
+
+
+
+loading ccg tagger for en
+2017-05-14 08:22:36,985-|Supertagger:        load|-INFO-> loaded model from models_ccg/en.pickle
+tagging ccg for en dev
+2017-05-14 08:22:36,985-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:23:01,732-|Supertagger:         tag|-INFO-> 24.75s extracted test features
+2017-05-14 08:23:01,732-|Supertagger:         tag|-INFO-> processed 1698 sentences
+2017-05-14 08:23:03,458-|Supertagger:         tag|-INFO-> 1.73s generated predictions
+2017-05-14 08:23:03,859-|Supertagger:         tag|-INFO-> 0.40s saved as data_ccg/en-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/en-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 101
+#Labels: 50
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.217 (s)
+Initializing dependency parser ... done [8.5 sec].
+Test File: data_ccg/en-udpipe-ccg-2.conllu
+OOV Words: 2358 / 25001 = 9.43%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 25001 words in 1698 sentences in 7.8s at 3199.1 w/s, 217.3 sent/s.
+
+
+
+loading ccg tagger for es_ancora
+2017-05-14 08:23:23,962-|Supertagger:        load|-INFO-> loaded model from models_ccg/es_ancora.pickle
+tagging ccg for es_ancora dev
+2017-05-14 08:23:23,963-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:23:55,580-|Supertagger:         tag|-INFO-> 31.62s extracted test features
+2017-05-14 08:23:55,580-|Supertagger:         tag|-INFO-> processed 1741 sentences
+2017-05-14 08:24:00,156-|Supertagger:         tag|-INFO-> 4.58s generated predictions
+2017-05-14 08:24:01,022-|Supertagger:         tag|-INFO-> 0.87s saved as data_ccg/es_ancora-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/es_ancora-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.61 (s)
+Initializing dependency parser ... done [11.0 sec].
+Test File: data_ccg/es_ancora-udpipe-ccg-2.conllu
+OOV Words: 2854 / 52613 = 5.42%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 52613 words in 1741 sentences in 16.3s at 3226.0 w/s, 106.8 sent/s.
+
+
+
+loading ccg tagger for es
+2017-05-14 08:24:32,940-|Supertagger:        load|-INFO-> loaded model from models_ccg/es.pickle
+tagging ccg for es dev
+2017-05-14 08:24:32,941-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:24:51,962-|Supertagger:         tag|-INFO-> 19.02s extracted test features
+2017-05-14 08:24:51,962-|Supertagger:         tag|-INFO-> processed 1021 sentences
+2017-05-14 08:24:53,813-|Supertagger:         tag|-INFO-> 1.85s generated predictions
+2017-05-14 08:24:54,197-|Supertagger:         tag|-INFO-> 0.38s saved as data_ccg/es_pud-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/es-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.053 (s)
+Initializing dependency parser ... done [11.1 sec].
+Test File: data_ccg/es_pud-udpipe-ccg-2.conllu
+OOV Words: 1580 / 23255 = 6.79%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 23255 words in 1021 sentences in 7.1s at 3253.4 w/s, 142.8 sent/s.
+
+
+
+loading ccg tagger for es
+2017-05-14 08:25:15,857-|Supertagger:        load|-INFO-> loaded model from models_ccg/es.pickle
+tagging ccg for es dev
+2017-05-14 08:25:15,859-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:25:23,235-|Supertagger:         tag|-INFO-> 7.38s extracted test features
+2017-05-14 08:25:23,236-|Supertagger:         tag|-INFO-> processed 411 sentences
+2017-05-14 08:25:24,260-|Supertagger:         tag|-INFO-> 1.02s generated predictions
+2017-05-14 08:25:24,461-|Supertagger:         tag|-INFO-> 0.20s saved as data_ccg/es-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/es-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.222 (s)
+Initializing dependency parser ... done [11.1 sec].
+Test File: data_ccg/es-udpipe-ccg-2.conllu
+OOV Words: 884 / 11997 = 7.37%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 11997 words in 411 sentences in 4.4s at 2699.0 w/s, 92.5 sent/s.
+
+
+
+loading ccg tagger for et
+2017-05-14 08:25:42,873-|Supertagger:        load|-INFO-> loaded model from models_ccg/et.pickle
+tagging ccg for et dev
+2017-05-14 08:25:42,875-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:25:57,089-|Supertagger:         tag|-INFO-> 14.21s extracted test features
+2017-05-14 08:25:57,089-|Supertagger:         tag|-INFO-> processed 952 sentences
+2017-05-14 08:25:57,796-|Supertagger:         tag|-INFO-> 0.71s generated predictions
+2017-05-14 08:25:58,004-|Supertagger:         tag|-INFO-> 0.21s saved as data_ccg/et-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/et-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 71
+#Labels: 35
+ROOTLABEL: root
+PreComputed 54632, Elapsed Time: 2.407 (s)
+Initializing dependency parser ... done [5.6 sec].
+Test File: data_ccg/et-udpipe-ccg-2.conllu
+OOV Words: 3895 / 12411 = 31.38%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 12411 words in 952 sentences in 6.1s at 2031.3 w/s, 155.8 sent/s.
+
+
+
+loading ccg tagger for eu
+2017-05-14 08:26:12,898-|Supertagger:        load|-INFO-> loaded model from models_ccg/eu.pickle
+tagging ccg for eu dev
+2017-05-14 08:26:12,900-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:26:40,456-|Supertagger:         tag|-INFO-> 27.56s extracted test features
+2017-05-14 08:26:40,456-|Supertagger:         tag|-INFO-> processed 1802 sentences
+2017-05-14 08:26:42,016-|Supertagger:         tag|-INFO-> 1.56s generated predictions
+2017-05-14 08:26:42,424-|Supertagger:         tag|-INFO-> 0.41s saved as data_ccg/eu-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/eu-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 61
+#Labels: 30
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.426 (s)
+Initializing dependency parser ... done [8.9 sec].
+Test File: data_ccg/eu-udpipe-ccg-2.conllu
+OOV Words: 4347 / 24376 = 17.83%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 24376 words in 1802 sentences in 9.0s at 2697.1 w/s, 199.4 sent/s.
+
+
+
+loading ccg tagger for fa
+2017-05-14 08:27:04,015-|Supertagger:        load|-INFO-> loaded model from models_ccg/fa.pickle
+tagging ccg for fa dev
+2017-05-14 08:27:04,015-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:27:13,588-|Supertagger:         tag|-INFO-> 9.57s extracted test features
+2017-05-14 08:27:13,588-|Supertagger:         tag|-INFO-> processed 598 sentences
+2017-05-14 08:27:14,571-|Supertagger:         tag|-INFO-> 0.98s generated predictions
+2017-05-14 08:27:14,841-|Supertagger:         tag|-INFO-> 0.27s saved as data_ccg/fa-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/fa-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 75
+#Labels: 37
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.33 (s)
+Initializing dependency parser ... done [8.3 sec].
+Test File: data_ccg/fa-udpipe-ccg-2.conllu
+OOV Words: 1339 / 15994 = 8.37%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 15994 words in 598 sentences in 5.1s at 3132.4 w/s, 117.1 sent/s.
+
+
+
+loading ccg tagger for fi_ftb
+2017-05-14 08:27:31,316-|Supertagger:        load|-INFO-> loaded model from models_ccg/fi_ftb.pickle
+tagging ccg for fi_ftb dev
+2017-05-14 08:27:31,317-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:27:57,172-|Supertagger:         tag|-INFO-> 25.85s extracted test features
+2017-05-14 08:27:57,172-|Supertagger:         tag|-INFO-> processed 1795 sentences
+2017-05-14 08:27:58,360-|Supertagger:         tag|-INFO-> 1.19s generated predictions
+2017-05-14 08:27:58,646-|Supertagger:         tag|-INFO-> 0.29s saved as data_ccg/fi_ftb-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/fi_ftb-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 77
+#Labels: 38
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.282 (s)
+Initializing dependency parser ... done [10.9 sec].
+Test File: data_ccg/fi_ftb-udpipe-ccg-2.conllu
+OOV Words: 3755 / 16296 = 23.04%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 16296 words in 1795 sentences in 7.2s at 2258.0 w/s, 248.7 sent/s.
+
+
+
+loading ccg tagger for fi
+2017-05-14 08:28:20,305-|Supertagger:        load|-INFO-> loaded model from models_ccg/fi.pickle
+tagging ccg for fi dev
+2017-05-14 08:28:20,305-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:28:36,926-|Supertagger:         tag|-INFO-> 16.62s extracted test features
+2017-05-14 08:28:36,926-|Supertagger:         tag|-INFO-> processed 1039 sentences
+2017-05-14 08:28:38,120-|Supertagger:         tag|-INFO-> 1.19s generated predictions
+2017-05-14 08:28:38,380-|Supertagger:         tag|-INFO-> 0.26s saved as data_ccg/fi_pud-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/fi-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 93
+#Labels: 46
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.242 (s)
+Initializing dependency parser ... done [12.0 sec].
+Test File: data_ccg/fi_pud-udpipe-ccg-2.conllu
+OOV Words: 4420 / 15782 = 28.01%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 15782 words in 1039 sentences in 7.4s at 2143.4 w/s, 141.1 sent/s.
+
+
+
+loading ccg tagger for fi
+2017-05-14 08:29:01,315-|Supertagger:        load|-INFO-> loaded model from models_ccg/fi.pickle
+tagging ccg for fi dev
+2017-05-14 08:29:01,316-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:29:23,921-|Supertagger:         tag|-INFO-> 22.60s extracted test features
+2017-05-14 08:29:23,921-|Supertagger:         tag|-INFO-> processed 1444 sentences
+2017-05-14 08:29:25,459-|Supertagger:         tag|-INFO-> 1.54s generated predictions
+2017-05-14 08:29:25,786-|Supertagger:         tag|-INFO-> 0.33s saved as data_ccg/fi-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/fi-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 93
+#Labels: 46
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.187 (s)
+Initializing dependency parser ... done [11.1 sec].
+Test File: data_ccg/fi-udpipe-ccg-2.conllu
+OOV Words: 4998 / 21008 = 23.79%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 21008 words in 1444 sentences in 9.7s at 2175.2 w/s, 149.5 sent/s.
+
+
+
+loading ccg tagger for fr
+2017-05-14 08:29:49,988-|Supertagger:        load|-INFO-> loaded model from models_ccg/fr.pickle
+tagging ccg for fr dev
+2017-05-14 08:29:49,989-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:29:56,749-|Supertagger:         tag|-INFO-> 6.76s extracted test features
+2017-05-14 08:29:56,749-|Supertagger:         tag|-INFO-> processed 402 sentences
+2017-05-14 08:29:57,470-|Supertagger:         tag|-INFO-> 0.72s generated predictions
+2017-05-14 08:29:57,646-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/fr_partut-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/fr-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 81
+#Labels: 40
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.179 (s)
+Initializing dependency parser ... done [11.0 sec].
+Test File: data_ccg/fr_partut-udpipe-ccg-2.conllu
+OOV Words: 438 / 10737 = 4.08%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10737 words in 402 sentences in 12.1s at 887.2 w/s, 33.2 sent/s.
+
+
+
+loading ccg tagger for fr
+2017-05-14 08:30:23,733-|Supertagger:        load|-INFO-> loaded model from models_ccg/fr.pickle
+tagging ccg for fr dev
+2017-05-14 08:30:23,733-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:30:42,594-|Supertagger:         tag|-INFO-> 18.86s extracted test features
+2017-05-14 08:30:42,594-|Supertagger:         tag|-INFO-> processed 1043 sentences
+2017-05-14 08:30:44,727-|Supertagger:         tag|-INFO-> 2.13s generated predictions
+2017-05-14 08:30:45,203-|Supertagger:         tag|-INFO-> 0.48s saved as data_ccg/fr_pud-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/fr-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 81
+#Labels: 40
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.926 (s)
+Initializing dependency parser ... done [12.5 sec].
+Test File: data_ccg/fr_pud-udpipe-ccg-2.conllu
+OOV Words: 1933 / 24762 = 7.81%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 24762 words in 1043 sentences in 8.9s at 2776.6 w/s, 117.0 sent/s.
+
+
+
+loading ccg tagger for fr_sequoia
+2017-05-14 08:31:10,531-|Supertagger:        load|-INFO-> loaded model from models_ccg/fr_sequoia.pickle
+tagging ccg for fr_sequoia dev
+2017-05-14 08:31:10,532-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:31:18,366-|Supertagger:         tag|-INFO-> 7.83s extracted test features
+2017-05-14 08:31:18,366-|Supertagger:         tag|-INFO-> processed 430 sentences
+2017-05-14 08:31:18,955-|Supertagger:         tag|-INFO-> 0.59s generated predictions
+2017-05-14 08:31:19,107-|Supertagger:         tag|-INFO-> 0.15s saved as data_ccg/fr_sequoia-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/fr_sequoia-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 73
+#Labels: 36
+ROOTLABEL: root
+PreComputed 64746, Elapsed Time: 3.168 (s)
+Initializing dependency parser ... done [6.2 sec].
+Test File: data_ccg/fr_sequoia-udpipe-ccg-2.conllu
+OOV Words: 925 / 10111 = 9.15%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10111 words in 430 sentences in 3.8s at 2639.9 w/s, 112.3 sent/s.
+
+
+
+loading ccg tagger for fr
+2017-05-14 08:31:31,610-|Supertagger:        load|-INFO-> loaded model from models_ccg/fr.pickle
+tagging ccg for fr dev
+2017-05-14 08:31:31,611-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:31:38,046-|Supertagger:         tag|-INFO-> 6.43s extracted test features
+2017-05-14 08:31:38,046-|Supertagger:         tag|-INFO-> processed 411 sentences
+2017-05-14 08:31:38,735-|Supertagger:         tag|-INFO-> 0.69s generated predictions
+2017-05-14 08:31:38,888-|Supertagger:         tag|-INFO-> 0.15s saved as data_ccg/fr-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/fr-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 81
+#Labels: 40
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.263 (s)
+Initializing dependency parser ... done [10.5 sec].
+Test File: data_ccg/fr-udpipe-ccg-2.conllu
+OOV Words: 608 / 10078 = 6.03%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10078 words in 411 sentences in 3.9s at 2576.2 w/s, 105.1 sent/s.
+
+
+
+loading ccg tagger for en
+2017-05-14 08:31:55,942-|Supertagger:        load|-INFO-> loaded model from models_ccg/en.pickle
+tagging ccg for en dev
+2017-05-14 08:31:55,942-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:32:03,652-|Supertagger:         tag|-INFO-> 7.71s extracted test features
+2017-05-14 08:32:03,652-|Supertagger:         tag|-INFO-> processed 452 sentences
+2017-05-14 08:32:04,329-|Supertagger:         tag|-INFO-> 0.68s generated predictions
+2017-05-14 08:32:04,492-|Supertagger:         tag|-INFO-> 0.16s saved as data_ccg/ga-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/en-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 101
+#Labels: 50
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.416 (s)
+Initializing dependency parser ... done [8.6 sec].
+Test File: data_ccg/ga-udpipe-ccg-2.conllu
+OOV Words: 6933 / 10125 = 68.47%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10125 words in 452 sentences in 15.6s at 649.3 w/s, 29.0 sent/s.
+
+
+
+loading ccg tagger for gl
+2017-05-14 08:32:31,843-|Supertagger:        load|-INFO-> loaded model from models_ccg/gl.pickle
+tagging ccg for gl dev
+2017-05-14 08:32:31,844-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:32:39,742-|Supertagger:         tag|-INFO-> 7.90s extracted test features
+2017-05-14 08:32:39,743-|Supertagger:         tag|-INFO-> processed 384 sentences
+2017-05-14 08:32:40,381-|Supertagger:         tag|-INFO-> 0.64s generated predictions
+2017-05-14 08:32:40,574-|Supertagger:         tag|-INFO-> 0.20s saved as data_ccg/gl_treegal-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/gl-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 41
+#Labels: 20
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.032 (s)
+Initializing dependency parser ... done [9.2 sec].
+Test File: data_ccg/gl_treegal-udpipe-ccg-2.conllu
+OOV Words: 1595 / 10107 = 15.78%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10107 words in 384 sentences in 12.1s at 835.6 w/s, 31.7 sent/s.
+
+
+
+loading ccg tagger for gl
+2017-05-14 08:33:05,095-|Supertagger:        load|-INFO-> loaded model from models_ccg/gl.pickle
+tagging ccg for gl dev
+2017-05-14 08:33:05,096-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:33:20,063-|Supertagger:         tag|-INFO-> 14.97s extracted test features
+2017-05-14 08:33:20,064-|Supertagger:         tag|-INFO-> processed 877 sentences
+2017-05-14 08:33:22,028-|Supertagger:         tag|-INFO-> 1.96s generated predictions
+2017-05-14 08:33:22,584-|Supertagger:         tag|-INFO-> 0.56s saved as data_ccg/gl-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/gl-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 41
+#Labels: 20
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.975 (s)
+Initializing dependency parser ... done [9.1 sec].
+Test File: data_ccg/gl-udpipe-ccg-2.conllu
+OOV Words: 2940 / 29745 = 9.88%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 29745 words in 877 sentences in 9.6s at 3102.0 w/s, 91.5 sent/s.
+
+
+
+loading ccg tagger for de
+2017-05-14 08:33:45,524-|Supertagger:        load|-INFO-> loaded model from models_ccg/de.pickle
+tagging ccg for de dev
+2017-05-14 08:33:45,525-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:33:59,168-|Supertagger:         tag|-INFO-> 13.64s extracted test features
+2017-05-14 08:33:59,168-|Supertagger:         tag|-INFO-> processed 825 sentences
+2017-05-14 08:33:59,856-|Supertagger:         tag|-INFO-> 0.69s generated predictions
+2017-05-14 08:34:00,030-|Supertagger:         tag|-INFO-> 0.17s saved as data_ccg/got-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/de-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 71
+#Labels: 35
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.15 (s)
+Initializing dependency parser ... done [11.2 sec].
+Test File: data_ccg/got-udpipe-ccg-2.conllu
+OOV Words: 8962 / 10182 = 88.02%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10182 words in 825 sentences in 14.5s at 700.1 w/s, 56.7 sent/s.
+
+
+
+loading ccg tagger for grc_proiel
+2017-05-14 08:34:28,617-|Supertagger:        load|-INFO-> loaded model from models_ccg/grc_proiel.pickle
+tagging ccg for grc_proiel dev
+2017-05-14 08:34:28,617-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:34:42,847-|Supertagger:         tag|-INFO-> 14.23s extracted test features
+2017-05-14 08:34:42,848-|Supertagger:         tag|-INFO-> processed 869 sentences
+2017-05-14 08:34:43,909-|Supertagger:         tag|-INFO-> 1.06s generated predictions
+2017-05-14 08:34:44,145-|Supertagger:         tag|-INFO-> 0.24s saved as data_ccg/grc_proiel-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/grc_proiel-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 67
+#Labels: 33
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.187 (s)
+Initializing dependency parser ... done [10.1 sec].
+Test File: data_ccg/grc_proiel-udpipe-ccg-2.conllu
+OOV Words: 1478 / 13314 = 11.10%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 13314 words in 869 sentences in 5.0s at 2660.1 w/s, 173.6 sent/s.
+
+
+
+loading ccg tagger for grc
+2017-05-14 08:35:02,386-|Supertagger:        load|-INFO-> loaded model from models_ccg/grc.pickle
+tagging ccg for grc dev
+2017-05-14 08:35:02,386-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:35:22,351-|Supertagger:         tag|-INFO-> 19.97s extracted test features
+2017-05-14 08:35:22,351-|Supertagger:         tag|-INFO-> processed 1309 sentences
+2017-05-14 08:35:23,691-|Supertagger:         tag|-INFO-> 1.34s generated predictions
+2017-05-14 08:35:24,037-|Supertagger:         tag|-INFO-> 0.35s saved as data_ccg/grc-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/grc-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 51
+#Labels: 25
+ROOTLABEL: root
+PreComputed 93302, Elapsed Time: 4.229 (s)
+Initializing dependency parser ... done [10.4 sec].
+Test File: data_ccg/grc-udpipe-ccg-2.conllu
+OOV Words: 5456 / 20964 = 26.03%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 20964 words in 1309 sentences in 9.7s at 2162.4 w/s, 135.0 sent/s.
+
+
+
+loading ccg tagger for he
+2017-05-14 08:35:47,971-|Supertagger:        load|-INFO-> loaded model from models_ccg/he.pickle
+tagging ccg for he dev
+2017-05-14 08:35:47,971-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:35:56,237-|Supertagger:         tag|-INFO-> 8.27s extracted test features
+2017-05-14 08:35:56,238-|Supertagger:         tag|-INFO-> processed 491 sentences
+2017-05-14 08:35:57,021-|Supertagger:         tag|-INFO-> 0.78s generated predictions
+2017-05-14 08:35:57,238-|Supertagger:         tag|-INFO-> 0.22s saved as data_ccg/he-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/he-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 87
+#Labels: 43
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.135 (s)
+Initializing dependency parser ... done [9.9 sec].
+Test File: data_ccg/he-udpipe-ccg-2.conllu
+OOV Words: 1665 / 11316 = 14.71%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 11316 words in 491 sentences in 5.6s at 2023.6 w/s, 87.8 sent/s.
+
+
+
+loading ccg tagger for hi
+2017-05-14 08:36:15,969-|Supertagger:        load|-INFO-> loaded model from models_ccg/hi.pickle
+tagging ccg for hi dev
+2017-05-14 08:36:15,969-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:36:34,101-|Supertagger:         tag|-INFO-> 18.13s extracted test features
+2017-05-14 08:36:34,101-|Supertagger:         tag|-INFO-> processed 1050 sentences
+2017-05-14 08:36:35,916-|Supertagger:         tag|-INFO-> 1.81s generated predictions
+2017-05-14 08:36:36,321-|Supertagger:         tag|-INFO-> 0.41s saved as data_ccg/hi_pud-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/hi-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 55
+#Labels: 27
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.311 (s)
+Initializing dependency parser ... done [8.6 sec].
+Test File: data_ccg/hi_pud-udpipe-ccg-2.conllu
+OOV Words: 2963 / 23412 = 12.66%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 23412 words in 1050 sentences in 7.8s at 3007.3 w/s, 134.9 sent/s.
+
+
+
+loading ccg tagger for hi
+2017-05-14 08:36:56,182-|Supertagger:        load|-INFO-> loaded model from models_ccg/hi.pickle
+tagging ccg for hi dev
+2017-05-14 08:36:56,182-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:37:26,060-|Supertagger:         tag|-INFO-> 29.88s extracted test features
+2017-05-14 08:37:26,061-|Supertagger:         tag|-INFO-> processed 1675 sentences
+2017-05-14 08:37:29,272-|Supertagger:         tag|-INFO-> 3.21s generated predictions
+2017-05-14 08:37:30,001-|Supertagger:         tag|-INFO-> 0.73s saved as data_ccg/hi-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/hi-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 55
+#Labels: 27
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.063 (s)
+Initializing dependency parser ... done [9.9 sec].
+Test File: data_ccg/hi-udpipe-ccg-2.conllu
+OOV Words: 1636 / 35430 = 4.62%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 35430 words in 1675 sentences in 9.3s at 3817.5 w/s, 180.5 sent/s.
+
+
+
+loading ccg tagger for hr
+2017-05-14 08:37:53,727-|Supertagger:        load|-INFO-> loaded model from models_ccg/hr.pickle
+tagging ccg for hr dev
+2017-05-14 08:37:53,727-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:38:03,951-|Supertagger:         tag|-INFO-> 10.22s extracted test features
+2017-05-14 08:38:03,952-|Supertagger:         tag|-INFO-> processed 601 sentences
+2017-05-14 08:38:04,969-|Supertagger:         tag|-INFO-> 1.02s generated predictions
+2017-05-14 08:38:05,188-|Supertagger:         tag|-INFO-> 0.22s saved as data_ccg/hr-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/hr-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 83
+#Labels: 41
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.351 (s)
+Initializing dependency parser ... done [10.4 sec].
+Test File: data_ccg/hr-udpipe-ccg-2.conllu
+OOV Words: 1862 / 13226 = 14.08%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 13226 words in 601 sentences in 5.7s at 2335.5 w/s, 106.1 sent/s.
+
+
+
+loading ccg tagger for cs
+2017-05-14 08:38:24,419-|Supertagger:        load|-INFO-> loaded model from models_ccg/cs.pickle
+tagging ccg for cs dev
+2017-05-14 08:38:24,420-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:38:34,802-|Supertagger:         tag|-INFO-> 10.38s extracted test features
+2017-05-14 08:38:34,802-|Supertagger:         tag|-INFO-> processed 623 sentences
+2017-05-14 08:38:35,724-|Supertagger:         tag|-INFO-> 0.92s generated predictions
+2017-05-14 08:38:35,908-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/hsb-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/cs-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 83
+#Labels: 41
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.713 (s)
+Initializing dependency parser ... done [19.1 sec].
+Test File: data_ccg/hsb-udpipe-ccg-2.conllu
+OOV Words: 6290 / 10718 = 58.69%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10718 words in 623 sentences in 12.9s at 830.5 w/s, 48.3 sent/s.
+
+
+
+loading ccg tagger for hu
+2017-05-14 08:39:10,810-|Supertagger:        load|-INFO-> loaded model from models_ccg/hu.pickle
+tagging ccg for hu dev
+2017-05-14 08:39:10,810-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:39:18,918-|Supertagger:         tag|-INFO-> 8.11s extracted test features
+2017-05-14 08:39:18,918-|Supertagger:         tag|-INFO-> processed 461 sentences
+2017-05-14 08:39:19,534-|Supertagger:         tag|-INFO-> 0.62s generated predictions
+2017-05-14 08:39:19,708-|Supertagger:         tag|-INFO-> 0.17s saved as data_ccg/hu-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/hu-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 109
+#Labels: 54
+ROOTLABEL: root
+PreComputed 50110, Elapsed Time: 2.116 (s)
+Initializing dependency parser ... done [5.2 sec].
+Test File: data_ccg/hu-udpipe-ccg-2.conllu
+OOV Words: 3878 / 10463 = 37.06%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10463 words in 461 sentences in 6.1s at 1718.1 w/s, 75.7 sent/s.
+
+
+
+loading ccg tagger for id
+2017-05-14 08:39:33,731-|Supertagger:        load|-INFO-> loaded model from models_ccg/id.pickle
+tagging ccg for id dev
+2017-05-14 08:39:33,732-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:39:40,732-|Supertagger:         tag|-INFO-> 7.00s extracted test features
+2017-05-14 08:39:40,732-|Supertagger:         tag|-INFO-> processed 562 sentences
+2017-05-14 08:39:41,323-|Supertagger:         tag|-INFO-> 0.59s generated predictions
+2017-05-14 08:39:41,492-|Supertagger:         tag|-INFO-> 0.17s saved as data_ccg/id-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/id-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 63
+#Labels: 31
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.151 (s)
+Initializing dependency parser ... done [10.1 sec].
+Test File: data_ccg/id-udpipe-ccg-2.conllu
+OOV Words: 1630 / 11781 = 13.84%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 11781 words in 562 sentences in 5.1s at 2290.2 w/s, 109.3 sent/s.
+
+
+
+loading ccg tagger for it
+2017-05-14 08:39:59,767-|Supertagger:        load|-INFO-> loaded model from models_ccg/it.pickle
+tagging ccg for it dev
+2017-05-14 08:39:59,767-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:40:16,632-|Supertagger:         tag|-INFO-> 16.87s extracted test features
+2017-05-14 08:40:16,632-|Supertagger:         tag|-INFO-> processed 1017 sentences
+2017-05-14 08:40:18,241-|Supertagger:         tag|-INFO-> 1.61s generated predictions
+2017-05-14 08:40:18,635-|Supertagger:         tag|-INFO-> 0.39s saved as data_ccg/it_pud-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/it-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 89
+#Labels: 44
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.322 (s)
+Initializing dependency parser ... done [9.5 sec].
+Test File: data_ccg/it_pud-udpipe-ccg-2.conllu
+OOV Words: 2230 / 23806 = 9.37%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 23806 words in 1017 sentences in 8.2s at 2893.6 w/s, 123.6 sent/s.
+
+
+
+loading ccg tagger for it
+2017-05-14 08:40:39,699-|Supertagger:        load|-INFO-> loaded model from models_ccg/it.pickle
+tagging ccg for it dev
+2017-05-14 08:40:39,699-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:40:47,525-|Supertagger:         tag|-INFO-> 7.83s extracted test features
+2017-05-14 08:40:47,525-|Supertagger:         tag|-INFO-> processed 484 sentences
+2017-05-14 08:40:48,213-|Supertagger:         tag|-INFO-> 0.69s generated predictions
+2017-05-14 08:40:48,390-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/it-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/it-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 89
+#Labels: 44
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.315 (s)
+Initializing dependency parser ... done [9.4 sec].
+Test File: data_ccg/it-udpipe-ccg-2.conllu
+OOV Words: 605 / 10411 = 5.81%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10411 words in 484 sentences in 3.8s at 2707.0 w/s, 125.8 sent/s.
+
+
+
+loading ccg tagger for ja
+2017-05-14 08:41:04,468-|Supertagger:        load|-INFO-> loaded model from models_ccg/ja.pickle
+tagging ccg for ja dev
+2017-05-14 08:41:04,468-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:41:18,663-|Supertagger:         tag|-INFO-> 14.19s extracted test features
+2017-05-14 08:41:18,663-|Supertagger:         tag|-INFO-> processed 1036 sentences
+2017-05-14 08:41:20,214-|Supertagger:         tag|-INFO-> 1.55s generated predictions
+2017-05-14 08:41:20,672-|Supertagger:         tag|-INFO-> 0.46s saved as data_ccg/ja_pud-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/ja-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 43
+#Labels: 21
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.295 (s)
+Initializing dependency parser ... done [9.4 sec].
+Test File: data_ccg/ja_pud-udpipe-ccg-2.conllu
+OOV Words: 2832 / 27348 = 10.36%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 27348 words in 1036 sentences in 9.0s at 3034.6 w/s, 115.0 sent/s.
+
+
+
+loading ccg tagger for ja
+2017-05-14 08:41:42,653-|Supertagger:        load|-INFO-> loaded model from models_ccg/ja.pickle
+tagging ccg for ja dev
+2017-05-14 08:41:42,654-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:41:49,898-|Supertagger:         tag|-INFO-> 7.24s extracted test features
+2017-05-14 08:41:49,898-|Supertagger:         tag|-INFO-> processed 545 sentences
+2017-05-14 08:41:50,615-|Supertagger:         tag|-INFO-> 0.72s generated predictions
+2017-05-14 08:41:50,834-|Supertagger:         tag|-INFO-> 0.22s saved as data_ccg/ja-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/ja-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 43
+#Labels: 21
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.315 (s)
+Initializing dependency parser ... done [9.1 sec].
+Test File: data_ccg/ja-udpipe-ccg-2.conllu
+OOV Words: 1164 / 12699 = 9.17%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 12699 words in 545 sentences in 4.8s at 2661.7 w/s, 114.2 sent/s.
+
+
+
+loading ccg tagger for tr
+2017-05-14 08:42:07,731-|Supertagger:        load|-INFO-> loaded model from models_ccg/tr.pickle
+tagging ccg for tr dev
+2017-05-14 08:42:07,731-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:42:24,609-|Supertagger:         tag|-INFO-> 16.88s extracted test features
+2017-05-14 08:42:24,609-|Supertagger:         tag|-INFO-> processed 1037 sentences
+2017-05-14 08:42:25,247-|Supertagger:         tag|-INFO-> 0.64s generated predictions
+2017-05-14 08:42:25,460-|Supertagger:         tag|-INFO-> 0.21s saved as data_ccg/kk-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/tr-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 59
+#Labels: 29
+ROOTLABEL: root
+PreComputed 93316, Elapsed Time: 4.183 (s)
+Initializing dependency parser ... done [8.9 sec].
+Test File: data_ccg/kk-udpipe-ccg-2.conllu
+OOV Words: 8179 / 10021 = 81.62%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10021 words in 1037 sentences in 13.7s at 729.9 w/s, 75.5 sent/s.
+
+
+
+loading ccg tagger for fa
+2017-05-14 08:42:51,130-|Supertagger:        load|-INFO-> loaded model from models_ccg/fa.pickle
+tagging ccg for fa dev
+2017-05-14 08:42:51,131-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:43:02,777-|Supertagger:         tag|-INFO-> 11.65s extracted test features
+2017-05-14 08:43:02,777-|Supertagger:         tag|-INFO-> processed 742 sentences
+2017-05-14 08:43:03,463-|Supertagger:         tag|-INFO-> 0.68s generated predictions
+2017-05-14 08:43:03,660-|Supertagger:         tag|-INFO-> 0.20s saved as data_ccg/kmr-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/fa-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 75
+#Labels: 37
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.201 (s)
+Initializing dependency parser ... done [8.3 sec].
+Test File: data_ccg/kmr-udpipe-ccg-2.conllu
+OOV Words: 9124 / 10027 = 90.99%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10027 words in 742 sentences in 13.2s at 761.3 w/s, 56.3 sent/s.
+
+
+
+loading ccg tagger for ko
+2017-05-14 08:43:28,109-|Supertagger:        load|-INFO-> loaded model from models_ccg/ko.pickle
+tagging ccg for ko dev
+2017-05-14 08:43:28,111-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:43:39,535-|Supertagger:         tag|-INFO-> 11.42s extracted test features
+2017-05-14 08:43:39,535-|Supertagger:         tag|-INFO-> processed 969 sentences
+2017-05-14 08:43:40,051-|Supertagger:         tag|-INFO-> 0.52s generated predictions
+2017-05-14 08:43:40,239-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/ko-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/ko-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 49
+#Labels: 24
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.268 (s)
+Initializing dependency parser ... done [9.7 sec].
+Test File: data_ccg/ko-udpipe-ccg-2.conllu
+OOV Words: 4100 / 10928 = 37.52%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10928 words in 969 sentences in 5.7s at 1909.5 w/s, 169.3 sent/s.
+
+
+
+loading ccg tagger for la_ittb
+2017-05-14 08:43:58,684-|Supertagger:        load|-INFO-> loaded model from models_ccg/la_ittb.pickle
+tagging ccg for la_ittb dev
+2017-05-14 08:43:58,685-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:44:12,661-|Supertagger:         tag|-INFO-> 13.98s extracted test features
+2017-05-14 08:44:12,661-|Supertagger:         tag|-INFO-> processed 745 sentences
+2017-05-14 08:44:13,592-|Supertagger:         tag|-INFO-> 0.93s generated predictions
+2017-05-14 08:44:13,790-|Supertagger:         tag|-INFO-> 0.20s saved as data_ccg/la_ittb-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/la_ittb-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 69
+#Labels: 34
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.296 (s)
+Initializing dependency parser ... done [9.7 sec].
+Test File: data_ccg/la_ittb-udpipe-ccg-2.conllu
+OOV Words: 231 / 10562 = 2.19%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10562 words in 745 sentences in 3.8s at 2757.7 w/s, 194.5 sent/s.
+
+
+
+loading ccg tagger for la_proiel
+2017-05-14 08:44:30,621-|Supertagger:        load|-INFO-> loaded model from models_ccg/la_proiel.pickle
+tagging ccg for la_proiel dev
+2017-05-14 08:44:30,621-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:44:40,906-|Supertagger:         tag|-INFO-> 10.29s extracted test features
+2017-05-14 08:44:40,906-|Supertagger:         tag|-INFO-> processed 591 sentences
+2017-05-14 08:44:41,893-|Supertagger:         tag|-INFO-> 0.99s generated predictions
+2017-05-14 08:44:42,084-|Supertagger:         tag|-INFO-> 0.19s saved as data_ccg/la_proiel-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/la_proiel-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 69
+#Labels: 34
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.076 (s)
+Initializing dependency parser ... done [9.9 sec].
+Test File: data_ccg/la_proiel-udpipe-ccg-2.conllu
+OOV Words: 1194 / 12152 = 9.83%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 12152 words in 591 sentences in 5.7s at 2139.8 w/s, 104.1 sent/s.
+
+
+
+loading ccg tagger for la_ittb
+2017-05-14 08:45:00,903-|Supertagger:        load|-INFO-> loaded model from models_ccg/la_ittb.pickle
+tagging ccg for la_ittb dev
+2017-05-14 08:45:00,905-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:45:14,762-|Supertagger:         tag|-INFO-> 13.86s extracted test features
+2017-05-14 08:45:14,763-|Supertagger:         tag|-INFO-> processed 941 sentences
+2017-05-14 08:45:15,545-|Supertagger:         tag|-INFO-> 0.78s generated predictions
+2017-05-14 08:45:15,725-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/la-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/la_ittb-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 69
+#Labels: 34
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.866 (s)
+Initializing dependency parser ... done [8.7 sec].
+Test File: data_ccg/la-udpipe-ccg-2.conllu
+OOV Words: 4895 / 10953 = 44.69%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10953 words in 941 sentences in 13.0s at 842.2 w/s, 72.4 sent/s.
+
+
+
+loading ccg tagger for lv
+2017-05-14 08:45:40,392-|Supertagger:        load|-INFO-> loaded model from models_ccg/lv.pickle
+tagging ccg for lv dev
+2017-05-14 08:45:40,393-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:45:54,511-|Supertagger:         tag|-INFO-> 14.12s extracted test features
+2017-05-14 08:45:54,511-|Supertagger:         tag|-INFO-> processed 920 sentences
+2017-05-14 08:45:55,167-|Supertagger:         tag|-INFO-> 0.66s generated predictions
+2017-05-14 08:45:55,354-|Supertagger:         tag|-INFO-> 0.19s saved as data_ccg/lv-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/lv-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 73
+#Labels: 36
+ROOTLABEL: root
+PreComputed 92160, Elapsed Time: 4.416 (s)
+Initializing dependency parser ... done [8.0 sec].
+Test File: data_ccg/lv-udpipe-ccg-2.conllu
+OOV Words: 3065 / 10530 = 29.11%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10530 words in 920 sentences in 5.3s at 1975.6 w/s, 172.6 sent/s.
+
+
+
+loading ccg tagger for nl_lassysmall
+2017-05-14 08:46:11,686-|Supertagger:        load|-INFO-> loaded model from models_ccg/nl_lassysmall.pickle
+tagging ccg for nl_lassysmall dev
+2017-05-14 08:46:11,686-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:46:21,722-|Supertagger:         tag|-INFO-> 10.04s extracted test features
+2017-05-14 08:46:21,722-|Supertagger:         tag|-INFO-> processed 767 sentences
+2017-05-14 08:46:22,298-|Supertagger:         tag|-INFO-> 0.58s generated predictions
+2017-05-14 08:46:22,452-|Supertagger:         tag|-INFO-> 0.15s saved as data_ccg/nl_lassysmall-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/nl_lassysmall-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 63
+#Labels: 31
+ROOTLABEL: root
+PreComputed 70093, Elapsed Time: 2.99 (s)
+Initializing dependency parser ... done [6.5 sec].
+Test File: data_ccg/nl_lassysmall-udpipe-ccg-2.conllu
+OOV Words: 745 / 10083 = 7.39%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10083 words in 767 sentences in 3.4s at 2932.0 w/s, 223.0 sent/s.
+
+
+
+loading ccg tagger for nl
+2017-05-14 08:46:35,167-|Supertagger:        load|-INFO-> loaded model from models_ccg/nl.pickle
+tagging ccg for nl dev
+2017-05-14 08:46:35,167-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:46:45,512-|Supertagger:         tag|-INFO-> 10.35s extracted test features
+2017-05-14 08:46:45,513-|Supertagger:         tag|-INFO-> processed 588 sentences
+2017-05-14 08:46:46,506-|Supertagger:         tag|-INFO-> 0.99s generated predictions
+2017-05-14 08:46:46,688-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/nl-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/nl-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.381 (s)
+Initializing dependency parser ... done [9.4 sec].
+Test File: data_ccg/nl-udpipe-ccg-2.conllu
+OOV Words: 1752 / 11490 = 15.25%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 11490 words in 588 sentences in 4.9s at 2349.2 w/s, 120.2 sent/s.
+
+
+
+loading ccg tagger for no_bokmaal
+2017-05-14 08:47:03,941-|Supertagger:        load|-INFO-> loaded model from models_ccg/no_bokmaal.pickle
+tagging ccg for no_bokmaal dev
+2017-05-14 08:47:03,941-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:47:34,042-|Supertagger:         tag|-INFO-> 30.10s extracted test features
+2017-05-14 08:47:34,042-|Supertagger:         tag|-INFO-> processed 1931 sentences
+2017-05-14 08:47:36,281-|Supertagger:         tag|-INFO-> 2.24s generated predictions
+2017-05-14 08:47:36,771-|Supertagger:         tag|-INFO-> 0.49s saved as data_ccg/no_bokmaal-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/no_bokmaal-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 75
+#Labels: 37
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.398 (s)
+Initializing dependency parser ... done [9.9 sec].
+Test File: data_ccg/no_bokmaal-udpipe-ccg-2.conllu
+OOV Words: 3382 / 29962 = 11.29%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 29962 words in 1931 sentences in 8.9s at 3371.4 w/s, 217.3 sent/s.
+
+
+
+loading ccg tagger for no_nynorsk
+2017-05-14 08:48:00,043-|Supertagger:        load|-INFO-> loaded model from models_ccg/no_nynorsk.pickle
+tagging ccg for no_nynorsk dev
+2017-05-14 08:48:00,044-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:48:23,362-|Supertagger:         tag|-INFO-> 23.32s extracted test features
+2017-05-14 08:48:23,362-|Supertagger:         tag|-INFO-> processed 1453 sentences
+2017-05-14 08:48:25,189-|Supertagger:         tag|-INFO-> 1.83s generated predictions
+2017-05-14 08:48:25,613-|Supertagger:         tag|-INFO-> 0.42s saved as data_ccg/no_nynorsk-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/no_nynorsk-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 75
+#Labels: 37
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.352 (s)
+Initializing dependency parser ... done [9.8 sec].
+Test File: data_ccg/no_nynorsk-udpipe-ccg-2.conllu
+OOV Words: 2766 / 24777 = 11.16%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 24777 words in 1453 sentences in 8.0s at 3106.4 w/s, 182.2 sent/s.
+
+
+
+loading ccg tagger for pl
+2017-05-14 08:48:46,968-|Supertagger:        load|-INFO-> loaded model from models_ccg/pl.pickle
+tagging ccg for pl dev
+2017-05-14 08:48:46,969-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:49:03,658-|Supertagger:         tag|-INFO-> 16.69s extracted test features
+2017-05-14 08:49:03,658-|Supertagger:         tag|-INFO-> processed 1100 sentences
+2017-05-14 08:49:04,325-|Supertagger:         tag|-INFO-> 0.67s generated predictions
+2017-05-14 08:49:04,520-|Supertagger:         tag|-INFO-> 0.19s saved as data_ccg/pl-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/pl-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 61
+#Labels: 30
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.392 (s)
+Initializing dependency parser ... done [9.0 sec].
+Test File: data_ccg/pl-udpipe-ccg-2.conllu
+OOV Words: 2572 / 10811 = 23.79%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10811 words in 1100 sentences in 4.8s at 2235.5 w/s, 227.5 sent/s.
+
+
+
+loading ccg tagger for pt_br
+2017-05-14 08:49:21,360-|Supertagger:        load|-INFO-> loaded model from models_ccg/pt_br.pickle
+tagging ccg for pt_br dev
+2017-05-14 08:49:21,362-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:49:40,889-|Supertagger:         tag|-INFO-> 19.53s extracted test features
+2017-05-14 08:49:40,889-|Supertagger:         tag|-INFO-> processed 1200 sentences
+2017-05-14 08:49:42,790-|Supertagger:         tag|-INFO-> 1.90s generated predictions
+2017-05-14 08:49:43,276-|Supertagger:         tag|-INFO-> 0.49s saved as data_ccg/pt_br-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/pt_br-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 69
+#Labels: 34
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.325 (s)
+Initializing dependency parser ... done [9.9 sec].
+Test File: data_ccg/pt_br-udpipe-ccg-2.conllu
+OOV Words: 2272 / 31520 = 7.21%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 31520 words in 1200 sentences in 9.2s at 3424.2 w/s, 130.4 sent/s.
+
+
+
+loading ccg tagger for pt
+2017-05-14 08:50:06,435-|Supertagger:        load|-INFO-> loaded model from models_ccg/pt.pickle
+tagging ccg for pt dev
+2017-05-14 08:50:06,436-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:50:26,544-|Supertagger:         tag|-INFO-> 20.11s extracted test features
+2017-05-14 08:50:26,544-|Supertagger:         tag|-INFO-> processed 1022 sentences
+2017-05-14 08:50:28,517-|Supertagger:         tag|-INFO-> 1.97s generated predictions
+2017-05-14 08:50:28,973-|Supertagger:         tag|-INFO-> 0.46s saved as data_ccg/pt_pud-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/pt-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 85
+#Labels: 42
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.407 (s)
+Initializing dependency parser ... done [11.7 sec].
+Test File: data_ccg/pt_pud-udpipe-ccg-2.conllu
+OOV Words: 2717 / 23315 = 11.65%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 23315 words in 1022 sentences in 11.2s at 2074.3 w/s, 90.9 sent/s.
+
+
+
+loading ccg tagger for pt
+2017-05-14 08:50:55,596-|Supertagger:        load|-INFO-> loaded model from models_ccg/pt.pickle
+tagging ccg for pt dev
+2017-05-14 08:50:55,598-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:51:03,184-|Supertagger:         tag|-INFO-> 7.59s extracted test features
+2017-05-14 08:51:03,184-|Supertagger:         tag|-INFO-> processed 463 sentences
+2017-05-14 08:51:03,924-|Supertagger:         tag|-INFO-> 0.74s generated predictions
+2017-05-14 08:51:04,100-|Supertagger:         tag|-INFO-> 0.17s saved as data_ccg/pt-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/pt-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 85
+#Labels: 42
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.71 (s)
+Initializing dependency parser ... done [10.1 sec].
+Test File: data_ccg/pt-udpipe-ccg-2.conllu
+OOV Words: 870 / 10211 = 8.52%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10211 words in 463 sentences in 4.5s at 2280.3 w/s, 103.4 sent/s.
+
+
+
+loading ccg tagger for ro
+2017-05-14 08:51:21,473-|Supertagger:        load|-INFO-> loaded model from models_ccg/ro.pickle
+tagging ccg for ro dev
+2017-05-14 08:51:21,474-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:51:34,807-|Supertagger:         tag|-INFO-> 13.33s extracted test features
+2017-05-14 08:51:34,807-|Supertagger:         tag|-INFO-> processed 731 sentences
+2017-05-14 08:51:36,134-|Supertagger:         tag|-INFO-> 1.33s generated predictions
+2017-05-14 08:51:36,390-|Supertagger:         tag|-INFO-> 0.26s saved as data_ccg/ro-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/ro-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 99
+#Labels: 49
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.126 (s)
+Initializing dependency parser ... done [11.9 sec].
+Test File: data_ccg/ro-udpipe-ccg-2.conllu
+OOV Words: 1708 / 16328 = 10.46%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 16328 words in 731 sentences in 8.0s at 2044.8 w/s, 91.5 sent/s.
+
+
+
+loading ccg tagger for ru
+2017-05-14 08:51:59,662-|Supertagger:        load|-INFO-> loaded model from models_ccg/ru.pickle
+tagging ccg for ru dev
+2017-05-14 08:51:59,662-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:52:16,600-|Supertagger:         tag|-INFO-> 16.94s extracted test features
+2017-05-14 08:52:16,600-|Supertagger:         tag|-INFO-> processed 1005 sentences
+2017-05-14 08:52:18,016-|Supertagger:         tag|-INFO-> 1.42s generated predictions
+2017-05-14 08:52:18,409-|Supertagger:         tag|-INFO-> 0.39s saved as data_ccg/ru_pud-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/ru-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 81
+#Labels: 40
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.702 (s)
+Initializing dependency parser ... done [9.9 sec].
+Test File: data_ccg/ru_pud-udpipe-ccg-2.conllu
+OOV Words: 5213 / 19084 = 27.32%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 19084 words in 1005 sentences in 9.6s at 1993.3 w/s, 105.0 sent/s.
+
+
+
+loading ccg tagger for ru_syntagrus
+2017-05-14 08:52:41,414-|Supertagger:        load|-INFO-> loaded model from models_ccg/ru_syntagrus.pickle
+tagging ccg for ru_syntagrus dev
+2017-05-14 08:52:41,414-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:54:34,593-|Supertagger:         tag|-INFO-> 113.18s extracted test features
+2017-05-14 08:54:34,593-|Supertagger:         tag|-INFO-> processed 6518 sentences
+2017-05-14 08:54:46,504-|Supertagger:         tag|-INFO-> 11.91s generated predictions
+2017-05-14 08:54:48,559-|Supertagger:         tag|-INFO-> 2.05s saved as data_ccg/ru_syntagrus-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/ru_syntagrus-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 79
+#Labels: 39
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.793 (s)
+Initializing dependency parser ... done [19.4 sec].
+Test File: data_ccg/ru_syntagrus-udpipe-ccg-2.conllu
+OOV Words: 11361 / 117346 = 9.68%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 117346 words in 6518 sentences in 43.2s at 2714.3 w/s, 150.8 sent/s.
+
+
+
+loading ccg tagger for ru
+2017-05-14 08:56:03,060-|Supertagger:        load|-INFO-> loaded model from models_ccg/ru.pickle
+tagging ccg for ru dev
+2017-05-14 08:56:03,060-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:56:12,721-|Supertagger:         tag|-INFO-> 9.66s extracted test features
+2017-05-14 08:56:12,722-|Supertagger:         tag|-INFO-> processed 600 sentences
+2017-05-14 08:56:13,454-|Supertagger:         tag|-INFO-> 0.73s generated predictions
+2017-05-14 08:56:13,652-|Supertagger:         tag|-INFO-> 0.20s saved as data_ccg/ru-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/ru-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 81
+#Labels: 40
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.237 (s)
+Initializing dependency parser ... done [9.2 sec].
+Test File: data_ccg/ru-udpipe-ccg-2.conllu
+OOV Words: 3055 / 11547 = 26.46%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 11547 words in 600 sentences in 5.8s at 1977.6 w/s, 102.8 sent/s.
+
+
+
+loading ccg tagger for sk
+2017-05-14 08:56:31,634-|Supertagger:        load|-INFO-> loaded model from models_ccg/sk.pickle
+tagging ccg for sk dev
+2017-05-14 08:56:31,635-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:56:49,014-|Supertagger:         tag|-INFO-> 17.38s extracted test features
+2017-05-14 08:56:49,014-|Supertagger:         tag|-INFO-> processed 1082 sentences
+2017-05-14 08:56:49,864-|Supertagger:         tag|-INFO-> 0.85s generated predictions
+2017-05-14 08:56:50,096-|Supertagger:         tag|-INFO-> 0.23s saved as data_ccg/sk-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/sk-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 79
+#Labels: 39
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.439 (s)
+Initializing dependency parser ... done [9.2 sec].
+Test File: data_ccg/sk-udpipe-ccg-2.conllu
+OOV Words: 4658 / 13028 = 35.75%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 13028 words in 1082 sentences in 7.0s at 1858.2 w/s, 154.3 sent/s.
+
+
+
+loading ccg tagger for sl
+2017-05-14 08:57:09,564-|Supertagger:        load|-INFO-> loaded model from models_ccg/sl.pickle
+tagging ccg for sl dev
+2017-05-14 08:57:09,565-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:57:20,203-|Supertagger:         tag|-INFO-> 10.64s extracted test features
+2017-05-14 08:57:20,203-|Supertagger:         tag|-INFO-> processed 707 sentences
+2017-05-14 08:57:20,837-|Supertagger:         tag|-INFO-> 0.63s generated predictions
+2017-05-14 08:57:20,999-|Supertagger:         tag|-INFO-> 0.16s saved as data_ccg/sl_sst-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/sl-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.379 (s)
+Initializing dependency parser ... done [10.0 sec].
+Test File: data_ccg/sl_sst-udpipe-ccg-2.conllu
+OOV Words: 2411 / 10012 = 24.08%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10012 words in 707 sentences in 5.7s at 1769.8 w/s, 125.0 sent/s.
+
+
+
+loading ccg tagger for sl
+2017-05-14 08:57:39,371-|Supertagger:        load|-INFO-> loaded model from models_ccg/sl.pickle
+tagging ccg for sl dev
+2017-05-14 08:57:39,372-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:57:52,745-|Supertagger:         tag|-INFO-> 13.37s extracted test features
+2017-05-14 08:57:52,745-|Supertagger:         tag|-INFO-> processed 788 sentences
+2017-05-14 08:57:53,642-|Supertagger:         tag|-INFO-> 0.90s generated predictions
+2017-05-14 08:57:53,880-|Supertagger:         tag|-INFO-> 0.24s saved as data_ccg/sl-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/sl-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.333 (s)
+Initializing dependency parser ... done [9.8 sec].
+Test File: data_ccg/sl-udpipe-ccg-2.conllu
+OOV Words: 2797 / 14077 = 19.87%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 14077 words in 788 sentences in 6.3s at 2226.7 w/s, 124.6 sent/s.
+
+
+
+loading ccg tagger for fi
+2017-05-14 08:58:13,068-|Supertagger:        load|-INFO-> loaded model from models_ccg/fi.pickle
+tagging ccg for fi dev
+2017-05-14 08:58:13,068-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:58:25,465-|Supertagger:         tag|-INFO-> 12.40s extracted test features
+2017-05-14 08:58:25,465-|Supertagger:         tag|-INFO-> processed 870 sentences
+2017-05-14 08:58:26,127-|Supertagger:         tag|-INFO-> 0.66s generated predictions
+2017-05-14 08:58:26,302-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/sme-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/fi-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 93
+#Labels: 46
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.238 (s)
+Initializing dependency parser ... done [11.5 sec].
+Test File: data_ccg/sme-udpipe-ccg-2.conllu
+OOV Words: 7966 / 10013 = 79.56%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10013 words in 870 sentences in 9.6s at 1039.4 w/s, 90.3 sent/s.
+
+
+
+loading ccg tagger for sv_lines
+2017-05-14 08:58:50,435-|Supertagger:        load|-INFO-> loaded model from models_ccg/sv_lines.pickle
+tagging ccg for sv_lines dev
+2017-05-14 08:58:50,435-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:59:01,250-|Supertagger:         tag|-INFO-> 10.81s extracted test features
+2017-05-14 08:59:01,250-|Supertagger:         tag|-INFO-> processed 907 sentences
+2017-05-14 08:59:01,898-|Supertagger:         tag|-INFO-> 0.65s generated predictions
+2017-05-14 08:59:02,124-|Supertagger:         tag|-INFO-> 0.23s saved as data_ccg/sv_lines-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/sv_lines-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 81
+#Labels: 40
+ROOTLABEL: root
+PreComputed 63342, Elapsed Time: 2.826 (s)
+Initializing dependency parser ... done [6.1 sec].
+Test File: data_ccg/sv_lines-udpipe-ccg-2.conllu
+OOV Words: 2249 / 15031 = 14.96%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 15031 words in 907 sentences in 5.9s at 2562.8 w/s, 154.6 sent/s.
+
+
+
+loading ccg tagger for sv
+2017-05-14 08:59:17,573-|Supertagger:        load|-INFO-> loaded model from models_ccg/sv.pickle
+tagging ccg for sv dev
+2017-05-14 08:59:17,574-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 08:59:34,675-|Supertagger:         tag|-INFO-> 17.10s extracted test features
+2017-05-14 08:59:34,675-|Supertagger:         tag|-INFO-> processed 1051 sentences
+2017-05-14 08:59:35,938-|Supertagger:         tag|-INFO-> 1.26s generated predictions
+2017-05-14 08:59:36,256-|Supertagger:         tag|-INFO-> 0.32s saved as data_ccg/sv_pud-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/sv-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 79
+#Labels: 39
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.397 (s)
+Initializing dependency parser ... done [8.1 sec].
+Test File: data_ccg/sv_pud-udpipe-ccg-2.conllu
+OOV Words: 5280 / 18903 = 27.93%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 18903 words in 1051 sentences in 8.5s at 2225.5 w/s, 123.7 sent/s.
+
+
+
+loading ccg tagger for sv
+2017-05-14 08:59:56,113-|Supertagger:        load|-INFO-> loaded model from models_ccg/sv.pickle
+tagging ccg for sv dev
+2017-05-14 08:59:56,113-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 09:00:15,644-|Supertagger:         tag|-INFO-> 19.53s extracted test features
+2017-05-14 09:00:15,644-|Supertagger:         tag|-INFO-> processed 1207 sentences
+2017-05-14 09:00:16,977-|Supertagger:         tag|-INFO-> 1.33s generated predictions
+2017-05-14 09:00:17,316-|Supertagger:         tag|-INFO-> 0.34s saved as data_ccg/sv-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/sv-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 79
+#Labels: 39
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.414 (s)
+Initializing dependency parser ... done [8.1 sec].
+Test File: data_ccg/sv-udpipe-ccg-2.conllu
+OOV Words: 3049 / 20371 = 14.97%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 20371 words in 1207 sentences in 7.2s at 2840.4 w/s, 168.3 sent/s.
+
+
+
+loading ccg tagger for tr
+2017-05-14 09:00:35,998-|Supertagger:        load|-INFO-> loaded model from models_ccg/tr.pickle
+tagging ccg for tr dev
+2017-05-14 09:00:35,999-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 09:00:53,073-|Supertagger:         tag|-INFO-> 17.07s extracted test features
+2017-05-14 09:00:53,073-|Supertagger:         tag|-INFO-> processed 1036 sentences
+2017-05-14 09:00:54,264-|Supertagger:         tag|-INFO-> 1.19s generated predictions
+2017-05-14 09:00:54,565-|Supertagger:         tag|-INFO-> 0.30s saved as data_ccg/tr_pud-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/tr-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 59
+#Labels: 29
+ROOTLABEL: root
+PreComputed 93316, Elapsed Time: 4.808 (s)
+Initializing dependency parser ... done [9.3 sec].
+Test File: data_ccg/tr_pud-udpipe-ccg-2.conllu
+OOV Words: 6556 / 17038 = 38.48%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 17038 words in 1036 sentences in 10.1s at 1686.9 w/s, 102.6 sent/s.
+
+
+
+loading ccg tagger for tr
+2017-05-14 09:01:17,337-|Supertagger:        load|-INFO-> loaded model from models_ccg/tr.pickle
+tagging ccg for tr dev
+2017-05-14 09:01:17,337-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 09:01:31,690-|Supertagger:         tag|-INFO-> 14.35s extracted test features
+2017-05-14 09:01:31,690-|Supertagger:         tag|-INFO-> processed 983 sentences
+2017-05-14 09:01:32,292-|Supertagger:         tag|-INFO-> 0.60s generated predictions
+2017-05-14 09:01:32,473-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/tr-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/tr-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 59
+#Labels: 29
+ROOTLABEL: root
+PreComputed 93316, Elapsed Time: 4.05 (s)
+Initializing dependency parser ... done [7.9 sec].
+Test File: data_ccg/tr-udpipe-ccg-2.conllu
+OOV Words: 2583 / 9929 = 26.01%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 9929 words in 983 sentences in 4.6s at 2164.1 w/s, 214.3 sent/s.
+
+
+
+loading ccg tagger for tr
+2017-05-14 09:01:47,898-|Supertagger:        load|-INFO-> loaded model from models_ccg/tr.pickle
+tagging ccg for tr dev
+2017-05-14 09:01:47,899-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 09:01:57,887-|Supertagger:         tag|-INFO-> 9.99s extracted test features
+2017-05-14 09:01:57,888-|Supertagger:         tag|-INFO-> processed 853 sentences
+2017-05-14 09:01:58,312-|Supertagger:         tag|-INFO-> 0.42s generated predictions
+2017-05-14 09:01:58,490-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/ug-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/tr-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 59
+#Labels: 29
+ROOTLABEL: root
+PreComputed 93316, Elapsed Time: 4.039 (s)
+Initializing dependency parser ... done [8.0 sec].
+Test File: data_ccg/ug-udpipe-ccg-2.conllu
+OOV Words: 9041 / 10227 = 88.40%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10227 words in 853 sentences in 15.3s at 666.3 w/s, 55.6 sent/s.
+
+
+
+loading ccg tagger for ru
+2017-05-14 09:02:24,659-|Supertagger:        load|-INFO-> loaded model from models_ccg/ru.pickle
+tagging ccg for ru dev
+2017-05-14 09:02:24,659-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 09:02:38,087-|Supertagger:         tag|-INFO-> 13.43s extracted test features
+2017-05-14 09:02:38,087-|Supertagger:         tag|-INFO-> processed 885 sentences
+2017-05-14 09:02:38,804-|Supertagger:         tag|-INFO-> 0.72s generated predictions
+2017-05-14 09:02:39,015-|Supertagger:         tag|-INFO-> 0.21s saved as data_ccg/uk-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/ru-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 81
+#Labels: 40
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.128 (s)
+Initializing dependency parser ... done [9.2 sec].
+Test File: data_ccg/uk-udpipe-ccg-2.conllu
+OOV Words: 8893 / 12941 = 68.72%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 12941 words in 885 sentences in 19.0s at 682.7 w/s, 46.7 sent/s.
+
+
+
+loading ccg tagger for ur
+2017-05-14 09:03:10,121-|Supertagger:        load|-INFO-> loaded model from models_ccg/ur.pickle
+tagging ccg for ur dev
+2017-05-14 09:03:10,122-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 09:03:19,836-|Supertagger:         tag|-INFO-> 9.71s extracted test features
+2017-05-14 09:03:19,836-|Supertagger:         tag|-INFO-> processed 535 sentences
+2017-05-14 09:03:20,914-|Supertagger:         tag|-INFO-> 1.08s generated predictions
+2017-05-14 09:03:21,168-|Supertagger:         tag|-INFO-> 0.25s saved as data_ccg/ur-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/ur-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 51
+#Labels: 25
+ROOTLABEL: root
+PreComputed 78363, Elapsed Time: 3.498 (s)
+Initializing dependency parser ... done [6.8 sec].
+Test File: data_ccg/ur-udpipe-ccg-2.conllu
+OOV Words: 942 / 14806 = 6.36%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 14806 words in 535 sentences in 4.4s at 3349.8 w/s, 121.0 sent/s.
+
+
+
+loading ccg tagger for vi
+2017-05-14 09:03:35,475-|Supertagger:        load|-INFO-> loaded model from models_ccg/vi.pickle
+tagging ccg for vi dev
+2017-05-14 09:03:35,475-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 09:03:45,785-|Supertagger:         tag|-INFO-> 10.31s extracted test features
+2017-05-14 09:03:45,786-|Supertagger:         tag|-INFO-> processed 833 sentences
+2017-05-14 09:03:46,276-|Supertagger:         tag|-INFO-> 0.49s generated predictions
+2017-05-14 09:03:46,479-|Supertagger:         tag|-INFO-> 0.21s saved as data_ccg/vi-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/vi-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 59
+#Labels: 29
+ROOTLABEL: root
+PreComputed 32699, Elapsed Time: 1.5 (s)
+Initializing dependency parser ... done [4.3 sec].
+Test File: data_ccg/vi-udpipe-ccg-2.conllu
+OOV Words: 2400 / 12178 = 19.71%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 12178 words in 833 sentences in 4.9s at 2491.9 w/s, 170.5 sent/s.
+
+
+
+loading ccg tagger for zh
+2017-05-14 09:03:58,984-|Supertagger:        load|-INFO-> loaded model from models_ccg/zh.pickle
+tagging ccg for zh dev
+2017-05-14 09:03:58,985-|Supertagger:         tag|-INFO-> started tagging
+2017-05-14 09:04:05,775-|Supertagger:         tag|-INFO-> 6.79s extracted test features
+2017-05-14 09:04:05,775-|Supertagger:         tag|-INFO-> processed 494 sentences
+2017-05-14 09:04:06,335-|Supertagger:         tag|-INFO-> 0.56s generated predictions
+2017-05-14 09:04:06,527-|Supertagger:         tag|-INFO-> 0.19s saved as data_ccg/zh-udpipe-ccg-2.conllu
+
+
+
+Loading depparse model file: models_dep/zh-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 85
+#Labels: 42
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.238 (s)
+Initializing dependency parser ... done [8.4 sec].
+Test File: data_ccg/zh-udpipe-ccg-2.conllu
+OOV Words: 1752 / 12108 = 14.47%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 12108 words in 494 sentences in 4.8s at 2548.5 w/s, 104.0 sent/s.
+
+
+

@@ -1,0 +1,4 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/Wenba-NLU/2017-05-20-15-43-16/../2017-05-20-20-30-57/output
+└── [ 49K]  evaluation.prototext
+
+0 directories, 1 file

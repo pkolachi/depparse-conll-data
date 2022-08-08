@@ -1,0 +1,58 @@
+Loading UDPipe model: Cannot load UDPipe model 'bxr.kk.embedding.udpipe'!
+rm: cannot remove '/home/UT/system/temp/*': No such file or directory
+Loading UDPipe model: done.
+[dynet] random seed: 1807264724
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2218434313
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+[dynet] random seed: 2604803186
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2488558046
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+[dynet] random seed: 2765027558
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 4022199742
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+An error occurred during UDPipe execution: The CoNLL-U line '7	#432785' does not contain 10 columns!
+[dynet] random seed: 1794820290
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 4149841569
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 1050763371
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1801627480
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.

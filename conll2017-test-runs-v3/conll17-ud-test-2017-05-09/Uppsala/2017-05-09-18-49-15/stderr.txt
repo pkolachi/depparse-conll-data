@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "json_parser.py", line 47, in <module>
+    parser_include_file.write(ltcode)
+NameError: name 'ltcode' is not defined
+[dynet] random seed: 3356283037
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "src/parser.py", line 216, in <module>
+    om = OptionsManager(options)
+  File "/home/Uppsala/bist-parser/uuparser/bist-parser/barchybrid/src/options_manager.py", line 62, in __init__
+    self.conllu)
+  File "/home/Uppsala/bist-parser/uuparser/bist-parser/barchybrid/src/options_manager.py", line 98, in prepare_data
+    in order to use it for prediction")
+Exception: You must train with the option pseudo-projective                                in order to use it for prediction

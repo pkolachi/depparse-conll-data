@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "./tira_evaluation2.py", line 110, in <module>
+    with open(args.c+os.sep+"metadata.json") as data_file:    
+IOError: [Errno 2] No such file or directory: '/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/metadata.json'

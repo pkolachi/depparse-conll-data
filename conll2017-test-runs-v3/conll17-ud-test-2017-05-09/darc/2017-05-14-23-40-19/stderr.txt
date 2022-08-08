@@ -1,0 +1,157 @@
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7fd5b2fbca90>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+UnboundLocalError: local variable 'status' referenced before assignment
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7f3cf55ca7f0>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+UnboundLocalError: local variable 'status' referenced before assignment
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7f4019129e48>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+AttributeError: 'NoneType' object has no attribute 'TF_DeleteStatus'
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7fecb3207eb8>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+AttributeError: 'NoneType' object has no attribute 'TF_DeleteStatus'
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7f9a893a9ef0>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+UnboundLocalError: local variable 'status' referenced before assignment
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7fd06ffc4cc0>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+UnboundLocalError: local variable 'status' referenced before assignment
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7f13e153ad68>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+AttributeError: 'NoneType' object has no attribute 'TF_DeleteStatus'
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7f6f73c94748>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+AttributeError: 'NoneType' object has no attribute 'TF_DeleteStatus'
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7f9e4727de80>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+UnboundLocalError: local variable 'status' referenced before assignment
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7ff62369bc18>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+UnboundLocalError: local variable 'status' referenced before assignment
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7f7642834c88>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+UnboundLocalError: local variable 'status' referenced before assignment
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7f601a147c18>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+UnboundLocalError: local variable 'status' referenced before assignment
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7f685d7dafd0>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+AttributeError: 'NoneType' object has no attribute 'TF_DeleteStatus'
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7fd315de4da0>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+AttributeError: 'NoneType' object has no attribute 'TF_DeleteStatus'
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7fea49f12fd0>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+AttributeError: 'NoneType' object has no attribute 'TF_DeleteStatus'
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7fc1d8253f98>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+AttributeError: 'NoneType' object has no attribute 'TF_DeleteStatus'
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7f23a4998828>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+AttributeError: 'NoneType' object has no attribute 'TF_DeleteStatus'
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7f5030b0cdd8>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+UnboundLocalError: local variable 'status' referenced before assignment
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Using TensorFlow backend.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x7f7473b32e80>>
+Traceback (most recent call last):
+  File "/home/darc/mstnn/meta/env/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 581, in __del__
+AttributeError: 'NoneType' object has no attribute 'TF_DeleteStatus'

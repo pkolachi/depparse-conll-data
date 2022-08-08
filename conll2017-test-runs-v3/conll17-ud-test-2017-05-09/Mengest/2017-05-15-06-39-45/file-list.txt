@@ -1,0 +1,35 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/Mengest/2017-05-15-06-39-45/output
+├── [2.4M]  ar.conllu
+├── [1.7M]  ar_pud.conllu
+├── [1.3M]  bg.conllu
+├── [900K]  cu.conllu
+├── [605K]  da.conllu
+├── [1.3M]  en.conllu
+├── [636K]  en_lines.conllu
+├── [610K]  en_partut.conllu
+├── [1.1M]  en_pud.conllu
+├── [800K]  et.conllu
+├── [1.6M]  eu.conllu
+├── [1.5M]  fi.conllu
+├── [1.2M]  fi_ftb.conllu
+├── [1.1M]  fi_pud.conllu
+├── [602K]  fr.conllu
+├── [662K]  fr_partut.conllu
+├── [1.5M]  fr_pud.conllu
+├── [605K]  fr_sequoia.conllu
+├── [1.8M]  grc.conllu
+├── [1.2M]  grc_proiel.conllu
+├── [838K]  he.conllu
+├── [3.1M]  hi.conllu
+├── [2.1M]  hi_pud.conllu
+├── [933K]  hu.conllu
+├── [658K]  ja.conllu
+├── [1.4M]  ja_pud.conllu
+├── [545K]  ko.conllu
+├── [868K]  nl.conllu
+├── [529K]  nl_lassysmall.conllu
+├── [785K]  tr.conllu
+├── [1.3M]  tr_pud.conllu
+└── [547K]  vi.conllu
+
+0 directories, 32 files

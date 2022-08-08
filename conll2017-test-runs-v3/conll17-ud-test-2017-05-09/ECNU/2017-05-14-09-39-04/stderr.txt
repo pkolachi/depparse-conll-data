@@ -1,0 +1,81 @@
+ar_pud        Error: The concatenation of tokens in gold file and in system file differ, system file has 79903 nonspace characters, which is approximately 101% of the gold file
+ar            Error: Cannot open generated CoNLL-U file
+bg            Error: Cannot open generated CoNLL-U file
+bxr           OK: Evaluated non-zero LAS F1 score
+ca            Error: Cannot open generated CoNLL-U file
+cs_cac        Error: The concatenation of tokens in gold file and in system file differ, system file has 55870 nonspace characters, which is approximately 100% of the gold file
+cs_cltt       Error: Cannot open generated CoNLL-U file
+cs_pud        Error: The concatenation of tokens in gold file and in system file differ, system file has 89358 nonspace characters, which is approximately 100% of the gold file
+cs            Error: Cannot open generated CoNLL-U file
+cu            OK: Evaluated non-zero LAS F1 score
+da            OK: Evaluated non-zero LAS F1 score
+de_pud        Error: The concatenation of tokens in gold file and in system file differ, system file has 109458 nonspace characters, which is approximately 100% of the gold file
+de            Error: The concatenation of tokens in gold file and in system file differ, system file has 84103 nonspace characters, which is approximately 100% of the gold file
+el            OK: Evaluated non-zero LAS F1 score
+en_lines      OK: Evaluated non-zero LAS F1 score
+en_partut     Error: The concatenation of tokens in gold file and in system file differ, system file has 51929 nonspace characters, which is approximately 100% of the gold file
+en_pud        OK: Evaluated non-zero LAS F1 score
+en            Error: Cannot open generated CoNLL-U file
+es_ancora     Error: Cannot open generated CoNLL-U file
+es_pud        Error: The concatenation of tokens in gold file and in system file differ, system file has 103547 nonspace characters, which is approximately 100% of the gold file
+es            Error: The concatenation of tokens in gold file and in system file differ, system file has 51795 nonspace characters, which is approximately 100% of the gold file
+et            OK: Evaluated non-zero LAS F1 score
+eu            OK: Evaluated non-zero LAS F1 score
+fa            Error: The concatenation of tokens in gold file and in system file differ, system file has 61665 nonspace characters, which is approximately 99% of the gold file
+fi_ftb        Error: Cannot open generated CoNLL-U file
+fi_pud        OK: Evaluated non-zero LAS F1 score
+fi            Error: Cannot open generated CoNLL-U file
+fr_partut     Error: The concatenation of tokens in gold file and in system file differ, system file has 48380 nonspace characters, which is approximately 101% of the gold file
+fr_pud        Error: The concatenation of tokens in gold file and in system file differ, system file has 108368 nonspace characters, which is approximately 101% of the gold file
+fr_sequoia    Error: The concatenation of tokens in gold file and in system file differ, system file has 44999 nonspace characters, which is approximately 101% of the gold file
+fr            Error: The concatenation of tokens in gold file and in system file differ, system file has 42053 nonspace characters, which is approximately 101% of the gold file
+ga            Error: Cannot open generated CoNLL-U file
+gl_treegal    Error: The concatenation of tokens in gold file and in system file differ, system file has 43109 nonspace characters, which is approximately 101% of the gold file
+gl            OK: Evaluated non-zero LAS F1 score
+got           OK: Evaluated non-zero LAS F1 score
+grc_proiel    Error: Cannot open generated CoNLL-U file
+grc           Error: Cannot open generated CoNLL-U file
+he            Error: The concatenation of tokens in gold file and in system file differ, system file has 37503 nonspace characters, which is approximately 104% of the gold file
+hi_pud        OK: Evaluated non-zero LAS F1 score
+hi            Error: Cannot open generated CoNLL-U file
+hr            OK: Evaluated non-zero LAS F1 score
+hsb           OK: Evaluated non-zero LAS F1 score
+hu            OK: Evaluated non-zero LAS F1 score
+id            OK: Evaluated non-zero LAS F1 score
+it_pud        Error: The concatenation of tokens in gold file and in system file differ, system file has 105322 nonspace characters, which is approximately 99% of the gold file
+it            Error: The concatenation of tokens in gold file and in system file differ, system file has 44993 nonspace characters, which is approximately 99% of the gold file
+ja_pud        OK: Evaluated non-zero LAS F1 score
+ja            OK: Evaluated non-zero LAS F1 score
+kk            Error: Cannot open generated CoNLL-U file
+kmr           Error: The concatenation of tokens in gold file and in system file differ, system file has 37899 nonspace characters, which is approximately 100% of the gold file
+ko            OK: Evaluated non-zero LAS F1 score
+la_ittb       OK: Evaluated non-zero LAS F1 score
+la_proiel     Error: Cannot open generated CoNLL-U file
+la            OK: Evaluated non-zero LAS F1 score
+lv            OK: Evaluated non-zero LAS F1 score
+nl_lassysmall OK: Evaluated non-zero LAS F1 score
+nl            OK: Evaluated non-zero LAS F1 score
+no_bokmaal    Error: Cannot open generated CoNLL-U file
+no_nynorsk    Error: Cannot open generated CoNLL-U file
+pl            OK: Evaluated non-zero LAS F1 score
+pt_br         Error: Cannot open generated CoNLL-U file
+pt_pud        Error: The concatenation of tokens in gold file and in system file differ, system file has 99901 nonspace characters, which is approximately 101% of the gold file
+pt            Error: The concatenation of tokens in gold file and in system file differ, system file has 42238 nonspace characters, which is approximately 101% of the gold file
+ro            Error: Cannot open generated CoNLL-U file
+ru_pud        OK: Evaluated non-zero LAS F1 score
+ru_syntagrus  Error: Cannot open generated CoNLL-U file
+ru            Error: Cannot open generated CoNLL-U file
+sk            OK: Evaluated non-zero LAS F1 score
+sl_sst        OK: Evaluated non-zero LAS F1 score
+sl            OK: Evaluated non-zero LAS F1 score
+sme           OK: Evaluated non-zero LAS F1 score
+sv_lines      OK: Evaluated non-zero LAS F1 score
+sv_pud        OK: Evaluated non-zero LAS F1 score
+sv            Error: Cannot open generated CoNLL-U file
+tr_pud        Error: The concatenation of tokens in gold file and in system file differ, system file has 96922 nonspace characters, which is approximately 100% of the gold file
+tr            Error: The concatenation of tokens in gold file and in system file differ, system file has 52670 nonspace characters, which is approximately 100% of the gold file
+ug            OK: Evaluated non-zero LAS F1 score
+uk            Error: Cannot open generated CoNLL-U file
+ur            OK: Evaluated non-zero LAS F1 score
+vi            OK: Evaluated non-zero LAS F1 score
+zh            OK: Evaluated non-zero LAS F1 score

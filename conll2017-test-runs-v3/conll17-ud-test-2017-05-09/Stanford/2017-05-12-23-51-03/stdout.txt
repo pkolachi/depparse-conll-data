@@ -1,0 +1,147 @@
+conll17-scripts/run.sh -i /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 -o /tmp/Stanford/2017-05-12-23-51-03/output
+
+
+[91m[1mInitial # of tokens in buckets:[0m [91m[4m372682[0m
+[97m[1mFinal # of tokens in buckets:[0m [97m[4m294053[0m
+Bucket trainset-0 is [94m1507 x 5 x 7[0m
+Bucket trainset-1 is [94m1676 x 7 x 7[0m
+Bucket trainset-2 is [94m2213 x 10 x 7[0m
+Bucket trainset-3 is [94m2399 x 14 x 7[0m
+Bucket trainset-4 is [94m2312 x 19 x 7[0m
+Bucket trainset-5 is [94m2083 x 25 x 7[0m
+Bucket trainset-6 is [94m1484 x 32 x 7[0m
+Bucket trainset-7 is [94m1023 x 42 x 7[0m
+Bucket trainset-8 is [94m558 x 58 x 7[0m
+Bucket trainset-9 is [94m140 x 114 x 7[0m
+Network/RNN0/BiRNN_FW/LSTMCell/Linear
+Orthogonal pretrainer loss: 9.94e-27
+Network/RNN0/BiRNN_BW/LSTMCell/Linear
+Orthogonal pretrainer loss: 8.80e-27
+Network/RNN1/BiRNN_FW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.58e-30
+Network/RNN1/BiRNN_BW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.62e-30
+Network/RNN2/BiRNN_FW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.56e-30
+Network/RNN2/BiRNN_BW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.63e-30
+Network/MLP/Linear
+Orthogonal pretrainer loss: 5.00e+01
+[91m[1mInitial # of tokens in buckets:[0m [91m[4m15463[0m
+[97m[1mFinal # of tokens in buckets:[0m [97m[4m12709[0m
+Bucket parseset-0 is [94m260 x 7 x 7[0m
+Bucket parseset-1 is [94m219 x 10 x 7[0m
+Bucket parseset-2 is [94m214 x 15 x 7[0m
+Bucket parseset-3 is [94m173 x 26 x 7[0m
+Bucket parseset-4 is [94m40 x 50 x 7[0m
+[92mParsing 1 file(s) took 5.53622698784 seconds[0m
+[91m[1mInitial # of tokens in buckets:[0m [91m[4m5243232[0m
+[97m[1mFinal # of tokens in buckets:[0m [97m[4m2988045[0m
+Bucket trainset-0 is [94m14460 x 5 x 7[0m
+Bucket trainset-1 is [94m19513 x 8 x 7[0m
+Bucket trainset-2 is [94m20564 x 11 x 7[0m
+Bucket trainset-3 is [94m19867 x 14 x 7[0m
+Bucket trainset-4 is [94m23754 x 18 x 7[0m
+Bucket trainset-5 is [94m23093 x 23 x 7[0m
+Bucket trainset-6 is [94m19987 x 30 x 7[0m
+Bucket trainset-7 is [94m12444 x 41 x 7[0m
+Bucket trainset-8 is [94m4253 x 65 x 7[0m
+Bucket trainset-9 is [94m335 x 206 x 7[0m
+Network/RNN0/BiRNN_FW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.22e-26
+Network/RNN0/BiRNN_BW/LSTMCell/Linear
+Orthogonal pretrainer loss: 2.63e-26
+Network/RNN1/BiRNN_FW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.56e-30
+Network/RNN1/BiRNN_BW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.59e-30
+Network/RNN2/BiRNN_FW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.53e-30
+Network/RNN2/BiRNN_BW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.61e-30
+Network/MLP/Linear
+Orthogonal pretrainer loss: 5.00e+01
+[91m[1mInitial # of tokens in buckets:[0m [91m[4m15239[0m
+[97m[1mFinal # of tokens in buckets:[0m [97m[4m14167[0m
+Bucket parseset-0 is [94m142 x 10 x 7[0m
+Bucket parseset-1 is [94m146 x 14 x 7[0m
+Bucket parseset-2 is [94m149 x 20 x 7[0m
+Bucket parseset-3 is [94m122 x 30 x 7[0m
+Bucket parseset-4 is [94m70 x 69 x 7[0m
+[92mParsing 1 file(s) took 6.83690285683 seconds[0m
+[91m[1mInitial # of tokens in buckets:[0m [91m[4m809169[0m
+[97m[1mFinal # of tokens in buckets:[0m [97m[4m576319[0m
+Bucket trainset-0 is [94m2306 x 11 x 7[0m
+Bucket trainset-1 is [94m3318 x 15 x 7[0m
+Bucket trainset-2 is [94m2836 x 18 x 7[0m
+Bucket trainset-3 is [94m3427 x 22 x 7[0m
+Bucket trainset-4 is [94m3436 x 27 x 7[0m
+Bucket trainset-5 is [94m2835 x 33 x 7[0m
+Bucket trainset-6 is [94m2111 x 41 x 7[0m
+Bucket trainset-7 is [94m1225 x 52 x 7[0m
+Bucket trainset-8 is [94m550 x 73 x 7[0m
+Bucket trainset-9 is [94m114 x 181 x 7[0m
+Network/RNN0/BiRNN_FW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.63e-26
+Network/RNN0/BiRNN_BW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.11e-26
+Network/RNN1/BiRNN_FW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.57e-30
+Network/RNN1/BiRNN_BW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.57e-30
+Network/RNN2/BiRNN_FW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.68e-30
+Network/RNN2/BiRNN_BW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.82e-30
+Network/MLP/Linear
+Orthogonal pretrainer loss: 5.00e+01
+[91m[1mInitial # of tokens in buckets:[0m [91m[4m14328[0m
+[97m[1mFinal # of tokens in buckets:[0m [97m[4m11861[0m
+Bucket parseset-0 is [94m239 x 11 x 7[0m
+Bucket parseset-1 is [94m207 x 14 x 7[0m
+Bucket parseset-2 is [94m193 x 19 x 7[0m
+Bucket parseset-3 is [94m80 x 26 x 7[0m
+Bucket parseset-4 is [94m29 x 50 x 7[0m
+[92mParsing 1 file(s) took 4.87123608589 seconds[0m
+[91m[1mInitial # of tokens in buckets:[0m [91m[4m933457[0m
+[97m[1mFinal # of tokens in buckets:[0m [97m[4m397413[0m
+Bucket trainset-0 is [94m2712 x 4 x 7[0m
+Bucket trainset-1 is [94m4387 x 6 x 7[0m
+Bucket trainset-2 is [94m2500 x 7 x 7[0m
+Bucket trainset-3 is [94m4470 x 9 x 7[0m
+Bucket trainset-4 is [94m5363 x 12 x 7[0m
+Bucket trainset-5 is [94m4964 x 16 x 7[0m
+Bucket trainset-6 is [94m3562 x 22 x 7[0m
+Bucket trainset-7 is [94m1704 x 32 x 7[0m
+Bucket trainset-8 is [94m628 x 54 x 7[0m
+Bucket trainset-9 is [94m95 x 239 x 7[0m
+Network/RNN0/BiRNN_FW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.75e-26
+Network/RNN0/BiRNN_BW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.64e-26
+Network/RNN1/BiRNN_FW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.57e-30
+Network/RNN1/BiRNN_BW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.57e-30
+Network/RNN2/BiRNN_FW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.65e-30
+Network/RNN2/BiRNN_BW/LSTMCell/Linear
+Orthogonal pretrainer loss: 1.63e-30
+Network/MLP/Linear
+Orthogonal pretrainer loss: 5.00e+01
+[91m[1mInitial # of tokens in buckets:[0m [91m[4m14570[0m
+[97m[1mFinal # of tokens in buckets:[0m [97m[4m12467[0m
+Bucket parseset-0 is [94m261 x 8 x 7[0m
+Bucket parseset-1 is [94m203 x 11 x 7[0m
+Bucket parseset-2 is [94m192 x 15 x 7[0m
+Bucket parseset-3 is [94m164 x 22 x 7[0m
+Bucket parseset-4 is [94m56 x 47 x 7[0m
+[92mParsing 1 file(s) took 5.50183987617 seconds[0m
+Missing model directory: /media/data/UD_saves2/Altaic/Altaic-Tagger
+Missing model directory: /media/data/UD_saves2/Slavic/Slavic-Tagger
+Missing model directory: /media/data/UD_saves2/Indo_Iranian/Indo_Iranian-Tagger
+Missing model directory: /media/data/UD_saves2/Uralic/Uralic-Tagger
+/home/Stanford/anaconda2/bin/python main.py --save_dir /media/data/UD_saves2/Altaic/Altaic-Parser parse /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu --output_file /tmp/Stanford/2017-05-12-23-51-03/output/bxr.conllu
+/home/Stanford/anaconda2/bin/python main.py --save_dir /media/data/UD_saves2/Slavic/Slavic-Parser parse /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu --output_file /tmp/Stanford/2017-05-12-23-51-03/output/hsb.conllu
+/home/Stanford/anaconda2/bin/python main.py --save_dir /media/data/UD_saves2/Indo_Iranian/Indo_Iranian-Parser parse /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu --output_file /tmp/Stanford/2017-05-12-23-51-03/output/kmr.conllu
+/home/Stanford/anaconda2/bin/python main.py --save_dir /media/data/UD_saves2/Uralic/Uralic-Parser parse /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu --output_file /tmp/Stanford/2017-05-12-23-51-03/output/sme.conllu

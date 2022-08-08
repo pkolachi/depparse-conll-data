@@ -1,0 +1,276 @@
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 8506417
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 520825399
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1883898933
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1349879109
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3428074622
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: cac
+[dynet] random seed: 3713892409
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: cltt
+[dynet] random seed: 2231137582
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 575563735
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2763694834
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 522599626
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3580211010
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 2534560202
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 4293211193
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2269759069
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: lines
+[dynet] random seed: 2956859629
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: partut
+[dynet] random seed: 3536675276
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 80582308
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 320184395
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: ancora
+[dynet] random seed: 564381341
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 834152651
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1490931912
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 4232975468
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1332886593
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 136010250
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: ftb
+[dynet] random seed: 3041538024
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 967341282
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3724688805
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: partut
+[dynet] random seed: 4193968729
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 21738258
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: sequoia
+[dynet] random seed: 1965900856
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 863150513
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2490298672
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: treegal
+[dynet] random seed: 3095557208
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1198900713
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 4213352553
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: proiel
+[dynet] random seed: 1746002398
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2829341374
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1572907125
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 4015500210
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1499020910
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2731104473
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2058027090
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 14849084
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3334204384
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 685225007
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3764675108
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 882349529
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1369615103
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 4056275739
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3523304928
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3022208410
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: ittb
+[dynet] random seed: 3979950768
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: proiel
+[dynet] random seed: 3881265864
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 327881519
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 4142713576
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: lassysmall
+[dynet] random seed: 148206561
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3692047231
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: bokmaal
+[dynet] random seed: 2292278641
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: nynorsk
+[dynet] random seed: 4233288425
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2989818474
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: br
+[dynet] random seed: 1729105143
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 949798785
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 790865750
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 271538059
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 2246189500
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: syntagrus
+[dynet] random seed: 3299818482
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 362621940
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2740987893
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: sst
+[dynet] random seed: 2315767235
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2323302240
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2717618932
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: lines
+[dynet] random seed: 1876497152
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 1466522130
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2432330395
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 300277959
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3560138979
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2403772585
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2536116771
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3615695241
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2188519571
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 4245071753
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.

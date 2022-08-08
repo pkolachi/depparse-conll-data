@@ -1,0 +1,2 @@
+28.98user 15.02system 0:45.70elapsed 96%CPU (0avgtext+0avgdata 278392maxresident)k
+0inputs+64outputs (0major+209664minor)pagefaults 0swaps

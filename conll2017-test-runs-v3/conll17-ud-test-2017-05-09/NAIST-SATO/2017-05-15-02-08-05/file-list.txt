@@ -1,0 +1,5 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/NAIST-SATO/2017-05-15-02-08-05/output
+├── [689K]  bxr.conllu
+└── [9.5M]  ru_syntagrus.conllu
+
+0 directories, 2 files

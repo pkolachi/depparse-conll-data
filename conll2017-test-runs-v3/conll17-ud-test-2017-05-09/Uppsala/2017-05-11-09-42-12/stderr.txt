@@ -1,0 +1,602 @@
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+[dynet] random seed: 27445258
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+Failing on cs. Error: Test file not found 
+Failing on cu. Error: Test file not found 
+Failing on de_pud. Error: Test file not found 
+Failing on en_pud. Error: Test file not found 
+Failing on en. Error: Test file not found 
+Failing on et. Error: Test file not found 
+Failing on fr_pud. Error: Test file not found 
+Failing on grc_proiel. Error: Test file not found 
+Failing on ja_pud. Error: Test file not found 
+Failing on lv. Error: Test file not found 
+Failing on no_bokmaal. Error: Test file not found 
+Failing on pt_pud. Error: Test file not found 
+Failing on pt. Error: Test file not found 
+Failing on ru_pud. Error: Test file not found 
+Failing on sv_lines. Error: Test file not found 
+Failing on sv_pud. Error: Test file not found 
+Failing on sv. Error: Test file not found 
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:39:20 CEST 2017
+.          	      1	      0s	      8MB
+.          	     10	      0s	      9MB
+.          	    100	      0s	     14MB
+..........	   1000	      0s	     21MB
+           	   1019	      0s	     23MB
+Finished: Thu May 11 12:39:21 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:40:48 CEST 2017
+.          	      1	      0s	      7MB
+.          	     10	      0s	      8MB
+.          	    100	      0s	     16MB
+........   	    828	      0s	     38MB
+Finished: Thu May 11 12:40:49 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:41:50 CEST 2017
+.          	      1	      0s	      8MB
+.          	     10	      0s	      9MB
+.          	    100	      0s	     11MB
+..........	   1000	      0s	     44MB
+.          	   1112	      0s	      8MB
+Finished: Thu May 11 12:41:50 CEST 2017
+Failing at language number 3. Error: u'bxr' 
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:44:42 CEST 2017
+.          	      1	      0s	      9MB
+.          	     10	      0s	     10MB
+.          	    100	      0s	     20MB
+..........	   1000	      1s	     10MB
+........   	   1849	      1s	     33MB
+Finished: Thu May 11 12:44:43 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:45:38 CEST 2017
+.          	      1	      0s	     15MB
+.          	     10	      0s	     15MB
+.          	    100	      0s	     19MB
+......     	    627	      0s	     44MB
+Finished: Thu May 11 12:45:39 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:46:22 CEST 2017
+.          	      1	      0s	      3MB
+.          	     10	      0s	      5MB
+.          	    100	     59s	    193MB
+...        	    302	     86s	    106MB
+Finished: Thu May 11 12:47:49 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:49:03 CEST 2017
+.          	      1	      0s	     27MB
+.          	     10	      0s	     27MB
+.          	    100	      0s	     31MB
+..........	   1000	      1s	     72MB
+           	   1028	      1s	     74MB
+Finished: Thu May 11 12:49:05 CEST 2017
+Failing at language number 8. Error: [Errno 2] No such file or directory: u'/tmp/Uppsala/2017-05-11-09-42-12/output/tokenized/cu.txt' 
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:50:10 CEST 2017
+.          	      1	      0s	      7MB
+.          	     10	      0s	      7MB
+.          	    100	      0s	     11MB
+.....      	    542	      0s	     32MB
+Finished: Thu May 11 12:50:11 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:51:14 CEST 2017
+.          	      1	      0s	     15MB
+.          	     10	      0s	     15MB
+.          	    100	      0s	     19MB
+........   	    892	      0s	     16MB
+Finished: Thu May 11 12:51:15 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:52:05 CEST 2017
+.          	      1	      0s	      5MB
+.          	     10	      0s	      6MB
+.          	    100	      0s	     11MB
+....       	    438	      0s	     32MB
+Finished: Thu May 11 12:52:05 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:52:59 CEST 2017
+.          	      1	      0s	      4MB
+.          	     10	      0s	      4MB
+.          	    100	      0s	      9MB
+.........  	    910	      0s	      5MB
+Finished: Thu May 11 12:53:00 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:53:45 CEST 2017
+.          	      1	      0s	      4MB
+.          	     10	      0s	      5MB
+.          	    100	      0s	     10MB
+......     	    500	      0s	     37MB
+Finished: Thu May 11 12:53:45 CEST 2017
+Failing at language number 14. Error: [Errno 2] No such file or directory: u'/tmp/Uppsala/2017-05-11-09-42-12/output/tokenized/en.txt' 
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:56:24 CEST 2017
+.          	      1	      0s	     11MB
+.          	     10	      0s	     12MB
+.          	    100	      0s	     20MB
+..........	   1000	      1s	     19MB
+.......    	   1726	      1s	     22MB
+Finished: Thu May 11 12:56:25 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:57:43 CEST 2017
+.          	      1	      0s	     12MB
+.          	     10	      0s	     13MB
+.          	    100	      0s	     19MB
+..........	   1000	      0s	     28MB
+           	   1032	      1s	     29MB
+Finished: Thu May 11 12:57:44 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:58:37 CEST 2017
+.          	      1	      0s	     12MB
+.          	     10	      0s	     13MB
+.          	    100	      0s	     19MB
+....       	    417	      0s	     42MB
+Finished: Thu May 11 12:58:38 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 12:59:54 CEST 2017
+.          	      1	      0s	      7MB
+.          	     10	      0s	      7MB
+.          	    100	      0s	     10MB
+..........	   1000	      0s	     38MB
+........   	   1801	      0s	     35MB
+Finished: Thu May 11 12:59:54 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 13:00:56 CEST 2017
+.          	      1	      0s	      6MB
+.          	     10	      0s	      7MB
+.          	    100	      0s	     13MB
+......     	    601	      0s	      6MB
+Finished: Thu May 11 13:00:57 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 13:02:02 CEST 2017
+.          	      1	      0s	     10MB
+.          	     10	      0s	     10MB
+.          	    100	      0s	     13MB
+..........	   1000	      0s	     36MB
+.......    	   1766	      0s	     15MB
+Finished: Thu May 11 13:02:03 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 13:03:07 CEST 2017
+.          	      1	      0s	     13MB
+.          	     10	      0s	     13MB
+.          	    100	      0s	     17MB
+..........	   1000	      0s	     51MB
+           	   1054	      0s	     53MB
+Finished: Thu May 11 13:03:08 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 13:04:26 CEST 2017
+.          	      1	      0s	     12MB
+.          	     10	      0s	     13MB
+.          	    100	      0s	     17MB
+..........	   1000	      0s	     49MB
+.....      	   1504	      0s	     26MB
+Finished: Thu May 11 13:04:27 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 13:05:10 CEST 2017
+.          	      1	      0s	      3MB
+.          	     10	      0s	      4MB
+.          	    100	      0s	     11MB
+....       	    401	      0s	     32MB
+Finished: Thu May 11 13:05:11 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 13:05:53 CEST 2017
+.          	      1	      0s	      5MB
+.          	     10	      0s	      6MB
+.          	    100	      0s	     12MB
+....       	    433	      0s	     35MB
+Finished: Thu May 11 13:05:54 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 13:06:43 CEST 2017
+.          	      1	      0s	     11MB
+.          	     10	      0s	     13MB
+.          	    100	      0s	     18MB
+....       	    413	      0s	     38MB
+Finished: Thu May 11 13:06:44 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 13:07:26 CEST 2017
+.          	      1	      0s	      4MB
+.          	     10	      0s	      5MB
+.          	    100	      0s	     10MB
+....       	    453	    205s	    207MB
+Finished: Thu May 11 13:10:52 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 13:11:33 CEST 2017
+.          	      1	      0s	      3MB
+.          	     10	      0s	      5MB
+.          	    100	      0s	     11MB
+...        	    398	      0s	     23MB
+Finished: Thu May 11 13:11:34 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 13:12:50 CEST 2017
+.          	      1	      0s	      6MB
+.          	     10	      0s	      7MB
+.          	    100	      0s	     14MB
+........   	    869	      0s	     37MB
+Finished: Thu May 11 13:12:51 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 13:13:38 CEST 2017
+.          	      1	      0s	      4MB
+.          	     10	      0s	      5MB
+.          	    100	      0s	     10MB
+.........  	    935	      1s	    156MB
+Finished: Thu May 11 13:13:39 CEST 2017
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Thu May 11 13:14:59 CEST 2017
+.          	      1	      0s	      8MB
+.          	     10	      0s	      9MB
+.          	    100	      0s	     14MB
+..........	   1000	      1s	     83MB
+....       	   1300	      1s	     18MB
+Finished: Thu May 11 13:15:00 CEST 2017
+Failing at language number 35. Error: u'hsb' 
+Failing at language number 41. Error: u'kk' 
+Failing at language number 42. Error: u'kmr' 
+Failing at language number 43. Error: Out-of-bounds attempt to access index 1 for LookupParameter of size 0 
+Failing at language number 44. Error: Out-of-bounds attempt to access index 1 for LookupParameter of size 0 
+./parse.sh: line 12:  5435 Segmentation fault      (core dumped) python src/parser.py --predict --outdir $tempdir --modeldir $modeldir --datadir $datadir --include include.txt --pseudo-proj --shared_task --shared_task_outdir $outdir --disablePredEval --metadata_file $metadata_json

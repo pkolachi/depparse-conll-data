@@ -1,0 +1,1056 @@
+./runparser.sh -i /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 -o /tmp/Koc-University/2017-05-11-18-53-35/output
+
+
+Evaluation startedrnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/ar_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/ar_pud.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar_pud-udpipe.conllu"])
+18:56:42 /media/data/ar_model.jld 
+18:56:54 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar_pud-udpipe.conllu 
+18:56:58 wordembeddings 
+18:57:11 fillwvecs! 
+18:57:11 contextembeddings,fillcvecs!,lmloss 
+18:59:22 perplexity=98.89779371179608 unkrate=0.1686746987951807 
+18:59:22 initmodel 
+18:59:22 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:00:57 /tmp/Koc-University/2017-05-11-18-53-35/output/ar_pud.conllu 
+19:00:57 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/ar_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/ar.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar-udpipe.conllu"])
+19:00:57 /media/data/ar_model.jld 
+19:00:59 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar-udpipe.conllu 
+19:01:00 wordembeddings 
+19:01:12 fillwvecs! 
+19:01:12 contextembeddings,fillcvecs!,lmloss 
+19:04:47 perplexity=106.06630820068723 unkrate=0.11538182609326275 
+19:04:47 initmodel 
+19:04:47 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:06:13 /tmp/Koc-University/2017-05-11-18-53-35/output/ar.conllu 
+19:06:13 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/bg_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/bg.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bg-udpipe.conllu"])
+19:06:13 /media/data/bg_model.jld 
+19:06:16 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bg-udpipe.conllu 
+19:06:17 wordembeddings 
+19:06:29 fillwvecs! 
+19:06:29 contextembeddings,fillcvecs!,lmloss 
+19:07:48 perplexity=28.255167189433045 unkrate=0.16330555378840894 
+19:07:48 initmodel 
+19:07:48 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:08:46 /tmp/Koc-University/2017-05-11-18-53-35/output/bg.conllu 
+19:08:46 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/bxr_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/bxr.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu"])
+19:08:46 /media/data/bxr_model.jld 
+19:08:50 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu 
+19:08:50 wordembeddings 
+19:09:02 fillwvecs! 
+19:09:02 contextembeddings,fillcvecs!,lmloss 
+19:09:46 perplexity=3.947626188538328 unkrate=0.8132229756681293 
+19:09:46 initmodel 
+19:09:46 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:09:56 /tmp/Koc-University/2017-05-11-18-53-35/output/bxr.conllu 
+19:09:56 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/ca_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/ca.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ca-udpipe.conllu"])
+19:09:56 /media/data/ca_model.jld 
+19:10:01 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ca-udpipe.conllu 
+19:10:01 wordembeddings 
+19:10:20 fillwvecs! 
+19:10:20 contextembeddings,fillcvecs!,lmloss 
+19:14:33 perplexity=17.62441173075985 unkrate=0.0940046967813234 
+19:14:33 initmodel 
+19:14:34 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:18:24 /tmp/Koc-University/2017-05-11-18-53-35/output/ca.conllu 
+19:18:25 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/cs_cac_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/cs_cac.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cac-udpipe.conllu"])
+19:18:25 /media/data/cs_cac_model.jld 
+19:18:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cac-udpipe.conllu 
+19:18:30 wordembeddings 
+19:18:42 fillwvecs! 
+19:18:42 contextembeddings,fillcvecs!,lmloss 
+19:20:13 perplexity=41.39971684482413 unkrate=0.23881421469342662 
+19:20:13 initmodel 
+19:20:13 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:20:46 /tmp/Koc-University/2017-05-11-18-53-35/output/cs_cac.conllu 
+19:20:46 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/cs_cltt_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/cs_cltt.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cltt-udpipe.conllu"])
+19:20:46 /media/data/cs_cltt_model.jld 
+19:20:49 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cltt-udpipe.conllu 
+19:20:51 wordembeddings 
+19:20:56 fillwvecs! 
+19:20:56 contextembeddings,fillcvecs!,lmloss 
+19:23:30 perplexity=44.877868761585724 unkrate=0.21404557340306313 
+19:23:30 initmodel 
+19:23:30 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:24:13 /tmp/Koc-University/2017-05-11-18-53-35/output/cs_cltt.conllu 
+19:24:13 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/cs_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/cs_pud.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_pud-udpipe.conllu"])
+19:24:13 /media/data/cs_model.jld 
+19:24:30 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_pud-udpipe.conllu 
+19:24:30 wordembeddings 
+19:24:47 fillwvecs! 
+19:24:48 contextembeddings,fillcvecs!,lmloss 
+19:26:01 perplexity=30.263867142171897 unkrate=0.20793727511948876 
+19:26:01 initmodel 
+19:26:01 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:27:12 /tmp/Koc-University/2017-05-11-18-53-35/output/cs_pud.conllu 
+19:27:12 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/cs_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/cs.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs-udpipe.conllu"])
+19:27:12 /media/data/cs_model.jld 
+19:27:22 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs-udpipe.conllu 
+19:27:24 wordembeddings 
+19:28:18 fillwvecs! 
+19:28:18 contextembeddings,fillcvecs!,lmloss 
+19:38:44 perplexity=39.36173187854031 unkrate=0.2066336365885799 
+19:38:44 initmodel 
+19:38:44 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:48:05 /tmp/Koc-University/2017-05-11-18-53-35/output/cs.conllu 
+19:48:06 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/cu_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/cu.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cu-udpipe.conllu"])
+19:48:06 /media/data/cu_model.jld 
+19:48:08 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cu-udpipe.conllu 
+19:48:09 wordembeddings 
+19:48:13 fillwvecs! 
+19:48:13 contextembeddings,fillcvecs!,lmloss 
+19:48:59 perplexity=5.742296931473022 unkrate=0.9618297787522424 
+19:48:59 initmodel 
+19:49:00 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:49:17 /tmp/Koc-University/2017-05-11-18-53-35/output/cu.conllu 
+19:49:17 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/da_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/da.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/da-udpipe.conllu"])
+19:49:17 /media/data/da_model.jld 
+19:49:19 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/da-udpipe.conllu 
+19:49:19 wordembeddings 
+19:49:25 fillwvecs! 
+19:49:25 contextembeddings,fillcvecs!,lmloss 
+19:49:54 perplexity=29.925371033649107 unkrate=0.13628670980587357 
+19:49:54 initmodel 
+19:49:54 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:50:12 /tmp/Koc-University/2017-05-11-18-53-35/output/da.conllu 
+19:50:12 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/de_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/de_pud.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de_pud-udpipe.conllu"])
+19:50:12 /media/data/de_model.jld 
+19:50:14 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de_pud-udpipe.conllu 
+19:50:14 wordembeddings 
+19:50:25 fillwvecs! 
+19:50:25 contextembeddings,fillcvecs!,lmloss 
+19:51:18 perplexity=26.776875811756256 unkrate=0.14026011011961267 
+19:51:18 initmodel 
+19:51:18 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:51:51 /tmp/Koc-University/2017-05-11-18-53-35/output/de_pud.conllu 
+19:51:52 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/de_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/de.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de-udpipe.conllu"])
+19:51:52 /media/data/de_model.jld 
+19:51:53 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de-udpipe.conllu 
+19:51:53 wordembeddings 
+19:52:02 fillwvecs! 
+19:52:02 contextembeddings,fillcvecs!,lmloss 
+19:52:59 perplexity=41.77851748538542 unkrate=0.14735678762202983 
+19:52:59 initmodel 
+19:52:59 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:53:26 /tmp/Koc-University/2017-05-11-18-53-35/output/de.conllu 
+19:53:27 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/el_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/el.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/el-udpipe.conllu"])
+19:53:27 /media/data/el_model.jld 
+19:53:28 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/el-udpipe.conllu 
+19:53:29 wordembeddings 
+19:53:33 fillwvecs! 
+19:53:33 contextembeddings,fillcvecs!,lmloss 
+19:54:09 perplexity=19.626128251499804 unkrate=0.1494054468738013 
+19:54:09 initmodel 
+19:54:09 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:54:30 /tmp/Koc-University/2017-05-11-18-53-35/output/el.conllu 
+19:54:30 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/en_lines_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/en_lines.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_lines-udpipe.conllu"])
+19:54:30 /media/data/en_lines_model.jld 
+19:54:31 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_lines-udpipe.conllu 
+19:54:32 wordembeddings 
+19:54:36 fillwvecs! 
+19:54:36 contextembeddings,fillcvecs!,lmloss 
+19:55:49 perplexity=41.58383363720221 unkrate=0.10008959426596697 
+19:55:49 initmodel 
+19:55:49 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:56:38 /tmp/Koc-University/2017-05-11-18-53-35/output/en_lines.conllu 
+19:56:39 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/en_partut_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/en_partut.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_partut-udpipe.conllu"])
+19:56:39 /media/data/en_partut_model.jld 
+19:56:40 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_partut-udpipe.conllu 
+19:56:40 wordembeddings 
+19:56:44 fillwvecs! 
+19:56:44 contextembeddings,fillcvecs!,lmloss 
+19:57:36 perplexity=48.06246243765814 unkrate=0.08946408407886737 
+19:57:36 initmodel 
+19:57:36 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+19:58:16 /tmp/Koc-University/2017-05-11-18-53-35/output/en_partut.conllu 
+19:58:16 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/en_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/en_pud.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_pud-udpipe.conllu"])
+19:58:16 /media/data/en_model.jld 
+19:58:18 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_pud-udpipe.conllu 
+19:58:18 wordembeddings 
+19:58:25 fillwvecs! 
+19:58:25 contextembeddings,fillcvecs!,lmloss 
+19:59:45 perplexity=45.676550811953916 unkrate=0.11741904987000709 
+19:59:45 initmodel 
+19:59:45 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:00:44 /tmp/Koc-University/2017-05-11-18-53-35/output/en_pud.conllu 
+20:00:44 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/en_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/en.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en-udpipe.conllu"])
+20:00:44 /media/data/en_model.jld 
+20:00:45 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en-udpipe.conllu 
+20:00:45 wordembeddings 
+20:00:55 fillwvecs! 
+20:00:55 contextembeddings,fillcvecs!,lmloss 
+20:03:24 perplexity=43.69155874279521 unkrate=0.11387544498220072 
+20:03:24 initmodel 
+20:03:24 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:04:40 /tmp/Koc-University/2017-05-11-18-53-35/output/en.conllu 
+20:04:41 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/es_ancora_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/es_ancora.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_ancora-udpipe.conllu"])
+20:04:41 /media/data/es_ancora_model.jld 
+20:04:43 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_ancora-udpipe.conllu 
+20:04:43 wordembeddings 
+20:04:57 fillwvecs! 
+20:04:57 contextembeddings,fillcvecs!,lmloss 
+20:07:42 perplexity=26.47554021912685 unkrate=0.0970862714538232 
+20:07:42 initmodel 
+20:07:42 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:09:07 /tmp/Koc-University/2017-05-11-18-53-35/output/es_ancora.conllu 
+20:09:08 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/es_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/es_pud.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_pud-udpipe.conllu"])
+20:09:08 /media/data/es_model.jld 
+20:09:09 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_pud-udpipe.conllu 
+20:09:10 wordembeddings 
+20:09:17 fillwvecs! 
+20:09:18 contextembeddings,fillcvecs!,lmloss 
+20:10:17 perplexity=25.785112657835043 unkrate=0.0911631907116749 
+20:10:17 initmodel 
+20:10:17 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:10:54 /tmp/Koc-University/2017-05-11-18-53-35/output/es_pud.conllu 
+20:10:55 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/es_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/es.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es-udpipe.conllu"])
+20:10:55 /media/data/es_model.jld 
+20:10:56 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es-udpipe.conllu 
+20:10:56 wordembeddings 
+20:11:01 fillwvecs! 
+20:11:01 contextembeddings,fillcvecs!,lmloss 
+20:11:52 perplexity=26.907753063962765 unkrate=0.0931899641577061 
+20:11:52 initmodel 
+20:11:52 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:12:17 /tmp/Koc-University/2017-05-11-18-53-35/output/es.conllu 
+20:12:17 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/et_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/et.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/et-udpipe.conllu"])
+20:12:17 /media/data/et_model.jld 
+20:12:19 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/et-udpipe.conllu 
+20:12:19 wordembeddings 
+20:12:26 fillwvecs! 
+20:12:26 contextembeddings,fillcvecs!,lmloss 
+20:13:12 perplexity=41.81032178063381 unkrate=0.23938441704939167 
+20:13:12 initmodel 
+20:13:12 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:13:33 /tmp/Koc-University/2017-05-11-18-53-35/output/et.conllu 
+20:13:33 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/eu_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/eu.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/eu-udpipe.conllu"])
+20:13:33 /media/data/eu_model.jld 
+20:13:35 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/eu-udpipe.conllu 
+20:13:35 wordembeddings 
+20:13:48 fillwvecs! 
+20:13:48 contextembeddings,fillcvecs!,lmloss 
+20:14:50 perplexity=39.87623986726646 unkrate=0.18973580571053494 
+20:14:50 initmodel 
+20:14:50 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:15:26 /tmp/Koc-University/2017-05-11-18-53-35/output/eu.conllu 
+20:15:27 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/fa_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/fa.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fa-udpipe.conllu"])
+20:15:27 /media/data/fa_model.jld 
+20:15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fa-udpipe.conllu 
+20:15:29 wordembeddings 
+20:15:33 fillwvecs! 
+20:15:33 contextembeddings,fillcvecs!,lmloss 
+20:16:21 perplexity=67.22169847301977 unkrate=0.10797799174690509 
+20:16:21 initmodel 
+20:16:21 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:16:51 /tmp/Koc-University/2017-05-11-18-53-35/output/fa.conllu 
+20:16:51 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/fi_ftb_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/fi_ftb.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_ftb-udpipe.conllu"])
+20:16:51 /media/data/fi_ftb_model.jld 
+20:16:53 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_ftb-udpipe.conllu 
+20:16:53 wordembeddings 
+20:17:06 fillwvecs! 
+20:17:06 contextembeddings,fillcvecs!,lmloss 
+20:18:09 perplexity=42.841550892835855 unkrate=0.2804982817869416 
+20:18:09 initmodel 
+20:18:09 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:18:35 /tmp/Koc-University/2017-05-11-18-53-35/output/fi_ftb.conllu 
+20:18:35 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/fi_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/fi_pud.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_pud-udpipe.conllu"])
+20:18:35 /media/data/fi_model.jld 
+20:18:37 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_pud-udpipe.conllu 
+20:18:37 wordembeddings 
+20:18:51 fillwvecs! 
+20:18:51 contextembeddings,fillcvecs!,lmloss 
+20:19:33 perplexity=23.6937006174332 unkrate=0.28564187048536305 
+20:19:33 initmodel 
+20:19:33 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:19:58 /tmp/Koc-University/2017-05-11-18-53-35/output/fi_pud.conllu 
+20:19:58 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/fi_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/fi.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi-udpipe.conllu"])
+20:19:58 /media/data/fi_model.jld 
+20:20:00 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi-udpipe.conllu 
+20:20:00 wordembeddings 
+20:20:17 fillwvecs! 
+20:20:17 contextembeddings,fillcvecs!,lmloss 
+20:21:36 perplexity=29.968841225333854 unkrate=0.2669935262757045 
+20:21:36 initmodel 
+20:21:36 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:22:11 /tmp/Koc-University/2017-05-11-18-53-35/output/fi.conllu 
+20:22:11 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/fr_partut_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/fr_partut.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_partut-udpipe.conllu"])
+20:22:11 /media/data/fr_partut_model.jld 
+20:22:20 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_partut-udpipe.conllu 
+20:22:20 wordembeddings 
+20:22:24 fillwvecs! 
+20:22:24 contextembeddings,fillcvecs!,lmloss 
+20:22:57 perplexity=13.629600212410052 unkrate=0.05057278569432803 
+20:22:57 initmodel 
+20:22:58 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:23:50 /tmp/Koc-University/2017-05-11-18-53-35/output/fr_partut.conllu 
+20:23:50 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/fr_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/fr_pud.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_pud-udpipe.conllu"])
+20:23:50 /media/data/fr_model.jld 
+20:23:52 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_pud-udpipe.conllu 
+20:23:52 wordembeddings 
+20:24:00 fillwvecs! 
+20:24:00 contextembeddings,fillcvecs!,lmloss 
+20:24:49 perplexity=16.276543030483314 unkrate=0.0963977061626686 
+20:24:49 initmodel 
+20:24:49 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:25:28 /tmp/Koc-University/2017-05-11-18-53-35/output/fr_pud.conllu 
+20:25:29 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/fr_sequoia_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/fr_sequoia.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_sequoia-udpipe.conllu"])
+20:25:29 /media/data/fr_sequoia_model.jld 
+20:25:30 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_sequoia-udpipe.conllu 
+20:25:31 wordembeddings 
+20:25:35 fillwvecs! 
+20:25:35 contextembeddings,fillcvecs!,lmloss 
+20:26:08 perplexity=16.716694116207144 unkrate=0.11116605676985461 
+20:26:08 initmodel 
+20:26:08 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:26:29 /tmp/Koc-University/2017-05-11-18-53-35/output/fr_sequoia.conllu 
+20:26:30 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/fr_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/fr.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr-udpipe.conllu"])
+20:26:30 /media/data/fr_model.jld 
+20:26:31 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr-udpipe.conllu 
+20:26:31 wordembeddings 
+20:26:36 fillwvecs! 
+20:26:36 contextembeddings,fillcvecs!,lmloss 
+20:27:02 perplexity=17.273227900824647 unkrate=0.08672355626116293 
+20:27:02 initmodel 
+20:27:02 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:27:21 /tmp/Koc-University/2017-05-11-18-53-35/output/fr.conllu 
+20:27:21 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/ga_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/ga.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ga-udpipe.conllu"])
+20:27:21 /media/data/ga_model.jld 
+20:27:23 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ga-udpipe.conllu 
+20:27:23 wordembeddings 
+20:27:28 fillwvecs! 
+20:27:28 contextembeddings,fillcvecs!,lmloss 
+20:28:45 perplexity=60.11079997396202 unkrate=0.10390123456790124 
+20:28:45 initmodel 
+20:28:45 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:29:09 /tmp/Koc-University/2017-05-11-18-53-35/output/ga.conllu 
+20:29:10 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/gl_treegal_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/gl_treegal.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl_treegal-udpipe.conllu"])
+20:29:10 /media/data/gl_treegal_model.jld 
+20:29:21 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl_treegal-udpipe.conllu 
+20:29:21 wordembeddings 
+20:29:25 fillwvecs! 
+20:29:25 contextembeddings,fillcvecs!,lmloss 
+20:30:09 perplexity=34.16033781227225 unkrate=0.0813297714455328 
+20:30:09 initmodel 
+20:30:09 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:30:54 /tmp/Koc-University/2017-05-11-18-53-35/output/gl_treegal.conllu 
+20:30:54 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/gl_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/gl.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl-udpipe.conllu"])
+20:30:54 /media/data/gl_model.jld 
+20:30:56 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl-udpipe.conllu 
+20:30:56 wordembeddings 
+20:31:05 fillwvecs! 
+20:31:05 contextembeddings,fillcvecs!,lmloss 
+20:32:02 perplexity=29.543167538839228 unkrate=0.09161203563624139 
+20:32:02 initmodel 
+20:32:02 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:32:49 /tmp/Koc-University/2017-05-11-18-53-35/output/gl.conllu 
+20:32:49 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/got_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/got.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/got-udpipe.conllu"])
+20:32:49 /media/data/got_model.jld 
+20:32:51 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/got-udpipe.conllu 
+20:32:51 wordembeddings 
+20:32:55 fillwvecs! 
+20:32:55 contextembeddings,fillcvecs!,lmloss 
+20:33:46 perplexity=9.211834392372227 unkrate=0.8941268905912394 
+20:33:46 initmodel 
+20:33:46 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:34:05 /tmp/Koc-University/2017-05-11-18-53-35/output/got.conllu 
+20:34:05 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/grc_proiel_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/grc_proiel.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc_proiel-udpipe.conllu"])
+20:34:05 /media/data/grc_proiel_model.jld 
+20:34:07 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc_proiel-udpipe.conllu 
+20:34:07 wordembeddings 
+20:34:13 fillwvecs! 
+20:34:13 contextembeddings,fillcvecs!,lmloss 
+20:35:24 perplexity=210.5264465529939 unkrate=0.19663512092534174 
+20:35:24 initmodel 
+20:35:24 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:35:52 /tmp/Koc-University/2017-05-11-18-53-35/output/grc_proiel.conllu 
+20:35:52 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/grc_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/grc.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc-udpipe.conllu"])
+20:35:52 /media/data/grc_model.jld 
+20:35:53 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc-udpipe.conllu 
+20:35:54 wordembeddings 
+20:36:03 fillwvecs! 
+20:36:03 contextembeddings,fillcvecs!,lmloss 
+20:37:15 perplexity=114.91178055054735 unkrate=0.19729059339820645 
+20:37:15 initmodel 
+20:37:15 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:37:51 /tmp/Koc-University/2017-05-11-18-53-35/output/grc.conllu 
+20:37:52 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/he_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/he.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/he-udpipe.conllu"])
+20:37:52 /media/data/he_model.jld 
+20:37:54 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/he-udpipe.conllu 
+20:37:54 wordembeddings 
+20:37:57 fillwvecs! 
+20:37:57 contextembeddings,fillcvecs!,lmloss 
+20:38:32 perplexity=46.16726862401805 unkrate=0.11408624955814775 
+20:38:32 initmodel 
+20:38:32 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:38:53 /tmp/Koc-University/2017-05-11-18-53-35/output/he.conllu 
+20:38:53 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/hi_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/hi_pud.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi_pud-udpipe.conllu"])
+20:38:53 /media/data/hi_model.jld 
+20:38:55 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi_pud-udpipe.conllu 
+20:38:55 wordembeddings 
+20:39:01 fillwvecs! 
+20:39:01 contextembeddings,fillcvecs!,lmloss 
+20:40:01 perplexity=49.63163452272987 unkrate=0.07846403553733128 
+20:40:01 initmodel 
+20:40:01 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:40:40 /tmp/Koc-University/2017-05-11-18-53-35/output/hi_pud.conllu 
+20:40:40 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/hi_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/hi.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi-udpipe.conllu"])
+20:40:40 /media/data/hi_model.jld 
+20:40:42 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi-udpipe.conllu 
+20:40:42 wordembeddings 
+20:40:48 fillwvecs! 
+20:40:48 contextembeddings,fillcvecs!,lmloss 
+20:42:27 perplexity=35.73678709493241 unkrate=0.06937623482924075 
+20:42:27 initmodel 
+20:42:27 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:43:25 /tmp/Koc-University/2017-05-11-18-53-35/output/hi.conllu 
+20:43:25 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/hr_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/hr.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hr-udpipe.conllu"])
+20:43:25 /media/data/hr_model.jld 
+20:43:27 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hr-udpipe.conllu 
+20:43:28 wordembeddings 
+20:43:35 fillwvecs! 
+20:43:35 contextembeddings,fillcvecs!,lmloss 
+20:44:13 perplexity=32.23629505296285 unkrate=0.1692121578708604 
+20:44:13 initmodel 
+20:44:13 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:44:38 /tmp/Koc-University/2017-05-11-18-53-35/output/hr.conllu 
+20:44:38 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/hsb_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/hsb.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu"])
+20:44:38 /media/data/hsb_model.jld 
+20:44:40 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu 
+20:44:40 wordembeddings 
+20:44:46 fillwvecs! 
+20:44:46 contextembeddings,fillcvecs!,lmloss 
+20:45:24 perplexity=20.491831940501484 unkrate=0.6225974995334951 
+20:45:24 initmodel 
+20:45:24 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:45:31 /tmp/Koc-University/2017-05-11-18-53-35/output/hsb.conllu 
+20:45:32 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/hu_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/hu.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hu-udpipe.conllu"])
+20:45:32 /media/data/hu_model.jld 
+20:45:33 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hu-udpipe.conllu 
+20:45:34 wordembeddings 
+20:45:41 fillwvecs! 
+20:45:41 contextembeddings,fillcvecs!,lmloss 
+20:46:14 perplexity=27.18040160781053 unkrate=0.24467170027716717 
+20:46:14 initmodel 
+20:46:14 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:46:34 /tmp/Koc-University/2017-05-11-18-53-35/output/hu.conllu 
+20:46:34 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/id_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/id.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/id-udpipe.conllu"])
+20:46:34 /media/data/id_model.jld 
+20:46:36 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/id-udpipe.conllu 
+20:46:36 wordembeddings 
+20:46:41 fillwvecs! 
+20:46:41 contextembeddings,fillcvecs!,lmloss 
+20:47:40 perplexity=48.186127269561425 unkrate=0.13385960444783973 
+20:47:40 initmodel 
+20:47:40 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:48:05 /tmp/Koc-University/2017-05-11-18-53-35/output/id.conllu 
+20:48:05 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/it_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/it_pud.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it_pud-udpipe.conllu"])
+20:48:05 /media/data/it_model.jld 
+20:48:07 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it_pud-udpipe.conllu 
+20:48:07 wordembeddings 
+20:48:15 fillwvecs! 
+20:48:16 contextembeddings,fillcvecs!,lmloss 
+20:49:17 perplexity=25.85505832128041 unkrate=0.09203562127194825 
+20:49:17 initmodel 
+20:49:17 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:49:56 /tmp/Koc-University/2017-05-11-18-53-35/output/it_pud.conllu 
+20:49:57 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/it_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/it.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it-udpipe.conllu"])
+20:49:57 /media/data/it_model.jld 
+20:49:58 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it-udpipe.conllu 
+20:49:58 wordembeddings 
+20:50:03 fillwvecs! 
+20:50:03 contextembeddings,fillcvecs!,lmloss 
+20:50:50 perplexity=26.27904825981851 unkrate=0.09384305061953703 
+20:50:50 initmodel 
+20:50:50 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:51:12 /tmp/Koc-University/2017-05-11-18-53-35/output/it.conllu 
+20:51:12 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/ja_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/ja_pud.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja_pud-udpipe.conllu"])
+20:51:12 /media/data/ja_model.jld 
+20:51:14 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja_pud-udpipe.conllu 
+20:51:14 wordembeddings 
+20:51:19 fillwvecs! 
+20:51:19 contextembeddings,fillcvecs!,lmloss 
+20:52:31 perplexity=24.273254488752652 unkrate=0.0935717419921018 
+20:52:31 initmodel 
+20:52:31 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:53:15 /tmp/Koc-University/2017-05-11-18-53-35/output/ja_pud.conllu 
+20:53:16 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/ja_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/ja.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja-udpipe.conllu"])
+20:53:16 /media/data/ja_model.jld 
+20:53:17 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja-udpipe.conllu 
+20:53:17 wordembeddings 
+20:53:21 fillwvecs! 
+20:53:21 contextembeddings,fillcvecs!,lmloss 
+20:54:13 perplexity=28.305014386510763 unkrate=0.08764469643278998 
+20:54:13 initmodel 
+20:54:13 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:54:39 /tmp/Koc-University/2017-05-11-18-53-35/output/ja.conllu 
+20:54:39 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/kk_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/kk.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kk-udpipe.conllu"])
+20:54:39 /media/data/kk_model.jld 
+20:54:41 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kk-udpipe.conllu 
+20:54:41 wordembeddings 
+20:54:48 fillwvecs! 
+20:54:48 contextembeddings,fillcvecs!,lmloss 
+20:55:31 perplexity=4.547831253747 unkrate=0.7787645943518611 
+20:55:31 initmodel 
+20:55:31 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:55:35 /tmp/Koc-University/2017-05-11-18-53-35/output/kk.conllu 
+20:55:36 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/kmr_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/kmr.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu"])
+20:55:36 /media/data/kmr_model.jld 
+20:55:37 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu 
+20:55:37 wordembeddings 
+20:55:40 fillwvecs! 
+20:55:40 contextembeddings,fillcvecs!,lmloss 
+20:56:08 perplexity=20.657525879494486 unkrate=0.6711877929590107 
+20:56:08 initmodel 
+20:56:08 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:56:12 /tmp/Koc-University/2017-05-11-18-53-35/output/kmr.conllu 
+20:56:12 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/ko_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/ko.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ko-udpipe.conllu"])
+20:56:12 /media/data/ko_model.jld 
+20:56:14 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ko-udpipe.conllu 
+20:56:14 wordembeddings 
+20:56:21 fillwvecs! 
+20:56:21 contextembeddings,fillcvecs!,lmloss 
+20:56:58 perplexity=32.46811038540834 unkrate=0.46980234260614934 
+20:56:58 initmodel 
+20:56:58 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:57:17 /tmp/Koc-University/2017-05-11-18-53-35/output/ko.conllu 
+20:57:17 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/la_ittb_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/la_ittb.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_ittb-udpipe.conllu"])
+20:57:17 /media/data/la_ittb_model.jld 
+20:57:19 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_ittb-udpipe.conllu 
+20:57:19 wordembeddings 
+20:57:21 fillwvecs! 
+20:57:21 contextembeddings,fillcvecs!,lmloss 
+20:58:02 perplexity=39.9228464792359 unkrate=0.0712933156599129 
+20:58:02 initmodel 
+20:58:02 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+20:58:22 /tmp/Koc-University/2017-05-11-18-53-35/output/la_ittb.conllu 
+20:58:22 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/la_proiel_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/la_proiel.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_proiel-udpipe.conllu"])
+20:58:22 /media/data/la_proiel_model.jld 
+20:58:24 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_proiel-udpipe.conllu 
+20:58:24 wordembeddings 
+20:58:30 fillwvecs! 
+20:58:30 contextembeddings,fillcvecs!,lmloss 
+20:59:39 perplexity=151.38846712039657 unkrate=0.15075707702435814 
+20:59:39 initmodel 
+20:59:39 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:00:07 /tmp/Koc-University/2017-05-11-18-53-35/output/la_proiel.conllu 
+21:00:08 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/la_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/la.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la-udpipe.conllu"])
+21:00:08 /media/data/la_model.jld 
+21:00:19 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la-udpipe.conllu 
+21:00:19 wordembeddings 
+21:00:25 fillwvecs! 
+21:00:25 contextembeddings,fillcvecs!,lmloss 
+21:01:02 perplexity=88.69537720261883 unkrate=0.24130375239660368 
+21:01:02 initmodel 
+21:01:02 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:01:46 /tmp/Koc-University/2017-05-11-18-53-35/output/la.conllu 
+21:01:46 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/lv_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/lv.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/lv-udpipe.conllu"])
+21:01:46 /media/data/lv_model.jld 
+21:01:48 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/lv-udpipe.conllu 
+21:01:48 wordembeddings 
+21:01:54 fillwvecs! 
+21:01:54 contextembeddings,fillcvecs!,lmloss 
+21:02:43 perplexity=41.06700730897369 unkrate=0.19829059829059828 
+21:02:43 initmodel 
+21:02:43 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:03:02 /tmp/Koc-University/2017-05-11-18-53-35/output/lv.conllu 
+21:03:02 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/nl_lassysmall_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/nl_lassysmall.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl_lassysmall-udpipe.conllu"])
+21:03:02 /media/data/nl_lassysmall_model.jld 
+21:03:05 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl_lassysmall-udpipe.conllu 
+21:03:05 wordembeddings 
+21:03:12 fillwvecs! 
+21:03:12 contextembeddings,fillcvecs!,lmloss 
+21:03:48 perplexity=37.70469065755212 unkrate=0.14906277893484082 
+21:03:48 initmodel 
+21:03:48 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:04:07 /tmp/Koc-University/2017-05-11-18-53-35/output/nl_lassysmall.conllu 
+21:04:07 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/nl_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/nl.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl-udpipe.conllu"])
+21:04:07 /media/data/nl_model.jld 
+21:04:09 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl-udpipe.conllu 
+21:04:09 wordembeddings 
+21:04:15 fillwvecs! 
+21:04:15 contextembeddings,fillcvecs!,lmloss 
+21:04:50 perplexity=33.215196530779366 unkrate=0.13037423846823323 
+21:04:50 initmodel 
+21:04:50 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:05:11 /tmp/Koc-University/2017-05-11-18-53-35/output/nl.conllu 
+21:05:11 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/no_bokmaal_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/no_bokmaal.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_bokmaal-udpipe.conllu"])
+21:05:11 /media/data/no_bokmaal_model.jld 
+21:05:13 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_bokmaal-udpipe.conllu 
+21:05:13 wordembeddings 
+21:05:24 fillwvecs! 
+21:05:24 contextembeddings,fillcvecs!,lmloss 
+21:07:10 perplexity=31.49955994523644 unkrate=0.12415726587010213 
+21:07:10 initmodel 
+21:07:10 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:07:58 /tmp/Koc-University/2017-05-11-18-53-35/output/no_bokmaal.conllu 
+21:07:58 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/no_nynorsk_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/no_nynorsk.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_nynorsk-udpipe.conllu"])
+21:07:58 /media/data/no_nynorsk_model.jld 
+21:08:00 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_nynorsk-udpipe.conllu 
+21:08:00 wordembeddings 
+21:08:10 fillwvecs! 
+21:08:10 contextembeddings,fillcvecs!,lmloss 
+21:09:33 perplexity=36.72247508934682 unkrate=0.135125317835089 
+21:09:33 initmodel 
+21:09:33 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:10:14 /tmp/Koc-University/2017-05-11-18-53-35/output/no_nynorsk.conllu 
+21:10:14 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/pl_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/pl.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pl-udpipe.conllu"])
+21:10:14 /media/data/pl_model.jld 
+21:10:17 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pl-udpipe.conllu 
+21:10:17 wordembeddings 
+21:10:23 fillwvecs! 
+21:10:23 contextembeddings,fillcvecs!,lmloss 
+21:10:59 perplexity=26.84050132314995 unkrate=0.22976597909536584 
+21:10:59 initmodel 
+21:10:59 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:11:16 /tmp/Koc-University/2017-05-11-18-53-35/output/pl.conllu 
+21:11:17 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/pt_br_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/pt_br.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_br-udpipe.conllu"])
+21:11:17 /media/data/pt_br_model.jld 
+21:11:19 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_br-udpipe.conllu 
+21:11:19 wordembeddings 
+21:11:29 fillwvecs! 
+21:11:29 contextembeddings,fillcvecs!,lmloss 
+21:13:14 perplexity=32.578136904539 unkrate=0.09143401015228426 
+21:13:14 initmodel 
+21:13:14 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:14:04 /tmp/Koc-University/2017-05-11-18-53-35/output/pt_br.conllu 
+21:14:04 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/pt_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/pt_pud.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_pud-udpipe.conllu"])
+21:14:04 /media/data/pt_model.jld 
+21:14:06 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_pud-udpipe.conllu 
+21:14:06 wordembeddings 
+21:14:14 fillwvecs! 
+21:14:14 contextembeddings,fillcvecs!,lmloss 
+21:15:13 perplexity=21.523194312133572 unkrate=0.10422474801629852 
+21:15:13 initmodel 
+21:15:13 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:15:51 /tmp/Koc-University/2017-05-11-18-53-35/output/pt_pud.conllu 
+21:15:51 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/pt_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/pt.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt-udpipe.conllu"])
+21:15:51 /media/data/pt_model.jld 
+21:15:53 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt-udpipe.conllu 
+21:15:53 wordembeddings 
+21:15:58 fillwvecs! 
+21:15:58 contextembeddings,fillcvecs!,lmloss 
+21:16:29 perplexity=25.274079413710552 unkrate=0.09754186661443541 
+21:16:29 initmodel 
+21:16:29 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:16:50 /tmp/Koc-University/2017-05-11-18-53-35/output/pt.conllu 
+21:16:50 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/ro_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/ro.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ro-udpipe.conllu"])
+21:16:50 /media/data/ro_model.jld 
+21:16:52 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ro-udpipe.conllu 
+21:16:52 wordembeddings 
+21:17:00 fillwvecs! 
+21:17:00 contextembeddings,fillcvecs!,lmloss 
+21:18:04 perplexity=22.31685169313201 unkrate=0.18226359627633512 
+21:18:04 initmodel 
+21:18:04 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:18:34 /tmp/Koc-University/2017-05-11-18-53-35/output/ro.conllu 
+21:18:34 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/ru_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/ru_pud.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_pud-udpipe.conllu"])
+21:18:34 /media/data/ru_model.jld 
+21:18:37 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_pud-udpipe.conllu 
+21:18:37 wordembeddings 
+21:18:48 fillwvecs! 
+21:18:48 contextembeddings,fillcvecs!,lmloss 
+21:19:38 perplexity=24.81155489292353 unkrate=0.22594843848249843 
+21:19:38 initmodel 
+21:19:38 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:20:10 /tmp/Koc-University/2017-05-11-18-53-35/output/ru_pud.conllu 
+21:20:10 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/ru_syntagrus_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/ru_syntagrus.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_syntagrus-udpipe.conllu"])
+21:20:10 /media/data/ru_syntagrus_model.jld 
+21:20:12 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_syntagrus-udpipe.conllu 
+21:20:16 wordembeddings 
+21:20:56 fillwvecs! 
+21:20:56 contextembeddings,fillcvecs!,lmloss 
+21:27:34 perplexity=29.770221037337414 unkrate=0.21017333356058152 
+21:27:34 initmodel 
+21:27:34 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:30:24 /tmp/Koc-University/2017-05-11-18-53-35/output/ru_syntagrus.conllu 
+21:30:25 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/ru_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/ru.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru-udpipe.conllu"])
+21:30:25 /media/data/ru_model.jld 
+21:30:27 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru-udpipe.conllu 
+21:30:27 wordembeddings 
+21:30:35 fillwvecs! 
+21:30:35 contextembeddings,fillcvecs!,lmloss 
+21:31:43 perplexity=27.578987559726148 unkrate=0.2883865939204988 
+21:31:43 initmodel 
+21:31:43 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:32:08 /tmp/Koc-University/2017-05-11-18-53-35/output/ru.conllu 
+21:32:08 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/sk_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/sk.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sk-udpipe.conllu"])
+21:32:08 /media/data/sk_model.jld 
+21:32:10 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sk-udpipe.conllu 
+21:32:10 wordembeddings 
+21:32:18 fillwvecs! 
+21:32:18 contextembeddings,fillcvecs!,lmloss 
+21:33:00 perplexity=26.857355483502833 unkrate=0.26151366287995087 
+21:33:00 initmodel 
+21:33:01 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:33:21 /tmp/Koc-University/2017-05-11-18-53-35/output/sk.conllu 
+21:33:21 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/sl_sst_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/sl_sst.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl_sst-udpipe.conllu"])
+21:33:21 /media/data/sl_sst_model.jld 
+21:33:33 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl_sst-udpipe.conllu 
+21:33:33 wordembeddings 
+21:33:36 fillwvecs! 
+21:33:36 contextembeddings,fillcvecs!,lmloss 
+21:34:28 perplexity=224.36917954273676 unkrate=0.19776268477826608 
+21:34:28 initmodel 
+21:34:28 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:35:12 /tmp/Koc-University/2017-05-11-18-53-35/output/sl_sst.conllu 
+21:35:13 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/sl_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/sl.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl-udpipe.conllu"])
+21:35:13 /media/data/sl_model.jld 
+21:35:15 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl-udpipe.conllu 
+21:35:16 wordembeddings 
+21:35:23 fillwvecs! 
+21:35:23 contextembeddings,fillcvecs!,lmloss 
+21:36:07 perplexity=23.188391016581726 unkrate=0.1935071393052497 
+21:36:07 initmodel 
+21:36:08 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:36:31 /tmp/Koc-University/2017-05-11-18-53-35/output/sl.conllu 
+21:36:32 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/sme_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/sme.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu"])
+21:36:32 /media/data/sme_model.jld 
+21:36:33 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu 
+21:36:33 wordembeddings 
+21:36:40 fillwvecs! 
+21:36:40 contextembeddings,fillcvecs!,lmloss 
+21:37:10 perplexity=5.8508884196463296 unkrate=0.7884749825227204 
+21:37:10 initmodel 
+21:37:10 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:37:14 /tmp/Koc-University/2017-05-11-18-53-35/output/sme.conllu 
+21:37:14 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/sv_lines_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/sv_lines.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_lines-udpipe.conllu"])
+21:37:14 /media/data/sv_lines_model.jld 
+21:37:16 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_lines-udpipe.conllu 
+21:37:17 wordembeddings 
+21:37:23 fillwvecs! 
+21:37:23 contextembeddings,fillcvecs!,lmloss 
+21:38:12 perplexity=33.15024126964679 unkrate=0.13718315481338567 
+21:38:12 initmodel 
+21:38:12 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:38:37 /tmp/Koc-University/2017-05-11-18-53-35/output/sv_lines.conllu 
+21:38:37 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/sv_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/sv_pud.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_pud-udpipe.conllu"])
+21:38:37 /media/data/sv_model.jld 
+21:38:39 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_pud-udpipe.conllu 
+21:38:40 wordembeddings 
+21:38:50 fillwvecs! 
+21:38:50 contextembeddings,fillcvecs!,lmloss 
+21:39:36 perplexity=36.68930736242645 unkrate=0.1682801671692324 
+21:39:36 initmodel 
+21:39:36 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:40:06 /tmp/Koc-University/2017-05-11-18-53-35/output/sv_pud.conllu 
+21:40:06 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/sv_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/sv.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv-udpipe.conllu"])
+21:40:06 /media/data/sv_model.jld 
+21:40:08 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv-udpipe.conllu 
+21:40:09 wordembeddings 
+21:40:17 fillwvecs! 
+21:40:17 contextembeddings,fillcvecs!,lmloss 
+21:41:24 perplexity=32.4209471954985 unkrate=0.13985567718815964 
+21:41:24 initmodel 
+21:41:24 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:41:57 /tmp/Koc-University/2017-05-11-18-53-35/output/sv.conllu 
+21:41:58 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/tr_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/tr_pud.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr_pud-udpipe.conllu"])
+21:41:58 /media/data/tr_model.jld 
+21:42:00 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr_pud-udpipe.conllu 
+21:42:00 wordembeddings 
+21:42:10 fillwvecs! 
+21:42:10 contextembeddings,fillcvecs!,lmloss 
+21:42:55 perplexity=38.610649224380616 unkrate=0.2502054231717338 
+21:42:55 initmodel 
+21:42:55 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:43:21 /tmp/Koc-University/2017-05-11-18-53-35/output/tr_pud.conllu 
+21:43:22 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/tr_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/tr.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr-udpipe.conllu"])
+21:43:22 /media/data/tr_model.jld 
+21:43:24 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr-udpipe.conllu 
+21:43:24 wordembeddings 
+21:43:30 fillwvecs! 
+21:43:30 contextembeddings,fillcvecs!,lmloss 
+21:44:11 perplexity=44.303308941197656 unkrate=0.26206063047638234 
+21:44:11 initmodel 
+21:44:11 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:44:27 /tmp/Koc-University/2017-05-11-18-53-35/output/tr.conllu 
+21:44:27 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/ug_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/ug.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ug-udpipe.conllu"])
+21:44:27 /media/data/ug_model.jld 
+21:44:39 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ug-udpipe.conllu 
+21:44:39 wordembeddings 
+21:44:45 fillwvecs! 
+21:44:45 contextembeddings,fillcvecs!,lmloss 
+21:45:26 perplexity=519.2013799721874 unkrate=0.23623741077539845 
+21:45:26 initmodel 
+21:45:26 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:46:06 /tmp/Koc-University/2017-05-11-18-53-35/output/ug.conllu 
+21:46:06 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/uk_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/uk.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/uk-udpipe.conllu"])
+21:46:06 /media/data/uk_model.jld 
+21:46:18 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/uk-udpipe.conllu 
+21:46:18 wordembeddings 
+21:46:25 fillwvecs! 
+21:46:25 contextembeddings,fillcvecs!,lmloss 
+21:47:17 perplexity=39.51162177758418 unkrate=0.27617649331581795 
+21:47:17 initmodel 
+21:47:17 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:48:09 /tmp/Koc-University/2017-05-11-18-53-35/output/uk.conllu 
+21:48:09 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/ur_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/ur.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ur-udpipe.conllu"])
+21:48:09 /media/data/ur_model.jld 
+21:48:11 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ur-udpipe.conllu 
+21:48:12 wordembeddings 
+21:48:14 fillwvecs! 
+21:48:14 contextembeddings,fillcvecs!,lmloss 
+21:49:03 perplexity=109.65024776585526 unkrate=0.08942320680805078 
+21:49:03 initmodel 
+21:49:03 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:49:31 /tmp/Koc-University/2017-05-11-18-53-35/output/ur.conllu 
+21:49:31 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/vi_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/vi.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/vi-udpipe.conllu"])
+21:49:31 /media/data/vi_model.jld 
+21:49:33 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/vi-udpipe.conllu 
+21:49:36 wordembeddings 
+21:49:39 fillwvecs! 
+21:49:39 contextembeddings,fillcvecs!,lmloss 
+21:50:05 perplexity=72.2804393145235 unkrate=0.18139267531614386 
+21:50:05 initmodel 
+21:50:05 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:50:25 /tmp/Koc-University/2017-05-11-18-53-35/output/vi.conllu 
+21:50:25 done 
+rnnparser.jl
+opts=(:optimization,"Adam()")(:savefile,nothing)(:loadfile,"/media/data/zh_model.jld")(:dropout,[0.5,0.5])(:beamsize,1)(:feats,nothing)(:bestfile,nothing)(:otrain,0)(:output,"/tmp/Koc-University/2017-05-11-18-53-35/output/zh.conllu")(:arctype,nothing)(:hidden,[2048])(:seed,-1)(:report,[1])(:btrain,0)(:embed,Int64[])(:batchsize,16)(:datafiles,Any["/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh-udpipe.conllu"])
+21:50:25 /media/data/zh_model.jld 
+21:50:27 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh-udpipe.conllu 
+21:50:27 wordembeddings 
+21:50:30 fillwvecs! 
+21:50:30 contextembeddings,fillcvecs!,lmloss 
+21:51:11 perplexity=87.97639371034133 unkrate=0.12520647505781302 
+21:51:11 initmodel 
+21:51:11 parsing 
+(:epoch,0,:beam,1,:las,0.0)
+21:51:34 /tmp/Koc-University/2017-05-11-18-53-35/output/zh.conllu 
+21:51:34 done 

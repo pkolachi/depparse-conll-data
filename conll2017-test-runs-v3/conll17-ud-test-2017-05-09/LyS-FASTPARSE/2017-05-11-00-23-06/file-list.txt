@@ -1,0 +1,4 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/LyS-FASTPARSE/2017-05-09-18-43-05/../2017-05-11-00-23-06/output
+└── [ 49K]  evaluation.prototext
+
+0 directories, 1 file

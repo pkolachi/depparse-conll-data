@@ -1,0 +1,1078 @@
+sh /home/Uppsala/bash_script.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/Uppsala/2017-05-11-18-50-48/output
+
+
+Encoding:  utf-8
+Joint sentence segmentation...
+Defining transducer...
+Initialization....
+Bucket 1, 60.289438 seconds
+Done. Time consumed: 82 seconds
+Loading weights....
+Loaded.
+Loading transducer...
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Defining transducer...
+Initialization....
+Bucket 1, 60.317171 seconds
+Done. Time consumed: 81 seconds
+Loading weights....
+Loaded.
+Loading transducer...
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.404091 seconds
+Done. Time consumed: 55 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.127460 seconds
+Done. Time consumed: 55 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.230521 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.192101 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.027733 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.745350 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.210029 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.598891 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.604580 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.899327 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.794162 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.991529 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.666694 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.139497 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.106927 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.251977 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 57.221136 seconds
+Done. Time consumed: 57 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.679893 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.669629 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.664777 seconds
+Done. Time consumed: 55 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.369818 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.457929 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.402680 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.552978 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.761154 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 57.765946 seconds
+Done. Time consumed: 57 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 57.171526 seconds
+Done. Time consumed: 57 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.535886 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.675947 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.433520 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.255782 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.709880 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.101658 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.743667 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.355696 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Defining transducer...
+Initialization....
+Bucket 1, 56.708171 seconds
+Done. Time consumed: 71 seconds
+Loading weights....
+Loaded.
+Loading transducer...
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.783655 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.167894 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.870250 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 57.614777 seconds
+Done. Time consumed: 57 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.462273 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.841879 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.530200 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 57.394293 seconds
+Done. Time consumed: 57 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.377330 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.199057 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.872648 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.225140 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.023709 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.324316 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.482915 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.029665 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.337167 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.065028 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.120387 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 57.998241 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.128150 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.512968 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.366955 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.489948 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.274667 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.571718 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.457545 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.164341 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.273457 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.071314 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.518120 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.317132 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.322019 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.634134 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.393572 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.377742 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.314509 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.050253 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.555707 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 58.023851 seconds
+Done. Time consumed: 58 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.011303 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.834596 seconds
+Done. Time consumed: 55 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.079029 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Using external embedding: None
+Failing on ar_pud. Error: 'UDtreebank' object has no attribute 'proj_mco' 
+
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+828 sentences read.
+Time: 61s
+Finished predicting test 60.9929180145
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1112 sentences read.
+Time: 35s
+Finished predicting test 35.0422759056
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1849 sentences read.
+Time: 1.2e+02s
+Finished predicting test 115.481266975
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+627 sentences read.
+Time: 23s
+Finished predicting test 22.5441811085
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+302 sentences read.
+Time: 21s
+Finished predicting test 21.4391479492
+Using external embedding: None
+Failing on cs_pud. Error: 'UDtreebank' object has no attribute 'proj_mco' 
+
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+10192 sentences read.
+Time: 3.7e+02s
+Finished predicting test 368.56833601
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1090 sentences read.
+Time: 26s
+Finished predicting test 26.0781600475
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+542 sentences read.
+Time: 20s
+Finished predicting test 20.1276540756
+Using external embedding: None
+Failing on de_pud. Error: 'UDtreebank' object has no attribute 'proj_mco' 
+
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+892 sentences read.
+Time: 34s
+Finished predicting test 34.4447109699
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+438 sentences read.
+Time: 24s
+Finished predicting test 24.1491599083
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+910 sentences read.
+Time: 32s
+Finished predicting test 31.9591460228
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+500 sentences read.
+Time: 22s
+Finished predicting test 22.1624119282
+Using external embedding: None
+Failing on en_pud. Error: 'UDtreebank' object has no attribute 'proj_mco' 
+
+Using external embedding: None
+Failing on en. Error: Test file not found 
+
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1726 sentences read.
+Time: 1e+02s
+Finished predicting test 100.504066944
+Using external embedding: None
+Failing on es_pud. Error: 'UDtreebank' object has no attribute 'proj_mco' 
+
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+417 sentences read.
+Time: 24s
+Finished predicting test 24.234760046
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+927 sentences read.
+Time: 24s
+Finished predicting test 23.8881738186
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1801 sentences read.
+Time: 53s
+Finished predicting test 52.9586119652
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+601 sentences read.
+Time: 34s
+Finished predicting test 34.3630719185
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1766 sentences read.
+Time: 35s
+Finished predicting test 34.6817879677
+Using external embedding: None
+Failing on fi_pud. Error: 'UDtreebank' object has no attribute 'proj_mco' 
+
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1504 sentences read.
+Time: 43s
+Finished predicting test 42.6796088219
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+401 sentences read.
+Time: 20s
+Finished predicting test 19.8145160675
+Using external embedding: None
+Failing on fr_pud. Error: 'UDtreebank' object has no attribute 'proj_mco' 
+
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+433 sentences read.
+Time: 19s
+Finished predicting test 19.2323489189
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+413 sentences read.
+Time: 19s
+Finished predicting test 18.7204430103
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+453 sentences read.
+Time: 19s
+Finished predicting test 18.7528860569
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+398 sentences read.
+Time: 21s
+Finished predicting test 20.9405050278
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+869 sentences read.
+Time: 55s
+Finished predicting test 54.7000989914
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+935 sentences read.
+Time: 21s
+Finished predicting test 21.440007925
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+839 sentences read.
+Time: 32s
+Finished predicting test 32.2237510681
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1300 sentences read.
+Time: 48s
+Finished predicting test 48.2506651878
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+492 sentences read.
+Time: 23s
+Finished predicting test 23.4587891102
+Using external embedding: None
+Failing on hi_pud. Error: 'UDtreebank' object has no attribute 'proj_mco' 
+
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1676 sentences read.
+Time: 82s
+Finished predicting test 81.7963430882
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+599 sentences read.
+Time: 26s
+Finished predicting test 26.4142119884
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+452 sentences read.
+Time: 21s
+Finished predicting test 20.8190729618
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+546 sentences read.
+Time: 24s
+Finished predicting test 23.6615908146
+Using external embedding: None
+Failing on it_pud. Error: 'UDtreebank' object has no attribute 'proj_mco' 
+
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+483 sentences read.
+Time: 21s
+Finished predicting test 21.0765662193
+Using external embedding: None
+Failing on ja_pud. Error: 'UDtreebank' object has no attribute 'proj_mco' 
+
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+545 sentences read.
+Time: 23s
+Finished predicting test 23.0523331165
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+957 sentences read.
+Time: 25s
+Finished predicting test 24.6852381229
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+753 sentences read.
+Time: 22s
+Finished predicting test 21.6062700748
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+998 sentences read.
+Time: 28s
+Finished predicting test 27.7955000401
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+946 sentences read.
+Time: 23s
+Finished predicting test 22.6734490395
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+959 sentences read.
+Time: 22s
+Finished predicting test 21.8853650093
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+754 sentences read.
+Time: 21s
+Finished predicting test 20.6219050884
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+611 sentences read.
+Time: 24s
+Finished predicting test 23.9055330753
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1941 sentences read.
+Time: 60s
+Finished predicting test 60.0459671021
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1501 sentences read.
+Time: 49s
+Finished predicting test 48.998529911
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1104 sentences read.
+Time: 20s
+Finished predicting test 20.4106030464
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1202 sentences read.
+Time: 62s
+Finished predicting test 62.3247070312
+Using external embedding: None
+Failing on pt_pud. Error: 'UDtreebank' object has no attribute 'proj_mco' 
+
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+464 sentences read.
+Time: 20s
+Finished predicting test 19.6204578876
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+727 sentences read.
+Time: 32s
+Finished predicting test 31.8756549358
+Using external embedding: None
+Failing on ru_pud. Error: 'UDtreebank' object has no attribute 'proj_mco' 
+
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+6477 sentences read.
+Time: 2.8e+02s
+Finished predicting test 277.274514914
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+595 sentences read.
+Time: 28s
+Finished predicting test 27.9475359917
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1030 sentences read.
+Time: 26s
+Finished predicting test 26.4513142109
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+652 sentences read.
+Time: 22s
+Finished predicting test 21.9114120007
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+795 sentences read.
+Time: 29s
+Finished predicting test 28.7198698521
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+911 sentences read.
+Time: 31s
+Finished predicting test 30.9177010059
+Using external embedding: None
+Failing on sv_pud. Error: 'UDtreebank' object has no attribute 'proj_mco' 
+
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1222 sentences read.
+Time: 40s
+Finished predicting test 40.1574370861
+Using external embedding: None
+Failing on tr_pud. Error: 'UDtreebank' object has no attribute 'proj_mco' 
+
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+992 sentences read.
+Time: 22s
+Finished predicting test 21.9429922104
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+843 sentences read.
+Time: 30s
+Finished predicting test 29.6699790955
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+534 sentences read.
+Time: 32s
+Finished predicting test 31.9201440811
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+838 sentences read.
+Time: 23s
+Finished predicting test 23.3901131153
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+502 sentences read.
+Time: 23s
+Finished predicting test 23.0947301388
+Using external embedding: None
+Failing at language number 0. Error: u'bxr' 
+
+Using external embedding: None
+Failing at language number 0. Error: u'hsb' 
+
+Using external embedding: None
+Failing at language number 0. Error: u'kk' 
+
+Using external embedding: None
+Failing at language number 0. Error: u'kmr' 
+
+Using external embedding: None
+Failing at language number 0. Error: u'sme' 
+
+Using external embedding: None
+Failing at language number 0. Error: u'ug' 
+

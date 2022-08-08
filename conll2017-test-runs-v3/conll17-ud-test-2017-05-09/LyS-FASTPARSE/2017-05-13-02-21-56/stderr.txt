@@ -1,0 +1,525 @@
+[dynet] random seed: 1410511753
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 573018798
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 736213557
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3437075858
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 628778099
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 287012686
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3135529281
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3206773704
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3315997115
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2830818994
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3909543999
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:164: UserWarning: Not using any external file for POSTAG embeddings
+  warnings.warn("Not using any external file for POSTAG embeddings")
+[dynet] random seed: 40818076
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2599343181
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2784612148
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 1753426215
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:176: UserWarning: Not using any external file for FEATS embeddings
+  warnings.warn("Not using any external file for FEATS embeddings")
+[dynet] random seed: 850516831
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3454913893
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3004930215
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3917352848
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2436750055
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3646366589
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 1861579817
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3199821151
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:164: UserWarning: Not using any external file for POSTAG embeddings
+  warnings.warn("Not using any external file for POSTAG embeddings")
+[dynet] random seed: 284997977
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 1648001179
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 830691841
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3317562483
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 491251148
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 1923362739
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 833217896
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2517543255
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3394635613
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 478385344
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2830193088
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2202429964
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2274412076
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 4149982887
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2651659624
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 1813350114
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2440235183
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2461544511
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:164: UserWarning: Not using any external file for POSTAG embeddings
+  warnings.warn("Not using any external file for POSTAG embeddings")
+[dynet] random seed: 1830424517
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 386030563
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:164: UserWarning: Not using any external file for POSTAG embeddings
+  warnings.warn("Not using any external file for POSTAG embeddings")
+[dynet] random seed: 1710654810
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:164: UserWarning: Not using any external file for POSTAG embeddings
+  warnings.warn("Not using any external file for POSTAG embeddings")
+[dynet] random seed: 744034309
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3881589326
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3950889707
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:164: UserWarning: Not using any external file for POSTAG embeddings
+  warnings.warn("Not using any external file for POSTAG embeddings")
+[dynet] random seed: 1127746854
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:164: UserWarning: Not using any external file for POSTAG embeddings
+  warnings.warn("Not using any external file for POSTAG embeddings")
+[dynet] random seed: 1881617502
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 613766158
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 1646233724
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3648215500
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2680502307
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 1197558943
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2289214124
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 277524762
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:164: UserWarning: Not using any external file for POSTAG embeddings
+  warnings.warn("Not using any external file for POSTAG embeddings")
+[dynet] random seed: 985346977
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 1085191690
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:164: UserWarning: Not using any external file for POSTAG embeddings
+  warnings.warn("Not using any external file for POSTAG embeddings")
+[dynet] random seed: 1961141688
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:164: UserWarning: Not using any external file for POSTAG embeddings
+  warnings.warn("Not using any external file for POSTAG embeddings")
+[dynet] random seed: 1181228513
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 905369948
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 1577201263
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3991712854
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 139505238
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 1394369088
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:164: UserWarning: Not using any external file for POSTAG embeddings
+  warnings.warn("Not using any external file for POSTAG embeddings")
+[dynet] random seed: 872503336
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:164: UserWarning: Not using any external file for POSTAG embeddings
+  warnings.warn("Not using any external file for POSTAG embeddings")
+[dynet] random seed: 266514680
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 140666169
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2691523376
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 519422874
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 1669653537
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 4002942753
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:176: UserWarning: Not using any external file for FEATS embeddings
+  warnings.warn("Not using any external file for FEATS embeddings")
+[dynet] random seed: 308564715
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 1503649768
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3994024454
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 1400024834
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 3922671515
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:176: UserWarning: Not using any external file for FEATS embeddings
+  warnings.warn("Not using any external file for FEATS embeddings")
+[dynet] random seed: 2077370595
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 1710444614
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2670109657
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")
+[dynet] random seed: 2241270449
+[dynet] allocating memory: 38000MB
+[dynet] memory allocation done.
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:140: UserWarning: Not using any external file for FORM embeddings
+  warnings.warn("Not using any external file for FORM embeddings")
+/home/LyS-FASTPARSE/git/LyS-FASTPARSE/lysfastparse/bcovington/covington.py:152: UserWarning: Not using any external file for CPOSTAG embeddings
+  warnings.warn("Not using any external file for CPOSTAG embeddings")

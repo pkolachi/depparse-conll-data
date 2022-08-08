@@ -1,0 +1,7 @@
+./run.sh -i /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 -o /tmp/Mengest/2017-05-14-22-01-28/output 
+
+
+Using external embedding: None
+0 dropped non-projective sentences.
+1698 sentences read.
+Finished predicting test 59.4155228138

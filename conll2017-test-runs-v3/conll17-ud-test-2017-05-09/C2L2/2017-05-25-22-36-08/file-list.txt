@@ -1,0 +1,17 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/C2L2/2017-05-25-22-36-08/output
+├── [1.5M]  ar_pud.conllu
+├── [1.6M]  cs_pud.conllu
+├── [1.2M]  de_pud.conllu
+├── [1006K]  en_pud.conllu
+├── [1.2M]  es_pud.conllu
+├── [983K]  fi_pud.conllu
+├── [1.3M]  fr_pud.conllu
+├── [1.8M]  hi_pud.conllu
+├── [1.3M]  it_pud.conllu
+├── [1.2M]  ja_pud.conllu
+├── [1.6M]  pt_pud.conllu
+├── [1.4M]  ru_pud.conllu
+├── [1.3M]  sv_pud.conllu
+└── [1.1M]  tr_pud.conllu
+
+0 directories, 14 files

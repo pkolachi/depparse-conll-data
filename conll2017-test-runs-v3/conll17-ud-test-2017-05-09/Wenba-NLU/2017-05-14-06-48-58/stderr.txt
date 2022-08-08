@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/var/www/abird/wbnlpv2.py", line 105, in <module>
+    for_test()
+  File "/var/www/abird/wbnlpv2.py", line 88, in for_test
+    assert os.path.isfile(paramfile)
+AssertionError

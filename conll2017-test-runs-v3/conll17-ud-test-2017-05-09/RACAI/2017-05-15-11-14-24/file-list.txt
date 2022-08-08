@@ -1,0 +1,4 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/RACAI/2017-05-15-10-36-29/../2017-05-15-11-14-24/output
+└── [9.4K]  evaluation.prototext
+
+0 directories, 1 file

@@ -1,0 +1,1119 @@
+./run_all_parsing.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /home/CLCL/preproc_tmp /tmp/CLCL/2017-05-14-23-18-36/output
+
+
+### PREPROCESSING ###
+
+----
+ar_pud
+----
+
+----
+ar
+----
+
+----
+bg
+----
+
+----
+bxr
+----
+/home/CLCL/DINN_merged_data_10_05/dinn_emb300 -m /home/CLCL/DINN_merged_data_10_05/data/bxr/parser.par -i /home/CLCL/DINN_merged_data_10_05/data/bxr/bxr-ud-train.proj.conllu /home/CLCL/DINN_merged_data_10_05/data/bxr/bxr-ud-dev.proj.conllu /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu -o /home/CLCL/preproc_tmp --name bxr WORDS_MAIN_CUTOFF=3 LEMMAS_MAIN_CUTOFF=3
+>>> Starting -m (23:22:09)...
+
+----
+ca
+----
+
+----
+cs_cac
+----
+
+----
+cs_cltt
+----
+
+----
+cs_pud
+----
+
+----
+cs
+----
+
+----
+cu
+----
+
+----
+da
+----
+
+----
+de_pud
+----
+
+----
+de
+----
+
+----
+el
+----
+
+----
+en_lines
+----
+
+----
+en_partut
+----
+
+----
+en_pud
+----
+
+----
+en
+----
+
+----
+es_ancora
+----
+
+----
+es_pud
+----
+
+----
+es
+----
+
+----
+et
+----
+
+----
+eu
+----
+
+----
+fa
+----
+
+----
+fi_ftb
+----
+
+----
+fi_pud
+----
+
+----
+fi
+----
+
+----
+fr_partut
+----
+
+----
+fr_pud
+----
+
+----
+fr_sequoia
+----
+
+----
+fr
+----
+
+----
+ga
+----
+
+----
+gl_treegal
+----
+
+----
+gl
+----
+
+----
+got
+----
+
+----
+grc_proiel
+----
+
+----
+grc
+----
+
+----
+he
+----
+
+----
+hi_pud
+----
+
+----
+hi
+----
+
+----
+hr
+----
+
+----
+hsb
+----
+/home/CLCL/DINN_merged_data_10_05/dinn_emb300 -m /home/CLCL/DINN_merged_data_10_05/data/hsb/parser.par -i /home/CLCL/DINN_merged_data_10_05/data/hsb/hsb-ud-train.proj.conllu /home/CLCL/DINN_merged_data_10_05/data/hsb/hsb-ud-dev.proj.conllu /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu -o /home/CLCL/preproc_tmp --name hsb WORDS_MAIN_CUTOFF=3 LEMMAS_MAIN_CUTOFF=3
+>>> Starting -m (23:22:09)...
+/home/CLCL/DINN_merged_data_10_05/data/bxr/parser.par || /home/CLCL/DINN_merged_data_10_05/data/bxr/bxr-ud-train.proj.conllu || /home/CLCL/preproc_tmp ||  || WORDS_MAIN_CUTOFF=3 - 2
+
+
+
+============================
+Preprocessor parameters used
+============================
+
+TRAIN_IN_FILE      /home/CLCL/DINN_merged_data_10_05/data/bxr/bxr-ud-train.proj.conllu
+TRAIN_OUT_FILE     /home/CLCL/preproc_tmp/bxr.conllu.ext
+SPEC_OUT_FILE      /home/CLCL/preproc_tmp/bxr.spec
+DATASIZE_OUT_FILE  /home/CLCL/preproc_tmp/bxr.size
+TEST_IN_FILE       /home/CLCL/DINN_merged_data_10_05/data/bxr/bxr-ud-dev.proj.conllu
+TEST_IN_FILE[2]    /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu
+TEST_OUT_FILE      /home/CLCL/preproc_tmp/bxr.dev.conllu.ext
+TEST_OUT_FILE[2]   /home/CLCL/preproc_tmp/bxr.2.dev.conllu.ext
+NB_DEV_FILES 1
+
+NORMALIZE_WORDS 1
+LOWERCASE_WORDS 0
+
+WORDS_MAIN_CUTOFF 3
+WORDS_UNK_CUTOFF 5
+LEMMAS_MAIN_CUTOFF 3
+LEMMAS_UNK_CUTOFF 5
+
+============================
+
+Preprocessor for CoNLL-U format files
+-------------------------------------
+-> Reading file '/home/CLCL/DINN_merged_data_10_05/data/bxr/bxr-ud-train.proj.conllu' and creating string to code mapping... done.
+-> Reading file '/home/CLCL/DINN_merged_data_10_05/data/bxr/bxr-ud-dev.proj.conllu' and creating string to code mapping... done.
+-> Reading file '/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu' and creating string to code mapping [append mode]... done.
+-> Writing created specification to '/home/CLCL/preproc_tmp/bxr.spec'... done.
+-> Writing create header file to '/home/CLCL/preproc_tmp/bxr.size'... done.
+-> Processing file '/home/CLCL/DINN_merged_data_10_05/data/bxr/bxr-ud-train.proj.conllu' and writing results to '/home/CLCL/preproc_tmp/bxr.conllu.ext'... done.
+-> Processing file '/home/CLCL/DINN_merged_data_10_05/data/bxr/bxr-ud-dev.proj.conllu' and writing results to '/home/CLCL/preproc_tmp/bxr.dev.conllu.ext'... done.
+-> Processing file '/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu' and writing results to '/home/CLCL/preproc_tmp/bxr.2.dev.conllu.ext'... done.
+
+Preprocessing finished.
+
+>>> Finishing -m (23:22:09 -- 23:29:28)...
+
+----
+hu
+----
+
+----
+id
+----
+
+----
+it_pud
+----
+
+----
+it
+----
+
+----
+ja_pud
+----
+
+----
+ja
+----
+
+----
+kk
+----
+
+----
+kmr
+----
+/home/CLCL/DINN_merged_data_10_05/dinn_emb300 -m /home/CLCL/DINN_merged_data_10_05/data/kmr/parser.par -i /home/CLCL/DINN_merged_data_10_05/data/kmr/kmr-ud-train.proj.conllu /home/CLCL/DINN_merged_data_10_05/data/kmr/kmr-ud-dev.proj.conllu /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu -o /home/CLCL/preproc_tmp --name kmr WORDS_MAIN_CUTOFF=3 LEMMAS_MAIN_CUTOFF=3
+>>> Starting -m (23:29:28)...
+/home/CLCL/DINN_merged_data_10_05/data/kmr/parser.par || /home/CLCL/DINN_merged_data_10_05/data/kmr/kmr-ud-train.proj.conllu || /home/CLCL/preproc_tmp ||  || WORDS_MAIN_CUTOFF=3 - 2
+
+
+
+============================
+Preprocessor parameters used
+============================
+
+TRAIN_IN_FILE      /home/CLCL/DINN_merged_data_10_05/data/kmr/kmr-ud-train.proj.conllu
+TRAIN_OUT_FILE     /home/CLCL/preproc_tmp/kmr.conllu.ext
+SPEC_OUT_FILE      /home/CLCL/preproc_tmp/kmr.spec
+DATASIZE_OUT_FILE  /home/CLCL/preproc_tmp/kmr.size
+TEST_IN_FILE       /home/CLCL/DINN_merged_data_10_05/data/kmr/kmr-ud-dev.proj.conllu
+TEST_IN_FILE[2]    /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu
+TEST_OUT_FILE      /home/CLCL/preproc_tmp/kmr.dev.conllu.ext
+TEST_OUT_FILE[2]   /home/CLCL/preproc_tmp/kmr.2.dev.conllu.ext
+NB_DEV_FILES 1
+
+NORMALIZE_WORDS 1
+LOWERCASE_WORDS 0
+
+WORDS_MAIN_CUTOFF 3
+WORDS_UNK_CUTOFF 5
+LEMMAS_MAIN_CUTOFF 3
+LEMMAS_UNK_CUTOFF 5
+
+============================
+
+Preprocessor for CoNLL-U format files
+-------------------------------------
+-> Reading file '/home/CLCL/DINN_merged_data_10_05/data/kmr/kmr-ud-train.proj.conllu' and creating string to code mapping... done.
+-> Reading file '/home/CLCL/DINN_merged_data_10_05/data/kmr/kmr-ud-dev.proj.conllu' and creating string to code mapping... done.
+-> Reading file '/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu' and creating string to code mapping [append mode]... done.
+-> Writing created specification to '/home/CLCL/preproc_tmp/kmr.spec'... done.
+-> Writing create header file to '/home/CLCL/preproc_tmp/kmr.size'... done.
+-> Processing file '/home/CLCL/DINN_merged_data_10_05/data/kmr/kmr-ud-train.proj.conllu' and writing results to '/home/CLCL/preproc_tmp/kmr.conllu.ext'... done.
+-> Processing file '/home/CLCL/DINN_merged_data_10_05/data/kmr/kmr-ud-dev.proj.conllu' and writing results to '/home/CLCL/preproc_tmp/kmr.dev.conllu.ext'... done.
+-> Processing file '/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu' and writing results to '/home/CLCL/preproc_tmp/kmr.2.dev.conllu.ext'... done.
+
+Preprocessing finished.
+
+>>> Finishing -m (23:29:28 -- 23:32:42)...
+
+----
+ko
+----
+
+----
+la_ittb
+----
+
+----
+la_proiel
+----
+
+----
+la
+----
+
+----
+lv
+----
+
+----
+nl_lassysmall
+----
+
+----
+nl
+----
+
+----
+no_bokmaal
+----
+
+----
+no_nynorsk
+----
+
+----
+pl
+----
+
+----
+pt_br
+----
+
+----
+pt_pud
+----
+
+----
+pt
+----
+
+----
+ro
+----
+
+----
+ru_pud
+----
+
+----
+ru_syntagrus
+----
+
+----
+ru
+----
+
+----
+sk
+----
+
+----
+sl_sst
+----
+
+----
+sl
+----
+
+----
+sme
+----
+/home/CLCL/DINN_merged_data_10_05/dinn_emb300 -m /home/CLCL/DINN_merged_data_10_05/data/sme/parser.par -i /home/CLCL/DINN_merged_data_10_05/data/sme/sme-ud-train.proj.conllu /home/CLCL/DINN_merged_data_10_05/data/sme/sme-ud-dev.proj.conllu /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu -o /home/CLCL/preproc_tmp --name sme WORDS_MAIN_CUTOFF=3 LEMMAS_MAIN_CUTOFF=3
+>>> Starting -m (23:32:42)...
+/home/CLCL/DINN_merged_data_10_05/data/hsb/parser.par || /home/CLCL/DINN_merged_data_10_05/data/hsb/hsb-ud-train.proj.conllu || /home/CLCL/preproc_tmp ||  || WORDS_MAIN_CUTOFF=3 - 2
+
+
+
+============================
+Preprocessor parameters used
+============================
+
+TRAIN_IN_FILE      /home/CLCL/DINN_merged_data_10_05/data/hsb/hsb-ud-train.proj.conllu
+TRAIN_OUT_FILE     /home/CLCL/preproc_tmp/hsb.conllu.ext
+SPEC_OUT_FILE      /home/CLCL/preproc_tmp/hsb.spec
+DATASIZE_OUT_FILE  /home/CLCL/preproc_tmp/hsb.size
+TEST_IN_FILE       /home/CLCL/DINN_merged_data_10_05/data/hsb/hsb-ud-dev.proj.conllu
+TEST_IN_FILE[2]    /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu
+TEST_OUT_FILE      /home/CLCL/preproc_tmp/hsb.dev.conllu.ext
+TEST_OUT_FILE[2]   /home/CLCL/preproc_tmp/hsb.2.dev.conllu.ext
+NB_DEV_FILES 1
+
+NORMALIZE_WORDS 1
+LOWERCASE_WORDS 0
+
+WORDS_MAIN_CUTOFF 3
+WORDS_UNK_CUTOFF 5
+LEMMAS_MAIN_CUTOFF 3
+LEMMAS_UNK_CUTOFF 5
+
+============================
+
+Preprocessor for CoNLL-U format files
+-------------------------------------
+-> Reading file '/home/CLCL/DINN_merged_data_10_05/data/hsb/hsb-ud-train.proj.conllu' and creating string to code mapping... done.
+-> Reading file '/home/CLCL/DINN_merged_data_10_05/data/hsb/hsb-ud-dev.proj.conllu' and creating string to code mapping... done.
+-> Reading file '/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu' and creating string to code mapping [append mode]... done.
+-> Writing created specification to '/home/CLCL/preproc_tmp/hsb.spec'... done.
+-> Writing create header file to '/home/CLCL/preproc_tmp/hsb.size'... done.
+-> Processing file '/home/CLCL/DINN_merged_data_10_05/data/hsb/hsb-ud-train.proj.conllu' and writing results to '/home/CLCL/preproc_tmp/hsb.conllu.ext'... done.
+-> Processing file '/home/CLCL/DINN_merged_data_10_05/data/hsb/hsb-ud-dev.proj.conllu' and writing results to '/home/CLCL/preproc_tmp/hsb.dev.conllu.ext'... done.
+-> Processing file '/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu' and writing results to '/home/CLCL/preproc_tmp/hsb.2.dev.conllu.ext'... done.
+
+Preprocessing finished.
+
+>>> Finishing -m (23:22:09 -- 23:33:23)...
+
+----
+sv_lines
+----
+
+----
+sv_pud
+----
+
+----
+sv
+----
+
+----
+tr_pud
+----
+
+----
+tr
+----
+
+----
+ug
+----
+
+----
+uk
+----
+
+----
+ur
+----
+
+----
+vi
+----
+
+----
+zh
+----
+/home/CLCL/DINN_merged_data_10_05/data/sme/parser.par || /home/CLCL/DINN_merged_data_10_05/data/sme/sme-ud-train.proj.conllu || /home/CLCL/preproc_tmp ||  || WORDS_MAIN_CUTOFF=3 - 2
+
+
+
+============================
+Preprocessor parameters used
+============================
+
+TRAIN_IN_FILE      /home/CLCL/DINN_merged_data_10_05/data/sme/sme-ud-train.proj.conllu
+TRAIN_OUT_FILE     /home/CLCL/preproc_tmp/sme.conllu.ext
+SPEC_OUT_FILE      /home/CLCL/preproc_tmp/sme.spec
+DATASIZE_OUT_FILE  /home/CLCL/preproc_tmp/sme.size
+TEST_IN_FILE       /home/CLCL/DINN_merged_data_10_05/data/sme/sme-ud-dev.proj.conllu
+TEST_IN_FILE[2]    /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu
+TEST_OUT_FILE      /home/CLCL/preproc_tmp/sme.dev.conllu.ext
+TEST_OUT_FILE[2]   /home/CLCL/preproc_tmp/sme.2.dev.conllu.ext
+NB_DEV_FILES 1
+
+NORMALIZE_WORDS 1
+LOWERCASE_WORDS 0
+
+WORDS_MAIN_CUTOFF 3
+WORDS_UNK_CUTOFF 5
+LEMMAS_MAIN_CUTOFF 3
+LEMMAS_UNK_CUTOFF 5
+
+============================
+
+Preprocessor for CoNLL-U format files
+-------------------------------------
+-> Reading file '/home/CLCL/DINN_merged_data_10_05/data/sme/sme-ud-train.proj.conllu' and creating string to code mapping... done.
+-> Reading file '/home/CLCL/DINN_merged_data_10_05/data/sme/sme-ud-dev.proj.conllu' and creating string to code mapping... done.
+-> Reading file '/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu' and creating string to code mapping [append mode]... done.
+-> Writing created specification to '/home/CLCL/preproc_tmp/sme.spec'... done.
+-> Writing create header file to '/home/CLCL/preproc_tmp/sme.size'... done.
+-> Processing file '/home/CLCL/DINN_merged_data_10_05/data/sme/sme-ud-train.proj.conllu' and writing results to '/home/CLCL/preproc_tmp/sme.conllu.ext'... done.
+-> Processing file '/home/CLCL/DINN_merged_data_10_05/data/sme/sme-ud-dev.proj.conllu' and writing results to '/home/CLCL/preproc_tmp/sme.dev.conllu.ext'... done.
+-> Processing file '/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu' and writing results to '/home/CLCL/preproc_tmp/sme.2.dev.conllu.ext'... done.
+
+Preprocessing finished.
+
+>>> Finishing -m (23:32:42 -- 23:43:10)...
+Preprocessing done.
+### PARSING ###
+
+----
+ar_pud
+----
+
+----
+ar
+----
+
+----
+bg
+----
+
+----
+bxr
+----
+/home/CLCL/DINN_merged_data_10_05/dinn_emb50 -p /home/CLCL/DINN_merged_data_10_05/data/bxr/parser.par -i /home/CLCL/preproc_tmp/bxr.2.dev.conllu.ext IO_SPEC_FILE=/home/CLCL/preproc_tmp/bxr.spec DATA_SIZE_FILE=/home/CLCL/preproc_tmp/bxr.size OUT_FILE=/tmp/CLCL/2017-05-14-23-18-36/output/bxr.conllu WITH_CACHE=0
+>>> Starting -p (23:43:11)...
+
+----
+ca
+----
+
+----
+cs_cac
+----
+
+----
+cs_cltt
+----
+
+----
+cs_pud
+----
+
+----
+cs
+----
+
+----
+cu
+----
+
+----
+da
+----
+
+----
+de_pud
+----
+
+----
+de
+----
+
+----
+el
+----
+
+----
+en_lines
+----
+
+----
+en_partut
+----
+
+----
+en_pud
+----
+
+----
+en
+----
+
+----
+es_ancora
+----
+
+----
+es_pud
+----
+
+----
+es
+----
+
+----
+et
+----
+
+----
+eu
+----
+
+----
+fa
+----
+
+----
+fi_ftb
+----
+
+----
+fi_pud
+----
+
+----
+fi
+----
+
+----
+fr_partut
+----
+
+----
+fr_pud
+----
+
+----
+fr_sequoia
+----
+
+----
+fr
+----
+
+----
+ga
+----
+
+----
+gl_treegal
+----
+
+----
+gl
+----
+
+----
+got
+----
+
+----
+grc_proiel
+----
+
+----
+grc
+----
+
+----
+he
+----
+
+----
+hi_pud
+----
+
+----
+hi
+----
+
+----
+hr
+----
+
+----
+hsb
+----
+/home/CLCL/DINN_merged_data_10_05/dinn_emb50 -p /home/CLCL/DINN_merged_data_10_05/data/hsb/parser.par -i /home/CLCL/preproc_tmp/hsb.2.dev.conllu.ext IO_SPEC_FILE=/home/CLCL/preproc_tmp/hsb.spec DATA_SIZE_FILE=/home/CLCL/preproc_tmp/hsb.size OUT_FILE=/tmp/CLCL/2017-05-14-23-18-36/output/hsb.conllu WITH_CACHE=0
+>>> Starting -p (23:43:11)...
+/home/CLCL/DINN_merged_data_10_05/data/bxr/parser.par || /home/CLCL/preproc_tmp/bxr.2.dev.conllu.ext ||  ||  || IO_SPEC_FILE=/home/CLCL/preproc_tmp/bxr.spec - 4
+
+===============
+Parameters used
+===============
+
+MODEL_NAME -         ud_bxr
+TRAIN_FILE -         
+TRAIN_DATASET_SIZE - 52560
+TEST_FILE -          /home/CLCL/preproc_tmp/bxr.2.dev.conllu.ext
+TEST_DATASET_SIZE -  4000
+DATA_SIZE_FILE -     /home/CLCL/preproc_tmp/bxr.size
+IO_SPEC_FILE -       /home/CLCL/preproc_tmp/bxr.spec
+FREQ_FEATS_FILE -    data/bxr/bxr-ud.freqfeatures
+IH_LINK_SPEC_FILE -  shared_params/parser.ih
+HH_LINK_SPEC_FILE -  shared_params/parser.hh
+
+OUT_FILE -               /tmp/CLCL/2017-05-14-23-18-36/output/bxr.conllu
+State_file -             data/bxr/ud_bxr.state
+Candidates_file -        data/bxr/ud_bxr.top
+Weigths_file -           data/bxr/ud_bxr.new.wgt
+Weigths_dels_file -      data/bxr/ud_bxr.new.wgt.mom
+Weigths_best_file -      data/bxr/ud_bxr.best.wgt
+Weigths_dels_best_file - data/bxr/ud_bxr.best.wgt.mom
+
+BEAM 10
+RETURN_CAND 0
+CAND_NUM 1
+SEED 1
+RAND_RANGE 5.000000e-02
+EM_RAND_RANGE 5.000000e-04
+
+HID_SIZE 80
+EMB_SIZE 50
+
+INIT_ETA 1.000000e-02
+ETA_RED_RATE 3.000000e-01
+MAX_ETA_RED 1.000000e-05
+
+INIT_REG 1.000000e-02
+REG_RED_RATE 5.000000e-01
+MAX_REG_RED 1.000000e-05
+
+MOM 9.000000e-01
+
+MAX_LOOPS 1000
+MAX_LOOPS_WO_ACCUR_IMPR 100
+LOOPS_BETWEEN_VAL 1
+WITH_WE 0
+WE_FIXED 0
+USE_UPOS 1
+WITH_CACHE 0
+WITH_NEG 1
+
+===============
+
+Memory allocation in progress...
+Done.
+
+-- Starting parsing --
+
+Loading testing dataset... done.
+Info: Testing dataset has been reduced to real size - 900 sentences
+Loading best weights from data/bxr/ud_bxr.best.wgt... done.
+Processing parsed file to /tmp/CLCL/2017-05-14-23-18-36/output/bxr.conllu... done. Processed 900 sentences
+
+Unable to compute parsing accuracy (no gold data)
+
+-- Task end --
+>>> Finishing -p (23:43:11 -- 23:45:16)...
+
+----
+hu
+----
+
+----
+id
+----
+
+----
+it_pud
+----
+
+----
+it
+----
+
+----
+ja_pud
+----
+
+----
+ja
+----
+
+----
+kk
+----
+
+----
+kmr
+----
+/home/CLCL/DINN_merged_data_10_05/dinn_emb50 -p /home/CLCL/DINN_merged_data_10_05/data/kmr/parser.par -i /home/CLCL/preproc_tmp/kmr.2.dev.conllu.ext IO_SPEC_FILE=/home/CLCL/preproc_tmp/kmr.spec DATA_SIZE_FILE=/home/CLCL/preproc_tmp/kmr.size OUT_FILE=/tmp/CLCL/2017-05-14-23-18-36/output/kmr.conllu WITH_CACHE=0
+>>> Starting -p (23:45:16)...
+/home/CLCL/DINN_merged_data_10_05/data/hsb/parser.par || /home/CLCL/preproc_tmp/hsb.2.dev.conllu.ext ||  ||  || IO_SPEC_FILE=/home/CLCL/preproc_tmp/hsb.spec - 4
+
+===============
+Parameters used
+===============
+
+MODEL_NAME -         ud_hsb
+TRAIN_FILE -         
+TRAIN_DATASET_SIZE - 84260
+TEST_FILE -          /home/CLCL/preproc_tmp/hsb.2.dev.conllu.ext
+TEST_DATASET_SIZE -  4000
+DATA_SIZE_FILE -     /home/CLCL/preproc_tmp/hsb.size
+IO_SPEC_FILE -       /home/CLCL/preproc_tmp/hsb.spec
+FREQ_FEATS_FILE -    data/hsb/hsb-ud.freqfeatures
+IH_LINK_SPEC_FILE -  shared_params/parser.ih
+HH_LINK_SPEC_FILE -  shared_params/parser.hh
+
+OUT_FILE -               /tmp/CLCL/2017-05-14-23-18-36/output/hsb.conllu
+State_file -             data/hsb/ud_hsb.state
+Candidates_file -        data/hsb/ud_hsb.top
+Weigths_file -           data/hsb/ud_hsb.new.wgt
+Weigths_dels_file -      data/hsb/ud_hsb.new.wgt.mom
+Weigths_best_file -      data/hsb/ud_hsb.best.wgt
+Weigths_dels_best_file - data/hsb/ud_hsb.best.wgt.mom
+
+BEAM 10
+RETURN_CAND 0
+CAND_NUM 1
+SEED 1
+RAND_RANGE 5.000000e-02
+EM_RAND_RANGE 5.000000e-04
+
+HID_SIZE 80
+EMB_SIZE 50
+
+INIT_ETA 1.000000e-02
+ETA_RED_RATE 3.000000e-01
+MAX_ETA_RED 1.000000e-05
+
+INIT_REG 1.000000e-02
+REG_RED_RATE 5.000000e-01
+MAX_REG_RED 1.000000e-05
+
+MOM 9.000000e-01
+
+MAX_LOOPS 1000
+MAX_LOOPS_WO_ACCUR_IMPR 100
+LOOPS_BETWEEN_VAL 1
+WITH_WE 0
+WE_FIXED 0
+USE_UPOS 1
+WITH_CACHE 0
+WITH_NEG 1
+
+===============
+
+Memory allocation in progress...
+Done.
+
+-- Starting parsing --
+
+Loading testing dataset... done.
+Info: Testing dataset has been reduced to real size - 623 sentences
+Loading best weights from data/hsb/ud_hsb.best.wgt... done.
+Processing parsed file to /tmp/CLCL/2017-05-14-23-18-36/output/hsb.conllu... done. Processed 623 sentences
+
+Unable to compute parsing accuracy (no gold data)
+
+-- Task end --
+>>> Finishing -p (23:43:11 -- 23:46:02)...
+
+----
+ko
+----
+
+----
+la_ittb
+----
+
+----
+la_proiel
+----
+
+----
+la
+----
+
+----
+lv
+----
+
+----
+nl_lassysmall
+----
+
+----
+nl
+----
+
+----
+no_bokmaal
+----
+
+----
+no_nynorsk
+----
+
+----
+pl
+----
+
+----
+pt_br
+----
+
+----
+pt_pud
+----
+
+----
+pt
+----
+
+----
+ro
+----
+
+----
+ru_pud
+----
+
+----
+ru_syntagrus
+----
+
+----
+ru
+----
+
+----
+sk
+----
+
+----
+sl_sst
+----
+
+----
+sl
+----
+
+----
+sme
+----
+/home/CLCL/DINN_merged_data_10_05/dinn_emb50 -p /home/CLCL/DINN_merged_data_10_05/data/sme/parser.par -i /home/CLCL/preproc_tmp/sme.2.dev.conllu.ext IO_SPEC_FILE=/home/CLCL/preproc_tmp/sme.spec DATA_SIZE_FILE=/home/CLCL/preproc_tmp/sme.size OUT_FILE=/tmp/CLCL/2017-05-14-23-18-36/output/sme.conllu WITH_CACHE=0
+>>> Starting -p (23:46:02)...
+/home/CLCL/DINN_merged_data_10_05/data/kmr/parser.par || /home/CLCL/preproc_tmp/kmr.2.dev.conllu.ext ||  ||  || IO_SPEC_FILE=/home/CLCL/preproc_tmp/kmr.spec - 4
+
+===============
+Parameters used
+===============
+
+MODEL_NAME -         ud_kmr
+TRAIN_FILE -         
+TRAIN_DATASET_SIZE - 24000
+TEST_FILE -          /home/CLCL/preproc_tmp/kmr.2.dev.conllu.ext
+TEST_DATASET_SIZE -  4000
+DATA_SIZE_FILE -     /home/CLCL/preproc_tmp/kmr.size
+IO_SPEC_FILE -       /home/CLCL/preproc_tmp/kmr.spec
+FREQ_FEATS_FILE -    data/kmr/kmr-ud.freqfeatures
+IH_LINK_SPEC_FILE -  shared_params/parser.ih
+HH_LINK_SPEC_FILE -  shared_params/parser.hh
+
+OUT_FILE -               /tmp/CLCL/2017-05-14-23-18-36/output/kmr.conllu
+State_file -             data/kmr/ud_kmr.state
+Candidates_file -        data/kmr/ud_kmr.top
+Weigths_file -           data/kmr/ud_kmr.new.wgt
+Weigths_dels_file -      data/kmr/ud_kmr.new.wgt.mom
+Weigths_best_file -      data/kmr/ud_kmr.best.wgt
+Weigths_dels_best_file - data/kmr/ud_kmr.best.wgt.mom
+
+BEAM 10
+RETURN_CAND 0
+CAND_NUM 1
+SEED 1
+RAND_RANGE 5.000000e-02
+EM_RAND_RANGE 5.000000e-04
+
+HID_SIZE 80
+EMB_SIZE 50
+
+INIT_ETA 1.000000e-02
+ETA_RED_RATE 3.000000e-01
+MAX_ETA_RED 1.000000e-05
+
+INIT_REG 1.000000e-02
+REG_RED_RATE 5.000000e-01
+MAX_REG_RED 1.000000e-05
+
+MOM 9.000000e-01
+
+MAX_LOOPS 1000
+MAX_LOOPS_WO_ACCUR_IMPR 100
+LOOPS_BETWEEN_VAL 1
+WITH_WE 0
+WE_FIXED 0
+USE_UPOS 1
+WITH_CACHE 0
+WITH_NEG 1
+
+===============
+
+Memory allocation in progress...
+Done.
+
+-- Starting parsing --
+
+Loading testing dataset... done.
+Info: Testing dataset has been reduced to real size - 742 sentences
+Loading best weights from data/kmr/ud_kmr.best.wgt... done.
+Processing parsed file to /tmp/CLCL/2017-05-14-23-18-36/output/kmr.conllu... done. Processed 742 sentences
+
+Unable to compute parsing accuracy (no gold data)
+
+-- Task end --
+>>> Finishing -p (23:45:16 -- 23:47:15)...
+
+----
+sv_lines
+----
+
+----
+sv_pud
+----
+
+----
+sv
+----
+
+----
+tr_pud
+----
+
+----
+tr
+----
+
+----
+ug
+----
+
+----
+uk
+----
+
+----
+ur
+----
+
+----
+vi
+----
+
+----
+zh
+----
+/home/CLCL/DINN_merged_data_10_05/data/sme/parser.par || /home/CLCL/preproc_tmp/sme.2.dev.conllu.ext ||  ||  || IO_SPEC_FILE=/home/CLCL/preproc_tmp/sme.spec - 4
+
+===============
+Parameters used
+===============
+
+MODEL_NAME -         ud_sme
+TRAIN_FILE -         
+TRAIN_DATASET_SIZE - 83540
+TEST_FILE -          /home/CLCL/preproc_tmp/sme.2.dev.conllu.ext
+TEST_DATASET_SIZE -  4000
+DATA_SIZE_FILE -     /home/CLCL/preproc_tmp/sme.size
+IO_SPEC_FILE -       /home/CLCL/preproc_tmp/sme.spec
+FREQ_FEATS_FILE -    data/sme/sme-ud.freqfeatures
+IH_LINK_SPEC_FILE -  shared_params/parser.ih
+HH_LINK_SPEC_FILE -  shared_params/parser.hh
+
+OUT_FILE -               /tmp/CLCL/2017-05-14-23-18-36/output/sme.conllu
+State_file -             data/sme/ud_sme.state
+Candidates_file -        data/sme/ud_sme.top
+Weigths_file -           data/sme/ud_sme.new.wgt
+Weigths_dels_file -      data/sme/ud_sme.new.wgt.mom
+Weigths_best_file -      data/sme/ud_sme.best.wgt
+Weigths_dels_best_file - data/sme/ud_sme.best.wgt.mom
+
+BEAM 10
+RETURN_CAND 0
+CAND_NUM 1
+SEED 1
+RAND_RANGE 5.000000e-02
+EM_RAND_RANGE 5.000000e-04
+
+HID_SIZE 80
+EMB_SIZE 50
+
+INIT_ETA 1.000000e-02
+ETA_RED_RATE 3.000000e-01
+MAX_ETA_RED 1.000000e-05
+
+INIT_REG 1.000000e-02
+REG_RED_RATE 5.000000e-01
+MAX_REG_RED 1.000000e-05
+
+MOM 9.000000e-01
+
+MAX_LOOPS 1000
+MAX_LOOPS_WO_ACCUR_IMPR 100
+LOOPS_BETWEEN_VAL 1
+WITH_WE 0
+WE_FIXED 0
+USE_UPOS 1
+WITH_CACHE 0
+WITH_NEG 1
+
+===============
+
+Memory allocation in progress...
+Done.
+
+-- Starting parsing --
+
+Loading testing dataset... done.
+Info: Testing dataset has been reduced to real size - 870 sentences
+Loading best weights from data/sme/ud_sme.best.wgt... done.
+Processing parsed file to /tmp/CLCL/2017-05-14-23-18-36/output/sme.conllu... done. Processed 870 sentences
+
+Unable to compute parsing accuracy (no gold data)
+
+-- Task end --
+>>> Finishing -p (23:46:02 -- 23:48:14)...
+Parsing done.

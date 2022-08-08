@@ -1,0 +1,651 @@
+python run.py --input_dataset /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 --output_dir /tmp/NAIST-SATO/2017-05-15-07-46-42/output 
+
+
+UD_Arabic <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/ar_pud.conllu
+UD_Arabic
+ar_pud
+biaffine_pre-emb_UD_Arabic_29_UAS_0.829756275009_LAS_0.763583451834.model
+domain_idx: 0
+False
+UD_Arabic <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/ar.conllu
+UD_Arabic
+ar
+biaffine_pre-emb_UD_Arabic_29_UAS_0.829756275009_LAS_0.763583451834.model
+domain_idx: 0
+False
+UD_Bulgarian <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bg-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/bg.conllu
+UD_Bulgarian
+bg
+biaffine_pre-emb_UD_Bulgarian_59_UAS_0.906022748462_LAS_0.862390453105.model
+domain_idx: 0
+False
+UD_Russian-SynTagRus <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/bxr.conllu
+UD_Russian-SynTagRus
+bxr
+biaffine_pre-emb_2_UD_Russian-SynTagRus_13_UAS_0.920795088958_LAS_0.894863502411.model
+domain_idx: 0
+False
+UD_Catalan <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ca-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/ca.conllu
+UD_Catalan
+ca
+biaffine_pre-emb_UD_Catalan_13_UAS_0.905704472221_LAS_0.874207712191.model
+domain_idx: 0
+False
+UD_Czech-CAC <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cac-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/cs_cac.conllu
+UD_Czech-CAC
+[8, 9, 10]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Czech-CAC_12_UAS_0.897727272727_LAS_0.867302052786.model
+domain_idx: 1
+True
+UD_Czech-CLTT <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cltt-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/cs_cltt.conllu
+UD_Czech-CLTT
+[8, 9, 10]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Czech-CLTT_6_UAS_0.788748675465_LAS_0.752335998459.model
+domain_idx: 2
+True
+UD_Czech <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/cs_pud.conllu
+UD_Czech
+cs_pud
+biaffine_pre-emb_2_UD_Czech_19_UAS_0.913625976244_LAS_0.883126993295.model
+domain_idx: 0
+False
+UD_Czech <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/cs.conllu
+UD_Czech
+cs
+biaffine_pre-emb_2_UD_Czech_19_UAS_0.913625976244_LAS_0.883126993295.model
+domain_idx: 0
+False
+UD_Old_Church_Slavonic <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cu-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/cu.conllu
+UD_Old_Church_Slavonic
+cu
+biaffine_pre-emb_UD_Old_Church_Slavonic_90_UAS_0.828316831683_LAS_0.753069306931.model
+domain_idx: 0
+False
+UD_Danish <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/da-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/da.conllu
+UD_Danish
+da
+biaffine_pre-emb_UD_Danish_94_UAS_0.820460704607_LAS_0.784262485482.model
+domain_idx: 0
+False
+UD_German <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/de_pud.conllu
+UD_German
+de_pud
+biaffine_pre-emb_UD_German_70_UAS_0.844023323615_LAS_0.801749271137.model
+domain_idx: 0
+False
+UD_German <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/de.conllu
+UD_German
+de
+biaffine_pre-emb_UD_German_70_UAS_0.844023323615_LAS_0.801749271137.model
+domain_idx: 0
+False
+UD_Greek <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/el-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/el.conllu
+UD_Greek
+el
+biaffine_pre-emb_UD_Greek_58_UAS_0.849985205642_LAS_0.80885688924.model
+domain_idx: 0
+False
+UD_English-LinES <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_lines-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/en_lines.conllu
+UD_English-LinES
+[14, 15, 16]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_English-LinES_29_UAS_0.82686235528_LAS_0.782715471875.model
+domain_idx: 1
+True
+UD_English-ParTUT <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_partut-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/en_partut.conllu
+UD_English-ParTUT
+[14, 15, 16]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_English-ParTUT_24_UAS_0.840398595116_LAS_0.800947480193.model
+domain_idx: 2
+True
+UD_English <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/en_pud.conllu
+UD_English
+en_pud
+biaffine_pre-emb_2_UD_English_79_UAS_0.861977095594_LAS_0.824598377605.model
+domain_idx: 0
+False
+UD_English <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/en.conllu
+UD_English
+en
+biaffine_pre-emb_2_UD_English_79_UAS_0.861977095594_LAS_0.824598377605.model
+domain_idx: 0
+False
+UD_Spanish-AnCora <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_ancora-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/es_ancora.conllu
+UD_Spanish-AnCora
+[55, 56]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Spanish-AnCora_44_UAS_0.902629165393_LAS_0.876165545705.model
+domain_idx: 1
+True
+UD_Spanish <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/es_pud.conllu
+UD_Spanish
+[55, 56]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Spanish_14_UAS_0.894969179834_LAS_0.863368415386.model
+domain_idx: 0
+True
+UD_Spanish <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/es.conllu
+UD_Spanish
+[55, 56]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Spanish_14_UAS_0.894969179834_LAS_0.863368415386.model
+domain_idx: 0
+True
+UD_Estonian <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/et-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/et.conllu
+UD_Estonian
+et
+biaffine_pre-emb_UD_Estonian_82_UAS_0.70577542758_LAS_0.590101627696.model
+domain_idx: 0
+False
+UD_Basque <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/eu-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/eu.conllu
+UD_Basque
+eu
+biaffine_pre-emb_UD_Basque_98_UAS_0.775845611123_LAS_0.700601784603.model
+domain_idx: 0
+False
+UD_Persian <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fa-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/fa.conllu
+UD_Persian
+fa
+biaffine_pre-emb_UD_Persian_93_UAS_0.870262758969_LAS_0.831543708944.model
+domain_idx: 0
+False
+UD_Finnish-FTB <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_ftb-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/fi_ftb.conllu
+UD_Finnish-FTB
+[18, 19]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Finnish-FTB_26_UAS_0.822119053676_LAS_0.762019842279.model
+domain_idx: 1
+True
+UD_Finnish <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/fi_pud.conllu
+UD_Finnish
+[18, 19]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Finnish_27_UAS_0.817441224713_LAS_0.759868780755.model
+domain_idx: 0
+True
+UD_Finnish <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/fi.conllu
+UD_Finnish
+[18, 19]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Finnish_27_UAS_0.817441224713_LAS_0.759868780755.model
+domain_idx: 0
+True
+UD_French-ParTUT <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_partut-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/fr_partut.conllu
+UD_French-ParTUT
+[14, 15, 16, 20, 21, 22]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_French-ParTUT_18_UAS_0.894943820225_LAS_0.870786516854.model
+domain_idx: 4
+True
+UD_French <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/fr_pud.conllu
+UD_French
+fr_pud
+biaffine_pre-emb_UD_French_95_UAS_0.903903148241_LAS_0.881172062853.model
+domain_idx: 0
+False
+UD_French-Sequoia <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_sequoia-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/fr_sequoia.conllu
+UD_French-Sequoia
+[14, 15, 16, 20, 21, 22]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_French-Sequoia_21_UAS_0.878957355438_LAS_0.85339059223.model
+domain_idx: 5
+True
+UD_French <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/fr.conllu
+UD_French
+fr
+biaffine_pre-emb_UD_French_95_UAS_0.903903148241_LAS_0.881172062853.model
+domain_idx: 0
+False
+UD_Irish <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ga-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/ga.conllu
+UD_Irish
+ga
+biaffine_pre-emb_UD_Irish_71_UAS_0.802894555479_LAS_0.727084769125.model
+domain_idx: 0
+False
+UD_Galician-TreeGal <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl_treegal-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/gl_treegal.conllu
+UD_Galician-TreeGal
+[14, 23, 24]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Galician-TreeGal_48_UAS_0.836956521739_LAS_0.780892448513.model
+domain_idx: 2
+True
+UD_Galician <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/gl.conllu
+UD_Galician
+[14, 23, 24]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Galician_49_UAS_0.838130100413_LAS_0.801155254055.model
+domain_idx: 1
+True
+UD_Gothic <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/got-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/got.conllu
+UD_Gothic
+got
+biaffine_pre-emb_UD_Gothic_93_UAS_0.782183112517_LAS_0.703282578604.model
+domain_idx: 0
+False
+UD_Ancient_Greek-PROIEL <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc_proiel-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/grc_proiel.conllu
+UD_Ancient_Greek-PROIEL
+[0, 1]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Ancient_Greek-PROIEL_42_UAS_0.818341634925_LAS_0.762232639906.model
+domain_idx: 1
+True
+UD_Ancient_Greek <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/grc.conllu
+UD_Ancient_Greek
+[0, 1]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Ancient_Greek_27_UAS_0.691664784278_LAS_0.61237858595.model
+domain_idx: 0
+True
+UD_Hebrew <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/he-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/he.conllu
+UD_Hebrew
+he
+biaffine_pre-emb_UD_Hebrew_61_UAS_0.86123772791_LAS_0.801367461431.model
+domain_idx: 0
+False
+UD_Hindi <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/hi_pud.conllu
+UD_Hindi
+hi_pud
+biaffine_pre-emb_UD_Hindi_34_UAS_0.930346139648_LAS_0.889740750206.model
+domain_idx: 0
+False
+UD_Hindi <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/hi.conllu
+UD_Hindi
+hi
+biaffine_pre-emb_UD_Hindi_34_UAS_0.930346139648_LAS_0.889740750206.model
+domain_idx: 0
+False
+UD_Croatian <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hr-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/hr.conllu
+UD_Croatian
+hr
+biaffine_pre-emb_re_UD_Croatian_74_UAS_0.856671024565_LAS_0.797908208904.model
+domain_idx: 0
+False
+UD_English <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/hsb.conllu
+UD_English
+hsb
+biaffine_pre-emb_2_UD_English_79_UAS_0.861977095594_LAS_0.824598377605.model
+domain_idx: 0
+False
+UD_Hungarian <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hu-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/hu.conllu
+UD_Hungarian
+hu
+biaffine_pre-emb_UD_Hungarian_83_UAS_0.740935365213_LAS_0.633123138903.model
+domain_idx: 0
+False
+UD_Indonesian <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/id-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/id.conllu
+UD_Indonesian
+id
+biaffine_pre-emb_UD_Indonesian_59_UAS_0.833412622899_LAS_0.766730098319.model
+domain_idx: 0
+False
+UD_Italian <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/it_pud.conllu
+UD_Italian
+[33, 34]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Italian_47_UAS_0.908296943231_LAS_0.881508229762.model
+domain_idx: 0
+True
+UD_Italian <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/it.conllu
+UD_Italian
+[33, 34]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Italian_47_UAS_0.908296943231_LAS_0.881508229762.model
+domain_idx: 0
+True
+UD_Japanese <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/ja_pud.conllu
+UD_Japanese
+ja_pud
+biaffine_pre-emb_UD_Japanese_28_UAS_0.954828660436_LAS_0.941502249913.model
+domain_idx: 0
+False
+UD_Japanese <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/ja.conllu
+UD_Japanese
+ja
+biaffine_pre-emb_UD_Japanese_28_UAS_0.954828660436_LAS_0.941502249913.model
+domain_idx: 0
+False
+UD_Kazakh <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kk-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/kk.conllu
+UD_Kazakh
+kk
+biaffine_pre-emb_UD_Kazakh_91_UAS_0.645161290323_LAS_0.370967741935.model
+domain_idx: 0
+False
+UD_English <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/kmr.conllu
+UD_English
+kmr
+biaffine_pre-emb_2_UD_English_79_UAS_0.861977095594_LAS_0.824598377605.model
+domain_idx: 0
+False
+UD_Korean <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ko-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/ko.conllu
+UD_Korean
+ko
+biaffine_pre-emb_UD_Korean_89_UAS_0.670120742476_LAS_0.590466750766.model
+domain_idx: 0
+False
+UD_Latin-ITTB <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_ittb-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/la_ittb.conllu
+UD_Latin-ITTB
+[38, 39, 40]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Latin-ITTB_31_UAS_0.832930016455_LAS_0.786951892363.model
+domain_idx: 1
+True
+UD_Latin-PROIEL <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_proiel-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/la_proiel.conllu
+UD_Latin-PROIEL
+[38, 39, 40]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Latin-PROIEL_42_UAS_0.803445765591_LAS_0.737442368357.model
+domain_idx: 2
+True
+UD_Latin <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/la.conllu
+UD_Latin
+[38, 39, 40]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Latin_13_UAS_0.730680507497_LAS_0.645328719723.model
+domain_idx: 0
+True
+UD_Latvian <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/lv-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/lv.conllu
+UD_Latvian
+lv
+biaffine_pre-emb_UD_Latvian_89_UAS_0.719885466035_LAS_0.634577409163.model
+domain_idx: 0
+False
+UD_Dutch-LassySmall <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl_lassysmall-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/nl_lassysmall.conllu
+UD_Dutch-LassySmall
+[12, 13]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Dutch-LassySmall_46_UAS_0.865971563981_LAS_0.825308056872.model
+domain_idx: 1
+True
+UD_Dutch <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/nl.conllu
+UD_Dutch
+nl
+biaffine_pre-emb_re_UD_Dutch_95_UAS_0.854424855996_LAS_0.802146971548.model
+domain_idx: 0
+False
+UD_Norwegian-Bokmaal <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_bokmaal-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/no_bokmaal.conllu
+UD_Norwegian-Bokmaal
+no_bokmaal
+biaffine_pre-emb_UD_Norwegian-Bokmaal_98_UAS_0.901756990844_LAS_0.874013582997.model
+domain_idx: 0
+False
+UD_Norwegian-Nynorsk <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_nynorsk-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/no_nynorsk.conllu
+UD_Norwegian-Nynorsk
+no_nynorsk
+biaffine_pre-emb_UD_Norwegian-Nynorsk_74_UAS_0.885152_LAS_0.855456.model
+domain_idx: 0
+False
+UD_Polish <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pl-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/pl.conllu
+UD_Polish
+pl
+biaffine_pre-emb_UD_Polish_70_UAS_0.86844669655_LAS_0.811537711947.model
+domain_idx: 0
+False
+UD_Portuguese-BR <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_br-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/pt_br.conllu
+UD_Portuguese-BR
+[47, 48]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Portuguese-BR_31_UAS_0.90933424632_LAS_0.88757820038.model
+domain_idx: 1
+True
+UD_Portuguese <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/pt_pud.conllu
+UD_Portuguese
+[47, 48]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Portuguese_31_UAS_0.910238687679_LAS_0.877983595982.model
+domain_idx: 0
+True
+UD_Portuguese <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/pt.conllu
+UD_Portuguese
+[47, 48]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Portuguese_31_UAS_0.910238687679_LAS_0.877983595982.model
+domain_idx: 0
+True
+UD_Romanian <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ro-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/ro.conllu
+UD_Romanian
+ro
+biaffine_pre-emb_UD_Romanian_57_UAS_0.88046152044_LAS_0.823532856976.model
+domain_idx: 0
+False
+UD_Russian <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/ru_pud.conllu
+UD_Russian
+[50, 51]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Russian_14_UAS_0.840111139177_LAS_0.789845920687.model
+domain_idx: 0
+True
+UD_Russian-SynTagRus <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_syntagrus-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/ru_syntagrus.conllu
+UD_Russian-SynTagRus
+ru_syntagrus
+biaffine_pre-emb_2_UD_Russian-SynTagRus_13_UAS_0.920795088958_LAS_0.894863502411.model
+domain_idx: 0
+False
+UD_Russian <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/ru.conllu
+UD_Russian
+[50, 51]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Russian_14_UAS_0.840111139177_LAS_0.789845920687.model
+domain_idx: 0
+True
+UD_Slovak <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sk-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/sk.conllu
+UD_Slovak
+sk
+biaffine_pre-emb_UD_Slovak_68_UAS_0.840996784566_LAS_0.774115755627.model
+domain_idx: 0
+False
+UD_Slovenian-SST <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl_sst-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/sl_sst.conllu
+UD_Slovenian-SST
+[53, 54]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Slovenian-SST_61_UAS_0.801741803279_LAS_0.722848360656.model
+domain_idx: 1
+True
+UD_Slovenian <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/sl.conllu
+UD_Slovenian
+[53, 54]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Slovenian_54_UAS_0.871720116618_LAS_0.837374671123.model
+domain_idx: 0
+True
+UD_English <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/sme.conllu
+UD_English
+sme
+biaffine_pre-emb_2_UD_English_79_UAS_0.861977095594_LAS_0.824598377605.model
+domain_idx: 0
+False
+UD_Swedish-LinES <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_lines-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/sv_lines.conllu
+UD_Swedish-LinES
+[57, 58]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Swedish-LinES_47_UAS_0.82717774268_LAS_0.778763212246.model
+domain_idx: 1
+True
+UD_Swedish <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/sv_pud.conllu
+UD_Swedish
+[57, 58]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Swedish_72_UAS_0.822700826784_LAS_0.779116055935.model
+domain_idx: 0
+True
+UD_Swedish <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/sv.conllu
+UD_Swedish
+[57, 58]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Swedish_72_UAS_0.822700826784_LAS_0.779116055935.model
+domain_idx: 0
+True
+UD_Turkish <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/tr_pud.conllu
+UD_Turkish
+tr_pud
+biaffine_pre-emb_re_UD_Turkish_25_UAS_0.647787433823_LAS_0.538807311957.model
+domain_idx: 0
+False
+UD_Turkish <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/tr.conllu
+UD_Turkish
+tr
+biaffine_pre-emb_re_UD_Turkish_25_UAS_0.647787433823_LAS_0.538807311957.model
+domain_idx: 0
+False
+UD_Uyghur <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ug-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/ug.conllu
+UD_Uyghur
+[50, 62]
+biaffine_pre-emb_biemb_share_domain_russian_UD_Uyghur_22_UAS_0.75572519084_LAS_0.526717557252.model
+domain_idx: 1
+True
+UD_Ukrainian <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/uk-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/uk.conllu
+UD_Ukrainian
+[14, 60]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Ukrainian_35_UAS_0.795903438186_LAS_0.729334308705.model
+domain_idx: 1
+True
+UD_Urdu <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ur-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/ur.conllu
+UD_Urdu
+ur
+biaffine_pre-emb_re_UD_Urdu_82_UAS_0.856937109938_LAS_0.788766202592.model
+domain_idx: 0
+False
+UD_Vietnamese <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/vi-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/vi.conllu
+UD_Vietnamese
+vi
+biaffine_pre-emb_UD_Vietnamese_60_UAS_0.65980545423_LAS_0.579121070002.model
+domain_idx: 0
+False
+UD_Chinese <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-07-46-42/output/zh.conllu
+UD_Chinese
+zh
+biaffine_pre-emb_UD_Chinese_29_UAS_0.770986338151_LAS_0.713811892916.model
+domain_idx: 0
+False

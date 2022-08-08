@@ -1,0 +1,11 @@
+Warning: unknown elementary feature 'NumType=Mult' in file '/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/el-udpipe.conllu'
+Warning: unknown elementary feature 'NumType=Mult' in file '/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/el-udpipe.conllu'
+/home/CLCL/DINN_merged_data_10_05/data/fr_partut/fr_partut-ud-dev.proj.conllu: No such file or directory
+/home/CLCL/DINN_merged_data_10_05/data/ga/ga-ud-dev.proj.conllu: No such file or directory
+/home/CLCL/DINN_merged_data_10_05/data/gl_treegal/gl_treegal-ud-dev.proj.conllu: No such file or directory
+/home/CLCL/DINN_merged_data_10_05/data/kk/kk-ud-dev.proj.conllu: No such file or directory
+/home/CLCL/DINN_merged_data_10_05/data/la/la-ud-dev.proj.conllu: No such file or directory
+/home/CLCL/DINN_merged_data_10_05/data/sl_sst/sl_sst-ud-dev.proj.conllu: No such file or directory
+/home/CLCL/DINN_merged_data_10_05/data/ug/ug-ud-dev.proj.conllu: No such file or directory
+/home/CLCL/DINN_merged_data_10_05/data/uk/uk-ud-dev.proj.conllu: No such file or directory
+Error: testing file not found

@@ -1,0 +1,5 @@
+/home/ParisNLP/scratch/bin/run_ud_tests.sh --input /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 --output /tmp/ParisNLP/2017-05-11-02-24-27/output
+
+
+/home/ParisNLP/UDTOOLS/tools:/home/ParisNLP/scratch/bin/:/home/ParisNLP/scratch/share/frmg/:/home/ParisNLP/scratch/share/biomg/:/home/ParisNLP/scratch/sbin/:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/local/bin:/usr/bin
+/home/ParisNLP/scratch/lib/perl5/site_perl:/home/ParisNLP/scratch/lib/perl5:/home/ParisNLP/scratch/lib/perl5/site_perl/5.22.1:/home/ParisNLP/scratch/lib/perl/5.22.1/auto:/home/ParisNLP/scratch/share/automake-1.10:/home/ParisNLP/scratch/share/perl/5.22.1:/home/ParisNLP/scratch/lib/perl/5.22.1:/home/ParisNLP/scratch/lib/perl:/home/ParisNLP/scratch/lib/perl/5.8:/home/ParisNLP/scratch/share/perl/5.8::/usr/lib/perl5/vendor_perl/5.8.8

@@ -1,0 +1,12 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/CLCL/2017-05-14-12-15-56/output
+├── [2.2M]  ar.conllu
+├── [1.1M]  bg.conllu
+├── [3.1M]  ca.conllu
+├── [ 14M]  cs.conllu
+├── [944K]  cs_cac.conllu
+├── [904K]  cs_cltt.conllu
+├── [778K]  cu.conllu
+├── [537K]  da.conllu
+└── [876K]  de.conllu
+
+0 directories, 9 files

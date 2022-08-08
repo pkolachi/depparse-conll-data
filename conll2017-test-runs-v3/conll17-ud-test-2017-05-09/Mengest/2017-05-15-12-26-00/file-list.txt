@@ -1,0 +1,8 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/Mengest/2017-05-15-12-26-00/output
+├── [640K]  ga.conllu
+├── [670K]  gl_treegal.conllu
+├── [934K]  hu.conllu
+├── [856K]  la.conllu
+└── [782K]  tr.conllu
+
+0 directories, 5 files

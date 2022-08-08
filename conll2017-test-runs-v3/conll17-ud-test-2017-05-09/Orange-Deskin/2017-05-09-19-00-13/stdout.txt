@@ -1,0 +1,2568 @@
+./conll2017/Orange-Deskin/tira.py  /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09  /tmp/Orange-Deskin/2017-05-09-19-00-13/output
+
+
+
+Processing language: ar_pud, start: 2017.05.09 19:05
+Cleaning ...
+unknown language variation, using ar
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: ar, start: 2017.05.09 19:05
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.WLKAgbSM5f/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/ar/barchhybrid_proj-300-50.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/ar/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/ar/ar.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/ar/allwords.txt --extrnFilterNew /tmp/tmp.WLKAgbSM5f/ar.words.txt --test /tmp/tmp.WLKAgbSM5f/ar_pud.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/ar/ar.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/ar/allwords.txt of embeddings to keep
+W2V: 33443 words to keep
+W2V: loading word list /tmp/tmp.WLKAgbSM5f/ar.words.txt of embeddings to keep
+W2V: 10342 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/ar/ar.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (20572 and 2305 kept)
+W2V: 400000 word vectors read (22052 and 2689 kept)
+W2V: 600000 word vectors read (22671 and 2854 kept)
+W2V: 800000 word vectors read (23042 and 2969 kept)
+W2V: 23168 word vectors loaded
+W2V: 2999 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.WLKAgbSM5f/result1.conllu
+200 sentences with 4228 words parsed
+400 sentences with 7867 words parsed
+600 sentences with 12048 words parsed
+800 sentences with 16207 words parsed
+1000 sentences with 20086 words parsed
+1000 sentences with 20086 words parsed
+total parsing time: 00:00:30
+
+Processing language: ar, start: 2017.05.09 19:07
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: ar, start: 2017.05.09 19:07
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.C68piimrwz/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/ar/barchhybrid_proj-300-50.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/ar/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/ar/ar.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/ar/allwords.txt --extrnFilterNew /tmp/tmp.C68piimrwz/ar.words.txt --test /tmp/tmp.C68piimrwz/ar.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/ar/ar.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/ar/allwords.txt of embeddings to keep
+W2V: 33443 words to keep
+W2V: loading word list /tmp/tmp.C68piimrwz/ar.words.txt of embeddings to keep
+W2V: 9921 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/ar/ar.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (20572 and 1453 kept)
+W2V: 400000 word vectors read (22052 and 1692 kept)
+W2V: 600000 word vectors read (22671 and 1793 kept)
+W2V: 800000 word vectors read (23042 and 1840 kept)
+W2V: 23168 word vectors loaded
+W2V: 1860 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.C68piimrwz/result1.conllu
+200 sentences with 10115 words parsed
+400 sentences with 21490 words parsed
+597 sentences with 27578 words parsed
+total parsing time: 00:00:42
+
+Processing language: bg, start: 2017.05.09 19:09
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: bg, start: 2017.05.09 19:09
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.dHxrnhQIuD/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/bg/barchhybrid_None-300-None.model_014 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/bg/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/bg/bg.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/bg/allwords.txt --extrnFilterNew /tmp/tmp.dHxrnhQIuD/bg.words.txt --test /tmp/tmp.dHxrnhQIuD/bg.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/bg/bg.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/bg/allwords.txt of embeddings to keep
+W2V: 30555 words to keep
+W2V: loading word list /tmp/tmp.dHxrnhQIuD/bg.words.txt of embeddings to keep
+W2V: 7720 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/bg/bg.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (24634 and 1293 kept)
+W2V: 26311 word vectors loaded
+W2V: 1462 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.dHxrnhQIuD/result1.conllu
+200 sentences with 2016 words parsed
+400 sentences with 4786 words parsed
+600 sentences with 7671 words parsed
+800 sentences with 10636 words parsed
+1000 sentences with 14093 words parsed
+1088 sentences with 15719 words parsed
+total parsing time: 00:00:30
+
+Processing language: bxr, start: 2017.05.09 19:10
+Cleaning ...
+replacing forms by CPOS for bxr
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: bxr, start: 2017.05.09 19:10
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.1FBLQeSLik/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/bxr/barchybrid.model_014 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/bxr/params.pickle --test /tmp/tmp.1FBLQeSLik/bxr.clean.test.empty.conll
+Using external embedding: None
+writing to /tmp/tmp.1FBLQeSLik/result1.conllu
+200 sentences with 1421 words parsed
+400 sentences with 2906 words parsed
+600 sentences with 6230 words parsed
+800 sentences with 8793 words parsed
+900 sentences with 10028 words parsed
+total parsing time: 00:00:18
+
+Processing language: ca, start: 2017.05.09 19:10
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: ca, start: 2017.05.09 19:10
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.819URgRKC6/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/ca/barchhybrid_proj-300-50.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/ca/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/ca/ca.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/ca/allwords.txt --extrnFilterNew /tmp/tmp.819URgRKC6/ca.words.txt --test /tmp/tmp.819URgRKC6/ca.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/ca/ca.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/ca/allwords.txt of embeddings to keep
+W2V: 33590 words to keep
+W2V: loading word list /tmp/tmp.819URgRKC6/ca.words.txt of embeddings to keep
+W2V: 10388 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/ca/ca.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (27235 and 1509 kept)
+W2V: 400000 word vectors read (28534 and 1682 kept)
+W2V: 28894 word vectors loaded
+W2V: 1731 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.819URgRKC6/result1.conllu
+200 sentences with 7148 words parsed
+400 sentences with 14445 words parsed
+600 sentences with 20660 words parsed
+800 sentences with 27380 words parsed
+1000 sentences with 32754 words parsed
+1200 sentences with 38228 words parsed
+1400 sentences with 44289 words parsed
+1600 sentences with 50477 words parsed
+1800 sentences with 56329 words parsed
+1851 sentences with 57912 words parsed
+total parsing time: 00:01:31
+
+Processing language: cs_cac, start: 2017.05.09 19:13
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: cs_cac, start: 2017.05.09 19:13
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.u0vAbsqrdg/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs_cac/barchhybrid_proj-300-None.model_004 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs_cac/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/cs_cac/cs_cac.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs_cac/allwords.txt --extrnFilterNew /tmp/tmp.u0vAbsqrdg/cs_cac.words.txt --test /tmp/tmp.u0vAbsqrdg/cs_cac.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/cs_cac/cs_cac.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs_cac/allwords.txt of embeddings to keep
+W2V: 73460 words to keep
+W2V: loading word list /tmp/tmp.u0vAbsqrdg/cs_cac.words.txt of embeddings to keep
+W2V: 5937 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/cs_cac/cs_cac.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (51415 and 641 kept)
+W2V: 400000 word vectors read (59822 and 806 kept)
+W2V: 600000 word vectors read (63221 and 893 kept)
+W2V: 800000 word vectors read (65140 and 928 kept)
+W2V: 1000000 word vectors read (66322 and 964 kept)
+W2V: 1200000 word vectors read (67135 and 986 kept)
+W2V: 67192 word vectors loaded
+W2V: 987 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.u0vAbsqrdg/result1.conllu
+200 sentences with 2628 words parsed
+400 sentences with 6492 words parsed
+600 sentences with 10307 words parsed
+628 sentences with 10862 words parsed
+total parsing time: 00:00:25
+
+Processing language: cs_cltt, start: 2017.05.09 19:15
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: cs_cltt, start: 2017.05.09 19:15
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.PWS1NnMhEK/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs_cltt/barchhybrid_proj-500-None.model_011 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs_cltt/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/cs_cltt/cs_cltt.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs_cltt/allwords.txt --extrnFilterNew /tmp/tmp.PWS1NnMhEK/cs_cltt.words.txt --test /tmp/tmp.PWS1NnMhEK/cs_cltt.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/cs_cltt/cs_cltt.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs_cltt/allwords.txt of embeddings to keep
+W2V: 4639 words to keep
+W2V: loading word list /tmp/tmp.PWS1NnMhEK/cs_cltt.words.txt of embeddings to keep
+W2V: 2699 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/cs_cltt/cs_cltt.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (3870 and 755 kept)
+W2V: 400000 word vectors read (4063 and 823 kept)
+W2V: 600000 word vectors read (4133 and 850 kept)
+W2V: 800000 word vectors read (4165 and 861 kept)
+W2V: 1000000 word vectors read (4190 and 869 kept)
+W2V: 1200000 word vectors read (4198 and 875 kept)
+W2V: 4198 word vectors loaded
+W2V: 876 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.PWS1NnMhEK/result1.conllu
+200 sentences with 6583 words parsed
+316 sentences with 10708 words parsed
+total parsing time: 00:00:23
+
+Processing language: cs_pud, start: 2017.05.09 19:18
+Cleaning ...
+unknown language variation, using cs
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: cs, start: 2017.05.09 19:18
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.0IAazVdkQC/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs/barchhybrid_proj-300-50.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/cs/cs.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs/allwords.txt --extrnFilterNew /tmp/tmp.0IAazVdkQC/cs.words.txt --test /tmp/tmp.0IAazVdkQC/cs_pud.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/cs/cs.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs/allwords.txt of embeddings to keep
+W2V: 136740 words to keep
+W2V: loading word list /tmp/tmp.0IAazVdkQC/cs.words.txt of embeddings to keep
+W2V: 10156 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/cs/cs.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (85321 and 901 kept)
+W2V: 400000 word vectors read (104157 and 1231 kept)
+W2V: 600000 word vectors read (111751 and 1378 kept)
+W2V: 800000 word vectors read (115942 and 1452 kept)
+W2V: 1000000 word vectors read (118374 and 1490 kept)
+W2V: 1200000 word vectors read (120116 and 1511 kept)
+W2V: 120245 word vectors loaded
+W2V: 1515 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.0IAazVdkQC/result1.conllu
+200 sentences with 3835 words parsed
+400 sentences with 7306 words parsed
+600 sentences with 11057 words parsed
+800 sentences with 14737 words parsed
+1000 sentences with 18261 words parsed
+1016 sentences with 18621 words parsed
+total parsing time: 00:00:33
+
+Processing language: cs, start: 2017.05.09 19:20
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: cs, start: 2017.05.09 19:20
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.mxaW6h81c6/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs/barchhybrid_proj-300-50.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/cs/cs.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs/allwords.txt --extrnFilterNew /tmp/tmp.mxaW6h81c6/cs.words.txt --test /tmp/tmp.mxaW6h81c6/cs.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/cs/cs.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/cs/allwords.txt of embeddings to keep
+W2V: 136740 words to keep
+W2V: loading word list /tmp/tmp.mxaW6h81c6/cs.words.txt of embeddings to keep
+W2V: 42572 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/cs/cs.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (85321 and 3740 kept)
+W2V: 400000 word vectors read (104157 and 5525 kept)
+W2V: 600000 word vectors read (111751 and 6354 kept)
+W2V: 800000 word vectors read (115942 and 6826 kept)
+W2V: 1000000 word vectors read (118374 and 7118 kept)
+W2V: 1200000 word vectors read (120116 and 7322 kept)
+W2V: 120245 word vectors loaded
+W2V: 7341 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.mxaW6h81c6/result1.conllu
+200 sentences with 2389 words parsed
+400 sentences with 5231 words parsed
+600 sentences with 7670 words parsed
+800 sentences with 10832 words parsed
+1000 sentences with 14030 words parsed
+1200 sentences with 17592 words parsed
+1400 sentences with 21456 words parsed
+1600 sentences with 25226 words parsed
+1800 sentences with 29514 words parsed
+2000 sentences with 33499 words parsed
+2200 sentences with 37223 words parsed
+2400 sentences with 40380 words parsed
+2600 sentences with 44054 words parsed
+2800 sentences with 47743 words parsed
+3000 sentences with 51514 words parsed
+3200 sentences with 54575 words parsed
+3400 sentences with 58404 words parsed
+3600 sentences with 61587 words parsed
+3800 sentences with 65647 words parsed
+4000 sentences with 69582 words parsed
+4200 sentences with 73220 words parsed
+4400 sentences with 76517 words parsed
+4600 sentences with 80061 words parsed
+4800 sentences with 84244 words parsed
+5000 sentences with 87551 words parsed
+5200 sentences with 91112 words parsed
+5400 sentences with 94565 words parsed
+5600 sentences with 98164 words parsed
+5800 sentences with 101851 words parsed
+6000 sentences with 105801 words parsed
+6200 sentences with 108881 words parsed
+6400 sentences with 111966 words parsed
+6600 sentences with 115833 words parsed
+6800 sentences with 119690 words parsed
+7000 sentences with 121857 words parsed
+7200 sentences with 124989 words parsed
+7400 sentences with 128623 words parsed
+7600 sentences with 132597 words parsed
+7800 sentences with 136089 words parsed
+8000 sentences with 138983 words parsed
+8200 sentences with 142629 words parsed
+8400 sentences with 146004 words parsed
+8600 sentences with 150220 words parsed
+8800 sentences with 154000 words parsed
+9000 sentences with 157925 words parsed
+9200 sentences with 161683 words parsed
+9400 sentences with 165125 words parsed
+9600 sentences with 168018 words parsed
+9800 sentences with 172315 words parsed
+9853 sentences with 173781 words parsed
+total parsing time: 00:05:08
+
+Processing language: cu, start: 2017.05.09 19:28
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: cu, start: 2017.05.09 19:28
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.m33JWGA388/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/cu/barchhybrid_proj-500-40.model_014 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/cu/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/cu/cu.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/cu/allwords.txt --extrnFilterNew /tmp/tmp.m33JWGA388/cu.words.txt --test /tmp/tmp.m33JWGA388/cu.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/cu/cu.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/cu/allwords.txt of embeddings to keep
+W2V: 10598 words to keep
+W2V: loading word list /tmp/tmp.m33JWGA388/cu.words.txt of embeddings to keep
+W2V: 4515 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/cu/cu.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 54 word vectors loaded
+W2V: 1 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.m33JWGA388/result1.conllu
+200 sentences with 2236 words parsed
+400 sentences with 4516 words parsed
+600 sentences with 6941 words parsed
+800 sentences with 9027 words parsed
+917 sentences with 10034 words parsed
+total parsing time: 00:00:14
+
+Processing language: da, start: 2017.05.09 19:29
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: da, start: 2017.05.09 19:29
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.zhHzuzzAhc/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/da/barchhybrid_proj-500-40.model_006 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/da/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/da/da.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/da/allwords.txt --extrnFilterNew /tmp/tmp.zhHzuzzAhc/da.words.txt --test /tmp/tmp.zhHzuzzAhc/da.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/da/da.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/da/allwords.txt of embeddings to keep
+W2V: 20169 words to keep
+W2V: loading word list /tmp/tmp.zhHzuzzAhc/da.words.txt of embeddings to keep
+W2V: 4239 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/da/da.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (15622 and 942 kept)
+W2V: 400000 word vectors read (16678 and 1052 kept)
+W2V: 600000 word vectors read (17127 and 1118 kept)
+W2V: 800000 word vectors read (17388 and 1151 kept)
+W2V: 17527 word vectors loaded
+W2V: 1162 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.zhHzuzzAhc/result1.conllu
+200 sentences with 3616 words parsed
+400 sentences with 7161 words parsed
+564 sentences with 10045 words parsed
+total parsing time: 00:00:16
+
+Processing language: de_pud, start: 2017.05.09 19:31
+Cleaning ...
+unknown language variation, using de
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: de, start: 2017.05.09 19:31
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.4SYoPZuexD/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/de/barchhybrid_proj-300-50.model_007 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/de/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/de/de.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/de/allwords.txt --extrnFilterNew /tmp/tmp.4SYoPZuexD/de.words.txt --test /tmp/tmp.4SYoPZuexD/de_pud.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/de/de.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/de/allwords.txt of embeddings to keep
+W2V: 54387 words to keep
+W2V: loading word list /tmp/tmp.4SYoPZuexD/de.words.txt of embeddings to keep
+W2V: 7975 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/de/de.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (36672 and 1500 kept)
+W2V: 400000 word vectors read (41471 and 1769 kept)
+W2V: 600000 word vectors read (43699 and 1890 kept)
+W2V: 800000 word vectors read (45069 and 1961 kept)
+W2V: 1000000 word vectors read (46044 and 2001 kept)
+W2V: 1200000 word vectors read (46767 and 2034 kept)
+W2V: 1400000 word vectors read (47287 and 2072 kept)
+W2V: 1600000 word vectors read (47717 and 2099 kept)
+W2V: 1800000 word vectors read (48082 and 2115 kept)
+W2V: 2000000 word vectors read (48385 and 2137 kept)
+W2V: 2200000 word vectors read (48614 and 2153 kept)
+W2V: 2400000 word vectors read (48820 and 2163 kept)
+W2V: 2600000 word vectors read (49013 and 2175 kept)
+W2V: 2800000 word vectors read (49160 and 2187 kept)
+W2V: 3000000 word vectors read (49299 and 2193 kept)
+W2V: 49372 word vectors loaded
+W2V: 2197 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.4SYoPZuexD/result1.conllu
+200 sentences with 4119 words parsed
+400 sentences with 7832 words parsed
+600 sentences with 11684 words parsed
+800 sentences with 15762 words parsed
+1000 sentences with 19136 words parsed
+1102 sentences with 21068 words parsed
+total parsing time: 00:00:32
+
+Processing language: de, start: 2017.05.09 19:35
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: de, start: 2017.05.09 19:35
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.CmcoaagKcS/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/de/barchhybrid_proj-300-50.model_007 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/de/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/de/de.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/de/allwords.txt --extrnFilterNew /tmp/tmp.CmcoaagKcS/de.words.txt --test /tmp/tmp.CmcoaagKcS/de.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/de/de.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/de/allwords.txt of embeddings to keep
+W2V: 54387 words to keep
+W2V: loading word list /tmp/tmp.CmcoaagKcS/de.words.txt of embeddings to keep
+W2V: 6320 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/de/de.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (36672 and 1122 kept)
+W2V: 400000 word vectors read (41471 and 1300 kept)
+W2V: 600000 word vectors read (43699 and 1397 kept)
+W2V: 800000 word vectors read (45069 and 1444 kept)
+W2V: 1000000 word vectors read (46044 and 1473 kept)
+W2V: 1200000 word vectors read (46767 and 1499 kept)
+W2V: 1400000 word vectors read (47287 and 1524 kept)
+W2V: 1600000 word vectors read (47717 and 1543 kept)
+W2V: 1800000 word vectors read (48082 and 1561 kept)
+W2V: 2000000 word vectors read (48385 and 1576 kept)
+W2V: 2200000 word vectors read (48614 and 1579 kept)
+W2V: 2400000 word vectors read (48820 and 1589 kept)
+W2V: 2600000 word vectors read (49013 and 1599 kept)
+W2V: 2800000 word vectors read (49160 and 1608 kept)
+W2V: 3000000 word vectors read (49299 and 1614 kept)
+W2V: 49372 word vectors loaded
+W2V: 1620 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.CmcoaagKcS/result1.conllu
+200 sentences with 2982 words parsed
+400 sentences with 6625 words parsed
+600 sentences with 10567 words parsed
+800 sentences with 14429 words parsed
+909 sentences with 16287 words parsed
+total parsing time: 00:00:24
+
+Processing language: el, start: 2017.05.09 19:39
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: el, start: 2017.05.09 19:39
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.46aQgGSFdk/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/el/barchhybrid_proj-300-None.model_011 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/el/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/el/el.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/el/allwords.txt --extrnFilterNew /tmp/tmp.46aQgGSFdk/el.words.txt --test /tmp/tmp.46aQgGSFdk/el.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/el/el.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/el/allwords.txt of embeddings to keep
+W2V: 12744 words to keep
+W2V: loading word list /tmp/tmp.46aQgGSFdk/el.words.txt of embeddings to keep
+W2V: 4369 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/el/el.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (10417 and 1127 kept)
+W2V: 400000 word vectors read (11131 and 1224 kept)
+W2V: 600000 word vectors read (11436 and 1268 kept)
+W2V: 11555 word vectors loaded
+W2V: 1285 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.46aQgGSFdk/result1.conllu
+200 sentences with 4132 words parsed
+400 sentences with 9233 words parsed
+445 sentences with 10428 words parsed
+total parsing time: 00:00:21
+
+Processing language: en_lines, start: 2017.05.09 19:40
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: en_lines, start: 2017.05.09 19:40
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.2RA29ZDYNN/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/en_lines/barchhybrid_proj-500-40.model_007 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/en_lines/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/en_lines/en_lines.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/en_lines/allwords.txt --extrnFilterNew /tmp/tmp.2RA29ZDYNN/en_lines.words.txt --test /tmp/tmp.2RA29ZDYNN/en_lines.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/en_lines/en_lines.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/en_lines/allwords.txt of embeddings to keep
+W2V: 8297 words to keep
+W2V: loading word list /tmp/tmp.2RA29ZDYNN/en_lines.words.txt of embeddings to keep
+W2V: 3311 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/en_lines/en_lines.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (7687 and 940 kept)
+W2V: 400000 word vectors read (7850 and 964 kept)
+W2V: 600000 word vectors read (7910 and 972 kept)
+W2V: 800000 word vectors read (7946 and 974 kept)
+W2V: 1000000 word vectors read (7963 and 979 kept)
+W2V: 1200000 word vectors read (7981 and 984 kept)
+W2V: 1400000 word vectors read (7993 and 988 kept)
+W2V: 1600000 word vectors read (8002 and 992 kept)
+W2V: 1800000 word vectors read (8012 and 994 kept)
+W2V: 2000000 word vectors read (8018 and 994 kept)
+W2V: 2200000 word vectors read (8030 and 995 kept)
+W2V: 2400000 word vectors read (8034 and 997 kept)
+W2V: 8034 word vectors loaded
+W2V: 997 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.2RA29ZDYNN/result1.conllu
+200 sentences with 3440 words parsed
+400 sentences with 6717 words parsed
+600 sentences with 10422 words parsed
+800 sentences with 13951 words parsed
+908 sentences with 15626 words parsed
+total parsing time: 00:00:24
+
+Processing language: en_partut, start: 2017.05.09 19:44
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: en_partut, start: 2017.05.09 19:44
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.VCjLBLiqkK/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/en_partut/barchhybrid_proj-300-50.model_009 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/en_partut/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/en_partut/en_partut.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/en_partut/allwords.txt --extrnFilterNew /tmp/tmp.VCjLBLiqkK/en_partut.words.txt --test /tmp/tmp.VCjLBLiqkK/en_partut.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/en_partut/en_partut.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/en_partut/allwords.txt of embeddings to keep
+W2V: 6820 words to keep
+W2V: loading word list /tmp/tmp.VCjLBLiqkK/en_partut.words.txt of embeddings to keep
+W2V: 3020 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/en_partut/en_partut.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (6399 and 656 kept)
+W2V: 400000 word vectors read (6485 and 681 kept)
+W2V: 600000 word vectors read (6509 and 686 kept)
+W2V: 800000 word vectors read (6521 and 695 kept)
+W2V: 1000000 word vectors read (6535 and 696 kept)
+W2V: 1200000 word vectors read (6541 and 699 kept)
+W2V: 1400000 word vectors read (6541 and 702 kept)
+W2V: 1600000 word vectors read (6544 and 704 kept)
+W2V: 1800000 word vectors read (6546 and 704 kept)
+W2V: 2000000 word vectors read (6551 and 704 kept)
+W2V: 2200000 word vectors read (6556 and 705 kept)
+W2V: 2400000 word vectors read (6557 and 706 kept)
+W2V: 6557 word vectors loaded
+W2V: 706 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.VCjLBLiqkK/result1.conllu
+200 sentences with 4737 words parsed
+400 sentences with 9191 words parsed
+503 sentences with 11513 words parsed
+total parsing time: 00:00:17
+
+Processing language: en_pud, start: 2017.05.09 19:47
+Cleaning ...
+unknown language variation, using en
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: en, start: 2017.05.09 19:47
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.MfkhuDUUmM/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/en/barchhybrid_proj-300-50.model_010 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/en/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/en/en.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/en/allwords.txt --extrnFilterNew /tmp/tmp.MfkhuDUUmM/en.words.txt --test /tmp/tmp.MfkhuDUUmM/en_pud.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/en/en.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/en/allwords.txt of embeddings to keep
+W2V: 18986 words to keep
+W2V: loading word list /tmp/tmp.MfkhuDUUmM/en.words.txt of embeddings to keep
+W2V: 6056 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/en/en.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (15847 and 1578 kept)
+W2V: 400000 word vectors read (16253 and 1656 kept)
+W2V: 600000 word vectors read (16392 and 1690 kept)
+W2V: 800000 word vectors read (16485 and 1709 kept)
+W2V: 1000000 word vectors read (16557 and 1726 kept)
+W2V: 1200000 word vectors read (16609 and 1735 kept)
+W2V: 1400000 word vectors read (16632 and 1740 kept)
+W2V: 1600000 word vectors read (16668 and 1746 kept)
+W2V: 1800000 word vectors read (16700 and 1749 kept)
+W2V: 2000000 word vectors read (16720 and 1753 kept)
+W2V: 2200000 word vectors read (16736 and 1758 kept)
+W2V: 2400000 word vectors read (16758 and 1762 kept)
+W2V: 16760 word vectors loaded
+W2V: 1762 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.MfkhuDUUmM/result1.conllu
+200 sentences with 4244 words parsed
+400 sentences with 7947 words parsed
+600 sentences with 12318 words parsed
+800 sentences with 16466 words parsed
+1000 sentences with 20711 words parsed
+1018 sentences with 21155 words parsed
+total parsing time: 00:00:32
+
+Processing language: en, start: 2017.05.09 19:50
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: en, start: 2017.05.09 19:50
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.oJf747JRdC/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/en/barchhybrid_proj-300-50.model_010 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/en/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/en/en.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/en/allwords.txt --extrnFilterNew /tmp/tmp.oJf747JRdC/en.words.txt --test /tmp/tmp.oJf747JRdC/en.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/en/en.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/en/allwords.txt of embeddings to keep
+W2V: 18986 words to keep
+W2V: loading word list /tmp/tmp.oJf747JRdC/en.words.txt of embeddings to keep
+W2V: 5415 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/en/en.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (15847 and 973 kept)
+W2V: 400000 word vectors read (16253 and 1020 kept)
+W2V: 600000 word vectors read (16392 and 1047 kept)
+W2V: 800000 word vectors read (16485 and 1064 kept)
+W2V: 1000000 word vectors read (16557 and 1080 kept)
+W2V: 1200000 word vectors read (16609 and 1088 kept)
+W2V: 1400000 word vectors read (16632 and 1094 kept)
+W2V: 1600000 word vectors read (16668 and 1097 kept)
+W2V: 1800000 word vectors read (16700 and 1105 kept)
+W2V: 2000000 word vectors read (16720 and 1109 kept)
+W2V: 2200000 word vectors read (16736 and 1112 kept)
+W2V: 2400000 word vectors read (16758 and 1119 kept)
+W2V: 16760 word vectors loaded
+W2V: 1119 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.oJf747JRdC/result1.conllu
+200 sentences with 4652 words parsed
+400 sentences with 7188 words parsed
+600 sentences with 10104 words parsed
+800 sentences with 13924 words parsed
+1000 sentences with 16156 words parsed
+1200 sentences with 19409 words parsed
+1400 sentences with 21267 words parsed
+1600 sentences with 23697 words parsed
+1698 sentences with 25001 words parsed
+total parsing time: 00:00:39
+
+Processing language: es_ancora, start: 2017.05.09 19:53
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: es_ancora, start: 2017.05.09 19:53
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.aBjtE66pSN/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/es_ancora/barchhybrid_proj-500-None.model_003 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/es_ancora/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/es_ancora/es_ancora.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/es_ancora/allwords.txt --extrnFilterNew /tmp/tmp.aBjtE66pSN/es_ancora.words.txt --test /tmp/tmp.aBjtE66pSN/es_ancora.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/es_ancora/es_ancora.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/es_ancora/allwords.txt of embeddings to keep
+W2V: 40493 words to keep
+W2V: loading word list /tmp/tmp.aBjtE66pSN/es_ancora.words.txt of embeddings to keep
+W2V: 11378 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/es_ancora/es_ancora.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (33506 and 1594 kept)
+W2V: 400000 word vectors read (35407 and 1792 kept)
+W2V: 600000 word vectors read (36041 and 1863 kept)
+W2V: 800000 word vectors read (36359 and 1892 kept)
+W2V: 1000000 word vectors read (36562 and 1917 kept)
+W2V: 1200000 word vectors read (36692 and 1924 kept)
+W2V: 1400000 word vectors read (36765 and 1935 kept)
+W2V: 36794 word vectors loaded
+W2V: 1938 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.aBjtE66pSN/result1.conllu
+200 sentences with 5972 words parsed
+400 sentences with 13549 words parsed
+600 sentences with 20486 words parsed
+800 sentences with 28738 words parsed
+1000 sentences with 35448 words parsed
+1200 sentences with 39912 words parsed
+1400 sentences with 44011 words parsed
+1600 sentences with 48869 words parsed
+1741 sentences with 52613 words parsed
+total parsing time: 00:02:00
+
+Processing language: es_pud, start: 2017.05.09 19:58
+Cleaning ...
+unknown language variation, using es
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: es, start: 2017.05.09 19:58
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.cUXlTQjnNF/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/es/barchhybrid_proj-300-50.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/es/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/es/es.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/es/allwords.txt --extrnFilterNew /tmp/tmp.cUXlTQjnNF/es.words.txt --test /tmp/tmp.cUXlTQjnNF/es_pud.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/es/es.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/es/allwords.txt of embeddings to keep
+W2V: 49628 words to keep
+W2V: loading word list /tmp/tmp.cUXlTQjnNF/es.words.txt of embeddings to keep
+W2V: 6974 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/es/es.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (38322 and 947 kept)
+W2V: 400000 word vectors read (41082 and 1054 kept)
+W2V: 600000 word vectors read (42201 and 1104 kept)
+W2V: 800000 word vectors read (42884 and 1129 kept)
+W2V: 1000000 word vectors read (43335 and 1149 kept)
+W2V: 1200000 word vectors read (43645 and 1160 kept)
+W2V: 1400000 word vectors read (43910 and 1165 kept)
+W2V: 43980 word vectors loaded
+W2V: 1165 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.cUXlTQjnNF/result1.conllu
+200 sentences with 4647 words parsed
+400 sentences with 8874 words parsed
+600 sentences with 13816 words parsed
+800 sentences with 18451 words parsed
+1000 sentences with 22684 words parsed
+1021 sentences with 23255 words parsed
+total parsing time: 00:00:36
+
+Processing language: es, start: 2017.05.09 20:00
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: es, start: 2017.05.09 20:00
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.u6t4nhNFNM/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/es/barchhybrid_proj-300-50.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/es/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/es/es.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/es/allwords.txt --extrnFilterNew /tmp/tmp.u6t4nhNFNM/es.words.txt --test /tmp/tmp.u6t4nhNFNM/es.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/es/es.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/es/allwords.txt of embeddings to keep
+W2V: 49628 words to keep
+W2V: loading word list /tmp/tmp.u6t4nhNFNM/es.words.txt of embeddings to keep
+W2V: 4536 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/es/es.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (38322 and 534 kept)
+W2V: 400000 word vectors read (41082 and 598 kept)
+W2V: 600000 word vectors read (42201 and 619 kept)
+W2V: 800000 word vectors read (42884 and 630 kept)
+W2V: 1000000 word vectors read (43335 and 634 kept)
+W2V: 1200000 word vectors read (43645 and 642 kept)
+W2V: 1400000 word vectors read (43910 and 645 kept)
+W2V: 43980 word vectors loaded
+W2V: 645 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.u6t4nhNFNM/result1.conllu
+200 sentences with 5584 words parsed
+400 sentences with 11714 words parsed
+411 sentences with 11997 words parsed
+total parsing time: 00:00:18
+
+Processing language: et, start: 2017.05.09 20:02
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: et, start: 2017.05.09 20:02
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.6iJTnswpWI/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/et/barchhybrid_proj-300-50.model_013 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/et/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/et/et.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/et/allwords.txt --extrnFilterNew /tmp/tmp.6iJTnswpWI/et.words.txt --test /tmp/tmp.6iJTnswpWI/et.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/et/et.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/et/allwords.txt of embeddings to keep
+W2V: 12406 words to keep
+W2V: loading word list /tmp/tmp.6iJTnswpWI/et.words.txt of embeddings to keep
+W2V: 6990 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/et/et.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (8959 and 2220 kept)
+W2V: 400000 word vectors read (9780 and 2545 kept)
+W2V: 10121 word vectors loaded
+W2V: 2704 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.6iJTnswpWI/result1.conllu
+200 sentences with 2420 words parsed
+400 sentences with 4541 words parsed
+600 sentences with 7464 words parsed
+800 sentences with 10281 words parsed
+952 sentences with 12411 words parsed
+total parsing time: 00:00:17
+
+Processing language: eu, start: 2017.05.09 20:03
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: eu, start: 2017.05.09 20:03
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.QEMG3TbG5h/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/eu/barchhybrid_proj-300-50.model_009 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/eu/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/eu/eu.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/eu/allwords.txt --extrnFilterNew /tmp/tmp.QEMG3TbG5h/eu.words.txt --test /tmp/tmp.QEMG3TbG5h/eu.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/eu/eu.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/eu/allwords.txt of embeddings to keep
+W2V: 24467 words to keep
+W2V: loading word list /tmp/tmp.QEMG3TbG5h/eu.words.txt of embeddings to keep
+W2V: 10571 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/eu/eu.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (18437 and 2280 kept)
+W2V: 19178 word vectors loaded
+W2V: 2418 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.QEMG3TbG5h/result1.conllu
+200 sentences with 2204 words parsed
+400 sentences with 4490 words parsed
+600 sentences with 6924 words parsed
+800 sentences with 9172 words parsed
+1000 sentences with 11616 words parsed
+1200 sentences with 14484 words parsed
+1400 sentences with 17685 words parsed
+1600 sentences with 21025 words parsed
+1800 sentences with 24334 words parsed
+1802 sentences with 24376 words parsed
+total parsing time: 00:00:39
+
+Processing language: fa, start: 2017.05.09 20:05
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: fa, start: 2017.05.09 20:05
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.Su9U4f5GdI/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/fa/barchhybrid_proj-500-40.model_006 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/fa/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/fa/fa.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/fa/allwords.txt --extrnFilterNew /tmp/tmp.Su9U4f5GdI/fa.words.txt --test /tmp/tmp.Su9U4f5GdI/fa.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/fa/fa.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/fa/allwords.txt of embeddings to keep
+W2V: 14784 words to keep
+W2V: loading word list /tmp/tmp.Su9U4f5GdI/fa.words.txt of embeddings to keep
+W2V: 4405 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/fa/fa.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (10754 and 682 kept)
+W2V: 400000 word vectors read (11005 and 707 kept)
+W2V: 11115 word vectors loaded
+W2V: 723 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.Su9U4f5GdI/result1.conllu
+200 sentences with 5792 words parsed
+400 sentences with 10136 words parsed
+598 sentences with 15994 words parsed
+total parsing time: 00:00:25
+
+Processing language: fi_ftb, start: 2017.05.09 20:06
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: fi_ftb, start: 2017.05.09 20:06
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.vaopiH7iZc/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/fi_ftb/barchhybrid_proj-300-50.model_013 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/fi_ftb/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/fi_ftb/fi_ftb.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/fi_ftb/allwords.txt --extrnFilterNew /tmp/tmp.vaopiH7iZc/fi_ftb.words.txt --test /tmp/tmp.vaopiH7iZc/fi_ftb.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/fi_ftb/fi_ftb.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/fi_ftb/allwords.txt of embeddings to keep
+W2V: 50962 words to keep
+W2V: loading word list /tmp/tmp.vaopiH7iZc/fi_ftb.words.txt of embeddings to keep
+W2V: 10783 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/fi_ftb/fi_ftb.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (32213 and 1987 kept)
+W2V: 400000 word vectors read (37050 and 2471 kept)
+W2V: 600000 word vectors read (39326 and 2696 kept)
+W2V: 800000 word vectors read (40727 and 2854 kept)
+W2V: 1000000 word vectors read (41677 and 2960 kept)
+W2V: 1200000 word vectors read (42367 and 3034 kept)
+W2V: 1400000 word vectors read (42892 and 3101 kept)
+W2V: 43121 word vectors loaded
+W2V: 3135 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.vaopiH7iZc/result1.conllu
+200 sentences with 1812 words parsed
+400 sentences with 3634 words parsed
+600 sentences with 5403 words parsed
+800 sentences with 6966 words parsed
+1000 sentences with 9149 words parsed
+1200 sentences with 10938 words parsed
+1400 sentences with 12837 words parsed
+1600 sentences with 14756 words parsed
+1795 sentences with 16296 words parsed
+total parsing time: 00:00:25
+
+Processing language: fi_pud, start: 2017.05.09 20:09
+Cleaning ...
+unknown language variation, using fi
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: fi, start: 2017.05.09 20:09
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.q6oMnFpmj1/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/fi/barchhybrid_proj-300-None.model_011 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/fi/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/fi/fi.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/fi/allwords.txt --extrnFilterNew /tmp/tmp.q6oMnFpmj1/fi.words.txt --test /tmp/tmp.q6oMnFpmj1/fi_pud.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/fi/fi.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/fi/allwords.txt of embeddings to keep
+W2V: 64798 words to keep
+W2V: loading word list /tmp/tmp.q6oMnFpmj1/fi.words.txt of embeddings to keep
+W2V: 10859 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/fi/fi.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (36997 and 2583 kept)
+W2V: 400000 word vectors read (41994 and 3106 kept)
+W2V: 600000 word vectors read (44291 and 3357 kept)
+W2V: 800000 word vectors read (45653 and 3504 kept)
+W2V: 1000000 word vectors read (46638 and 3625 kept)
+W2V: 1200000 word vectors read (47297 and 3715 kept)
+W2V: 1400000 word vectors read (47807 and 3784 kept)
+W2V: 48061 word vectors loaded
+W2V: 3824 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.q6oMnFpmj1/result1.conllu
+200 sentences with 3266 words parsed
+400 sentences with 6099 words parsed
+600 sentences with 9209 words parsed
+800 sentences with 12296 words parsed
+1000 sentences with 15082 words parsed
+1039 sentences with 15782 words parsed
+total parsing time: 00:00:33
+
+Processing language: fi, start: 2017.05.09 20:11
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: fi, start: 2017.05.09 20:11
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.aqMXXQCjgv/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/fi/barchhybrid_proj-300-None.model_011 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/fi/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/fi/fi.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/fi/allwords.txt --extrnFilterNew /tmp/tmp.aqMXXQCjgv/fi.words.txt --test /tmp/tmp.aqMXXQCjgv/fi.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/fi/fi.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/fi/allwords.txt of embeddings to keep
+W2V: 64798 words to keep
+W2V: loading word list /tmp/tmp.aqMXXQCjgv/fi.words.txt of embeddings to keep
+W2V: 12114 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/fi/fi.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (36997 and 2371 kept)
+W2V: 400000 word vectors read (41994 and 2953 kept)
+W2V: 600000 word vectors read (44291 and 3246 kept)
+W2V: 800000 word vectors read (45653 and 3398 kept)
+W2V: 1000000 word vectors read (46638 and 3546 kept)
+W2V: 1200000 word vectors read (47297 and 3643 kept)
+W2V: 1400000 word vectors read (47807 and 3704 kept)
+W2V: 48061 word vectors loaded
+W2V: 3735 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.aqMXXQCjgv/result1.conllu
+200 sentences with 3151 words parsed
+400 sentences with 5408 words parsed
+600 sentences with 8195 words parsed
+800 sentences with 11234 words parsed
+1000 sentences with 14719 words parsed
+1200 sentences with 17376 words parsed
+1400 sentences with 20429 words parsed
+1444 sentences with 21008 words parsed
+total parsing time: 00:00:45
+
+Processing language: fr_partut, start: 2017.05.09 20:14
+Cleaning ...
+unknown language variation, using fr
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: fr, start: 2017.05.09 20:14
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.rapCD56SP2/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr/barchhybrid_proj-500-None.model_006 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/fr/fr.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr/allwords.txt --extrnFilterNew /tmp/tmp.rapCD56SP2/fr.words.txt --test /tmp/tmp.rapCD56SP2/fr_partut.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/fr/fr.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr/allwords.txt of embeddings to keep
+W2V: 45070 words to keep
+W2V: loading word list /tmp/tmp.rapCD56SP2/fr.words.txt of embeddings to keep
+W2V: 2846 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/fr/fr.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (35240 and 280 kept)
+W2V: 400000 word vectors read (37988 and 296 kept)
+W2V: 600000 word vectors read (39178 and 305 kept)
+W2V: 800000 word vectors read (39855 and 311 kept)
+W2V: 1000000 word vectors read (40313 and 316 kept)
+W2V: 1200000 word vectors read (40614 and 320 kept)
+W2V: 1400000 word vectors read (40861 and 324 kept)
+W2V: 40948 word vectors loaded
+W2V: 324 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.rapCD56SP2/result1.conllu
+200 sentences with 5366 words parsed
+400 sentences with 10703 words parsed
+402 sentences with 10737 words parsed
+total parsing time: 00:00:25
+
+Processing language: fr_pud, start: 2017.05.09 20:17
+Cleaning ...
+unknown language variation, using fr
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: fr, start: 2017.05.09 20:17
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.3p6IEsZC6v/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr/barchhybrid_proj-500-None.model_006 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/fr/fr.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr/allwords.txt --extrnFilterNew /tmp/tmp.3p6IEsZC6v/fr.words.txt --test /tmp/tmp.3p6IEsZC6v/fr_pud.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/fr/fr.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr/allwords.txt of embeddings to keep
+W2V: 45070 words to keep
+W2V: loading word list /tmp/tmp.3p6IEsZC6v/fr.words.txt of embeddings to keep
+W2V: 7104 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/fr/fr.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (35240 and 1121 kept)
+W2V: 400000 word vectors read (37988 and 1230 kept)
+W2V: 600000 word vectors read (39178 and 1275 kept)
+W2V: 800000 word vectors read (39855 and 1303 kept)
+W2V: 1000000 word vectors read (40313 and 1321 kept)
+W2V: 1200000 word vectors read (40614 and 1331 kept)
+W2V: 1400000 word vectors read (40861 and 1346 kept)
+W2V: 40948 word vectors loaded
+W2V: 1349 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.3p6IEsZC6v/result1.conllu
+200 sentences with 4777 words parsed
+400 sentences with 9137 words parsed
+600 sentences with 14250 words parsed
+800 sentences with 19200 words parsed
+1000 sentences with 23571 words parsed
+1043 sentences with 24762 words parsed
+total parsing time: 00:01:00
+
+Processing language: fr_sequoia, start: 2017.05.09 20:21
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: fr_sequoia, start: 2017.05.09 20:21
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.gyln0nPxW3/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr_sequoia/barchhybrid_proj-300-50.model_015 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr_sequoia/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/fr_sequoia/fr_sequoia.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr_sequoia/allwords.txt --extrnFilterNew /tmp/tmp.gyln0nPxW3/fr_sequoia.words.txt --test /tmp/tmp.gyln0nPxW3/fr_sequoia.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/fr_sequoia/fr_sequoia.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr_sequoia/allwords.txt of embeddings to keep
+W2V: 9881 words to keep
+W2V: loading word list /tmp/tmp.gyln0nPxW3/fr_sequoia.words.txt of embeddings to keep
+W2V: 3469 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/fr_sequoia/fr_sequoia.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (8886 and 699 kept)
+W2V: 400000 word vectors read (9073 and 731 kept)
+W2V: 600000 word vectors read (9152 and 746 kept)
+W2V: 800000 word vectors read (9204 and 754 kept)
+W2V: 1000000 word vectors read (9237 and 758 kept)
+W2V: 1200000 word vectors read (9262 and 761 kept)
+W2V: 1400000 word vectors read (9279 and 763 kept)
+W2V: 9286 word vectors loaded
+W2V: 766 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.gyln0nPxW3/result1.conllu
+200 sentences with 4842 words parsed
+400 sentences with 9576 words parsed
+430 sentences with 10111 words parsed
+total parsing time: 00:00:14
+
+Processing language: fr, start: 2017.05.09 20:23
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: fr, start: 2017.05.09 20:23
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.p6aLCrtDyM/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr/barchhybrid_proj-500-None.model_006 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/fr/fr.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr/allwords.txt --extrnFilterNew /tmp/tmp.p6aLCrtDyM/fr.words.txt --test /tmp/tmp.p6aLCrtDyM/fr.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/fr/fr.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/fr/allwords.txt of embeddings to keep
+W2V: 45070 words to keep
+W2V: loading word list /tmp/tmp.p6aLCrtDyM/fr.words.txt of embeddings to keep
+W2V: 3764 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/fr/fr.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (35240 and 384 kept)
+W2V: 400000 word vectors read (37988 and 423 kept)
+W2V: 600000 word vectors read (39178 and 435 kept)
+W2V: 800000 word vectors read (39855 and 442 kept)
+W2V: 1000000 word vectors read (40313 and 449 kept)
+W2V: 1200000 word vectors read (40614 and 450 kept)
+W2V: 1400000 word vectors read (40861 and 458 kept)
+W2V: 40948 word vectors loaded
+W2V: 460 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.p6aLCrtDyM/result1.conllu
+200 sentences with 5294 words parsed
+400 sentences with 9805 words parsed
+411 sentences with 10078 words parsed
+total parsing time: 00:00:24
+
+Processing language: ga, start: 2017.05.09 20:26
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: ga, start: 2017.05.09 20:26
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.8jd4H4vLyD/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/ga/barchhybrid_proj-500-None.model_008 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/ga/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/ga/ga.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/ga/allwords.txt --extrnFilterNew /tmp/tmp.8jd4H4vLyD/ga.words.txt --test /tmp/tmp.8jd4H4vLyD/ga.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/ga/ga.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/ga/allwords.txt of embeddings to keep
+W2V: 4606 words to keep
+W2V: loading word list /tmp/tmp.8jd4H4vLyD/ga.words.txt of embeddings to keep
+W2V: 3704 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/ga/ga.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 3793 word vectors loaded
+W2V: 1459 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.8jd4H4vLyD/result1.conllu
+200 sentences with 4168 words parsed
+400 sentences with 8986 words parsed
+452 sentences with 10125 words parsed
+total parsing time: 00:00:24
+
+Processing language: gl_treegal, start: 2017.05.09 20:26
+Cleaning ...
+unknown language variation, using gl
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: gl, start: 2017.05.09 20:26
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.wM4eDbmZ4W/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/gl/barchhybrid_proj-300-50.model_007 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/gl/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/gl/gl.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/gl/allwords.txt --extrnFilterNew /tmp/tmp.wM4eDbmZ4W/gl.words.txt --test /tmp/tmp.wM4eDbmZ4W/gl_treegal.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/gl/gl.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/gl/allwords.txt of embeddings to keep
+W2V: 15618 words to keep
+W2V: loading word list /tmp/tmp.wM4eDbmZ4W/gl.words.txt of embeddings to keep
+W2V: 3539 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/gl/gl.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (13559 and 1055 kept)
+W2V: 13739 word vectors loaded
+W2V: 1079 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.wM4eDbmZ4W/result1.conllu
+200 sentences with 5505 words parsed
+384 sentences with 10107 words parsed
+total parsing time: 00:00:14
+
+Processing language: gl, start: 2017.05.09 20:27
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: gl, start: 2017.05.09 20:27
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.3wTHEvWSPq/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/gl/barchhybrid_proj-300-50.model_007 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/gl/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/gl/gl.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/gl/allwords.txt --extrnFilterNew /tmp/tmp.3wTHEvWSPq/gl.words.txt --test /tmp/tmp.3wTHEvWSPq/gl.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/gl/gl.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/gl/allwords.txt of embeddings to keep
+W2V: 15618 words to keep
+W2V: loading word list /tmp/tmp.3wTHEvWSPq/gl.words.txt of embeddings to keep
+W2V: 7641 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/gl/gl.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (13559 and 1835 kept)
+W2V: 13739 word vectors loaded
+W2V: 1883 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.3wTHEvWSPq/result1.conllu
+200 sentences with 6615 words parsed
+400 sentences with 13394 words parsed
+600 sentences with 20346 words parsed
+800 sentences with 27193 words parsed
+877 sentences with 29745 words parsed
+total parsing time: 00:00:41
+
+Processing language: got, start: 2017.05.09 20:28
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: got, start: 2017.05.09 20:28
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.l4HiqnXrcl/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/got/barchhybrid_None-0-None.model_008 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/got/params.pickle --test /tmp/tmp.l4HiqnXrcl/got.clean.test.conll
+Using external embedding: None
+writing to /tmp/tmp.l4HiqnXrcl/result1.conllu
+200 sentences with 2570 words parsed
+400 sentences with 4984 words parsed
+600 sentences with 7163 words parsed
+800 sentences with 9444 words parsed
+825 sentences with 10182 words parsed
+total parsing time: 00:00:16
+
+Processing language: grc_proiel, start: 2017.05.09 20:29
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: grc_proiel, start: 2017.05.09 20:29
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.zWX9H0IVi5/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/grc_proiel/barchhybrid_proj-300-50.model_008 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/grc_proiel/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/grc_proiel/grc_proiel.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/grc_proiel/allwords.txt --extrnFilterNew /tmp/tmp.zWX9H0IVi5/grc_proiel.words.txt --test /tmp/tmp.zWX9H0IVi5/grc_proiel.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/grc_proiel/grc_proiel.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/grc_proiel/allwords.txt of embeddings to keep
+W2V: 37264 words to keep
+W2V: loading word list /tmp/tmp.zWX9H0IVi5/grc_proiel.words.txt of embeddings to keep
+W2V: 6131 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/grc_proiel/grc_proiel.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 11738 word vectors loaded
+W2V: 240 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.zWX9H0IVi5/result1.conllu
+200 sentences with 2751 words parsed
+400 sentences with 5510 words parsed
+600 sentences with 8823 words parsed
+800 sentences with 11682 words parsed
+869 sentences with 13314 words parsed
+total parsing time: 00:00:28
+
+Processing language: grc, start: 2017.05.09 20:30
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: grc, start: 2017.05.09 20:30
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.EP6Rx2qzmI/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/grc/barchhybrid_proj-500-40.model_006 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/grc/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/grc/grc.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/grc/allwords.txt --extrnFilterNew /tmp/tmp.EP6Rx2qzmI/grc.words.txt --test /tmp/tmp.EP6Rx2qzmI/grc.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/grc/grc.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/grc/allwords.txt of embeddings to keep
+W2V: 45945 words to keep
+W2V: loading word list /tmp/tmp.EP6Rx2qzmI/grc.words.txt of embeddings to keep
+W2V: 10773 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/grc/grc.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 14338 word vectors loaded
+W2V: 1490 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.EP6Rx2qzmI/result1.conllu
+200 sentences with 3624 words parsed
+400 sentences with 7056 words parsed
+600 sentences with 10412 words parsed
+800 sentences with 13048 words parsed
+1000 sentences with 16250 words parsed
+1200 sentences with 19082 words parsed
+1309 sentences with 20964 words parsed
+total parsing time: 00:00:44
+
+Processing language: he, start: 2017.05.09 20:31
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: he, start: 2017.05.09 20:31
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.8mo1A4E7GI/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/he/barchhybrid_proj-300-50.model_007 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/he/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/he/he.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/he/allwords.txt --extrnFilterNew /tmp/tmp.8mo1A4E7GI/he.words.txt --test /tmp/tmp.8mo1A4E7GI/he.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/he/he.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/he/allwords.txt of embeddings to keep
+W2V: 19085 words to keep
+W2V: loading word list /tmp/tmp.8mo1A4E7GI/he.words.txt of embeddings to keep
+W2V: 4391 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/he/he.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (15682 and 1147 kept)
+W2V: 400000 word vectors read (16526 and 1276 kept)
+W2V: 16676 word vectors loaded
+W2V: 1312 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.8mo1A4E7GI/result1.conllu
+200 sentences with 4171 words parsed
+400 sentences with 9380 words parsed
+491 sentences with 11316 words parsed
+total parsing time: 00:00:17
+
+Processing language: hi_pud, start: 2017.05.09 20:32
+Cleaning ...
+unknown language variation, using hi
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: hi, start: 2017.05.09 20:32
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.eodMNyHccV/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/hi/barchhybrid_proj-500-40.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/hi/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/hi/hi.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/hi/allwords.txt --extrnFilterNew /tmp/tmp.eodMNyHccV/hi.words.txt --test /tmp/tmp.eodMNyHccV/hi_pud.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/hi/hi.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/hi/allwords.txt of embeddings to keep
+W2V: 19064 words to keep
+W2V: loading word list /tmp/tmp.eodMNyHccV/hi.words.txt of embeddings to keep
+W2V: 5804 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/hi/hi.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 14745 word vectors loaded
+W2V: 1428 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.eodMNyHccV/result1.conllu
+200 sentences with 4651 words parsed
+400 sentences with 8713 words parsed
+600 sentences with 13406 words parsed
+800 sentences with 18115 words parsed
+1000 sentences with 22143 words parsed
+1050 sentences with 23412 words parsed
+total parsing time: 00:00:39
+
+Processing language: hi, start: 2017.05.09 20:33
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: hi, start: 2017.05.09 20:33
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.62qkB5mbNM/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/hi/barchhybrid_proj-500-40.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/hi/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/hi/hi.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/hi/allwords.txt --extrnFilterNew /tmp/tmp.62qkB5mbNM/hi.words.txt --test /tmp/tmp.62qkB5mbNM/hi.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/hi/hi.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/hi/allwords.txt of embeddings to keep
+W2V: 19064 words to keep
+W2V: loading word list /tmp/tmp.62qkB5mbNM/hi.words.txt of embeddings to keep
+W2V: 5802 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/hi/hi.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 14745 word vectors loaded
+W2V: 731 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.62qkB5mbNM/result1.conllu
+200 sentences with 3694 words parsed
+400 sentences with 8442 words parsed
+600 sentences with 12550 words parsed
+800 sentences with 17023 words parsed
+1000 sentences with 21479 words parsed
+1200 sentences with 25871 words parsed
+1400 sentences with 30201 words parsed
+1600 sentences with 34064 words parsed
+1675 sentences with 35430 words parsed
+total parsing time: 00:00:54
+
+Processing language: hr, start: 2017.05.09 20:35
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: hr, start: 2017.05.09 20:35
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.kaZCVCZgWZ/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/hr/barchhybrid_proj-300-None.model_004 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/hr/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/hr/hr.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/hr/allwords.txt --extrnFilterNew /tmp/tmp.kaZCVCZgWZ/hr.words.txt --test /tmp/tmp.kaZCVCZgWZ/hr.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/hr/hr.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/hr/allwords.txt of embeddings to keep
+W2V: 41038 words to keep
+W2V: loading word list /tmp/tmp.kaZCVCZgWZ/hr.words.txt of embeddings to keep
+W2V: 7210 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/hr/hr.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (33598 and 1282 kept)
+W2V: 400000 word vectors read (36199 and 1422 kept)
+W2V: 37066 word vectors loaded
+W2V: 1459 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.kaZCVCZgWZ/result1.conllu
+200 sentences with 4125 words parsed
+400 sentences with 8612 words parsed
+600 sentences with 13208 words parsed
+601 sentences with 13226 words parsed
+total parsing time: 00:00:29
+
+Processing language: hsb, start: 2017.05.09 20:36
+Cleaning ...
+replacing forms by CPOS for hsb
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: hsb, start: 2017.05.09 20:36
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.38Ao34sQog/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/hsb/barchybrid.model_006 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/hsb/params.pickle --test /tmp/tmp.38Ao34sQog/hsb.clean.test.empty.conll
+Using external embedding: None
+writing to /tmp/tmp.38Ao34sQog/result1.conllu
+200 sentences with 3567 words parsed
+400 sentences with 6908 words parsed
+600 sentences with 10195 words parsed
+623 sentences with 10718 words parsed
+total parsing time: 00:00:21
+
+Processing language: hu, start: 2017.05.09 20:37
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: hu, start: 2017.05.09 20:37
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.RvTDU7Rwgg/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/hu/barchhybrid_proj-300-40.model_012 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/hu/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/hu/hu.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/hu/allwords.txt --extrnFilterNew /tmp/tmp.RvTDU7Rwgg/hu.words.txt --test /tmp/tmp.RvTDU7Rwgg/hu.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/hu/hu.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/hu/allwords.txt of embeddings to keep
+W2V: 13231 words to keep
+W2V: loading word list /tmp/tmp.RvTDU7Rwgg/hu.words.txt of embeddings to keep
+W2V: 5978 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/hu/hu.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (10125 and 2373 kept)
+W2V: 400000 word vectors read (10933 and 2642 kept)
+W2V: 600000 word vectors read (11299 and 2780 kept)
+W2V: 800000 word vectors read (11454 and 2861 kept)
+W2V: 1000000 word vectors read (11595 and 2932 kept)
+W2V: 1200000 word vectors read (11704 and 2976 kept)
+W2V: 1400000 word vectors read (11785 and 3003 kept)
+W2V: 1600000 word vectors read (11835 and 3034 kept)
+W2V: 11842 word vectors loaded
+W2V: 3036 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.RvTDU7Rwgg/result1.conllu
+200 sentences with 3892 words parsed
+400 sentences with 8685 words parsed
+461 sentences with 10463 words parsed
+total parsing time: 00:00:12
+
+Processing language: id, start: 2017.05.09 20:39
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: id, start: 2017.05.09 20:39
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.FHeBnLKBk0/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/id/barchhybrid_proj-300-50.model_006 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/id/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/id/id.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/id/allwords.txt --extrnFilterNew /tmp/tmp.FHeBnLKBk0/id.words.txt --test /tmp/tmp.FHeBnLKBk0/id.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/id/id.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/id/allwords.txt of embeddings to keep
+W2V: 18659 words to keep
+W2V: loading word list /tmp/tmp.FHeBnLKBk0/id.words.txt of embeddings to keep
+W2V: 4025 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/id/id.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (15303 and 912 kept)
+W2V: 400000 word vectors read (16164 and 1013 kept)
+W2V: 600000 word vectors read (16528 and 1049 kept)
+W2V: 800000 word vectors read (16746 and 1068 kept)
+W2V: 1000000 word vectors read (16862 and 1082 kept)
+W2V: 1200000 word vectors read (16968 and 1093 kept)
+W2V: 1400000 word vectors read (17042 and 1102 kept)
+W2V: 17046 word vectors loaded
+W2V: 1103 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.FHeBnLKBk0/result1.conllu
+200 sentences with 4182 words parsed
+400 sentences with 8141 words parsed
+562 sentences with 11781 words parsed
+total parsing time: 00:00:13
+
+Processing language: it_pud, start: 2017.05.09 20:41
+Cleaning ...
+unknown language variation, using it
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: it, start: 2017.05.09 20:41
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.dX4oNvYnzc/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/it/barchhybrid_proj-500-None.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/it/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/it/it.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/it/allwords.txt --extrnFilterNew /tmp/tmp.dX4oNvYnzc/it.words.txt --test /tmp/tmp.dX4oNvYnzc/it_pud.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/it/it.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/it/allwords.txt of embeddings to keep
+W2V: 29540 words to keep
+W2V: loading word list /tmp/tmp.dX4oNvYnzc/it.words.txt of embeddings to keep
+W2V: 7213 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/it/it.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (25735 and 1472 kept)
+W2V: 400000 word vectors read (26896 and 1587 kept)
+W2V: 600000 word vectors read (27296 and 1619 kept)
+W2V: 800000 word vectors read (27525 and 1645 kept)
+W2V: 1000000 word vectors read (27633 and 1656 kept)
+W2V: 1200000 word vectors read (27713 and 1671 kept)
+W2V: 1400000 word vectors read (27771 and 1677 kept)
+W2V: 27798 word vectors loaded
+W2V: 1681 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.dX4oNvYnzc/result1.conllu
+200 sentences with 5064 words parsed
+400 sentences with 9203 words parsed
+600 sentences with 14366 words parsed
+800 sentences with 19008 words parsed
+1000 sentences with 23335 words parsed
+1017 sentences with 23806 words parsed
+total parsing time: 00:00:58
+
+Processing language: it, start: 2017.05.09 20:44
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: it, start: 2017.05.09 20:44
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.QA5abvKihf/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/it/barchhybrid_proj-500-None.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/it/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/it/it.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/it/allwords.txt --extrnFilterNew /tmp/tmp.QA5abvKihf/it.words.txt --test /tmp/tmp.QA5abvKihf/it.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/it/it.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/it/allwords.txt of embeddings to keep
+W2V: 29540 words to keep
+W2V: loading word list /tmp/tmp.QA5abvKihf/it.words.txt of embeddings to keep
+W2V: 4030 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/it/it.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (25735 and 462 kept)
+W2V: 400000 word vectors read (26896 and 492 kept)
+W2V: 600000 word vectors read (27296 and 507 kept)
+W2V: 800000 word vectors read (27525 and 514 kept)
+W2V: 1000000 word vectors read (27633 and 519 kept)
+W2V: 1200000 word vectors read (27713 and 521 kept)
+W2V: 1400000 word vectors read (27771 and 525 kept)
+W2V: 27798 word vectors loaded
+W2V: 526 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.QA5abvKihf/result1.conllu
+200 sentences with 4469 words parsed
+400 sentences with 8391 words parsed
+484 sentences with 10411 words parsed
+total parsing time: 00:00:24
+
+Processing language: ja_pud, start: 2017.05.09 20:47
+Cleaning ...
+unknown language variation, using ja
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: ja, start: 2017.05.09 20:47
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.yvruajPACd/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/ja/barchhybrid_None-500-None.model_015 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/ja/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/ja/ja.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/ja/allwords.txt --extrnFilterNew /tmp/tmp.yvruajPACd/ja.words.txt --test /tmp/tmp.yvruajPACd/ja_pud.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/ja/ja.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/ja/allwords.txt of embeddings to keep
+W2V: 24156 words to keep
+W2V: loading word list /tmp/tmp.yvruajPACd/ja.words.txt of embeddings to keep
+W2V: 4140 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/ja/ja.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (20398 and 777 kept)
+W2V: 400000 word vectors read (21417 and 856 kept)
+W2V: 600000 word vectors read (21817 and 908 kept)
+W2V: 800000 word vectors read (22027 and 943 kept)
+W2V: 1000000 word vectors read (22168 and 959 kept)
+W2V: 1200000 word vectors read (22271 and 968 kept)
+W2V: 1400000 word vectors read (22357 and 985 kept)
+W2V: 1600000 word vectors read (22416 and 1001 kept)
+W2V: 1800000 word vectors read (22471 and 1008 kept)
+W2V: 2000000 word vectors read (22513 and 1015 kept)
+W2V: 2200000 word vectors read (22548 and 1021 kept)
+W2V: 22555 word vectors loaded
+W2V: 1021 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.yvruajPACd/result1.conllu
+200 sentences with 5275 words parsed
+400 sentences with 9994 words parsed
+600 sentences with 15787 words parsed
+800 sentences with 21338 words parsed
+1000 sentences with 26120 words parsed
+1036 sentences with 27348 words parsed
+total parsing time: 00:00:59
+
+Processing language: ja, start: 2017.05.09 20:52
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: ja, start: 2017.05.09 20:52
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.StNAmtwvk1/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/ja/barchhybrid_None-500-None.model_015 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/ja/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/ja/ja.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/ja/allwords.txt --extrnFilterNew /tmp/tmp.StNAmtwvk1/ja.words.txt --test /tmp/tmp.StNAmtwvk1/ja.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/ja/ja.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/ja/allwords.txt of embeddings to keep
+W2V: 24156 words to keep
+W2V: loading word list /tmp/tmp.StNAmtwvk1/ja.words.txt of embeddings to keep
+W2V: 2992 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/ja/ja.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (20398 and 499 kept)
+W2V: 400000 word vectors read (21417 and 553 kept)
+W2V: 600000 word vectors read (21817 and 589 kept)
+W2V: 800000 word vectors read (22027 and 601 kept)
+W2V: 1000000 word vectors read (22168 and 611 kept)
+W2V: 1200000 word vectors read (22271 and 619 kept)
+W2V: 1400000 word vectors read (22357 and 623 kept)
+W2V: 1600000 word vectors read (22416 and 629 kept)
+W2V: 1800000 word vectors read (22471 and 632 kept)
+W2V: 2000000 word vectors read (22513 and 637 kept)
+W2V: 2200000 word vectors read (22548 and 641 kept)
+W2V: 22555 word vectors loaded
+W2V: 642 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.StNAmtwvk1/result1.conllu
+200 sentences with 4330 words parsed
+400 sentences with 9191 words parsed
+545 sentences with 12699 words parsed
+total parsing time: 00:00:27
+
+Processing language: kk, start: 2017.05.09 20:56
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: kk, start: 2017.05.09 20:56
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.KHl9IYI9JX/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/kk/barchhybrid_None-300-None.model_015 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/kk/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/kk/kk.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/kk/allwords.txt --extrnFilterNew /tmp/tmp.KHl9IYI9JX/kk.words.txt --test /tmp/tmp.KHl9IYI9JX/kk.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/kk/kk.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/kk/allwords.txt of embeddings to keep
+W2V: 431 words to keep
+W2V: loading word list /tmp/tmp.KHl9IYI9JX/kk.words.txt of embeddings to keep
+W2V: 5631 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/kk/kk.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 366 word vectors loaded
+W2V: 3969 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.KHl9IYI9JX/result1.conllu
+200 sentences with 1720 words parsed
+400 sentences with 3496 words parsed
+600 sentences with 5503 words parsed
+800 sentences with 7848 words parsed
+1000 sentences with 9647 words parsed
+1037 sentences with 10021 words parsed
+total parsing time: 00:00:18
+
+Processing language: kmr, start: 2017.05.09 20:57
+Cleaning ...
+replacing forms by CPOS for kmr
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: kmr, start: 2017.05.09 20:57
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.8sEK4wMp7M/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/kmr/barchybrid.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/kmr/params.pickle --test /tmp/tmp.8sEK4wMp7M/kmr.clean.test.empty.conll
+Using external embedding: None
+writing to /tmp/tmp.8sEK4wMp7M/result1.conllu
+200 sentences with 2820 words parsed
+400 sentences with 5434 words parsed
+600 sentences with 8080 words parsed
+742 sentences with 10027 words parsed
+total parsing time: 00:00:17
+
+Processing language: ko, start: 2017.05.09 20:57
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: ko, start: 2017.05.09 20:57
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.kCmJ8E0VlO/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/ko/barchhybrid_proj-300-50.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/ko/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/ko/ko.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/ko/allwords.txt --extrnFilterNew /tmp/tmp.kCmJ8E0VlO/ko.words.txt --test /tmp/tmp.kCmJ8E0VlO/ko.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/ko/ko.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/ko/allwords.txt of embeddings to keep
+W2V: 32403 words to keep
+W2V: loading word list /tmp/tmp.kCmJ8E0VlO/ko.words.txt of embeddings to keep
+W2V: 491 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/ko/ko.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (17415 and 31 kept)
+W2V: 400000 word vectors read (20033 and 38 kept)
+W2V: 600000 word vectors read (21370 and 43 kept)
+W2V: 800000 word vectors read (22169 and 46 kept)
+W2V: 22658 word vectors loaded
+W2V: 46 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.kCmJ8E0VlO/result1.conllu
+200 sentences with 2496 words parsed
+400 sentences with 4900 words parsed
+600 sentences with 7172 words parsed
+800 sentences with 9410 words parsed
+969 sentences with 10928 words parsed
+total parsing time: 00:00:15
+
+Processing language: la_ittb, start: 2017.05.09 20:58
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: la_ittb, start: 2017.05.09 20:58
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.S0NVl4UJdL/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/la_ittb/barchhybrid_proj-300-50.model_007 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/la_ittb/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/la_ittb/la_ittb.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/la_ittb/allwords.txt --extrnFilterNew /tmp/tmp.S0NVl4UJdL/la_ittb.words.txt --test /tmp/tmp.S0NVl4UJdL/la_ittb.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/la_ittb/la_ittb.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/la_ittb/allwords.txt of embeddings to keep
+W2V: 15079 words to keep
+W2V: loading word list /tmp/tmp.S0NVl4UJdL/la_ittb.words.txt of embeddings to keep
+W2V: 2096 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/la_ittb/la_ittb.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (12895 and 174 kept)
+W2V: 13715 word vectors loaded
+W2V: 193 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.S0NVl4UJdL/result1.conllu
+200 sentences with 2415 words parsed
+400 sentences with 5514 words parsed
+600 sentences with 8290 words parsed
+745 sentences with 10562 words parsed
+total parsing time: 00:00:21
+
+Processing language: la_proiel, start: 2017.05.09 20:59
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: la_proiel, start: 2017.05.09 20:59
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.6mGf6D4hlK/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/la_proiel/barchhybrid_proj-300-50.model_007 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/la_proiel/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/la_proiel/la_proiel.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/la_proiel/allwords.txt --extrnFilterNew /tmp/tmp.6mGf6D4hlK/la_proiel.words.txt --test /tmp/tmp.6mGf6D4hlK/la_proiel.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/la_proiel/la_proiel.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/la_proiel/allwords.txt of embeddings to keep
+W2V: 26737 words to keep
+W2V: loading word list /tmp/tmp.6mGf6D4hlK/la_proiel.words.txt of embeddings to keep
+W2V: 5741 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/la_proiel/la_proiel.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (22477 and 874 kept)
+W2V: 24316 word vectors loaded
+W2V: 1020 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.6mGf6D4hlK/result1.conllu
+200 sentences with 3034 words parsed
+400 sentences with 6049 words parsed
+591 sentences with 12152 words parsed
+total parsing time: 00:00:24
+
+Processing language: la, start: 2017.05.09 21:01
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: la, start: 2017.05.09 21:01
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.FKfltJipvf/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/la/barchhybrid_proj-300-50.model_012 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/la/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/la/la.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/la/allwords.txt --extrnFilterNew /tmp/tmp.FKfltJipvf/la.words.txt --test /tmp/tmp.FKfltJipvf/la.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/la/la.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/la/allwords.txt of embeddings to keep
+W2V: 10301 words to keep
+W2V: loading word list /tmp/tmp.FKfltJipvf/la.words.txt of embeddings to keep
+W2V: 8230 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/la/la.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (7255 and 2978 kept)
+W2V: 7560 word vectors loaded
+W2V: 3226 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.FKfltJipvf/result1.conllu
+200 sentences with 2615 words parsed
+400 sentences with 5160 words parsed
+600 sentences with 7073 words parsed
+800 sentences with 9414 words parsed
+941 sentences with 10953 words parsed
+total parsing time: 00:00:23
+
+Processing language: lv, start: 2017.05.09 21:01
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: lv, start: 2017.05.09 21:01
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.rJAJSSPO8S/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/lv/barchhybrid_proj-300-50.model_015 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/lv/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/lv/lv.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/lv/allwords.txt --extrnFilterNew /tmp/tmp.rJAJSSPO8S/lv.words.txt --test /tmp/tmp.rJAJSSPO8S/lv.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/lv/lv.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/lv/allwords.txt of embeddings to keep
+W2V: 15560 words to keep
+W2V: loading word list /tmp/tmp.rJAJSSPO8S/lv.words.txt of embeddings to keep
+W2V: 5370 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/lv/lv.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (13175 and 1857 kept)
+W2V: 13885 word vectors loaded
+W2V: 2031 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.rJAJSSPO8S/result1.conllu
+200 sentences with 1707 words parsed
+400 sentences with 3474 words parsed
+600 sentences with 5258 words parsed
+800 sentences with 8333 words parsed
+920 sentences with 10530 words parsed
+total parsing time: 00:00:16
+
+Processing language: nl_lassysmall, start: 2017.05.09 21:02
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: nl_lassysmall, start: 2017.05.09 21:02
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.4lxQFSU7gx/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/nl_lassysmall/barchhybrid_proj-500-None.model_008 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/nl_lassysmall/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/nl_lassysmall/nl_lassysmall.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/nl_lassysmall/allwords.txt --extrnFilterNew /tmp/tmp.4lxQFSU7gx/nl_lassysmall.words.txt --test /tmp/tmp.4lxQFSU7gx/nl_lassysmall.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/nl_lassysmall/nl_lassysmall.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/nl_lassysmall/allwords.txt of embeddings to keep
+W2V: 16747 words to keep
+W2V: loading word list /tmp/tmp.4lxQFSU7gx/nl_lassysmall.words.txt of embeddings to keep
+W2V: 4002 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/nl_lassysmall/nl_lassysmall.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (12910 and 459 kept)
+W2V: 400000 word vectors read (13866 and 507 kept)
+W2V: 600000 word vectors read (14299 and 527 kept)
+W2V: 800000 word vectors read (14537 and 542 kept)
+W2V: 1000000 word vectors read (14684 and 554 kept)
+W2V: 1200000 word vectors read (14808 and 557 kept)
+W2V: 1400000 word vectors read (14885 and 561 kept)
+W2V: 14913 word vectors loaded
+W2V: 562 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.4lxQFSU7gx/result1.conllu
+200 sentences with 2647 words parsed
+400 sentences with 5345 words parsed
+600 sentences with 7992 words parsed
+767 sentences with 10083 words parsed
+total parsing time: 00:00:25
+
+Processing language: nl, start: 2017.05.09 21:05
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: nl, start: 2017.05.09 21:05
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.N7BYfxkhBx/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/nl/barchhybrid_proj-500-None.model_007 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/nl/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/nl/nl.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/nl/allwords.txt --extrnFilterNew /tmp/tmp.N7BYfxkhBx/nl.words.txt --test /tmp/tmp.N7BYfxkhBx/nl.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/nl/nl.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/nl/allwords.txt of embeddings to keep
+W2V: 29717 words to keep
+W2V: loading word list /tmp/tmp.N7BYfxkhBx/nl.words.txt of embeddings to keep
+W2V: 3610 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/nl/nl.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (22322 and 748 kept)
+W2V: 400000 word vectors read (23991 and 833 kept)
+W2V: 600000 word vectors read (24720 and 875 kept)
+W2V: 800000 word vectors read (25118 and 895 kept)
+W2V: 1000000 word vectors read (25379 and 912 kept)
+W2V: 1200000 word vectors read (25562 and 928 kept)
+W2V: 1400000 word vectors read (25707 and 935 kept)
+W2V: 25754 word vectors loaded
+W2V: 939 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.N7BYfxkhBx/result1.conllu
+200 sentences with 3678 words parsed
+400 sentences with 7373 words parsed
+588 sentences with 11490 words parsed
+total parsing time: 00:00:29
+
+Processing language: no_bokmaal, start: 2017.05.09 21:08
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: no_bokmaal, start: 2017.05.09 21:08
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.wycZMS2aCj/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/no_bokmaal/barchhybrid_proj-300-50.model_006 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/no_bokmaal/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/no_bokmaal/no.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/no_bokmaal/allwords.txt --extrnFilterNew /tmp/tmp.wycZMS2aCj/no_bokmaal.words.txt --test /tmp/tmp.wycZMS2aCj/no_bokmaal.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/no_bokmaal/no.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/no_bokmaal/allwords.txt of embeddings to keep
+W2V: 36509 words to keep
+W2V: loading word list /tmp/tmp.wycZMS2aCj/no_bokmaal.words.txt of embeddings to keep
+W2V: 7947 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/no_bokmaal/no.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (26475 and 1437 kept)
+W2V: 400000 word vectors read (29017 and 1680 kept)
+W2V: 600000 word vectors read (30148 and 1778 kept)
+W2V: 30655 word vectors loaded
+W2V: 1827 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.wycZMS2aCj/result1.conllu
+200 sentences with 3068 words parsed
+400 sentences with 6058 words parsed
+600 sentences with 9290 words parsed
+800 sentences with 12606 words parsed
+1000 sentences with 15798 words parsed
+1200 sentences with 18235 words parsed
+1400 sentences with 20606 words parsed
+1600 sentences with 23889 words parsed
+1800 sentences with 27850 words parsed
+1931 sentences with 29962 words parsed
+total parsing time: 00:00:50
+
+Processing language: no_nynorsk, start: 2017.05.09 21:10
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: no_nynorsk, start: 2017.05.09 21:10
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.bXZWh10T0C/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/no_nynorsk/barchhybrid_proj-300-50.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/no_nynorsk/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/no_nynorsk/ny.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/no_nynorsk/allwords.txt --extrnFilterNew /tmp/tmp.bXZWh10T0C/no_nynorsk.words.txt --test /tmp/tmp.bXZWh10T0C/no_nynorsk.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/no_nynorsk/ny.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/no_nynorsk/allwords.txt of embeddings to keep
+W2V: 35482 words to keep
+W2V: loading word list /tmp/tmp.bXZWh10T0C/no_nynorsk.words.txt of embeddings to keep
+W2V: 7268 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/no_nynorsk/ny.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 21726 word vectors loaded
+W2V: 979 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.bXZWh10T0C/result1.conllu
+200 sentences with 2892 words parsed
+400 sentences with 6267 words parsed
+600 sentences with 9258 words parsed
+800 sentences with 12593 words parsed
+1000 sentences with 16138 words parsed
+1200 sentences with 20323 words parsed
+1400 sentences with 23904 words parsed
+1453 sentences with 24777 words parsed
+total parsing time: 00:00:41
+
+Processing language: pl, start: 2017.05.09 21:11
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: pl, start: 2017.05.09 21:11
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.foD02ZgaF4/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/pl/barchhybrid_proj-500-40.model_009 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/pl/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/pl/pl.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/pl/allwords.txt --extrnFilterNew /tmp/tmp.foD02ZgaF4/pl.words.txt --test /tmp/tmp.foD02ZgaF4/pl.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/pl/pl.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/pl/allwords.txt of embeddings to keep
+W2V: 28599 words to keep
+W2V: loading word list /tmp/tmp.foD02ZgaF4/pl.words.txt of embeddings to keep
+W2V: 7032 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/pl/pl.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (23733 and 1891 kept)
+W2V: 400000 word vectors read (25918 and 2237 kept)
+W2V: 600000 word vectors read (26670 and 2364 kept)
+W2V: 800000 word vectors read (27062 and 2425 kept)
+W2V: 1000000 word vectors read (27299 and 2459 kept)
+W2V: 1200000 word vectors read (27450 and 2477 kept)
+W2V: 1400000 word vectors read (27564 and 2490 kept)
+W2V: 1600000 word vectors read (27625 and 2507 kept)
+W2V: 1800000 word vectors read (27685 and 2513 kept)
+W2V: 2000000 word vectors read (27726 and 2522 kept)
+W2V: 2200000 word vectors read (27760 and 2531 kept)
+W2V: 27781 word vectors loaded
+W2V: 2536 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.foD02ZgaF4/result1.conllu
+200 sentences with 1830 words parsed
+400 sentences with 3926 words parsed
+600 sentences with 6105 words parsed
+800 sentences with 7997 words parsed
+1000 sentences with 9895 words parsed
+1100 sentences with 10811 words parsed
+total parsing time: 00:00:15
+
+Processing language: pt_br, start: 2017.05.09 21:15
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: pt_br, start: 2017.05.09 21:15
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.5oLdJN3caE/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/pt_br/barchhybrid_proj-500-None.model_006 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/pt_br/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/pt_br/pt_br.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/pt_br/allwords.txt --extrnFilterNew /tmp/tmp.5oLdJN3caE/pt_br.words.txt --test /tmp/tmp.5oLdJN3caE/pt_br.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/pt_br/pt_br.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/pt_br/allwords.txt of embeddings to keep
+W2V: 28971 words to keep
+W2V: loading word list /tmp/tmp.5oLdJN3caE/pt_br.words.txt of embeddings to keep
+W2V: 7669 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/pt_br/pt_br.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (24998 and 1382 kept)
+W2V: 400000 word vectors read (25886 and 1473 kept)
+W2V: 600000 word vectors read (26206 and 1511 kept)
+W2V: 800000 word vectors read (26392 and 1533 kept)
+W2V: 1000000 word vectors read (26494 and 1544 kept)
+W2V: 1200000 word vectors read (26586 and 1558 kept)
+W2V: 26641 word vectors loaded
+W2V: 1565 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.5oLdJN3caE/result1.conllu
+200 sentences with 5324 words parsed
+400 sentences with 10209 words parsed
+600 sentences with 15509 words parsed
+800 sentences with 21138 words parsed
+1000 sentences with 26347 words parsed
+1200 sentences with 31520 words parsed
+1200 sentences with 31520 words parsed
+total parsing time: 00:01:12
+
+Processing language: pt_pud, start: 2017.05.09 21:19
+Cleaning ...
+unknown language variation, using pt
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: pt, start: 2017.05.09 21:19
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.wzaZ9DXxM4/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/pt/barchhybrid_proj-300-50.model_010 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/pt/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/pt/pt.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/pt/allwords.txt --extrnFilterNew /tmp/tmp.wzaZ9DXxM4/pt.words.txt --test /tmp/tmp.wzaZ9DXxM4/pt_pud.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/pt/pt.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/pt/allwords.txt of embeddings to keep
+W2V: 27436 words to keep
+W2V: loading word list /tmp/tmp.wzaZ9DXxM4/pt.words.txt of embeddings to keep
+W2V: 6933 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/pt/pt.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (23653 and 1686 kept)
+W2V: 400000 word vectors read (24657 and 1805 kept)
+W2V: 600000 word vectors read (25052 and 1841 kept)
+W2V: 800000 word vectors read (25256 and 1874 kept)
+W2V: 1000000 word vectors read (25396 and 1894 kept)
+W2V: 1200000 word vectors read (25490 and 1905 kept)
+W2V: 25549 word vectors loaded
+W2V: 1917 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.wzaZ9DXxM4/result1.conllu
+200 sentences with 4767 words parsed
+400 sentences with 8794 words parsed
+600 sentences with 13758 words parsed
+800 sentences with 18381 words parsed
+1000 sentences with 22668 words parsed
+1022 sentences with 23315 words parsed
+total parsing time: 00:00:41
+
+Processing language: pt, start: 2017.05.09 21:21
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: pt, start: 2017.05.09 21:21
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.q6RpW2Wi3o/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/pt/barchhybrid_proj-300-50.model_010 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/pt/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/pt/pt.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/pt/allwords.txt --extrnFilterNew /tmp/tmp.q6RpW2Wi3o/pt.words.txt --test /tmp/tmp.q6RpW2Wi3o/pt.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/pt/pt.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/pt/allwords.txt of embeddings to keep
+W2V: 27436 words to keep
+W2V: loading word list /tmp/tmp.q6RpW2Wi3o/pt.words.txt of embeddings to keep
+W2V: 3761 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/pt/pt.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (23653 and 557 kept)
+W2V: 400000 word vectors read (24657 and 608 kept)
+W2V: 600000 word vectors read (25052 and 626 kept)
+W2V: 800000 word vectors read (25256 and 639 kept)
+W2V: 1000000 word vectors read (25396 and 650 kept)
+W2V: 1200000 word vectors read (25490 and 656 kept)
+W2V: 25549 word vectors loaded
+W2V: 659 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.q6RpW2Wi3o/result1.conllu
+200 sentences with 4875 words parsed
+400 sentences with 8774 words parsed
+463 sentences with 10211 words parsed
+total parsing time: 00:00:17
+
+Processing language: ro, start: 2017.05.09 21:23
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: ro, start: 2017.05.09 21:23
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.g2GEGer5tf/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/ro/barchhybrid_proj-300-50.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/ro/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/ro/ro.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/ro/allwords.txt --extrnFilterNew /tmp/tmp.g2GEGer5tf/ro.words.txt --test /tmp/tmp.g2GEGer5tf/ro.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/ro/ro.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/ro/allwords.txt of embeddings to keep
+W2V: 35062 words to keep
+W2V: loading word list /tmp/tmp.g2GEGer5tf/ro.words.txt of embeddings to keep
+W2V: 7278 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/ro/ro.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (28124 and 1035 kept)
+W2V: 400000 word vectors read (30704 and 1204 kept)
+W2V: 600000 word vectors read (31569 and 1275 kept)
+W2V: 800000 word vectors read (31993 and 1315 kept)
+W2V: 1000000 word vectors read (32267 and 1334 kept)
+W2V: 32337 word vectors loaded
+W2V: 1344 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.g2GEGer5tf/result1.conllu
+200 sentences with 4988 words parsed
+400 sentences with 8744 words parsed
+600 sentences with 13057 words parsed
+731 sentences with 16328 words parsed
+total parsing time: 00:00:26
+
+Processing language: ru_pud, start: 2017.05.09 21:25
+Cleaning ...
+unknown language variation, using ru
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: ru, start: 2017.05.09 21:25
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.n6sUYmRs69/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/ru/barchhybrid_proj-300-50.model_010 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/ru/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/ru/ru.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/ru/allwords.txt --extrnFilterNew /tmp/tmp.n6sUYmRs69/ru.words.txt --test /tmp/tmp.n6sUYmRs69/ru_pud.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/ru/ru.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/ru/allwords.txt of embeddings to keep
+W2V: 35157 words to keep
+W2V: loading word list /tmp/tmp.n6sUYmRs69/ru.words.txt of embeddings to keep
+W2V: 9128 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/ru/ru.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (26266 and 3012 kept)
+W2V: 400000 word vectors read (29003 and 3357 kept)
+W2V: 600000 word vectors read (30200 and 3497 kept)
+W2V: 800000 word vectors read (30850 and 3559 kept)
+W2V: 1000000 word vectors read (31311 and 3617 kept)
+W2V: 1200000 word vectors read (31642 and 3658 kept)
+W2V: 1400000 word vectors read (31898 and 3690 kept)
+W2V: 1600000 word vectors read (32084 and 3719 kept)
+W2V: 1800000 word vectors read (32244 and 3745 kept)
+W2V: 2000000 word vectors read (32365 and 3757 kept)
+W2V: 32448 word vectors loaded
+W2V: 3762 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.n6sUYmRs69/result1.conllu
+200 sentences with 4142 words parsed
+400 sentences with 7672 words parsed
+600 sentences with 11557 words parsed
+800 sentences with 15323 words parsed
+1000 sentences with 18984 words parsed
+1005 sentences with 19084 words parsed
+total parsing time: 00:00:31
+
+Processing language: ru_syntagrus, start: 2017.05.09 21:28
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: ru_syntagrus, start: 2017.05.09 21:28
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.CSR16IGm1s/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/ru_syntagrus/barchhybrid_proj-300-50.model_005 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/ru_syntagrus/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/ru_syntagrus/ru_syntagrus.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/ru_syntagrus/allwords.txt --extrnFilterNew /tmp/tmp.CSR16IGm1s/ru_syntagrus.words.txt --test /tmp/tmp.CSR16IGm1s/ru_syntagrus.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/ru_syntagrus/ru_syntagrus.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/ru_syntagrus/allwords.txt of embeddings to keep
+W2V: 124311 words to keep
+W2V: loading word list /tmp/tmp.CSR16IGm1s/ru_syntagrus.words.txt of embeddings to keep
+W2V: 34689 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/ru_syntagrus/ru_syntagrus.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (78351 and 3966 kept)
+W2V: 400000 word vectors read (95628 and 5679 kept)
+W2V: 600000 word vectors read (103277 and 6466 kept)
+W2V: 800000 word vectors read (107307 and 6898 kept)
+W2V: 1000000 word vectors read (109918 and 7188 kept)
+W2V: 1200000 word vectors read (111747 and 7410 kept)
+W2V: 1400000 word vectors read (113089 and 7573 kept)
+W2V: 1600000 word vectors read (114138 and 7687 kept)
+W2V: 1800000 word vectors read (114918 and 7770 kept)
+W2V: 2000000 word vectors read (115522 and 7859 kept)
+W2V: 115860 word vectors loaded
+W2V: 7888 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.CSR16IGm1s/result1.conllu
+200 sentences with 3540 words parsed
+400 sentences with 7213 words parsed
+600 sentences with 10023 words parsed
+800 sentences with 13360 words parsed
+1000 sentences with 16707 words parsed
+1200 sentences with 19651 words parsed
+1400 sentences with 22891 words parsed
+1600 sentences with 26173 words parsed
+1800 sentences with 29882 words parsed
+2000 sentences with 33103 words parsed
+2200 sentences with 37067 words parsed
+2400 sentences with 40736 words parsed
+2600 sentences with 45502 words parsed
+2800 sentences with 49300 words parsed
+3000 sentences with 53981 words parsed
+3200 sentences with 57815 words parsed
+3400 sentences with 61411 words parsed
+3600 sentences with 65094 words parsed
+3800 sentences with 67589 words parsed
+4000 sentences with 71147 words parsed
+4200 sentences with 75221 words parsed
+4400 sentences with 78917 words parsed
+4600 sentences with 83531 words parsed
+4800 sentences with 87281 words parsed
+5000 sentences with 90978 words parsed
+5200 sentences with 94556 words parsed
+5400 sentences with 97779 words parsed
+5600 sentences with 101298 words parsed
+5800 sentences with 105179 words parsed
+6000 sentences with 108616 words parsed
+6200 sentences with 111336 words parsed
+6400 sentences with 115186 words parsed
+6518 sentences with 117346 words parsed
+total parsing time: 00:03:17
+
+Processing language: ru, start: 2017.05.09 21:35
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: ru, start: 2017.05.09 21:35
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.ZtNwAZYc4C/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/ru/barchhybrid_proj-300-50.model_010 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/ru/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/ru/ru.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/ru/allwords.txt --extrnFilterNew /tmp/tmp.ZtNwAZYc4C/ru.words.txt --test /tmp/tmp.ZtNwAZYc4C/ru.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/ru/ru.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/ru/allwords.txt of embeddings to keep
+W2V: 35157 words to keep
+W2V: loading word list /tmp/tmp.ZtNwAZYc4C/ru.words.txt of embeddings to keep
+W2V: 6658 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/ru/ru.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (26266 and 1725 kept)
+W2V: 400000 word vectors read (29003 and 1972 kept)
+W2V: 600000 word vectors read (30200 and 2101 kept)
+W2V: 800000 word vectors read (30850 and 2156 kept)
+W2V: 1000000 word vectors read (31311 and 2197 kept)
+W2V: 1200000 word vectors read (31642 and 2220 kept)
+W2V: 1400000 word vectors read (31898 and 2244 kept)
+W2V: 1600000 word vectors read (32084 and 2261 kept)
+W2V: 1800000 word vectors read (32244 and 2276 kept)
+W2V: 2000000 word vectors read (32365 and 2299 kept)
+W2V: 32448 word vectors loaded
+W2V: 2303 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.ZtNwAZYc4C/result1.conllu
+200 sentences with 3812 words parsed
+400 sentences with 7311 words parsed
+600 sentences with 11547 words parsed
+600 sentences with 11547 words parsed
+total parsing time: 00:00:17
+
+Processing language: sk, start: 2017.05.09 21:39
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: sk, start: 2017.05.09 21:39
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.wI5WgmttEZ/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/sk/barchhybrid_proj-500-40.model_014 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/sk/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/sk/sk.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/sk/allwords.txt --extrnFilterNew /tmp/tmp.wI5WgmttEZ/sk.words.txt --test /tmp/tmp.wI5WgmttEZ/sk.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/sk/sk.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/sk/allwords.txt of embeddings to keep
+W2V: 29068 words to keep
+W2V: loading word list /tmp/tmp.wI5WgmttEZ/sk.words.txt of embeddings to keep
+W2V: 8147 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/sk/sk.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (21898 and 2857 kept)
+W2V: 400000 word vectors read (24546 and 3175 kept)
+W2V: 600000 word vectors read (25620 and 3315 kept)
+W2V: 26095 word vectors loaded
+W2V: 3372 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.wI5WgmttEZ/result1.conllu
+200 sentences with 2543 words parsed
+400 sentences with 4963 words parsed
+600 sentences with 7214 words parsed
+800 sentences with 9691 words parsed
+1000 sentences with 12076 words parsed
+1082 sentences with 13028 words parsed
+total parsing time: 00:00:19
+
+Processing language: sl_sst, start: 2017.05.09 21:40
+Cleaning ...
+unknown language variation, using sl
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: sl, start: 2017.05.09 21:40
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.vfd1dDBJ4M/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/sl/barchhybrid_proj-300-50.model_014 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/sl/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/sl/sl.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/sl/allwords.txt --extrnFilterNew /tmp/tmp.vfd1dDBJ4M/sl.words.txt --test /tmp/tmp.vfd1dDBJ4M/sl_sst.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/sl/sl.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/sl/allwords.txt of embeddings to keep
+W2V: 37250 words to keep
+W2V: loading word list /tmp/tmp.vfd1dDBJ4M/sl.words.txt of embeddings to keep
+W2V: 3965 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/sl/sl.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (30647 and 929 kept)
+W2V: 400000 word vectors read (33232 and 1050 kept)
+W2V: 33566 word vectors loaded
+W2V: 1068 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.vfd1dDBJ4M/result1.conllu
+200 sentences with 2792 words parsed
+400 sentences with 5443 words parsed
+600 sentences with 8255 words parsed
+707 sentences with 10012 words parsed
+total parsing time: 00:00:15
+
+Processing language: sl, start: 2017.05.09 21:42
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: sl, start: 2017.05.09 21:42
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.99j2uX9MlG/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/sl/barchhybrid_proj-300-50.model_014 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/sl/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/sl/sl.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/sl/allwords.txt --extrnFilterNew /tmp/tmp.99j2uX9MlG/sl.words.txt --test /tmp/tmp.99j2uX9MlG/sl.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/sl/sl.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/sl/allwords.txt of embeddings to keep
+W2V: 37250 words to keep
+W2V: loading word list /tmp/tmp.99j2uX9MlG/sl.words.txt of embeddings to keep
+W2V: 7990 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/sl/sl.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (30647 and 2000 kept)
+W2V: 400000 word vectors read (33232 and 2282 kept)
+W2V: 33566 word vectors loaded
+W2V: 2321 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.99j2uX9MlG/result1.conllu
+200 sentences with 3901 words parsed
+400 sentences with 6905 words parsed
+600 sentences with 10664 words parsed
+788 sentences with 14077 words parsed
+total parsing time: 00:00:21
+
+Processing language: sme, start: 2017.05.09 21:43
+Cleaning ...
+replacing forms by CPOS for sme
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: sme, start: 2017.05.09 21:43
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.YWuuCZAC9y/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/sme/barchybrid.model_009 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/sme/params.pickle --test /tmp/tmp.YWuuCZAC9y/sme.clean.test.empty.conll
+Using external embedding: None
+writing to /tmp/tmp.YWuuCZAC9y/result1.conllu
+200 sentences with 2813 words parsed
+400 sentences with 5172 words parsed
+600 sentences with 7640 words parsed
+800 sentences with 9362 words parsed
+870 sentences with 10013 words parsed
+total parsing time: 00:00:19
+
+Processing language: sv_lines, start: 2017.05.09 21:43
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: sv_lines, start: 2017.05.09 21:43
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.FuxleqsrJb/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/sv_lines/barchhybrid_proj-300-50.model_008 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/sv_lines/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/sv_lines/sv_lines.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/sv_lines/allwords.txt --extrnFilterNew /tmp/tmp.FuxleqsrJb/sv_lines.words.txt --test /tmp/tmp.FuxleqsrJb/sv_lines.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/sv_lines/sv_lines.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/sv_lines/allwords.txt of embeddings to keep
+W2V: 11323 words to keep
+W2V: loading word list /tmp/tmp.FuxleqsrJb/sv_lines.words.txt of embeddings to keep
+W2V: 3943 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/sv_lines/sv_lines.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (9208 and 1195 kept)
+W2V: 400000 word vectors read (9793 and 1327 kept)
+W2V: 600000 word vectors read (10037 and 1375 kept)
+W2V: 800000 word vectors read (10180 and 1410 kept)
+W2V: 1000000 word vectors read (10285 and 1432 kept)
+W2V: 1200000 word vectors read (10361 and 1453 kept)
+W2V: 1400000 word vectors read (10414 and 1461 kept)
+W2V: 1600000 word vectors read (10448 and 1469 kept)
+W2V: 10463 word vectors loaded
+W2V: 1471 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.FuxleqsrJb/result1.conllu
+200 sentences with 3219 words parsed
+400 sentences with 6500 words parsed
+600 sentences with 9807 words parsed
+800 sentences with 13355 words parsed
+907 sentences with 15031 words parsed
+total parsing time: 00:00:24
+
+Processing language: sv_pud, start: 2017.05.09 21:46
+Cleaning ...
+unknown language variation, using sv
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: sv, start: 2017.05.09 21:46
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.RZ2dAAsDDa/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/sv/barchhybrid_None-500-None.model_007 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/sv/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/sv/sv.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/sv/allwords.txt --extrnFilterNew /tmp/tmp.RZ2dAAsDDa/sv.words.txt --test /tmp/tmp.RZ2dAAsDDa/sv_pud.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/sv/sv.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/sv/allwords.txt of embeddings to keep
+W2V: 16049 words to keep
+W2V: loading word list /tmp/tmp.RZ2dAAsDDa/sv.words.txt of embeddings to keep
+W2V: 8326 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/sv/sv.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (11713 and 3523 kept)
+W2V: 400000 word vectors read (12619 and 3856 kept)
+W2V: 600000 word vectors read (13046 and 4014 kept)
+W2V: 800000 word vectors read (13324 and 4102 kept)
+W2V: 1000000 word vectors read (13509 and 4164 kept)
+W2V: 1200000 word vectors read (13649 and 4221 kept)
+W2V: 1400000 word vectors read (13749 and 4260 kept)
+W2V: 1600000 word vectors read (13836 and 4287 kept)
+W2V: 13858 word vectors loaded
+W2V: 4299 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.RZ2dAAsDDa/result1.conllu
+200 sentences with 3830 words parsed
+400 sentences with 7201 words parsed
+600 sentences with 10862 words parsed
+800 sentences with 14580 words parsed
+1000 sentences with 17771 words parsed
+1051 sentences with 18903 words parsed
+total parsing time: 00:00:41
+
+Processing language: sv, start: 2017.05.09 21:49
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: sv, start: 2017.05.09 21:49
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.7uFReSXOq4/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/sv/barchhybrid_None-500-None.model_007 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/sv/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/sv/sv.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/sv/allwords.txt --extrnFilterNew /tmp/tmp.7uFReSXOq4/sv.words.txt --test /tmp/tmp.7uFReSXOq4/sv.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/sv/sv.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/sv/allwords.txt of embeddings to keep
+W2V: 16049 words to keep
+W2V: loading word list /tmp/tmp.7uFReSXOq4/sv.words.txt of embeddings to keep
+W2V: 6208 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/sv/sv.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (11713 and 1648 kept)
+W2V: 400000 word vectors read (12619 and 1855 kept)
+W2V: 600000 word vectors read (13046 and 1963 kept)
+W2V: 800000 word vectors read (13324 and 2027 kept)
+W2V: 1000000 word vectors read (13509 and 2082 kept)
+W2V: 1200000 word vectors read (13649 and 2126 kept)
+W2V: 1400000 word vectors read (13749 and 2158 kept)
+W2V: 1600000 word vectors read (13836 and 2181 kept)
+W2V: 13858 word vectors loaded
+W2V: 2187 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.7uFReSXOq4/result1.conllu
+200 sentences with 3080 words parsed
+400 sentences with 6427 words parsed
+600 sentences with 9806 words parsed
+800 sentences with 13041 words parsed
+1000 sentences with 15911 words parsed
+1200 sentences with 20231 words parsed
+1207 sentences with 20371 words parsed
+total parsing time: 00:00:44
+
+Processing language: tr_pud, start: 2017.05.09 21:52
+Cleaning ...
+unknown language variation, using tr
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: tr, start: 2017.05.09 21:52
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.meFF9Yjhjx/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/tr/barchhybrid_proj-300-50.model_007 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/tr/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/tr/tr.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/tr/allwords.txt --extrnFilterNew /tmp/tmp.meFF9Yjhjx/tr.words.txt --test /tmp/tmp.meFF9Yjhjx/tr_pud.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/tr/tr.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/tr/allwords.txt of embeddings to keep
+W2V: 16847 words to keep
+W2V: loading word list /tmp/tmp.meFF9Yjhjx/tr.words.txt of embeddings to keep
+W2V: 9302 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/tr/tr.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (13794 and 4058 kept)
+W2V: 400000 word vectors read (14937 and 4499 kept)
+W2V: 600000 word vectors read (15399 and 4697 kept)
+W2V: 800000 word vectors read (15624 and 4819 kept)
+W2V: 1000000 word vectors read (15782 and 4904 kept)
+W2V: 1200000 word vectors read (15884 and 4961 kept)
+W2V: 1400000 word vectors read (15980 and 5005 kept)
+W2V: 1600000 word vectors read (16045 and 5043 kept)
+W2V: 1800000 word vectors read (16102 and 5072 kept)
+W2V: 2000000 word vectors read (16153 and 5090 kept)
+W2V: 2200000 word vectors read (16180 and 5117 kept)
+W2V: 16181 word vectors loaded
+W2V: 5117 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.meFF9Yjhjx/result1.conllu
+200 sentences with 3536 words parsed
+400 sentences with 6545 words parsed
+600 sentences with 9952 words parsed
+800 sentences with 13329 words parsed
+1000 sentences with 16373 words parsed
+1036 sentences with 17038 words parsed
+total parsing time: 00:00:27
+
+Processing language: tr, start: 2017.05.09 21:55
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: tr, start: 2017.05.09 21:55
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.c6oONUd1M1/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/tr/barchhybrid_proj-300-50.model_007 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/tr/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/tr/tr.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/tr/allwords.txt --extrnFilterNew /tmp/tmp.c6oONUd1M1/tr.words.txt --test /tmp/tmp.c6oONUd1M1/tr.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/tr/tr.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/tr/allwords.txt of embeddings to keep
+W2V: 16847 words to keep
+W2V: loading word list /tmp/tmp.c6oONUd1M1/tr.words.txt of embeddings to keep
+W2V: 5975 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/tr/tr.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (13794 and 1723 kept)
+W2V: 400000 word vectors read (14937 and 1943 kept)
+W2V: 600000 word vectors read (15399 and 2061 kept)
+W2V: 800000 word vectors read (15624 and 2121 kept)
+W2V: 1000000 word vectors read (15782 and 2167 kept)
+W2V: 1200000 word vectors read (15884 and 2189 kept)
+W2V: 1400000 word vectors read (15980 and 2213 kept)
+W2V: 1600000 word vectors read (16045 and 2233 kept)
+W2V: 1800000 word vectors read (16102 and 2251 kept)
+W2V: 2000000 word vectors read (16153 and 2255 kept)
+W2V: 2200000 word vectors read (16180 and 2266 kept)
+W2V: 16181 word vectors loaded
+W2V: 2266 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.c6oONUd1M1/result1.conllu
+200 sentences with 2022 words parsed
+400 sentences with 4107 words parsed
+600 sentences with 6222 words parsed
+800 sentences with 8216 words parsed
+983 sentences with 9929 words parsed
+total parsing time: 00:00:15
+
+Processing language: ug, start: 2017.05.09 21:58
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: ug, start: 2017.05.09 21:58
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.UsayF00GxV/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/ug/barchhybrid_proj-500-40.model_011 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/ug/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/ug/ug.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/ug/allwords.txt --extrnFilterNew /tmp/tmp.UsayF00GxV/ug.words.txt --test /tmp/tmp.UsayF00GxV/ug.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/ug/ug.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/ug/allwords.txt of embeddings to keep
+W2V: 973 words to keep
+W2V: loading word list /tmp/tmp.UsayF00GxV/ug.words.txt of embeddings to keep
+W2V: 4169 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/ug/ug.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 548 word vectors loaded
+W2V: 1728 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.UsayF00GxV/result1.conllu
+200 sentences with 2509 words parsed
+400 sentences with 4727 words parsed
+600 sentences with 6876 words parsed
+800 sentences with 9368 words parsed
+853 sentences with 10227 words parsed
+total parsing time: 00:00:13
+
+Processing language: uk, start: 2017.05.09 21:58
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: uk, start: 2017.05.09 21:58
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.Kux6dBaSUx/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/uk/barchhybrid_proj-300-50.model_013 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/uk/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/uk/uk.300-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/uk/allwords.txt --extrnFilterNew /tmp/tmp.Kux6dBaSUx/uk.words.txt --test /tmp/tmp.Kux6dBaSUx/uk.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/uk/uk.300-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/uk/allwords.txt of embeddings to keep
+W2V: 7552 words to keep
+W2V: loading word list /tmp/tmp.Kux6dBaSUx/uk.words.txt of embeddings to keep
+W2V: 7770 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/uk/uk.300-dim.10-win.cbow.bin
+W2V: 300 dimensions
+W2V: 200000 word vectors read (6010 and 3702 kept)
+W2V: 400000 word vectors read (6540 and 4216 kept)
+W2V: 600000 word vectors read (6744 and 4423 kept)
+W2V: 6813 word vectors loaded
+W2V: 4498 word vectors loaded
+Loaded external embeddings. Vector of 300 dimensions
+writing to /tmp/tmp.Kux6dBaSUx/result1.conllu
+200 sentences with 3393 words parsed
+400 sentences with 6235 words parsed
+600 sentences with 8790 words parsed
+800 sentences with 11746 words parsed
+885 sentences with 12941 words parsed
+total parsing time: 00:00:17
+
+Processing language: ur, start: 2017.05.09 21:59
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: ur, start: 2017.05.09 21:59
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.jglHophX8l/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/ur/barchhybrid_proj-500-None.model_003 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/ur/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/ur/ur.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/ur/allwords.txt --extrnFilterNew /tmp/tmp.jglHophX8l/ur.words.txt --test /tmp/tmp.jglHophX8l/ur.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/ur/ur.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/ur/allwords.txt of embeddings to keep
+W2V: 10813 words to keep
+W2V: loading word list /tmp/tmp.jglHophX8l/ur.words.txt of embeddings to keep
+W2V: 3433 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/ur/ur.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 7692 word vectors loaded
+W2V: 353 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.jglHophX8l/result1.conllu
+200 sentences with 5626 words parsed
+400 sentences with 10721 words parsed
+535 sentences with 14806 words parsed
+total parsing time: 00:00:37
+
+Processing language: vi, start: 2017.05.09 22:00
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: vi, start: 2017.05.09 22:00
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.4ZIk9aYBJn/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/vi/barchhybrid_proj-500-None.model_014 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/vi/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/vi/vi.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/vi/allwords.txt --extrnFilterNew /tmp/tmp.4ZIk9aYBJn/vi.words.txt --test /tmp/tmp.4ZIk9aYBJn/vi.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/vi/vi.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/vi/allwords.txt of embeddings to keep
+W2V: 4377 words to keep
+W2V: loading word list /tmp/tmp.4ZIk9aYBJn/vi.words.txt of embeddings to keep
+W2V: 2870 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/vi/vi.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (1594 and 485 kept)
+W2V: 400000 word vectors read (1595 and 486 kept)
+W2V: 600000 word vectors read (1595 and 487 kept)
+W2V: 1595 word vectors loaded
+W2V: 488 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.4ZIk9aYBJn/result1.conllu
+200 sentences with 2883 words parsed
+400 sentences with 5920 words parsed
+600 sentences with 8726 words parsed
+800 sentences with 11707 words parsed
+833 sentences with 12178 words parsed
+total parsing time: 00:00:26
+
+Processing language: zh, start: 2017.05.09 22:02
+Cleaning ...
+Getting Form List ...
+Getting Lemma List ...
+Generating Word List ...
+Predicting ... language: zh, start: 2017.05.09 22:02
+python /home/Orange-Deskin/conll2017/Orange-Deskin/bistparser/barchybrid/src/parse_1by1.py --cnn-mem 4000 --predict --outfile /tmp/tmp.6Q1k5u04Qn/result1.conllu --model /home/Orange-Deskin/conll2017/Orange-Deskin/models/zh/barchhybrid_proj-500-None.model_014 --params /home/Orange-Deskin/conll2017/Orange-Deskin/models/zh/params.pickle --extrn /home/Orange-Deskin/conll2017/Orange-Deskin/data/zh/zh.500-dim.10-win.cbow.bin --extrnFilter /home/Orange-Deskin/conll2017/Orange-Deskin/models/zh/allwords.txt --extrnFilterNew /tmp/tmp.6Q1k5u04Qn/zh.words.txt --test /tmp/tmp.6Q1k5u04Qn/zh.clean.test.conll
+Using external embedding: /home/Orange-Deskin/conll2017/Orange-Deskin/data/zh/zh.500-dim.10-win.cbow.bin
+W2V: loading word list /home/Orange-Deskin/conll2017/Orange-Deskin/models/zh/allwords.txt of embeddings to keep
+W2V: 18989 words to keep
+W2V: loading word list /tmp/tmp.6Q1k5u04Qn/zh.words.txt of embeddings to keep
+W2V: 4322 words to keep
+W2V: loading binary w2v file /home/Orange-Deskin/conll2017/Orange-Deskin/data/zh/zh.500-dim.10-win.cbow.bin
+W2V: 500 dimensions
+W2V: 200000 word vectors read (15131 and 1015 kept)
+W2V: 400000 word vectors read (16015 and 1155 kept)
+W2V: 600000 word vectors read (16329 and 1206 kept)
+W2V: 800000 word vectors read (16521 and 1238 kept)
+W2V: 1000000 word vectors read (16659 and 1264 kept)
+W2V: 16753 word vectors loaded
+W2V: 1282 word vectors loaded
+Loaded external embeddings. Vector of 500 dimensions
+writing to /tmp/tmp.6Q1k5u04Qn/result1.conllu
+200 sentences with 4856 words parsed
+400 sentences with 9797 words parsed
+494 sentences with 12108 words parsed
+total parsing time: 00:00:27
+Running 1/81: ar_pud
+Running 2/81: ar
+Running 3/81: bg
+Running 4/81: bxr
+Running 5/81: ca
+Running 6/81: cs_cac
+Running 7/81: cs_cltt
+Running 8/81: cs_pud
+Running 9/81: cs
+Running 10/81: cu
+Running 11/81: da
+Running 12/81: de_pud
+Running 13/81: de
+Running 14/81: el
+Running 15/81: en_lines
+Running 16/81: en_partut
+Running 17/81: en_pud
+Running 18/81: en
+Running 19/81: es_ancora
+Running 20/81: es_pud
+Running 21/81: es
+Running 22/81: et
+Running 23/81: eu
+Running 24/81: fa
+Running 25/81: fi_ftb
+Running 26/81: fi_pud
+Running 27/81: fi
+Running 28/81: fr_partut
+Running 29/81: fr_pud
+Running 30/81: fr_sequoia
+Running 31/81: fr
+Running 32/81: ga
+Running 33/81: gl_treegal
+Running 34/81: gl
+Running 35/81: got
+Running 36/81: grc_proiel
+Running 37/81: grc
+Running 38/81: he
+Running 39/81: hi_pud
+Running 40/81: hi
+Running 41/81: hr
+Running 42/81: hsb
+Running 43/81: hu
+Running 44/81: id
+Running 45/81: it_pud
+Running 46/81: it
+Running 47/81: ja_pud
+Running 48/81: ja
+Running 49/81: kk
+Running 50/81: kmr
+Running 51/81: ko
+Running 52/81: la_ittb
+Running 53/81: la_proiel
+Running 54/81: la
+Running 55/81: lv
+Running 56/81: nl_lassysmall
+Running 57/81: nl
+Running 58/81: no_bokmaal
+Running 59/81: no_nynorsk
+Running 60/81: pl
+Running 61/81: pt_br
+Running 62/81: pt_pud
+Running 63/81: pt
+Running 64/81: ro
+Running 65/81: ru_pud
+Running 66/81: ru_syntagrus
+Running 67/81: ru
+Running 68/81: sk
+Running 69/81: sl_sst
+Running 70/81: sl
+Running 71/81: sme
+Running 72/81: sv_lines
+Running 73/81: sv_pud
+Running 74/81: sv
+Running 75/81: tr_pud
+Running 76/81: tr
+Running 77/81: ug
+Running 78/81: uk
+Running 79/81: ur
+Running 80/81: vi
+Running 81/81: zh

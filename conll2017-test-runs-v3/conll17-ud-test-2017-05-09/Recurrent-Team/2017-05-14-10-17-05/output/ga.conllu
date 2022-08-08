@@ -1,0 +1,31 @@
+#0
+1
+2
+3
+1	Crothnófar	Crothnófar	VERB	FutInd	Form=Len|Mood=Ind|Tense=Fut|Voice=Auto	5	cop	_	_
+2	Pól	Pól	PROPN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	2	conj	_	_
+3	nó	nó	CCONJ	Coord	_	5	amod	_	_
+4	ba	is	AUX	Cop	PronType=Rel|Tense=Past|VerbForm=Cop	2	nsubj	_	_
+5	úrlabhraí	úrlabhra	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	9	case	_	_
+6	maith	maith	ADJ	Adj	Case=NomAcc|Gender=Masc|Number=Sing	12	obl	_	_
+7	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	11	det	_	_
+8	ar	ar	ADP	Simp	_	9	compound	_	_
+9	Raidió	raidió	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	2	ccomp	_	_
+10	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+11	Gaeltachta	gaeltacht	NOUN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	compound	_	_
+12	agus	agus	CCONJ	Coord	_	14	det	_	_
+13	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	17	case	_	_
+14	meáin	meán	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Plur	1	obl	_	_
+15	eile	eile	DET	Det	PronType=Dem	19	det	_	_
+16	ag	ag	ADP	Simp	_	17	compound	_	_
+17	cosaint	cosaint	NOUN	Noun	VerbForm=Vnoun	19	compound	_	_
+18	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	19	amod	_	_
+19	n-oifigí	n-oifigí	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Plur	24	punct	_	_
+20	poist	poist	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	24	cop	_	_
+21	tuaithe	tuaithe	ADJ	Adj	VerbForm=Part	1	parataxis	_	SpaceAfter=No
+22	,	,	PUNCT	Punct	_	26	case	_	_
+23	gné	ign	AUX	Cop	Gender=Masc|Number=Sing|Person=3|VerbForm=Cop	1	obl	_	_
+24	am-tábhachtach	am-tábhachtach	ADJ	Adj	Degree=Pos	26	amod	_	_
+25	de	de	ADP	Simp	_	29	det	_	_
+26	shaol	saol	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	26	compound	_	_
+27	sóisialta	sóisialta	ADJ	Adj	Case=NomAcc|Gender=Fem|Number=Plur	1	punct	_	_

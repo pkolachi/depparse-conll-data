@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/Recurrent-Team/run_tira.py", line 20, in <module>
+    parts = mappingi.split()
+NameError: name 'mappingi' is not defined

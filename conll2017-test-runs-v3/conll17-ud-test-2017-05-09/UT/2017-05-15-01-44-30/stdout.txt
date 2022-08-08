@@ -1,0 +1,8108 @@
+/home/UT/system/run.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/UT/2017-05-15-01-44-30/output
+
+
+Language: ar-pud
+Model: UD_Arabic
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 34.0946419239 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Arabic/embedding/wiki.ar.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1000 sentences read.
+Finished predicting test 57.7428560257
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/ar_pud.conllu.voting
+double root 1 17
+# newpar
+double root 3 4
+# newpar
+double root 2 14
+# newpar
+double root 1 7
+# newpar
+double root 2 5
+# newpar
+double root 1 7
+# newpar
+double root 3 8
+# newpar
+double root 1 3
+# newpar
+double root 1 2
+# newpar
+double root 1 8
+# newpar
+double root 1 7
+# newpar
+double root 2 4
+# newpar
+double root 1 13
+# newpar
+double root 1 6
+# newpar
+double root 1 10
+# newpar
+double root 2 8
+# newpar
+double root 3 16
+# newpar
+double root 3 9
+# newpar
+double root 1 3
+# newpar
+double root 2 4
+# newpar
+double root 1 6
+# newpar
+double root 1 3
+# newpar
+double root 2 13
+# newpar
+double root 1 2
+# newpar
+double root 1 5
+# newpar
+double root 5 9
+# newpar
+double root 4 10
+# newpar
+double root 1 5
+# newpar
+double root 1 2
+# newpar
+double root 1 6
+# newpar
+double root 1 2
+double root 1 10
+# newpar
+double root 1 15
+# newpar
+double root 2 9
+# newpar
+double root 2 15
+# newpar
+double root 2 9
+# newpar
+double root 1 3
+# newpar
+double root 1 8
+# newpar
+double root 1 2
+# newpar
+double root 1 2
+# newpar
+double root 7 15
+# newpar
+double root 1 7
+# newpar
+double root 1 3
+# newpar
+double root 2 7
+# newpar
+double root 2 8
+# newpar
+double root 1 12
+# newpar
+double root 1 16
+# newpar
+double root 1 3
+# newpar
+double root 1 10
+# newpar
+double root 1 8
+# newpar
+double root 2 6
+# newpar
+double root 1 11
+# newpar
+double root 2 15
+# newpar
+double root 2 3
+double root 2 10
+# newpar
+double root 2 7
+# newpar
+double root 1 32
+# newpar
+double root 3 13
+# newpar
+double root 2 8
+# newpar
+double root 2 6
+# newpar
+double root 1 7
+# newpar
+double root 1 3
+# newpar
+double root 1 5
+# newpar
+double root 2 10
+# newpar
+double root 2 7
+# newpar
+double root 1 3
+# newpar
+double root 2 5
+double root 2 7
+# newpar
+double root 2 6
+# newpar
+double root 1 2
+# newpar
+double root 9 13
+# newpar
+double root 1 2
+# newpar
+double root 1 3
+# newpar
+double root 1 2
+# newpar
+double root 1 9
+# newpar
+double root 1 8
+double root 1 9
+# newpar
+double root 1 7
+# newpar
+double root 1 7
+# newpar
+double root 2 10
+# newpar
+double root 1 2
+# newpar
+double root 2 8
+# newpar
+double root 3 9
+# newpar
+double root 2 3
+# newpar
+double root 1 3
+# newpar
+double root 7 14
+# newpar
+double root 1 3
+# newpar
+Multiple roots removed
+Language: ar-0
+Model: UD_Arabic
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 111.821352005 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Arabic/embedding/wiki.ar.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+597 sentences read.
+Finished predicting test 75.437458992
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/ar.conllu.voting
+double root 1 19
+# newpar
+double root 1 7
+# newpar
+double root 2 8
+# newpar
+double root 1 12
+# newpar
+double root 1 8
+# newpar
+double root 6 10
+# newpar
+double root 1 3
+# newpar
+double root 1 13
+# newpar
+double root 5 22
+# newpar
+double root 1 11
+# newpar
+double root 1 2
+# newpar
+double root 1 7
+# newpar
+Multiple roots removed
+Language: bxr-0
+Model: UD_Buryat
+start surprise language script
+Surprise language script done
+Language: ca-0
+Model: UD_Catalan
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 144.625 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Catalan/embedding/wiki.ca.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1851 sentences read.
+Finished predicting test 163.426077843
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/ca.conllu.voting
+double root 5 19
+# sent_id = 80
+double root 2 3
+# sent_id = 86
+double root 9 15
+# sent_id = 104
+double root 1 17
+# sent_id = 225
+double root 1 41
+# sent_id = 240
+double root 2 23
+# sent_id = 278
+double root 2 11
+# sent_id = 339
+double root 15 25
+# sent_id = 342
+double root 13 19
+# sent_id = 356
+double root 12 23
+# sent_id = 361
+double root 9 16
+# sent_id = 363
+double root 3 11
+# sent_id = 365
+double root 1 62
+# sent_id = 385
+double root 31 32
+# sent_id = 393
+double root 3 53
+# sent_id = 425
+double root 2 16
+double root 2 28
+# sent_id = 427
+double root 3 28
+# sent_id = 432
+double root 1 33
+# sent_id = 435
+double root 6 30
+# sent_id = 459
+double root 16 20
+# sent_id = 460
+double root 17 20
+# sent_id = 465
+double root 1 3
+# sent_id = 487
+double root 5 14
+# sent_id = 499
+double root 2 36
+# sent_id = 503
+double root 5 8
+# sent_id = 506
+double root 20 30
+# sent_id = 530
+double root 16 40
+# sent_id = 626
+double root 6 48
+# sent_id = 627
+double root 3 24
+# sent_id = 659
+double root 21 29
+# sent_id = 673
+double root 6 8
+# sent_id = 687
+double root 2 17
+# sent_id = 694
+double root 9 35
+# sent_id = 729
+double root 35 37
+# sent_id = 731
+double root 15 19
+# sent_id = 732
+double root 5 15
+# sent_id = 766
+double root 9 15
+# sent_id = 772
+double root 13 21
+# sent_id = 780
+double root 2 23
+# sent_id = 793
+double root 3 38
+double root 3 40
+# sent_id = 843
+double root 13 17
+# sent_id = 918
+double root 1 16
+# sent_id = 921
+double root 2 3
+# sent_id = 932
+double root 1 7
+# sent_id = 953
+double root 12 22
+# sent_id = 962
+double root 1 9
+# sent_id = 1025
+double root 5 21
+# sent_id = 1102
+double root 10 15
+# sent_id = 1114
+double root 19 21
+# sent_id = 1116
+double root 1 7
+# sent_id = 1146
+double root 2 21
+# sent_id = 1156
+double root 1 55
+# sent_id = 1161
+double root 3 7
+# sent_id = 1177
+double root 1 14
+# sent_id = 1181
+double root 12 16
+# sent_id = 1186
+double root 2 20
+# sent_id = 1191
+double root 9 35
+# sent_id = 1228
+double root 3 48
+# sent_id = 1231
+double root 2 29
+# sent_id = 1312
+double root 5 13
+# sent_id = 1318
+double root 1 5
+# sent_id = 1325
+double root 3 9
+# sent_id = 1342
+double root 5 17
+# sent_id = 1368
+double root 1 3
+# sent_id = 1394
+double root 8 20
+# sent_id = 1418
+double root 7 123
+# sent_id = 1450
+double root 5 14
+# sent_id = 1452
+double root 2 19
+# sent_id = 1546
+double root 1 9
+# sent_id = 1617
+double root 7 12
+# sent_id = 1671
+double root 21 28
+# sent_id = 1847
+double root 2 7
+# sent_id = 1849
+Multiple roots removed
+Language: cs-cac
+Model: UD_Czech
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 20.3086640835 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Czech/embedding/wiki.cs.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+628 sentences read.
+Finished predicting test 32.8285400867
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/cs_cac.conllu.voting
+double root 3 15
+1	Při	_	ADP	_	AdpType=Prep|Case=Loc	3	case	_	_
+double root 1 3
+1	Elektro	_	ADJ	_	Degree=Pos|NameType=Com|Polarity=Pos	0	root	_	_
+double root 13 16
+1	Zdařile	_	ADV	_	Degree=Pos|Polarity=Pos	2	advmod	_	_
+double root 1 2
+double root 1 22
+1	A	_	CCONJ	_	_	0	root	_	_
+double root 1 16
+1	Být	_	VERB	_	Polarity=Pos|VerbForm=Inf	0	root	_	_
+double root 1 10
+1	Úrazovost	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
+double root 3 4
+double root 3 7
+1	V	_	ADP	_	AdpType=Prep|Case=Loc	3	case	_	_
+double root 7 22
+1	Starší	_	ADJ	_	Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	2	amod	_	_
+double root 7 8
+1	Pro	_	ADP	_	AdpType=Prep|Case=Acc	2	case	_	_
+double root 1 4
+1	Dvacet	_	NUM	_	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	0	root	_	_
+double root 1 15
+1	Hlavním	_	ADJ	_	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
+double root 5 29
+double root 5 32
+double root 5 33
+double root 5 35
+1	I	_	CCONJ	_	_	3	advmod:emph	_	_
+double root 2 33
+1	Zejména	_	ADV	_	_	2	advmod:emph	_	_
+double root 3 12
+1	Snad	_	ADV	_	_	2	advmod	_	_
+double root 5 7
+1	Ve	_	ADP	_	AdpType=Voc|Case=Loc	3	case	_	_
+double root 2 13
+1	Sovětský	_	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	2	amod	_	_
+double root 13 22
+double root 13 26
+double root 13 28
+1	Aniž	_	SCONJ	_	_	3	mark	_	_
+Multiple roots removed
+Language: cs-cltt
+Model: UD_Czech
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 43.0782167912 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Czech/embedding/wiki.cs.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+316 sentences read.
+Finished predicting test 32.1010160446
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/cs_cltt.conllu.voting
+Multiple roots removed
+Language: cs-pud
+Model: UD_Czech
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 28.405495882 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Czech/embedding/wiki.cs.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1016 sentences read.
+Finished predicting test 51.4448871613
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/cs_pud.conllu.voting
+double root 4 27
+# newdoc
+double root 12 18
+# sent_id = 4
+double root 1 13
+# newpar
+double root 2 15
+# sent_id = 15
+double root 8 24
+# newpar
+double root 22 33
+# sent_id = 31
+double root 2 23
+# sent_id = 51
+double root 7 32
+# newpar
+double root 19 22
+# newpar
+double root 15 23
+# newpar
+double root 2 3
+double root 2 5
+double root 2 11
+# sent_id = 93
+double root 1 11
+# newpar
+double root 4 7
+# sent_id = 114
+double root 16 22
+# newpar
+double root 1 6
+# newpar
+double root 6 11
+# sent_id = 147
+double root 5 17
+# sent_id = 206
+double root 8 14
+# newpar
+double root 5 11
+# newpar
+double root 19 22
+# newpar
+double root 5 11
+# newpar
+double root 6 11
+# sent_id = 363
+double root 2 5
+# newpar
+double root 1 9
+# sent_id = 389
+double root 5 9
+# newpar
+double root 2 7
+# sent_id = 481
+double root 2 3
+double root 2 4
+# sent_id = 494
+double root 2 8
+# newpar
+double root 3 8
+# sent_id = 541
+double root 2 17
+# sent_id = 575
+double root 14 23
+# newpar
+double root 4 11
+# newpar
+double root 1 15
+# sent_id = 722
+double root 2 5
+# newpar
+double root 11 18
+# sent_id = 859
+double root 7 14
+# newpar
+double root 1 14
+# newpar
+double root 8 24
+# sent_id = 909
+double root 4 5
+# newpar
+double root 2 5
+# sent_id = 984
+Multiple roots removed
+Language: cs-0
+Model: UD_Czech
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 306.336040974 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Czech/embedding/wiki.cs.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+9853 sentences read.
+Finished predicting test 471.836181879
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/cs.conllu.voting
+double root 17 21
+# newpar
+double root 5 6
+# sent_id = 33
+double root 1 13
+# newpar
+double root 1 4
+# sent_id = 94
+double root 1 13
+# sent_id = 318
+double root 1 4
+# sent_id = 323
+double root 4 6
+double root 4 9
+# sent_id = 388
+double root 2 3
+# sent_id = 501
+double root 10 12
+# sent_id = 544
+double root 15 26
+# sent_id = 651
+double root 2 33
+# newpar
+double root 4 15
+# sent_id = 701
+double root 7 21
+# sent_id = 744
+double root 2 17
+# newpar
+double root 28 42
+# sent_id = 958
+double root 3 13
+# newpar
+double root 13 22
+# newpar
+double root 21 22
+double root 21 25
+# sent_id = 1145
+double root 1 4
+# newpar
+double root 1 8
+# sent_id = 1225
+double root 15 18
+# sent_id = 1235
+double root 1 17
+# sent_id = 1249
+double root 2 12
+# sent_id = 1262
+double root 2 9
+# sent_id = 1323
+double root 6 7
+# sent_id = 1341
+double root 4 8
+# sent_id = 1375
+double root 13 23
+# sent_id = 1407
+double root 3 20
+# sent_id = 1424
+double root 1 5
+# sent_id = 1502
+double root 5 14
+# sent_id = 1602
+double root 9 11
+# sent_id = 1633
+double root 4 12
+# sent_id = 1664
+double root 3 9
+# sent_id = 1677
+double root 15 18
+# sent_id = 1749
+double root 1 22
+# sent_id = 1778
+double root 2 11
+# sent_id = 1781
+double root 2 4
+# sent_id = 1784
+double root 2 17
+# newpar
+double root 2 22
+# sent_id = 1805
+double root 1 2
+# sent_id = 1820
+double root 2 8
+# sent_id = 1839
+double root 2 10
+# sent_id = 1852
+double root 1 7
+# sent_id = 1862
+double root 5 8
+double root 5 12
+double root 5 21
+# sent_id = 1899
+double root 2 33
+# sent_id = 1902
+double root 3 19
+# sent_id = 1917
+double root 3 14
+# sent_id = 1926
+double root 3 10
+# sent_id = 1927
+double root 3 11
+# sent_id = 1930
+double root 2 16
+# sent_id = 1973
+double root 2 5
+# sent_id = 1984
+double root 1 17
+# sent_id = 2032
+double root 6 32
+# sent_id = 2045
+double root 1 6
+# sent_id = 2079
+double root 1 18
+# sent_id = 2123
+double root 11 14
+# newpar
+double root 1 7
+# sent_id = 2215
+double root 2 17
+# sent_id = 2256
+double root 1 5
+# newpar
+double root 12 21
+# sent_id = 2268
+double root 1 8
+# sent_id = 2304
+double root 4 6
+# newpar
+double root 2 8
+# newpar
+double root 16 17
+# sent_id = 2379
+double root 18 26
+# sent_id = 2507
+double root 2 10
+# sent_id = 2523
+double root 1 18
+# newpar
+double root 9 13
+# newpar
+double root 7 14
+# sent_id = 2630
+double root 3 6
+# sent_id = 2655
+double root 4 27
+double root 4 29
+# newpar
+double root 3 13
+# sent_id = 2821
+double root 3 7
+# sent_id = 2857
+double root 3 18
+# newpar
+double root 3 6
+# sent_id = 2866
+double root 24 33
+# newpar
+double root 13 20
+double root 13 21
+# sent_id = 2967
+double root 2 3
+# sent_id = 3012
+double root 8 16
+# sent_id = 3119
+double root 1 17
+# sent_id = 3164
+double root 2 22
+# newpar
+double root 1 5
+# newpar
+double root 6 33
+# sent_id = 3197
+double root 3 4
+# sent_id = 3252
+double root 6 22
+# sent_id = 3275
+double root 3 7
+# sent_id = 3283
+double root 8 19
+# newpar
+double root 1 27
+# newpar
+double root 1 3
+# sent_id = 3407
+double root 1 2
+double root 1 14
+# sent_id = 3429
+double root 1 2
+# sent_id = 3437
+double root 10 19
+# sent_id = 3438
+double root 3 5
+# sent_id = 3441
+double root 2 4
+# sent_id = 3460
+double root 6 11
+# sent_id = 3469
+double root 1 5
+# sent_id = 3555
+double root 1 13
+# sent_id = 3567
+double root 6 7
+# sent_id = 3590
+double root 1 10
+# sent_id = 3608
+double root 1 13
+# sent_id = 3630
+double root 2 4
+double root 2 10
+# newpar
+double root 9 13
+# sent_id = 3680
+double root 8 12
+# sent_id = 3688
+double root 1 3
+# newpar
+double root 1 10
+# sent_id = 3712
+double root 1 11
+# sent_id = 3729
+double root 1 2
+# sent_id = 3745
+double root 1 5
+# sent_id = 3746
+double root 1 3
+# sent_id = 3762
+double root 2 7
+double root 2 10
+# sent_id = 3773
+double root 1 7
+double root 1 25
+# sent_id = 3786
+double root 2 8
+# sent_id = 3799
+double root 1 6
+# sent_id = 3829
+double root 8 17
+# sent_id = 3847
+double root 24 42
+# newpar
+double root 1 19
+# sent_id = 3854
+double root 1 3
+double root 1 6
+# sent_id = 3856
+double root 4 7
+# sent_id = 3861
+double root 1 4
+# sent_id = 3871
+double root 7 36
+# sent_id = 3878
+double root 2 15
+# newpar
+double root 12 30
+# sent_id = 3889
+double root 4 9
+# sent_id = 3895
+double root 1 8
+# sent_id = 3926
+double root 2 4
+# newpar
+double root 3 7
+# sent_id = 3954
+double root 3 8
+# sent_id = 3981
+double root 13 35
+# newpar
+double root 1 17
+# sent_id = 4040
+double root 2 3
+# sent_id = 4084
+double root 1 11
+# sent_id = 4123
+double root 2 31
+# newpar
+double root 9 38
+# sent_id = 4147
+double root 1 25
+# sent_id = 4188
+double root 3 5
+# sent_id = 4239
+double root 2 39
+# newpar
+double root 1 17
+# newpar
+double root 3 5
+# sent_id = 4278
+double root 10 17
+# newpar
+double root 2 3
+# sent_id = 4281
+double root 1 2
+double root 1 15
+# newpar
+double root 1 4
+# newpar
+double root 5 16
+# sent_id = 4373
+double root 5 23
+# sent_id = 4401
+double root 2 31
+double root 2 32
+double root 2 36
+# newpar
+double root 2 4
+# newpar
+double root 10 12
+# sent_id = 4515
+double root 14 19
+# newpar
+double root 1 8
+# sent_id = 4578
+double root 7 12
+# newpar
+double root 11 15
+# sent_id = 4599
+double root 1 10
+# sent_id = 4626
+double root 9 37
+# newpar
+double root 4 8
+# sent_id = 4690
+double root 2 3
+double root 2 6
+double root 2 30
+# newpar
+double root 1 2
+# sent_id = 4827
+double root 2 5
+# newpar
+double root 3 4
+double root 3 14
+# sent_id = 4883
+double root 2 4
+# sent_id = 4935
+double root 3 7
+# sent_id = 4940
+double root 1 5
+# sent_id = 4941
+double root 1 10
+# sent_id = 4999
+double root 1 2
+# sent_id = 5008
+double root 10 13
+# sent_id = 5009
+double root 8 17
+# sent_id = 5011
+double root 6 9
+# sent_id = 5024
+double root 1 8
+# sent_id = 5033
+double root 5 6
+# newpar
+double root 10 13
+# sent_id = 5091
+double root 1 8
+# sent_id = 5134
+double root 4 36
+double root 4 37
+# newpar
+double root 2 12
+# sent_id = 5191
+double root 2 7
+# newpar
+double root 1 16
+# newpar
+double root 2 10
+# sent_id = 5515
+double root 3 12
+# sent_id = 5517
+double root 7 12
+# sent_id = 5646
+double root 5 13
+# sent_id = 5670
+double root 7 28
+# sent_id = 5707
+double root 4 14
+# sent_id = 5716
+double root 4 5
+# sent_id = 5745
+double root 4 13
+double root 4 14
+# sent_id = 5761
+double root 1 14
+# sent_id = 5798
+double root 1 5
+# sent_id = 5852
+double root 1 3
+# sent_id = 5871
+double root 1 6
+# sent_id = 5897
+double root 1 8
+# sent_id = 5921
+double root 12 15
+# sent_id = 5924
+double root 1 5
+# sent_id = 5945
+double root 3 8
+# newpar
+double root 1 4
+# sent_id = 6059
+double root 3 5
+# sent_id = 6132
+double root 1 16
+# sent_id = 6135
+double root 3 13
+# sent_id = 6229
+double root 2 14
+# sent_id = 6235
+double root 1 4
+# sent_id = 6285
+double root 2 15
+# sent_id = 6324
+double root 3 29
+# sent_id = 6341
+double root 9 13
+double root 9 29
+# sent_id = 6348
+double root 3 20
+# sent_id = 6363
+double root 4 17
+# sent_id = 6375
+double root 3 7
+# newpar
+double root 1 8
+# sent_id = 6449
+double root 2 5
+# sent_id = 6577
+double root 6 14
+# sent_id = 6802
+double root 1 4
+# sent_id = 6823
+double root 7 27
+# sent_id = 6850
+double root 3 6
+# sent_id = 6862
+double root 1 3
+# newpar
+double root 1 3
+# newpar
+double root 3 8
+# newpar
+double root 1 2
+# newpar
+double root 4 8
+# sent_id = 7083
+double root 3 8
+# sent_id = 7172
+double root 8 18
+# sent_id = 7198
+double root 3 12
+# sent_id = 7228
+double root 6 14
+# sent_id = 7239
+double root 1 14
+# sent_id = 7254
+double root 2 16
+# sent_id = 7270
+double root 1 3
+# newpar
+double root 1 19
+# sent_id = 7328
+double root 2 12
+# sent_id = 7330
+double root 2 10
+# newpar
+double root 1 3
+double root 1 6
+# sent_id = 7380
+double root 10 14
+# newpar
+double root 2 6
+# sent_id = 7443
+double root 3 27
+# sent_id = 7449
+double root 4 7
+# sent_id = 7453
+double root 12 17
+# sent_id = 7489
+double root 6 14
+# sent_id = 7498
+double root 3 12
+# sent_id = 7522
+double root 4 10
+# sent_id = 7525
+double root 6 11
+# sent_id = 7639
+double root 4 8
+# newpar
+double root 6 22
+# sent_id = 7789
+double root 3 5
+# sent_id = 7794
+double root 2 12
+# newpar
+double root 1 2
+# newpar
+double root 1 2
+# newpar
+double root 2 11
+double root 2 21
+# sent_id = 7911
+double root 1 10
+# newpar
+double root 13 19
+# sent_id = 7983
+double root 1 8
+# sent_id = 8098
+double root 3 6
+# sent_id = 8125
+double root 4 7
+# sent_id = 8142
+double root 8 14
+# sent_id = 8153
+double root 7 14
+# sent_id = 8172
+double root 2 16
+# sent_id = 8180
+double root 12 23
+# sent_id = 8200
+double root 8 12
+# sent_id = 8230
+double root 4 8
+double root 4 14
+# sent_id = 8265
+double root 3 4
+double root 3 6
+# sent_id = 8335
+double root 1 7
+# sent_id = 8339
+double root 3 12
+# sent_id = 8365
+double root 14 23
+# sent_id = 8376
+double root 6 8
+# sent_id = 8382
+double root 3 11
+double root 3 12
+# newpar
+double root 3 4
+# sent_id = 8407
+double root 3 19
+# sent_id = 8435
+double root 23 34
+# sent_id = 8439
+double root 4 31
+# newpar
+double root 5 22
+# sent_id = 8454
+double root 9 15
+# newpar
+double root 5 8
+# sent_id = 8483
+double root 1 3
+# newpar
+double root 1 3
+# newpar
+double root 2 8
+# sent_id = 8592
+double root 2 3
+double root 2 5
+# sent_id = 8625
+double root 3 12
+# sent_id = 8633
+double root 1 11
+# newpar
+double root 4 20
+double root 4 23
+# sent_id = 8648
+double root 1 14
+# newpar
+double root 4 17
+# sent_id = 8668
+double root 6 31
+# sent_id = 8674
+double root 4 6
+# sent_id = 8681
+double root 1 20
+# sent_id = 8683
+double root 4 18
+# newpar
+double root 7 20
+# sent_id = 8812
+double root 3 20
+# sent_id = 8835
+double root 3 16
+# sent_id = 8860
+double root 10 17
+# sent_id = 8890
+double root 4 8
+# newpar
+double root 2 10
+# sent_id = 8960
+double root 4 21
+# sent_id = 8980
+double root 3 5
+# sent_id = 8995
+double root 7 17
+# sent_id = 9012
+double root 9 18
+# sent_id = 9030
+double root 1 6
+# newpar
+double root 4 17
+# newpar
+double root 1 4
+double root 1 13
+double root 1 19
+# newpar
+double root 4 7
+double root 4 27
+# newpar
+double root 2 14
+# newpar
+double root 1 15
+# sent_id = 9137
+double root 2 34
+# sent_id = 9139
+double root 1 6
+double root 1 7
+double root 1 8
+double root 1 10
+# newpar
+double root 1 22
+# sent_id = 9278
+double root 1 8
+# newpar
+double root 3 8
+# sent_id = 9359
+double root 1 4
+# newpar
+double root 7 13
+# sent_id = 9377
+double root 1 3
+# newpar
+double root 3 7
+# sent_id = 9416
+double root 6 13
+# newpar
+double root 6 68
+# sent_id = 9544
+double root 4 20
+# sent_id = 9548
+double root 12 29
+# sent_id = 9595
+double root 11 29
+# sent_id = 9596
+double root 4 13
+double root 4 16
+# sent_id = 9613
+double root 29 43
+# sent_id = 9614
+double root 1 2
+# sent_id = 9616
+double root 3 14
+double root 3 17
+# sent_id = 9617
+double root 2 8
+double root 2 29
+# sent_id = 9633
+double root 2 11
+double root 2 50
+# sent_id = 9641
+double root 1 10
+# newpar
+double root 37 61
+# sent_id = 9659
+double root 2 11
+double root 2 20
+double root 2 36
+double root 2 37
+double root 2 38
+double root 2 55
+# sent_id = 9661
+double root 1 11
+double root 1 15
+double root 1 17
+# sent_id = 9662
+double root 15 29
+# sent_id = 9675
+double root 2 17
+# sent_id = 9678
+double root 2 12
+# newpar
+double root 3 5
+# sent_id = 9686
+double root 3 8
+double root 3 29
+# sent_id = 9698
+double root 2 8
+# sent_id = 9700
+double root 3 17
+# sent_id = 9709
+double root 44 49
+# sent_id = 9723
+double root 1 6
+# sent_id = 9724
+double root 2 5
+# sent_id = 9738
+double root 4 14
+# newpar
+double root 1 16
+# sent_id = 9744
+double root 4 20
+# sent_id = 9765
+double root 10 27
+# sent_id = 9797
+double root 1 21
+# sent_id = 9799
+double root 1 13
+# sent_id = 9801
+double root 6 16
+# newpar
+double root 12 18
+# sent_id = 9830
+double root 12 19
+# sent_id = 9832
+double root 6 22
+double root 6 24
+# sent_id = 9835
+double root 2 12
+# newpar
+Multiple roots removed
+Language: de-pud
+Model: UD_German
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 35.3438100815 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_German/embedding/wiki.2de.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1102 sentences read.
+Finished predicting test 57.4836139679
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/de_pud.conllu.voting
+double root 1 16
+# sent_id = 9
+double root 1 4
+# sent_id = 15
+double root 2 17
+# sent_id = 18
+double root 2 7
+# newpar
+double root 1 3
+double root 1 6
+# newpar
+double root 3 4
+# newpar
+double root 3 12
+# newpar
+double root 4 9
+# sent_id = 49
+double root 13 15
+# sent_id = 53
+double root 3 32
+# sent_id = 54
+double root 13 21
+# newpar
+double root 1 7
+# sent_id = 58
+double root 2 36
+# newpar
+double root 4 8
+# newpar
+double root 2 16
+# sent_id = 107
+double root 7 12
+# sent_id = 113
+double root 7 20
+# newpar
+double root 3 11
+# sent_id = 149
+double root 1 2
+# newpar
+double root 3 16
+# newpar
+double root 1 15
+# newpar
+double root 3 4
+# newpar
+double root 4 11
+# sent_id = 186
+double root 2 5
+# sent_id = 189
+double root 7 9
+# newpar
+double root 3 11
+# newpar
+double root 4 18
+# newpar
+double root 3 6
+# sent_id = 234
+double root 2 5
+# newpar
+double root 10 31
+# sent_id = 241
+double root 2 5
+# sent_id = 250
+double root 2 11
+# sent_id = 278
+double root 3 15
+# sent_id = 299
+double root 4 12
+# sent_id = 339
+double root 3 10
+# newpar
+double root 4 10
+# newpar
+double root 9 17
+# newpar
+double root 1 2
+# sent_id = 419
+double root 2 7
+# sent_id = 423
+double root 4 31
+# sent_id = 447
+double root 8 11
+# sent_id = 449
+double root 5 10
+# sent_id = 454
+double root 5 6
+# newpar
+double root 5 10
+double root 5 17
+# sent_id = 486
+double root 6 20
+# sent_id = 500
+double root 3 33
+# sent_id = 516
+double root 3 15
+# sent_id = 550
+double root 3 15
+# newpar
+double root 3 7
+# sent_id = 557
+double root 3 16
+# newpar
+double root 11 14
+# sent_id = 575
+double root 20 30
+# sent_id = 581
+double root 9 18
+# sent_id = 584
+double root 3 7
+double root 3 10
+# newpar
+double root 1 10
+double root 1 16
+# sent_id = 589
+double root 4 19
+# sent_id = 599
+double root 7 18
+# sent_id = 603
+double root 17 19
+# newpar
+double root 3 10
+# sent_id = 624
+double root 3 6
+# sent_id = 630
+double root 1 11
+# sent_id = 647
+double root 4 10
+# newpar
+double root 3 10
+# sent_id = 655
+double root 4 10
+# sent_id = 657
+double root 6 20
+# sent_id = 721
+double root 1 6
+# newpar
+double root 2 5
+# sent_id = 730
+double root 2 14
+# sent_id = 744
+double root 3 12
+# newpar
+double root 2 6
+# sent_id = 809
+double root 1 16
+# newpar
+double root 5 16
+# newpar
+double root 1 2
+# newpar
+double root 7 33
+# newpar
+double root 8 13
+# sent_id = 855
+double root 1 10
+# sent_id = 866
+double root 1 2
+# sent_id = 892
+double root 1 3
+# newpar
+double root 6 9
+# sent_id = 896
+double root 2 9
+# sent_id = 914
+double root 3 15
+# sent_id = 915
+double root 8 11
+# newpar
+double root 16 24
+# newpar
+double root 3 12
+# sent_id = 937
+double root 1 3
+# sent_id = 953
+double root 12 16
+double root 12 18
+# sent_id = 976
+double root 2 9
+# sent_id = 984
+double root 5 12
+# sent_id = 1007
+double root 1 10
+# sent_id = 1011
+double root 1 2
+# sent_id = 1021
+double root 2 6
+# sent_id = 1022
+double root 1 2
+# sent_id = 1025
+double root 2 10
+# sent_id = 1029
+double root 2 15
+# sent_id = 1047
+double root 3 8
+# sent_id = 1055
+double root 3 4
+# sent_id = 1068
+double root 4 13
+# sent_id = 1098
+double root 7 36
+# sent_id = 1099
+Multiple roots removed
+Language: de-0
+Model: UD_German
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 27.734951973 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_German/embedding/wiki.2de.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+909 sentences read.
+Finished predicting test 40.8869030476
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/de.conllu.voting
+double root 3 11
+# newdoc
+double root 20 24
+# sent_id = 9
+double root 6 8
+# sent_id = 29
+double root 14 22
+# sent_id = 30
+double root 4 8
+# sent_id = 39
+double root 10 14
+# sent_id = 40
+double root 11 14
+double root 11 20
+# sent_id = 47
+double root 2 9
+# sent_id = 71
+double root 10 11
+# sent_id = 94
+double root 4 14
+# sent_id = 98
+double root 3 6
+# sent_id = 111
+double root 1 5
+# sent_id = 139
+double root 3 8
+# sent_id = 157
+double root 1 2
+# sent_id = 167
+double root 1 7
+# sent_id = 171
+double root 2 4
+# sent_id = 181
+double root 6 24
+# sent_id = 197
+double root 9 21
+# sent_id = 210
+double root 3 4
+# sent_id = 217
+double root 3 6
+# sent_id = 244
+double root 4 9
+# sent_id = 245
+double root 1 5
+# sent_id = 257
+double root 6 11
+# sent_id = 258
+double root 16 22
+# sent_id = 263
+double root 6 20
+# sent_id = 271
+double root 3 13
+# sent_id = 276
+double root 4 16
+# sent_id = 287
+double root 18 21
+# sent_id = 297
+double root 7 28
+# sent_id = 302
+double root 1 6
+# sent_id = 314
+double root 29 59
+# sent_id = 318
+double root 1 20
+# sent_id = 324
+double root 1 38
+# sent_id = 326
+double root 2 4
+# sent_id = 332
+double root 1 11
+# sent_id = 336
+double root 3 6
+double root 3 9
+double root 3 14
+# sent_id = 340
+double root 3 13
+# sent_id = 349
+double root 4 7
+# sent_id = 361
+double root 6 13
+# sent_id = 382
+double root 7 14
+# sent_id = 398
+double root 5 7
+# sent_id = 406
+double root 7 23
+# sent_id = 411
+double root 1 7
+# sent_id = 417
+double root 6 11
+# sent_id = 431
+double root 1 2
+double root 1 4
+double root 1 6
+double root 1 9
+# sent_id = 433
+double root 7 12
+# sent_id = 447
+double root 3 10
+# sent_id = 455
+double root 2 5
+# sent_id = 459
+double root 4 6
+# sent_id = 468
+double root 1 32
+# sent_id = 484
+double root 7 8
+# sent_id = 508
+double root 2 4
+# sent_id = 543
+double root 1 10
+# sent_id = 545
+double root 1 7
+# sent_id = 546
+double root 3 19
+# sent_id = 550
+double root 16 17
+# sent_id = 551
+double root 9 20
+# sent_id = 556
+double root 3 15
+# sent_id = 558
+double root 6 15
+# sent_id = 571
+double root 1 5
+# sent_id = 607
+double root 1 3
+# sent_id = 610
+double root 4 7
+double root 4 9
+# sent_id = 615
+double root 7 25
+# sent_id = 621
+double root 16 34
+# sent_id = 629
+double root 1 7
+double root 1 11
+# sent_id = 655
+double root 1 2
+# sent_id = 657
+double root 7 17
+# sent_id = 676
+double root 19 30
+# sent_id = 687
+double root 1 3
+# sent_id = 706
+double root 3 9
+# sent_id = 718
+double root 1 14
+# sent_id = 719
+double root 2 15
+# sent_id = 731
+double root 1 27
+# sent_id = 737
+double root 4 27
+# sent_id = 739
+double root 7 19
+# sent_id = 744
+double root 7 39
+# sent_id = 745
+double root 3 7
+# sent_id = 751
+double root 1 2
+# sent_id = 765
+double root 9 18
+# sent_id = 769
+double root 9 26
+# sent_id = 775
+double root 4 27
+# sent_id = 784
+double root 3 9
+# sent_id = 788
+double root 1 8
+# sent_id = 792
+double root 3 9
+# sent_id = 795
+double root 1 6
+# sent_id = 802
+double root 2 5
+# sent_id = 807
+double root 6 10
+# sent_id = 809
+double root 1 4
+# sent_id = 812
+double root 10 14
+# sent_id = 819
+double root 3 6
+# sent_id = 834
+double root 7 9
+# sent_id = 849
+double root 3 10
+# sent_id = 853
+double root 1 3
+# sent_id = 858
+double root 4 7
+# sent_id = 886
+double root 19 22
+# sent_id = 890
+double root 6 7
+double root 6 10
+double root 6 31
+# sent_id = 892
+double root 2 15
+# sent_id = 895
+Multiple roots removed
+Language: en-lines
+Model: UD_English
+Start udpipe
+UDPipe done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 26.9944970608 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_English/embedding/wiki.2en.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+908 sentences read.
+Finished predicting test 39.8594191074
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/en_lines.conllu.voting
+double root 1 10
+# sent_id = 29
+double root 1 4
+# sent_id = 44
+double root 16 28
+# sent_id = 56
+double root 4 24
+# sent_id = 67
+double root 1 9
+# sent_id = 71
+double root 3 19
+double root 3 22
+# sent_id = 80
+double root 9 11
+# sent_id = 113
+double root 5 7
+# sent_id = 127
+double root 4 6
+# sent_id = 137
+double root 3 8
+# sent_id = 145
+double root 2 11
+# sent_id = 161
+double root 15 18
+# sent_id = 175
+double root 3 6
+# sent_id = 223
+double root 1 3
+double root 1 18
+# sent_id = 229
+double root 2 8
+# sent_id = 349
+double root 7 21
+# sent_id = 359
+double root 14 15
+# sent_id = 367
+double root 1 15
+# sent_id = 383
+double root 4 11
+# sent_id = 416
+double root 9 12
+# sent_id = 475
+double root 2 6
+# sent_id = 489
+double root 1 6
+# sent_id = 494
+double root 3 8
+# newpar
+double root 5 13
+# sent_id = 610
+double root 4 11
+# sent_id = 618
+double root 1 2
+# sent_id = 656
+double root 3 29
+# sent_id = 666
+double root 1 3
+# sent_id = 691
+double root 7 11
+# sent_id = 702
+double root 9 17
+# sent_id = 711
+double root 6 14
+# sent_id = 748
+double root 3 11
+double root 3 13
+# sent_id = 784
+double root 20 62
+# sent_id = 788
+double root 2 3
+# sent_id = 790
+double root 1 6
+# sent_id = 808
+double root 3 17
+# sent_id = 814
+double root 1 14
+# sent_id = 836
+double root 1 10
+# sent_id = 842
+double root 5 9
+double root 5 21
+# sent_id = 845
+double root 11 13
+# sent_id = 847
+double root 1 4
+# sent_id = 849
+double root 2 8
+# sent_id = 853
+double root 1 8
+# sent_id = 888
+double root 7 28
+# sent_id = 908
+Multiple roots removed
+Language: en-partut
+Model: UD_English
+Start udpipe
+UDPipe done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 24.4080090523 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_English/embedding/wiki.2en.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+503 sentences read.
+Finished predicting test 29.7841169834
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/en_partut.conllu.voting
+double root 22 31
+# sent_id = 21
+double root 7 21
+# sent_id = 34
+double root 8 13
+# sent_id = 35
+double root 2 30
+# sent_id = 36
+double root 1 3
+# sent_id = 39
+double root 3 7
+# sent_id = 40
+double root 1 3
+# sent_id = 56
+double root 3 29
+# sent_id = 101
+double root 3 47
+# sent_id = 102
+double root 7 9
+# sent_id = 140
+double root 3 13
+# sent_id = 155
+double root 1 5
+# sent_id = 164
+double root 1 14
+# sent_id = 170
+double root 2 22
+# sent_id = 171
+double root 1 4
+# sent_id = 186
+double root 1 7
+# sent_id = 194
+double root 8 9
+# sent_id = 222
+double root 6 31
+# sent_id = 231
+double root 2 22
+# sent_id = 234
+double root 2 18
+# sent_id = 249
+double root 30 45
+# sent_id = 267
+double root 2 12
+# sent_id = 274
+double root 1 4
+# sent_id = 278
+double root 5 7
+# sent_id = 284
+double root 4 34
+# sent_id = 290
+double root 8 12
+# sent_id = 291
+double root 1 8
+# sent_id = 292
+double root 2 5
+# sent_id = 297
+double root 2 5
+# sent_id = 311
+double root 3 22
+# sent_id = 318
+double root 7 11
+# sent_id = 327
+double root 10 14
+# sent_id = 363
+double root 9 14
+# sent_id = 364
+double root 2 9
+# sent_id = 388
+double root 7 18
+# sent_id = 397
+double root 1 3
+# sent_id = 418
+double root 7 12
+# sent_id = 434
+double root 3 14
+# sent_id = 457
+double root 1 8
+# sent_id = 462
+double root 9 12
+# sent_id = 465
+double root 5 15
+# sent_id = 497
+double root 2 6
+# sent_id = 498
+double root 11 19
+# sent_id = 502
+Multiple roots removed
+Language: en-pud
+Model: UD_English
+Start udpipe
+UDPipe done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 36.6120591164 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_English/embedding/wiki.2en.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1018 sentences read.
+Finished predicting test 60.8534622192
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/en_pud.conllu.voting
+double root 9 29
+# newdoc
+double root 5 12
+# newpar
+double root 4 22
+# sent_id = 44
+double root 18 29
+# sent_id = 50
+double root 6 11
+# sent_id = 51
+double root 1 13
+# newpar
+double root 2 11
+# sent_id = 107
+double root 1 26
+# newpar
+double root 4 6
+# sent_id = 138
+double root 11 16
+# newpar
+double root 2 11
+# sent_id = 154
+double root 5 8
+# sent_id = 202
+double root 2 6
+# newpar
+double root 5 29
+# sent_id = 229
+double root 1 9
+# sent_id = 237
+double root 3 7
+# sent_id = 245
+double root 1 6
+# sent_id = 289
+double root 3 13
+# sent_id = 292
+double root 16 19
+# newpar
+double root 20 32
+# newpar
+double root 4 12
+# sent_id = 354
+double root 3 13
+# newpar
+double root 1 12
+# sent_id = 379
+double root 2 8
+# newpar
+double root 2 18
+# newpar
+double root 1 19
+# newpar
+double root 4 9
+# sent_id = 475
+double root 1 6
+# sent_id = 506
+double root 3 8
+# newpar
+double root 4 5
+# newpar
+double root 7 13
+# sent_id = 580
+double root 2 5
+# newpar
+double root 5 22
+# newpar
+double root 1 15
+# sent_id = 647
+double root 2 12
+# sent_id = 688
+double root 5 14
+# newpar
+double root 5 20
+# sent_id = 717
+double root 7 25
+# sent_id = 823
+double root 6 13
+# newpar
+double root 2 10
+# sent_id = 851
+double root 2 8
+# sent_id = 855
+double root 4 29
+# sent_id = 947
+double root 11 28
+# sent_id = 982
+double root 14 21
+# sent_id = 998
+double root 4 17
+# newpar
+double root 4 6
+# sent_id = 1002
+double root 7 14
+# sent_id = 1010
+Multiple roots removed
+Language: en-0
+Model: UD_English
+Start udpipe
+UDPipe done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 16.1368820667 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_English/embedding/wiki.2en.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+317 sentences read.
+Finished predicting test 14.5608351231
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/en.conllu.voting
+Multiple roots removed
+Language: es-ancora
+Model: UD_Spanish
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 127.284427166 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Spanish/embedding/wiki.2es.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1741 sentences read.
+Finished predicting test 141.796566963
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/es_ancora.conllu.voting
+double root 2 5
+# sent_id = 29
+double root 21 50
+# sent_id = 48
+double root 23 30
+# sent_id = 52
+double root 1 50
+# sent_id = 65
+double root 1 23
+# sent_id = 77
+double root 4 20
+# sent_id = 82
+double root 1 11
+# sent_id = 114
+double root 9 11
+# sent_id = 143
+double root 1 16
+# sent_id = 144
+double root 1 19
+# sent_id = 145
+double root 1 6
+# sent_id = 146
+double root 17 50
+# sent_id = 147
+double root 2 5
+# sent_id = 151
+double root 2 5
+# sent_id = 159
+double root 1 17
+# sent_id = 214
+double root 4 6
+# sent_id = 249
+double root 4 17
+# sent_id = 309
+double root 23 25
+# sent_id = 326
+double root 16 45
+# sent_id = 352
+double root 2 27
+# sent_id = 374
+double root 3 27
+# sent_id = 476
+double root 1 9
+# sent_id = 499
+double root 17 92
+# sent_id = 512
+double root 7 10
+# sent_id = 563
+double root 9 11
+# sent_id = 566
+double root 5 10
+# sent_id = 579
+double root 3 8
+# sent_id = 593
+double root 2 36
+# sent_id = 613
+double root 20 56
+# sent_id = 614
+double root 4 16
+# sent_id = 616
+double root 6 17
+# sent_id = 727
+double root 23 54
+# sent_id = 737
+double root 3 30
+# sent_id = 787
+double root 13 42
+# sent_id = 794
+double root 3 19
+# sent_id = 820
+double root 2 5
+# sent_id = 912
+double root 9 34
+# sent_id = 953
+double root 9 21
+# sent_id = 969
+double root 2 3
+# sent_id = 971
+double root 2 3
+# sent_id = 1017
+double root 2 12
+# sent_id = 1031
+double root 4 17
+# sent_id = 1062
+double root 13 21
+# sent_id = 1093
+double root 2 10
+# sent_id = 1097
+double root 10 14
+# sent_id = 1104
+double root 1 45
+# sent_id = 1116
+double root 2 3
+# sent_id = 1157
+double root 9 10
+# sent_id = 1189
+double root 6 17
+# sent_id = 1229
+double root 3 11
+double root 3 13
+# sent_id = 1238
+double root 3 8
+# sent_id = 1248
+double root 2 9
+# sent_id = 1269
+double root 3 25
+# sent_id = 1286
+double root 5 16
+# sent_id = 1297
+double root 3 5
+# sent_id = 1300
+double root 2 9
+# sent_id = 1350
+double root 4 6
+# sent_id = 1410
+double root 9 11
+# sent_id = 1426
+double root 3 11
+# sent_id = 1468
+double root 2 25
+# sent_id = 1475
+double root 1 10
+# sent_id = 1532
+double root 11 21
+# sent_id = 1561
+double root 1 13
+# sent_id = 1569
+double root 3 8
+# sent_id = 1623
+double root 1 23
+# sent_id = 1661
+double root 2 3
+# sent_id = 1692
+double root 2 24
+# sent_id = 1701
+Multiple roots removed
+Language: es-pud
+Model: UD_Spanish
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 43.833990097 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Spanish/embedding/wiki.2es.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1021 sentences read.
+Finished predicting test 63.688491106
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/es_pud.conllu.voting
+double root 3 4
+# sent_id = 33
+double root 3 14
+# newpar
+double root 3 16
+# newpar
+double root 8 14
+# newpar
+double root 5 8
+# sent_id = 272
+double root 2 10
+# sent_id = 295
+double root 3 11
+# newpar
+double root 3 22
+# newpar
+double root 9 15
+# sent_id = 445
+double root 8 13
+# newpar
+double root 2 3
+# sent_id = 459
+double root 3 6
+# sent_id = 479
+double root 6 21
+# sent_id = 520
+double root 1 24
+# sent_id = 577
+double root 3 11
+# sent_id = 678
+double root 11 18
+# newpar
+double root 13 19
+# sent_id = 813
+double root 2 26
+# sent_id = 850
+double root 3 14
+# newpar
+double root 3 4
+# sent_id = 1007
+Multiple roots removed
+Language: es-0
+Model: UD_Spanish
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 1.49622893333 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Spanish/embedding/wiki.2es.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+29 sentences read.
+Finished predicting test 1.78116202354
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/es.conllu.voting
+Multiple roots removed
+Language: fa-0
+Model: UD_Persian
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 34.0351090431 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Persian/embedding/wiki.fa.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+598 sentences read.
+Finished predicting test 45.4864041805
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/fa.conllu.voting
+double root 6 20
+# sent_id = 88
+double root 5 11
+# sent_id = 89
+double root 2 12
+# sent_id = 92
+double root 8 9
+# sent_id = 111
+double root 4 14
+# sent_id = 115
+double root 1 17
+# sent_id = 161
+double root 3 29
+double root 3 38
+# sent_id = 179
+double root 5 6
+# sent_id = 229
+double root 5 11
+# sent_id = 279
+double root 1 8
+# sent_id = 321
+double root 50 52
+# sent_id = 402
+double root 9 13
+# sent_id = 425
+double root 22 24
+# sent_id = 446
+double root 11 13
+# sent_id = 449
+double root 1 2
+# sent_id = 475
+double root 11 14
+# sent_id = 477
+double root 4 7
+# sent_id = 484
+double root 4 10
+# sent_id = 497
+double root 1 29
+# sent_id = 510
+double root 1 11
+# sent_id = 524
+double root 10 12
+# sent_id = 528
+double root 10 24
+# sent_id = 538
+double root 12 50
+double root 12 52
+# sent_id = 575
+double root 4 27
+# sent_id = 580
+double root 17 21
+# sent_id = 596
+double root 25 47
+# sent_id = 597
+Multiple roots removed
+Language: fr-partut
+Model: UD_French
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 25.8360240459 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_French/embedding/wiki.2fr.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+402 sentences read.
+Finished predicting test 28.086892128
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/fr_partut.conllu.voting
+double root 4 17
+double root 4 22
+# sent_id = 14
+double root 11 43
+# sent_id = 21
+double root 9 27
+# sent_id = 28
+double root 3 10
+# sent_id = 39
+double root 3 16
+# sent_id = 42
+double root 5 13
+# sent_id = 50
+double root 4 33
+# sent_id = 52
+double root 3 14
+# sent_id = 64
+double root 4 8
+# sent_id = 66
+double root 4 9
+# sent_id = 82
+double root 5 40
+# sent_id = 100
+double root 1 14
+# sent_id = 129
+double root 1 23
+# sent_id = 165
+double root 3 11
+# sent_id = 188
+double root 3 10
+# sent_id = 220
+double root 2 17
+# sent_id = 240
+double root 1 8
+# sent_id = 303
+double root 10 17
+# sent_id = 324
+double root 1 17
+# sent_id = 330
+double root 2 3
+# sent_id = 374
+Multiple roots removed
+Language: fr-pud
+Model: UD_French
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 47.6515471935 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_French/embedding/wiki.2fr.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1043 sentences read.
+Finished predicting test 67.6676700115
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/fr_pud.conllu.voting
+double root 6 25
+# sent_id = 4
+double root 2 8
+# newpar
+double root 3 20
+# newpar
+double root 6 11
+# sent_id = 24
+double root 8 20
+# sent_id = 59
+double root 3 6
+# sent_id = 116
+double root 6 19
+double root 6 20
+# newpar
+double root 1 8
+# sent_id = 217
+double root 2 15
+# sent_id = 218
+double root 2 5
+# newpar
+double root 1 5
+# newpar
+double root 10 20
+# newpar
+double root 5 9
+# newpar
+double root 11 16
+# sent_id = 286
+double root 6 12
+# sent_id = 308
+double root 3 7
+# sent_id = 322
+double root 2 12
+double root 2 13
+double root 2 38
+# newpar
+double root 4 13
+# sent_id = 357
+double root 2 5
+# sent_id = 376
+double root 2 4
+# sent_id = 390
+double root 6 23
+# sent_id = 394
+double root 1 7
+# sent_id = 466
+double root 4 7
+# sent_id = 481
+double root 7 30
+# sent_id = 515
+double root 7 12
+# sent_id = 561
+double root 2 21
+# newpar
+double root 8 27
+# sent_id = 600
+double root 7 10
+# newpar
+double root 6 21
+# sent_id = 637
+double root 3 5
+# sent_id = 692
+double root 3 14
+# newpar
+double root 1 22
+# newpar
+double root 15 31
+# sent_id = 833
+double root 2 11
+# sent_id = 905
+double root 4 15
+# sent_id = 933
+double root 5 14
+# sent_id = 1011
+Multiple roots removed
+Language: fr-sequoia
+Model: UD_French
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 22.577368021 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_French/embedding/wiki.2fr.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+430 sentences read.
+Finished predicting test 27.3706860542
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/fr_sequoia.conllu.voting
+double root 2 5
+# sent_id = 34
+double root 3 6
+# sent_id = 35
+double root 3 6
+# sent_id = 43
+double root 1 2
+double root 1 3
+# sent_id = 63
+double root 3 25
+# sent_id = 80
+double root 1 8
+# sent_id = 96
+double root 3 6
+double root 3 19
+# sent_id = 99
+double root 5 13
+# sent_id = 105
+double root 1 13
+# sent_id = 109
+double root 2 6
+# sent_id = 142
+double root 1 9
+# sent_id = 210
+double root 15 25
+# sent_id = 212
+double root 4 14
+# sent_id = 214
+double root 3 5
+# sent_id = 273
+double root 10 14
+# sent_id = 280
+double root 9 12
+# sent_id = 291
+double root 2 6
+# sent_id = 316
+double root 46 81
+# sent_id = 334
+double root 3 6
+# sent_id = 335
+double root 23 32
+# sent_id = 347
+double root 2 15
+# sent_id = 351
+double root 2 5
+# sent_id = 362
+double root 2 9
+# sent_id = 386
+double root 1 8
+# sent_id = 394
+Multiple roots removed
+Language: fr-0
+Model: UD_French
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 20.5121250153 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_French/embedding/wiki.2fr.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+411 sentences read.
+Finished predicting test 26.0207169056
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/fr.conllu.voting
+double root 3 6
+# sent_id = 29
+double root 7 8
+# sent_id = 69
+double root 3 8
+# sent_id = 75
+double root 2 5
+# sent_id = 94
+double root 1 9
+# sent_id = 126
+double root 5 9
+# sent_id = 166
+double root 2 3
+# sent_id = 168
+double root 7 10
+# sent_id = 186
+double root 8 26
+# sent_id = 187
+double root 3 19
+# sent_id = 197
+double root 3 4
+# sent_id = 201
+double root 7 18
+# sent_id = 212
+double root 17 27
+# sent_id = 255
+double root 14 20
+# sent_id = 272
+double root 10 42
+# sent_id = 320
+double root 31 38
+double root 31 42
+double root 31 44
+# sent_id = 381
+double root 15 49
+# sent_id = 382
+double root 4 8
+# sent_id = 387
+Multiple roots removed
+Language: ga-0
+Model: UD_Irish
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 24.5281410217 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Irish/embedding/wiki.ga.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+452 sentences read.
+Finished predicting test 25.5397090912
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/ga.conllu.voting
+Multiple roots removed
+Language: gl-treegal
+Model: UD_Galician
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 23.2203800678 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Galician/embedding/wiki.gl.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+384 sentences read.
+Finished predicting test 26.450168848
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/gl_treegal.conllu.voting
+double root 3 7
+# sent_id = 6
+double root 2 38
+# sent_id = 16
+double root 2 10
+# sent_id = 23
+double root 2 13
+# sent_id = 24
+double root 1 18
+double root 1 24
+# sent_id = 37
+double root 1 25
+# sent_id = 39
+double root 14 27
+# sent_id = 42
+double root 3 4
+# sent_id = 44
+double root 1 8
+# sent_id = 60
+double root 1 5
+# sent_id = 62
+double root 1 4
+# sent_id = 77
+double root 10 20
+# sent_id = 78
+double root 2 9
+# sent_id = 80
+double root 1 7
+# sent_id = 96
+double root 1 2
+# sent_id = 102
+double root 3 8
+# sent_id = 103
+double root 4 9
+# sent_id = 106
+double root 2 6
+# sent_id = 109
+double root 1 2
+# sent_id = 120
+double root 14 38
+# sent_id = 121
+double root 4 9
+# sent_id = 122
+double root 3 5
+# sent_id = 133
+double root 7 37
+# sent_id = 137
+double root 3 11
+# sent_id = 141
+double root 2 4
+# sent_id = 143
+double root 2 24
+# sent_id = 147
+double root 1 2
+# sent_id = 174
+double root 3 6
+# sent_id = 177
+double root 1 3
+# sent_id = 189
+double root 3 16
+# sent_id = 204
+double root 1 7
+# sent_id = 216
+double root 1 41
+# sent_id = 224
+double root 2 27
+# sent_id = 236
+double root 1 15
+# sent_id = 243
+double root 5 10
+# sent_id = 279
+double root 2 18
+# sent_id = 290
+double root 1 4
+# sent_id = 311
+double root 1 18
+# sent_id = 319
+double root 1 10
+# sent_id = 324
+double root 2 10
+# sent_id = 333
+double root 1 17
+# sent_id = 344
+double root 2 6
+# sent_id = 361
+double root 21 62
+# sent_id = 369
+Multiple roots removed
+Language: gl-0
+Model: UD_Galician
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 67.1799278259 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Galician/embedding/wiki.gl.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+877 sentences read.
+Finished predicting test 79.1212580204
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/gl.conllu.voting
+double root 29 35
+# sent_id = 5
+double root 2 9
+# sent_id = 26
+double root 1 15
+# sent_id = 34
+double root 7 16
+# sent_id = 49
+double root 5 19
+# sent_id = 56
+double root 5 17
+# sent_id = 61
+double root 3 21
+# sent_id = 66
+double root 2 15
+# sent_id = 87
+double root 12 26
+# sent_id = 104
+double root 1 20
+# sent_id = 111
+double root 13 15
+double root 13 17
+# sent_id = 113
+double root 3 33
+# sent_id = 131
+double root 2 11
+# sent_id = 143
+double root 3 17
+# sent_id = 160
+double root 1 25
+# sent_id = 167
+double root 5 17
+# sent_id = 171
+double root 2 39
+# sent_id = 176
+double root 2 4
+# sent_id = 177
+double root 3 15
+# sent_id = 179
+double root 1 13
+# sent_id = 187
+double root 7 27
+# sent_id = 191
+double root 1 3
+double root 1 5
+# sent_id = 193
+double root 3 6
+double root 3 34
+# sent_id = 202
+double root 2 11
+# sent_id = 209
+double root 1 22
+# sent_id = 213
+double root 15 18
+# sent_id = 214
+double root 2 33
+# sent_id = 224
+double root 9 25
+# sent_id = 226
+double root 4 15
+double root 4 27
+# sent_id = 241
+double root 2 17
+# sent_id = 242
+double root 9 11
+# sent_id = 258
+double root 4 6
+# sent_id = 268
+double root 8 10
+# sent_id = 280
+double root 7 9
+# sent_id = 287
+double root 5 9
+# sent_id = 301
+double root 4 54
+# sent_id = 314
+double root 2 3
+# sent_id = 317
+double root 5 22
+# sent_id = 325
+double root 16 20
+# sent_id = 339
+double root 1 4
+# sent_id = 361
+double root 1 54
+# sent_id = 363
+double root 9 19
+# sent_id = 366
+double root 7 28
+# sent_id = 368
+double root 3 16
+# sent_id = 369
+double root 16 52
+# sent_id = 376
+double root 3 21
+# sent_id = 379
+double root 4 9
+# sent_id = 393
+double root 2 10
+# sent_id = 396
+double root 3 37
+# sent_id = 400
+double root 1 17
+# sent_id = 402
+double root 1 3
+# sent_id = 410
+double root 4 32
+# sent_id = 416
+double root 3 11
+# sent_id = 419
+double root 1 5
+double root 1 38
+# sent_id = 428
+double root 9 18
+# sent_id = 438
+double root 2 33
+# sent_id = 445
+double root 1 30
+# sent_id = 448
+double root 2 18
+# sent_id = 451
+double root 2 8
+# sent_id = 455
+double root 18 21
+# sent_id = 474
+double root 6 18
+# sent_id = 477
+double root 2 17
+# sent_id = 488
+double root 1 7
+# sent_id = 492
+double root 8 22
+# sent_id = 493
+double root 8 15
+# sent_id = 504
+double root 5 32
+# sent_id = 509
+double root 13 14
+# sent_id = 513
+double root 2 3
+# sent_id = 515
+double root 12 14
+# sent_id = 522
+double root 7 14
+# sent_id = 524
+double root 29 41
+# sent_id = 525
+double root 10 27
+# sent_id = 528
+double root 20 29
+# sent_id = 534
+double root 6 32
+# sent_id = 566
+double root 6 12
+# sent_id = 569
+double root 18 35
+# sent_id = 574
+double root 1 14
+# sent_id = 585
+double root 1 10
+# sent_id = 589
+double root 2 27
+# sent_id = 590
+double root 2 46
+# sent_id = 619
+double root 1 25
+# sent_id = 621
+double root 6 18
+double root 6 20
+# sent_id = 643
+double root 1 13
+# sent_id = 649
+double root 20 22
+# sent_id = 653
+double root 2 12
+# sent_id = 672
+double root 19 31
+# sent_id = 680
+double root 5 11
+# sent_id = 681
+double root 10 28
+# sent_id = 688
+double root 16 17
+# sent_id = 694
+double root 5 18
+# sent_id = 712
+double root 2 22
+# sent_id = 727
+double root 5 10
+# sent_id = 731
+double root 3 19
+# sent_id = 742
+double root 1 12
+# sent_id = 744
+double root 5 24
+# sent_id = 749
+double root 6 34
+# sent_id = 766
+double root 1 16
+# sent_id = 769
+double root 3 14
+# sent_id = 778
+double root 12 18
+double root 12 27
+# sent_id = 780
+double root 1 7
+# sent_id = 786
+double root 11 38
+# sent_id = 787
+double root 15 16
+# sent_id = 788
+double root 1 15
+double root 1 18
+# sent_id = 789
+double root 4 18
+# sent_id = 802
+double root 8 16
+# sent_id = 816
+double root 2 10
+# sent_id = 835
+double root 2 6
+# sent_id = 842
+double root 4 5
+# sent_id = 854
+double root 20 26
+# sent_id = 855
+double root 9 32
+# sent_id = 868
+Multiple roots removed
+Language: got-0
+Model: UD_Gothic
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 17.2246439457 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Gothic/embedding/wiki.got.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+825 sentences read.
+Finished predicting test 25.7707021236
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/got.conllu.voting
+double root 3 4
+double root 3 5
+# sent_id = 3
+double root 8 22
+# sent_id = 7
+double root 3 5
+# sent_id = 9
+double root 1 7
+# newpar
+double root 1 2
+# sent_id = 15
+double root 9 17
+double root 9 19
+# sent_id = 19
+double root 3 6
+# sent_id = 29
+double root 2 5
+# sent_id = 44
+double root 2 4
+# sent_id = 50
+double root 1 4
+double root 1 6
+double root 1 8
+# sent_id = 58
+double root 1 6
+# sent_id = 59
+double root 1 8
+# sent_id = 67
+double root 6 9
+# sent_id = 70
+double root 4 7
+# sent_id = 74
+double root 19 29
+# sent_id = 80
+double root 5 7
+# sent_id = 104
+double root 5 9
+# sent_id = 106
+double root 9 16
+# sent_id = 110
+double root 8 28
+# sent_id = 114
+double root 2 9
+# sent_id = 126
+double root 2 6
+# sent_id = 133
+double root 1 10
+# sent_id = 135
+double root 5 6
+# sent_id = 144
+double root 1 7
+double root 1 38
+double root 1 44
+# sent_id = 150
+double root 1 3
+# sent_id = 165
+double root 1 3
+# sent_id = 171
+double root 3 19
+# sent_id = 180
+double root 2 9
+# sent_id = 182
+double root 7 24
+double root 7 25
+# sent_id = 192
+double root 1 11
+# sent_id = 196
+double root 1 11
+# sent_id = 209
+double root 4 7
+# sent_id = 215
+double root 5 10
+# sent_id = 216
+double root 1 2
+double root 1 10
+# sent_id = 217
+double root 3 4
+double root 3 7
+double root 3 8
+# sent_id = 221
+double root 3 34
+double root 3 43
+double root 3 47
+# sent_id = 231
+double root 1 69
+# sent_id = 238
+double root 6 8
+# sent_id = 249
+double root 4 5
+# sent_id = 259
+double root 1 8
+# sent_id = 268
+double root 1 3
+# sent_id = 281
+double root 3 4
+# sent_id = 285
+double root 7 19
+double root 7 25
+# sent_id = 297
+double root 4 6
+# sent_id = 300
+double root 5 16
+# sent_id = 306
+double root 3 11
+# sent_id = 308
+double root 1 6
+# sent_id = 315
+double root 7 23
+# sent_id = 317
+double root 2 4
+# sent_id = 371
+double root 3 27
+# sent_id = 375
+double root 14 27
+# sent_id = 382
+double root 6 7
+double root 6 20
+# sent_id = 384
+double root 12 15
+# sent_id = 385
+double root 2 19
+# sent_id = 392
+double root 1 10
+# sent_id = 400
+double root 4 7
+# sent_id = 409
+double root 2 7
+# sent_id = 429
+double root 2 9
+# sent_id = 431
+double root 3 10
+# sent_id = 434
+double root 3 7
+# sent_id = 436
+double root 2 7
+# sent_id = 440
+double root 10 13
+# sent_id = 442
+double root 1 14
+# sent_id = 445
+double root 3 7
+# sent_id = 454
+double root 1 4
+# sent_id = 462
+double root 1 7
+# sent_id = 471
+double root 2 4
+# newpar
+double root 2 7
+# sent_id = 480
+double root 2 9
+# sent_id = 484
+double root 5 8
+double root 5 10
+double root 5 13
+double root 5 14
+# sent_id = 501
+double root 1 10
+double root 1 17
+# sent_id = 519
+double root 5 10
+# sent_id = 524
+double root 3 25
+# sent_id = 527
+double root 5 14
+# sent_id = 536
+double root 1 11
+# sent_id = 537
+double root 3 9
+# sent_id = 538
+double root 1 10
+# sent_id = 559
+double root 1 8
+# sent_id = 561
+double root 1 3
+# sent_id = 583
+double root 1 11
+# sent_id = 590
+double root 2 3
+# sent_id = 597
+double root 3 4
+# sent_id = 598
+double root 1 3
+# sent_id = 599
+double root 1 5
+# sent_id = 610
+double root 3 12
+# sent_id = 652
+double root 2 9
+# sent_id = 653
+double root 1 9
+# sent_id = 655
+double root 3 9
+# sent_id = 658
+double root 2 5
+double root 2 14
+# sent_id = 666
+double root 1 21
+# newpar
+double root 1 9
+# sent_id = 678
+double root 3 9
+# sent_id = 679
+double root 2 8
+# sent_id = 683
+double root 5 33
+# sent_id = 685
+double root 2 3
+# sent_id = 687
+double root 2 4
+# sent_id = 692
+double root 3 8
+# sent_id = 702
+double root 1 4
+# newpar
+double root 3 7
+# sent_id = 721
+double root 4 10
+# sent_id = 724
+double root 2 4
+# sent_id = 725
+double root 2 3
+# sent_id = 729
+double root 14 20
+# sent_id = 733
+double root 4 13
+# sent_id = 740
+double root 1 6
+# sent_id = 745
+double root 3 4
+double root 3 6
+# newpar
+double root 4 6
+double root 4 9
+# sent_id = 750
+double root 5 26
+# sent_id = 757
+double root 1 4
+# sent_id = 758
+double root 1 52
+# sent_id = 770
+double root 4 10
+# sent_id = 775
+double root 1 3
+# sent_id = 776
+double root 1 5
+# sent_id = 778
+double root 1 7
+# sent_id = 783
+double root 2 4
+# sent_id = 784
+double root 4 9
+# sent_id = 792
+double root 7 10
+# sent_id = 793
+double root 3 10
+# sent_id = 794
+double root 3 6
+# sent_id = 796
+double root 7 23
+# sent_id = 800
+double root 3 4
+double root 3 9
+# sent_id = 802
+double root 3 34
+# newpar
+double root 2 12
+# sent_id = 808
+double root 2 5
+double root 2 10
+double root 2 12
+# sent_id = 809
+double root 3 54
+# sent_id = 810
+double root 7 8
+# sent_id = 813
+double root 5 13
+# sent_id = 815
+double root 2 18
+# sent_id = 816
+double root 1 20
+# sent_id = 823
+Multiple roots removed
+Language: grc-proiel
+Model: UD_Ancient_Greek
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 25.8929708004 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: None
+0 dropped non-projective sentences.
+869 sentences read.
+Finished predicting test 24.4310059547
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/grc_proiel.conllu.voting
+Multiple roots removed
+Language: grc-0
+Model: UD_Ancient_Greek
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 34.7006280422 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: None
+0 dropped non-projective sentences.
+1309 sentences read.
+Finished predicting test 36.8013298512
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/grc.conllu.voting
+double root 3 18
+double root 3 29
+# sent_id = 4
+double root 8 18
+# sent_id = 6
+double root 2 13
+# sent_id = 7
+double root 1 15
+# sent_id = 11
+double root 10 27
+# sent_id = 13
+double root 3 5
+# sent_id = 23
+double root 2 11
+# sent_id = 26
+double root 3 4
+# sent_id = 27
+double root 1 9
+# sent_id = 28
+double root 1 17
+# sent_id = 37
+double root 2 3
+# sent_id = 44
+double root 3 4
+double root 3 9
+# sent_id = 46
+double root 1 4
+# sent_id = 48
+double root 1 11
+# sent_id = 52
+double root 1 4
+# sent_id = 56
+double root 5 9
+# sent_id = 57
+double root 3 8
+# sent_id = 58
+double root 3 5
+# sent_id = 60
+double root 2 3
+double root 2 7
+# sent_id = 61
+double root 2 6
+double root 2 13
+# sent_id = 68
+double root 6 11
+# sent_id = 69
+double root 5 7
+# sent_id = 72
+double root 7 11
+# sent_id = 73
+double root 2 4
+double root 2 5
+# sent_id = 77
+double root 4 9
+# sent_id = 79
+double root 2 6
+# sent_id = 85
+double root 2 7
+# sent_id = 95
+double root 2 5
+double root 2 22
+# sent_id = 103
+double root 8 26
+# sent_id = 104
+double root 1 8
+# sent_id = 107
+double root 3 18
+# sent_id = 112
+double root 1 8
+# sent_id = 113
+double root 1 8
+# sent_id = 120
+double root 2 7
+# sent_id = 125
+double root 1 5
+# sent_id = 126
+double root 1 7
+# sent_id = 127
+double root 10 13
+# sent_id = 128
+double root 1 2
+# sent_id = 129
+double root 1 16
+# sent_id = 133
+double root 1 9
+# sent_id = 135
+double root 1 14
+# sent_id = 136
+double root 5 8
+double root 5 9
+double root 5 21
+# sent_id = 139
+double root 2 4
+double root 2 5
+double root 2 9
+# sent_id = 143
+double root 11 14
+# sent_id = 147
+double root 5 7
+# sent_id = 149
+double root 3 13
+# sent_id = 155
+double root 1 2
+double root 1 8
+double root 1 11
+# sent_id = 158
+double root 3 8
+# sent_id = 160
+double root 5 7
+# sent_id = 170
+double root 4 9
+# sent_id = 172
+double root 1 3
+# sent_id = 175
+double root 2 3
+# sent_id = 179
+double root 7 21
+# sent_id = 188
+double root 1 4
+# sent_id = 192
+double root 1 8
+# sent_id = 197
+double root 3 5
+# sent_id = 198
+double root 2 14
+# sent_id = 200
+double root 1 4
+# sent_id = 202
+double root 2 7
+# sent_id = 205
+double root 1 2
+# sent_id = 220
+double root 5 10
+# sent_id = 221
+double root 5 43
+# sent_id = 222
+double root 2 5
+# sent_id = 223
+double root 2 9
+double root 2 10
+# sent_id = 225
+double root 2 3
+double root 2 4
+# sent_id = 226
+double root 7 12
+# sent_id = 227
+double root 26 27
+# sent_id = 228
+double root 1 8
+# sent_id = 230
+double root 2 7
+# sent_id = 231
+double root 1 3
+# sent_id = 243
+double root 6 11
+# sent_id = 250
+double root 1 2
+double root 1 6
+double root 1 7
+double root 1 16
+# sent_id = 252
+double root 3 6
+# sent_id = 256
+double root 11 22
+# sent_id = 267
+double root 2 20
+# sent_id = 271
+double root 5 17
+# sent_id = 281
+double root 7 8
+# sent_id = 285
+double root 5 6
+# sent_id = 297
+double root 7 9
+# sent_id = 300
+double root 7 9
+# sent_id = 301
+double root 1 5
+double root 1 10
+# sent_id = 302
+double root 11 12
+# sent_id = 306
+double root 1 2
+# sent_id = 307
+double root 1 7
+# sent_id = 309
+double root 11 12
+# sent_id = 310
+double root 2 7
+# sent_id = 312
+double root 5 28
+# sent_id = 316
+double root 1 4
+# sent_id = 319
+double root 1 2
+double root 1 5
+double root 1 19
+# sent_id = 320
+double root 1 9
+# sent_id = 330
+double root 7 11
+# sent_id = 331
+double root 2 5
+# sent_id = 335
+double root 1 2
+double root 1 5
+double root 1 6
+double root 1 13
+# sent_id = 336
+double root 2 10
+# sent_id = 337
+double root 4 5
+# sent_id = 338
+double root 10 32
+# sent_id = 339
+double root 1 14
+# sent_id = 340
+double root 3 5
+# sent_id = 341
+double root 2 4
+double root 2 50
+# sent_id = 342
+double root 3 16
+# sent_id = 349
+double root 2 3
+double root 2 4
+double root 2 5
+double root 2 16
+double root 2 47
+# sent_id = 350
+double root 16 20
+# sent_id = 358
+double root 5 7
+# sent_id = 360
+double root 4 9
+# sent_id = 373
+double root 5 9
+# sent_id = 374
+double root 3 11
+# sent_id = 376
+double root 2 8
+# sent_id = 380
+double root 1 7
+# sent_id = 383
+double root 9 11
+# sent_id = 389
+double root 1 2
+double root 1 5
+# sent_id = 399
+double root 2 17
+# sent_id = 401
+double root 2 8
+# sent_id = 405
+double root 5 17
+# sent_id = 413
+double root 5 8
+# sent_id = 427
+double root 1 7
+double root 1 26
+# sent_id = 429
+double root 5 8
+# sent_id = 431
+double root 9 17
+# sent_id = 434
+double root 9 11
+double root 9 27
+# sent_id = 441
+double root 4 10
+# sent_id = 444
+double root 10 13
+# sent_id = 448
+double root 7 16
+# sent_id = 449
+double root 5 6
+double root 5 8
+double root 5 19
+double root 5 41
+# sent_id = 457
+double root 2 3
+double root 2 4
+# sent_id = 459
+double root 6 12
+# sent_id = 461
+double root 8 18
+# sent_id = 463
+double root 6 17
+# sent_id = 466
+double root 1 8
+# sent_id = 473
+double root 3 4
+# sent_id = 476
+double root 1 27
+# sent_id = 487
+double root 2 8
+double root 2 13
+# sent_id = 490
+double root 10 19
+# sent_id = 491
+double root 5 11
+# sent_id = 492
+double root 2 5
+double root 2 21
+# sent_id = 494
+double root 6 7
+# sent_id = 501
+double root 4 12
+# sent_id = 504
+double root 1 2
+# sent_id = 505
+double root 1 11
+# sent_id = 509
+double root 5 7
+# sent_id = 510
+double root 4 17
+# sent_id = 511
+double root 4 11
+# sent_id = 522
+double root 2 10
+# sent_id = 533
+double root 3 4
+# sent_id = 535
+double root 10 13
+# sent_id = 537
+double root 8 13
+double root 8 27
+# sent_id = 538
+double root 9 19
+# sent_id = 543
+double root 11 29
+# sent_id = 545
+double root 4 7
+# sent_id = 546
+double root 4 5
+# sent_id = 547
+double root 3 9
+# sent_id = 550
+double root 4 6
+# sent_id = 558
+double root 4 13
+# sent_id = 559
+double root 1 6
+# sent_id = 560
+double root 1 5
+# sent_id = 563
+double root 3 5
+# sent_id = 565
+double root 1 4
+# sent_id = 571
+double root 6 8
+# sent_id = 577
+double root 4 11
+# sent_id = 582
+double root 1 7
+# sent_id = 586
+double root 14 25
+# sent_id = 590
+double root 3 4
+# sent_id = 593
+double root 1 9
+# sent_id = 594
+double root 2 3
+double root 2 5
+# sent_id = 596
+double root 3 7
+# sent_id = 598
+double root 4 7
+# sent_id = 601
+double root 1 5
+# sent_id = 604
+double root 2 7
+# sent_id = 605
+double root 3 7
+# sent_id = 610
+double root 3 5
+double root 3 7
+# sent_id = 619
+double root 2 8
+# sent_id = 621
+double root 4 6
+# sent_id = 628
+double root 1 5
+# sent_id = 631
+double root 1 2
+# sent_id = 632
+double root 1 6
+# sent_id = 634
+double root 2 5
+# sent_id = 652
+double root 1 8
+# sent_id = 653
+double root 3 5
+double root 3 9
+# sent_id = 657
+double root 2 4
+# sent_id = 658
+double root 1 3
+double root 1 21
+# sent_id = 660
+double root 2 7
+double root 2 17
+# sent_id = 662
+double root 2 7
+double root 2 8
+# sent_id = 665
+double root 2 5
+# sent_id = 667
+double root 1 12
+# sent_id = 668
+double root 9 14
+# sent_id = 674
+double root 1 10
+# sent_id = 678
+double root 5 8
+double root 5 9
+double root 5 23
+# sent_id = 681
+double root 3 8
+# sent_id = 684
+double root 1 14
+# sent_id = 688
+double root 3 9
+double root 3 13
+# sent_id = 691
+double root 1 2
+double root 1 9
+# sent_id = 706
+double root 5 10
+# sent_id = 708
+double root 3 6
+# sent_id = 709
+double root 5 16
+# sent_id = 715
+double root 3 9
+# sent_id = 718
+double root 1 2
+double root 1 33
+# sent_id = 722
+double root 6 12
+# sent_id = 724
+double root 1 8
+# sent_id = 727
+double root 2 8
+# sent_id = 730
+double root 2 8
+# sent_id = 737
+double root 1 6
+# sent_id = 739
+double root 1 7
+# sent_id = 742
+double root 2 3
+# sent_id = 746
+double root 3 13
+# sent_id = 747
+double root 15 19
+# sent_id = 754
+double root 2 3
+double root 2 11
+# sent_id = 759
+double root 1 8
+# sent_id = 762
+double root 1 5
+# sent_id = 781
+double root 1 2
+# sent_id = 790
+double root 2 5
+double root 2 6
+# sent_id = 795
+double root 6 14
+# sent_id = 803
+double root 2 3
+double root 2 4
+# sent_id = 805
+double root 2 3
+# sent_id = 812
+double root 5 8
+# sent_id = 819
+double root 6 8
+# sent_id = 820
+double root 3 11
+# sent_id = 824
+double root 1 2
+double root 1 29
+# sent_id = 826
+double root 3 6
+# sent_id = 830
+double root 1 4
+# sent_id = 840
+double root 2 6
+double root 2 7
+double root 2 8
+# sent_id = 841
+double root 3 4
+# sent_id = 844
+double root 4 10
+# sent_id = 846
+double root 4 16
+# sent_id = 852
+double root 2 5
+# sent_id = 854
+double root 1 9
+# sent_id = 855
+double root 3 11
+# sent_id = 860
+double root 5 12
+# sent_id = 862
+double root 2 3
+# sent_id = 866
+double root 3 12
+# sent_id = 869
+double root 6 7
+double root 6 16
+# sent_id = 870
+double root 5 17
+# sent_id = 872
+double root 1 4
+# sent_id = 874
+double root 18 23
+double root 18 24
+# sent_id = 875
+double root 1 13
+# sent_id = 876
+double root 1 11
+# sent_id = 878
+double root 4 5
+# sent_id = 880
+double root 10 24
+# sent_id = 883
+double root 3 13
+# sent_id = 891
+double root 1 5
+# sent_id = 893
+double root 10 11
+# sent_id = 898
+double root 2 6
+# sent_id = 902
+double root 18 19
+# sent_id = 903
+double root 5 12
+# sent_id = 909
+double root 13 17
+# sent_id = 910
+double root 1 5
+double root 1 11
+# sent_id = 923
+double root 9 10
+# sent_id = 924
+double root 3 13
+# sent_id = 925
+double root 4 11
+# sent_id = 931
+double root 20 23
+# sent_id = 935
+double root 6 7
+# sent_id = 936
+double root 1 14
+# sent_id = 944
+double root 1 2
+# sent_id = 945
+double root 12 16
+# sent_id = 947
+double root 3 4
+double root 3 7
+double root 3 13
+# sent_id = 948
+double root 3 11
+# sent_id = 952
+double root 6 7
+# sent_id = 953
+double root 4 9
+double root 4 16
+# sent_id = 956
+double root 1 21
+# sent_id = 960
+double root 7 12
+# sent_id = 962
+double root 5 20
+# sent_id = 965
+double root 5 7
+# sent_id = 967
+double root 2 3
+double root 2 12
+# sent_id = 976
+double root 2 7
+# sent_id = 977
+double root 1 12
+# sent_id = 979
+double root 20 26
+# sent_id = 980
+double root 5 18
+# sent_id = 983
+double root 1 3
+# sent_id = 985
+double root 5 17
+# sent_id = 986
+double root 3 6
+# sent_id = 988
+double root 1 11
+# sent_id = 991
+double root 14 16
+# sent_id = 995
+double root 2 5
+# sent_id = 998
+double root 9 16
+# sent_id = 999
+double root 1 2
+# sent_id = 1002
+double root 3 5
+# sent_id = 1006
+double root 1 10
+# sent_id = 1011
+double root 6 7
+# sent_id = 1012
+double root 5 8
+double root 5 12
+# sent_id = 1019
+double root 2 5
+# sent_id = 1026
+double root 3 5
+# sent_id = 1032
+double root 5 20
+# sent_id = 1035
+double root 3 17
+double root 3 18
+# sent_id = 1038
+double root 3 8
+# sent_id = 1039
+double root 14 20
+# sent_id = 1040
+double root 4 17
+# sent_id = 1043
+double root 2 4
+double root 2 7
+# sent_id = 1050
+double root 4 5
+# sent_id = 1053
+double root 11 13
+# sent_id = 1064
+double root 5 8
+# sent_id = 1066
+double root 6 22
+# sent_id = 1069
+double root 3 12
+# sent_id = 1075
+double root 1 5
+# sent_id = 1084
+double root 11 18
+# sent_id = 1088
+double root 1 13
+# sent_id = 1090
+double root 5 7
+# sent_id = 1092
+double root 1 2
+double root 1 4
+double root 1 9
+# sent_id = 1099
+double root 4 5
+# sent_id = 1100
+double root 5 11
+# sent_id = 1116
+double root 9 10
+# sent_id = 1123
+double root 4 6
+# sent_id = 1126
+double root 2 5
+double root 2 9
+# sent_id = 1132
+double root 2 14
+# sent_id = 1133
+double root 4 8
+# sent_id = 1135
+double root 3 4
+# sent_id = 1139
+double root 2 3
+double root 2 14
+# sent_id = 1140
+double root 2 13
+double root 2 16
+double root 2 24
+# sent_id = 1149
+double root 3 11
+# sent_id = 1153
+double root 6 7
+# sent_id = 1154
+double root 1 4
+# sent_id = 1155
+double root 5 21
+# sent_id = 1156
+double root 3 5
+# sent_id = 1158
+double root 5 13
+# sent_id = 1159
+double root 1 4
+# sent_id = 1163
+double root 20 23
+# sent_id = 1181
+double root 11 12
+# sent_id = 1183
+double root 7 8
+# sent_id = 1198
+double root 7 19
+# sent_id = 1200
+double root 2 15
+# sent_id = 1201
+double root 5 7
+double root 5 8
+double root 5 9
+double root 5 23
+# sent_id = 1205
+double root 3 9
+# sent_id = 1206
+double root 2 5
+# sent_id = 1212
+double root 5 24
+# sent_id = 1215
+double root 1 4
+# sent_id = 1220
+double root 5 11
+# sent_id = 1223
+double root 5 8
+# sent_id = 1226
+double root 1 14
+# sent_id = 1237
+double root 3 4
+# sent_id = 1238
+double root 1 2
+double root 1 13
+# sent_id = 1239
+double root 5 9
+# sent_id = 1244
+double root 11 13
+# sent_id = 1248
+double root 2 5
+# sent_id = 1264
+double root 5 10
+# sent_id = 1265
+double root 2 5
+double root 2 8
+# sent_id = 1274
+double root 2 10
+double root 2 18
+# sent_id = 1275
+double root 2 3
+double root 2 6
+# sent_id = 1282
+double root 6 8
+# sent_id = 1286
+double root 4 9
+# sent_id = 1288
+double root 1 2
+# sent_id = 1289
+double root 1 5
+# sent_id = 1298
+double root 1 2
+# sent_id = 1304
+double root 1 2
+# sent_id = 1306
+double root 10 13
+# sent_id = 1309
+Multiple roots removed
+Language: he-0
+Model: UD_Hebrew
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 21.873180151 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Hebrew/embedding/wiki.he.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+491 sentences read.
+Finished predicting test 33.88539505
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/he.conllu.voting
+double root 5 20
+# sent_id = 12
+double root 7 12
+# sent_id = 22
+double root 5 7
+# sent_id = 43
+double root 3 8
+# sent_id = 52
+double root 2 3
+# sent_id = 82
+double root 3 8
+# sent_id = 88
+double root 7 8
+# sent_id = 127
+double root 4 12
+# sent_id = 137
+double root 5 6
+# sent_id = 142
+double root 2 3
+# sent_id = 145
+double root 6 8
+# sent_id = 146
+double root 1 5
+# sent_id = 158
+double root 5 6
+# sent_id = 167
+double root 1 10
+# sent_id = 183
+double root 3 25
+# sent_id = 197
+double root 10 26
+# sent_id = 215
+double root 12 22
+double root 12 23
+# sent_id = 241
+double root 12 15
+# sent_id = 260
+double root 3 13
+# sent_id = 261
+double root 5 10
+# sent_id = 268
+double root 3 12
+# sent_id = 269
+double root 2 6
+# sent_id = 290
+double root 5 15
+# sent_id = 298
+double root 6 27
+# sent_id = 309
+double root 2 6
+# sent_id = 311
+double root 2 5
+# sent_id = 318
+double root 8 55
+# sent_id = 327
+double root 3 6
+# sent_id = 339
+double root 1 8
+# sent_id = 341
+double root 1 6
+# sent_id = 367
+double root 3 6
+# sent_id = 378
+double root 5 27
+# sent_id = 379
+double root 4 11
+# sent_id = 382
+double root 1 17
+# sent_id = 385
+double root 1 7
+# sent_id = 389
+double root 1 5
+# sent_id = 391
+double root 5 19
+# sent_id = 396
+double root 7 10
+# sent_id = 397
+double root 11 19
+double root 11 20
+# sent_id = 399
+double root 1 15
+# sent_id = 400
+double root 7 12
+# sent_id = 411
+double root 2 4
+double root 2 15
+# sent_id = 434
+double root 2 5
+# sent_id = 441
+double root 12 15
+# sent_id = 446
+double root 1 3
+# sent_id = 448
+double root 2 10
+# sent_id = 469
+double root 6 17
+# sent_id = 471
+double root 2 19
+# sent_id = 473
+double root 5 15
+# sent_id = 475
+double root 8 21
+# sent_id = 476
+double root 2 3
+# sent_id = 479
+double root 1 28
+# sent_id = 482
+double root 1 16
+# sent_id = 484
+double root 2 24
+# sent_id = 485
+double root 1 4
+# sent_id = 488
+Multiple roots removed
+Language: hi-pud
+Model: UD_Hindi
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Hindi/embedding/wiki.hi.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1050 sentences read.
+Finished predicting test 61.729208231
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/hi_pud.conllu.voting
+double root 15 31
+# sent_id = 4
+double root 3 14
+# sent_id = 20
+double root 10 13
+double root 10 14
+# newpar
+double root 22 27
+# newpar
+double root 2 6
+double root 2 8
+# sent_id = 51
+double root 2 3
+# newpar
+double root 6 28
+# newpar
+double root 22 32
+# sent_id = 79
+double root 9 25
+double root 9 33
+double root 9 36
+# newpar
+double root 12 22
+# sent_id = 103
+double root 16 27
+double root 16 32
+double root 16 35
+# newpar
+double root 30 31
+# sent_id = 123
+double root 3 4
+double root 3 6
+double root 3 8
+# sent_id = 135
+double root 8 19
+# newpar
+double root 9 11
+double root 9 14
+# sent_id = 161
+double root 12 35
+# sent_id = 164
+double root 8 21
+# sent_id = 168
+double root 9 14
+double root 9 15
+# newpar
+double root 16 17
+# newpar
+double root 14 15
+# newpar
+double root 19 21
+# newpar
+double root 18 27
+# sent_id = 217
+double root 14 18
+double root 14 21
+double root 14 22
+# sent_id = 220
+double root 28 31
+# sent_id = 243
+double root 24 28
+# sent_id = 255
+double root 14 43
+# newpar
+double root 2 8
+double root 2 19
+double root 2 20
+# sent_id = 266
+double root 8 20
+# newpar
+double root 15 19
+# newpar
+double root 5 24
+# newpar
+double root 7 17
+double root 7 19
+double root 7 22
+# sent_id = 281
+double root 2 19
+# newpar
+double root 12 15
+double root 12 24
+# sent_id = 284
+double root 5 11
+# sent_id = 287
+double root 2 15
+double root 2 19
+# sent_id = 294
+double root 2 3
+# sent_id = 302
+double root 18 23
+# newpar
+double root 9 17
+# sent_id = 319
+double root 4 15
+# newpar
+double root 6 15
+# sent_id = 327
+double root 9 10
+# newpar
+double root 15 26
+# newpar
+double root 5 8
+double root 5 10
+# newpar
+double root 15 16
+# sent_id = 402
+double root 14 15
+# newpar
+double root 12 15
+double root 12 24
+# sent_id = 421
+double root 6 7
+# sent_id = 423
+double root 12 14
+# sent_id = 434
+double root 12 15
+# sent_id = 437
+double root 2 4
+double root 2 11
+# sent_id = 438
+double root 27 28
+# sent_id = 444
+double root 16 24
+# newpar
+double root 13 14
+# newpar
+double root 12 36
+# sent_id = 458
+double root 4 14
+# sent_id = 461
+double root 14 23
+# sent_id = 474
+double root 13 14
+# sent_id = 484
+double root 3 27
+double root 3 28
+double root 3 33
+# sent_id = 485
+double root 14 15
+# newpar
+double root 11 27
+# sent_id = 497
+double root 7 22
+double root 7 24
+# newpar
+double root 4 31
+# sent_id = 514
+double root 19 25
+# sent_id = 525
+double root 15 16
+# newpar
+double root 20 25
+double root 20 27
+double root 20 31
+# sent_id = 532
+double root 5 19
+# sent_id = 534
+double root 5 6
+double root 5 9
+double root 5 15
+# sent_id = 535
+double root 5 31
+# newpar
+double root 16 21
+# sent_id = 551
+double root 2 6
+# sent_id = 594
+double root 2 3
+# sent_id = 595
+double root 3 7
+# sent_id = 596
+double root 3 6
+double root 3 9
+# sent_id = 597
+double root 9 10
+# sent_id = 623
+double root 14 19
+# newpar
+double root 8 45
+# sent_id = 642
+double root 20 26
+# sent_id = 644
+double root 4 9
+# sent_id = 660
+double root 13 15
+# sent_id = 661
+double root 6 14
+# sent_id = 673
+double root 6 12
+# sent_id = 702
+double root 22 33
+# sent_id = 710
+double root 14 28
+# sent_id = 727
+double root 20 26
+# sent_id = 741
+double root 3 15
+# sent_id = 742
+double root 15 27
+# sent_id = 744
+double root 14 32
+# sent_id = 750
+double root 8 9
+# newpar
+double root 34 35
+# sent_id = 755
+double root 14 15
+# sent_id = 756
+double root 2 13
+# sent_id = 758
+double root 18 19
+# newpar
+double root 14 15
+# sent_id = 760
+double root 27 29
+# newpar
+double root 9 22
+# sent_id = 776
+double root 7 8
+double root 7 9
+# newpar
+double root 11 14
+# sent_id = 780
+double root 18 26
+# sent_id = 784
+double root 3 6
+double root 3 14
+double root 3 16
+# newpar
+double root 7 13
+# newpar
+double root 4 16
+double root 4 24
+double root 4 28
+# sent_id = 803
+double root 7 13
+double root 7 23
+double root 7 30
+# sent_id = 810
+double root 15 24
+# sent_id = 822
+double root 4 9
+# sent_id = 824
+double root 1 4
+double root 1 8
+double root 1 10
+double root 1 11
+# newpar
+double root 23 40
+double root 23 44
+double root 23 46
+# newpar
+double root 4 38
+double root 4 41
+# newpar
+double root 6 17
+double root 6 19
+# newpar
+double root 6 11
+double root 6 14
+double root 6 17
+double root 6 19
+# sent_id = 840
+double root 2 3
+# newpar
+double root 6 12
+# newpar
+double root 4 24
+# newpar
+double root 23 24
+# sent_id = 868
+double root 7 9
+double root 7 14
+# sent_id = 876
+double root 20 29
+# sent_id = 889
+double root 21 22
+# sent_id = 891
+double root 6 9
+# newpar
+double root 6 7
+# sent_id = 901
+double root 12 22
+# sent_id = 903
+double root 27 30
+# sent_id = 910
+double root 17 26
+# sent_id = 922
+double root 5 7
+# sent_id = 927
+double root 14 15
+# sent_id = 938
+double root 10 21
+# sent_id = 941
+double root 13 14
+# sent_id = 943
+double root 4 15
+# newpar
+double root 5 17
+# sent_id = 951
+double root 4 9
+double root 4 21
+double root 4 22
+# sent_id = 953
+double root 18 19
+# newpar
+double root 2 27
+# newpar
+double root 14 30
+# sent_id = 980
+double root 13 14
+# sent_id = 981
+double root 20 24
+double root 20 28
+# sent_id = 988
+double root 8 22
+# newpar
+double root 12 22
+# sent_id = 1005
+double root 15 18
+# sent_id = 1014
+double root 14 24
+# newpar
+double root 5 6
+# newpar
+double root 10 32
+# sent_id = 1024
+double root 7 28
+# newpar
+double root 12 14
+double root 12 29
+# sent_id = 1043
+double root 9 35
+double root 9 47
+# newpar
+double root 13 22
+# sent_id = 1048
+Multiple roots removed
+Language: hi-0
+Model: UD_Hindi
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Hindi/embedding/wiki.hi.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1675 sentences read.
+Finished predicting test 88.8142368793
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/hi.conllu.voting
+double root 8 24
+# sent_id = 129
+double root 5 15
+# sent_id = 147
+double root 17 18
+# sent_id = 198
+double root 10 11
+# sent_id = 214
+double root 18 19
+# sent_id = 396
+double root 6 12
+# sent_id = 409
+double root 7 13
+# sent_id = 429
+double root 3 15
+# sent_id = 658
+double root 3 25
+# sent_id = 716
+double root 4 10
+# sent_id = 861
+double root 20 43
+# sent_id = 896
+double root 10 21
+# sent_id = 909
+double root 13 22
+# sent_id = 918
+double root 3 14
+# sent_id = 979
+double root 6 17
+# sent_id = 1040
+double root 12 26
+# sent_id = 1053
+double root 8 18
+# sent_id = 1110
+double root 7 11
+# sent_id = 1436
+double root 6 8
+# sent_id = 1622
+Multiple roots removed
+Language: hr-0
+Model: UD_Croatian
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 24.7794599533 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Croatian/embedding/wiki.hr.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+601 sentences read.
+Finished predicting test 36.8795230389
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/hr.conllu.voting
+double root 3 10
+# sent_id = 2
+double root 3 18
+# sent_id = 3
+double root 3 6
+# sent_id = 8
+double root 3 4
+# sent_id = 33
+double root 4 9
+double root 4 10
+double root 4 12
+# sent_id = 36
+double root 7 11
+# sent_id = 47
+double root 1 8
+double root 1 9
+# sent_id = 65
+double root 3 6
+# sent_id = 70
+double root 19 25
+# sent_id = 89
+double root 1 3
+# sent_id = 100
+double root 1 7
+double root 1 9
+# sent_id = 123
+double root 2 9
+# sent_id = 162
+double root 3 6
+# sent_id = 169
+double root 10 14
+# sent_id = 181
+double root 3 10
+# sent_id = 188
+double root 1 18
+# sent_id = 196
+double root 4 7
+# sent_id = 233
+double root 6 7
+# sent_id = 234
+double root 9 24
+# sent_id = 269
+double root 13 15
+# sent_id = 286
+double root 1 15
+double root 1 23
+# sent_id = 290
+double root 2 8
+# sent_id = 291
+double root 3 4
+# sent_id = 300
+double root 4 38
+# sent_id = 325
+double root 4 6
+# sent_id = 332
+double root 3 9
+# sent_id = 361
+double root 1 4
+# sent_id = 362
+double root 1 2
+# sent_id = 364
+double root 2 7
+# sent_id = 365
+double root 1 5
+double root 1 7
+# sent_id = 404
+double root 1 3
+double root 1 4
+double root 1 7
+double root 1 11
+# sent_id = 420
+double root 3 17
+# sent_id = 447
+double root 6 8
+# sent_id = 458
+double root 7 13
+# sent_id = 467
+double root 12 31
+# sent_id = 488
+double root 1 5
+# sent_id = 491
+double root 3 5
+double root 3 10
+# sent_id = 496
+double root 10 30
+# sent_id = 497
+double root 5 10
+# sent_id = 501
+double root 5 7
+# sent_id = 510
+double root 8 9
+double root 8 15
+# sent_id = 517
+double root 3 16
+# sent_id = 526
+double root 1 3
+# sent_id = 530
+double root 26 28
+# sent_id = 539
+double root 4 8
+# sent_id = 552
+double root 4 17
+# sent_id = 568
+double root 3 6
+# sent_id = 579
+double root 3 6
+# sent_id = 581
+Multiple roots removed
+Language: hsb-0
+Model: UD_Upper_Sorbian
+start surprise language script
+Surprise language script done
+Language: hu-0
+Model: UD_Hungarian
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 20.2497210503 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Hungarian/embedding/wiki.2hu.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+461 sentences read.
+Finished predicting test 25.6621038914
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/hu.conllu.voting
+double root 10 12
+# sent_id = 5
+double root 1 5
+# sent_id = 8
+double root 5 14
+# sent_id = 16
+double root 33 38
+# sent_id = 19
+double root 15 20
+# sent_id = 27
+double root 2 26
+# sent_id = 38
+double root 1 6
+# sent_id = 46
+double root 3 22
+# sent_id = 49
+double root 1 2
+double root 1 6
+# sent_id = 50
+double root 11 14
+# sent_id = 59
+double root 2 14
+# sent_id = 67
+double root 1 11
+# sent_id = 76
+double root 2 12
+# sent_id = 79
+double root 1 14
+# sent_id = 84
+double root 25 27
+# sent_id = 87
+double root 5 7
+double root 5 10
+# sent_id = 97
+double root 5 18
+double root 5 20
+# sent_id = 99
+double root 11 21
+# sent_id = 100
+double root 11 41
+# sent_id = 105
+double root 6 8
+# sent_id = 107
+double root 2 15
+# sent_id = 111
+double root 7 11
+# sent_id = 115
+double root 4 13
+# sent_id = 119
+double root 4 10
+# sent_id = 123
+double root 15 18
+# sent_id = 129
+double root 20 40
+# sent_id = 132
+double root 5 6
+# sent_id = 133
+double root 1 36
+# sent_id = 136
+double root 2 4
+# sent_id = 143
+double root 1 5
+double root 1 6
+double root 1 14
+# sent_id = 145
+double root 4 5
+# sent_id = 148
+double root 5 25
+# sent_id = 154
+double root 2 3
+# sent_id = 159
+double root 4 7
+# sent_id = 165
+double root 3 11
+# sent_id = 172
+double root 11 12
+double root 11 14
+double root 11 15
+# sent_id = 188
+double root 4 11
+# sent_id = 192
+double root 9 19
+# sent_id = 202
+double root 2 3
+# sent_id = 203
+double root 11 20
+# sent_id = 221
+double root 2 6
+# sent_id = 222
+double root 1 9
+# sent_id = 225
+double root 2 17
+double root 2 20
+# sent_id = 226
+double root 3 17
+# sent_id = 230
+double root 1 14
+double root 1 15
+# sent_id = 233
+double root 11 16
+# sent_id = 265
+double root 4 10
+# sent_id = 280
+double root 6 15
+# sent_id = 287
+double root 2 8
+# sent_id = 294
+double root 3 5
+# sent_id = 296
+double root 3 29
+# sent_id = 302
+double root 8 26
+# sent_id = 306
+double root 5 30
+double root 5 34
+# sent_id = 309
+double root 6 16
+# sent_id = 316
+double root 28 37
+double root 28 40
+double root 28 44
+# sent_id = 328
+double root 18 21
+# sent_id = 341
+double root 3 11
+# sent_id = 342
+double root 7 8
+# sent_id = 347
+double root 3 16
+# sent_id = 351
+double root 1 4
+double root 1 15
+# sent_id = 353
+double root 4 25
+double root 4 29
+# sent_id = 359
+double root 6 15
+# sent_id = 361
+double root 2 26
+# sent_id = 367
+double root 16 26
+# sent_id = 372
+double root 5 40
+# sent_id = 375
+double root 5 17
+# sent_id = 381
+double root 12 15
+# sent_id = 390
+double root 4 5
+# sent_id = 393
+double root 10 39
+# sent_id = 394
+double root 10 14
+# sent_id = 400
+double root 19 28
+# sent_id = 406
+double root 4 9
+double root 4 14
+# sent_id = 409
+double root 1 10
+# sent_id = 414
+double root 4 8
+double root 4 15
+double root 4 21
+# sent_id = 418
+double root 2 21
+# sent_id = 419
+double root 17 23
+# sent_id = 423
+double root 2 14
+# sent_id = 439
+double root 11 22
+# sent_id = 440
+double root 16 17
+# sent_id = 441
+double root 9 14
+double root 9 16
+double root 9 17
+# sent_id = 447
+double root 21 43
+# sent_id = 456
+double root 6 12
+double root 6 17
+# sent_id = 457
+Multiple roots removed
+Language: id-0
+Model: UD_Indonesian
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 24.4843211174 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Indonesian/embedding/wiki.id.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+562 sentences read.
+Finished predicting test 29.677065134
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/id.conllu.voting
+double root 6 18
+# newdoc
+double root 9 13
+# sent_id = 5
+double root 1 18
+# sent_id = 51
+double root 2 5
+double root 2 6
+# sent_id = 55
+double root 2 8
+# sent_id = 126
+double root 1 13
+# sent_id = 131
+double root 7 18
+# sent_id = 147
+double root 2 7
+# sent_id = 200
+double root 2 12
+# sent_id = 214
+double root 6 12
+# sent_id = 245
+double root 1 2
+# sent_id = 247
+double root 5 7
+# sent_id = 253
+double root 2 4
+# sent_id = 270
+double root 1 11
+# sent_id = 272
+double root 9 18
+# sent_id = 280
+double root 1 65
+double root 1 84
+# sent_id = 309
+double root 6 7
+double root 6 8
+# sent_id = 323
+double root 2 13
+# sent_id = 327
+double root 2 20
+# sent_id = 335
+double root 1 12
+# sent_id = 357
+double root 11 25
+# sent_id = 394
+double root 10 35
+# sent_id = 421
+double root 1 9
+double root 1 12
+# sent_id = 445
+double root 1 5
+# sent_id = 472
+double root 1 17
+# sent_id = 473
+double root 3 9
+# sent_id = 497
+double root 1 3
+double root 1 17
+# sent_id = 523
+double root 14 29
+# sent_id = 524
+double root 3 16
+# sent_id = 541
+double root 9 12
+# sent_id = 558
+Multiple roots removed
+Language: it-pud
+Model: UD_Italian
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 44.4667248726 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Italian/embedding/wiki.2it.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1017 sentences read.
+Finished predicting test 67.2377891541
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/it_pud.conllu.voting
+double root 2 17
+# sent_id = 2
+double root 2 20
+# sent_id = 4
+double root 3 22
+# sent_id = 50
+double root 3 17
+# sent_id = 55
+double root 6 36
+double root 6 39
+# sent_id = 57
+double root 5 13
+# newpar
+double root 11 20
+# newpar
+double root 5 26
+# newpar
+double root 6 35
+# newpar
+double root 9 28
+# sent_id = 119
+double root 15 20
+# newpar
+double root 5 6
+double root 5 8
+# sent_id = 185
+double root 3 15
+# sent_id = 196
+double root 5 24
+# newpar
+double root 1 9
+# sent_id = 224
+double root 16 28
+# sent_id = 228
+double root 1 14
+# sent_id = 232
+double root 2 3
+# sent_id = 233
+double root 1 22
+# newpar
+double root 3 10
+# newpar
+double root 1 4
+# sent_id = 366
+double root 2 3
+# sent_id = 371
+double root 3 25
+# newpar
+double root 18 22
+# sent_id = 395
+double root 3 11
+# sent_id = 399
+double root 1 13
+# sent_id = 415
+double root 1 14
+# sent_id = 431
+double root 2 8
+# sent_id = 437
+double root 9 14
+# sent_id = 450
+double root 3 15
+# newpar
+double root 2 6
+# newpar
+double root 7 33
+# sent_id = 509
+double root 5 7
+# sent_id = 553
+double root 7 28
+# sent_id = 580
+double root 2 5
+# newpar
+double root 2 12
+# newpar
+double root 7 13
+# newpar
+double root 3 25
+# sent_id = 761
+double root 18 39
+# newpar
+double root 6 13
+double root 6 23
+# newpar
+double root 2 3
+# sent_id = 855
+double root 5 7
+# sent_id = 928
+double root 11 21
+# newpar
+double root 3 13
+# sent_id = 1003
+Multiple roots removed
+Language: it-0
+Model: UD_Italian
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 22.5006740093 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Italian/embedding/wiki.2it.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+484 sentences read.
+Finished predicting test 27.7373039722
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/it.conllu.voting
+double root 9 15
+# sent_id = 55
+double root 1 58
+# sent_id = 80
+double root 2 6
+# sent_id = 137
+double root 19 33
+# sent_id = 202
+double root 9 27
+# sent_id = 206
+double root 10 13
+# sent_id = 403
+double root 7 15
+# sent_id = 432
+Multiple roots removed
+Language: ja-pud
+Model: UD_Japanese
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 54.5941500664 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Japanese/embedding/wiki.ja.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1036 sentences read.
+Finished predicting test 71.9389140606
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/ja_pud.conllu.voting
+double root 1 14
+# sent_id = 274
+double root 15 18
+# sent_id = 326
+double root 7 33
+# sent_id = 604
+double root 17 36
+# newpar
+Multiple roots removed
+Language: ja-0
+Model: UD_Japanese
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 26.422306776 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Japanese/embedding/wiki.ja.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+545 sentences read.
+Finished predicting test 31.9799711704
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/ja.conllu.voting
+double root 1 12
+# sent_id = 88
+double root 8 14
+# sent_id = 250
+Multiple roots removed
+Language: kk-0
+Model: UD_Kazakh
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 12.9464609623 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Kazakh/embedding/wiki.kk.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1037 sentences read.
+Finished predicting test 26.2013890743
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/kk.conllu.voting
+double root 7 9
+# sent_id = 17
+double root 1 7
+# sent_id = 25
+double root 2 14
+# sent_id = 29
+double root 7 8
+# sent_id = 30
+double root 7 8
+# sent_id = 34
+double root 1 9
+# sent_id = 37
+double root 5 6
+# sent_id = 38
+double root 4 7
+# sent_id = 40
+double root 1 8
+# sent_id = 62
+double root 9 10
+# sent_id = 69
+double root 2 12
+# sent_id = 74
+double root 1 2
+# sent_id = 96
+double root 4 7
+# sent_id = 101
+double root 5 7
+double root 5 8
+# sent_id = 110
+double root 6 8
+# sent_id = 116
+double root 7 9
+# sent_id = 120
+double root 2 8
+# sent_id = 125
+double root 5 6
+# sent_id = 130
+double root 1 12
+# sent_id = 141
+double root 8 9
+# sent_id = 143
+double root 8 9
+# sent_id = 148
+double root 2 8
+# sent_id = 162
+double root 8 10
+# sent_id = 171
+double root 7 8
+# sent_id = 175
+double root 1 10
+# sent_id = 176
+double root 8 10
+# sent_id = 179
+double root 3 4
+# sent_id = 180
+double root 7 8
+# sent_id = 181
+double root 3 8
+# sent_id = 186
+double root 7 10
+# sent_id = 195
+double root 3 8
+# sent_id = 204
+double root 8 9
+# sent_id = 210
+double root 1 9
+# sent_id = 238
+double root 5 8
+# sent_id = 239
+double root 5 7
+# sent_id = 244
+double root 1 4
+# sent_id = 247
+double root 4 7
+double root 4 8
+# sent_id = 268
+double root 1 2
+# sent_id = 270
+double root 2 9
+# sent_id = 280
+double root 2 8
+# sent_id = 289
+double root 5 8
+# sent_id = 290
+double root 2 8
+# sent_id = 297
+double root 6 10
+# sent_id = 309
+double root 2 7
+# sent_id = 337
+double root 2 3
+# sent_id = 338
+double root 6 16
+# sent_id = 339
+double root 7 10
+# sent_id = 346
+double root 2 26
+# sent_id = 347
+double root 1 4
+# sent_id = 357
+double root 2 3
+double root 2 9
+# sent_id = 360
+double root 2 9
+# sent_id = 363
+double root 5 16
+# sent_id = 365
+double root 2 7
+# sent_id = 367
+double root 2 5
+# sent_id = 381
+double root 1 2
+# sent_id = 382
+double root 9 20
+# sent_id = 393
+double root 2 32
+# sent_id = 399
+double root 3 8
+# sent_id = 404
+double root 2 7
+# sent_id = 408
+double root 7 8
+# sent_id = 413
+double root 2 12
+# sent_id = 415
+double root 5 8
+# sent_id = 424
+double root 2 5
+# sent_id = 427
+double root 1 5
+# sent_id = 432
+double root 4 11
+# sent_id = 436
+double root 4 10
+# sent_id = 443
+double root 7 10
+# sent_id = 461
+double root 2 4
+# sent_id = 465
+double root 8 9
+# sent_id = 474
+double root 2 3
+# sent_id = 476
+double root 2 5
+# sent_id = 489
+double root 3 26
+# sent_id = 491
+double root 6 9
+# sent_id = 493
+double root 2 14
+# sent_id = 495
+double root 7 8
+# sent_id = 501
+double root 5 8
+# sent_id = 504
+double root 1 6
+# sent_id = 513
+double root 8 17
+# sent_id = 515
+double root 1 10
+# sent_id = 523
+double root 5 19
+# sent_id = 526
+double root 3 12
+# sent_id = 528
+double root 1 5
+# sent_id = 534
+double root 2 3
+# sent_id = 535
+double root 15 19
+# sent_id = 537
+double root 1 2
+# sent_id = 538
+double root 2 3
+double root 2 14
+# sent_id = 541
+double root 8 26
+# sent_id = 543
+double root 2 14
+# sent_id = 548
+double root 5 10
+# sent_id = 549
+double root 3 10
+# sent_id = 552
+double root 1 11
+# sent_id = 557
+double root 2 7
+# sent_id = 565
+double root 2 9
+# sent_id = 568
+double root 10 12
+# sent_id = 569
+double root 7 13
+# sent_id = 570
+double root 4 5
+# sent_id = 575
+double root 2 10
+# sent_id = 577
+double root 2 6
+# sent_id = 578
+double root 1 23
+# sent_id = 588
+double root 8 16
+# sent_id = 592
+double root 6 10
+# sent_id = 594
+double root 2 12
+# sent_id = 597
+double root 1 2
+# sent_id = 602
+double root 45 90
+# sent_id = 616
+double root 2 8
+double root 2 16
+# sent_id = 620
+double root 6 8
+# sent_id = 625
+double root 6 7
+# sent_id = 629
+double root 1 12
+# sent_id = 631
+double root 1 5
+# sent_id = 633
+double root 9 11
+# sent_id = 635
+double root 5 7
+# sent_id = 638
+double root 1 19
+# sent_id = 642
+double root 1 12
+# sent_id = 644
+double root 7 26
+# sent_id = 647
+double root 3 13
+# sent_id = 655
+double root 1 3
+# sent_id = 660
+double root 3 4
+# sent_id = 662
+double root 1 7
+# sent_id = 664
+double root 1 5
+# sent_id = 667
+double root 2 7
+# sent_id = 668
+double root 1 4
+# sent_id = 669
+double root 2 9
+# sent_id = 674
+double root 20 38
+# sent_id = 677
+double root 4 11
+# sent_id = 684
+double root 5 7
+# sent_id = 700
+double root 1 21
+# sent_id = 725
+double root 5 8
+# sent_id = 731
+double root 1 2
+# sent_id = 752
+double root 10 17
+# sent_id = 753
+double root 1 2
+double root 1 5
+# sent_id = 758
+double root 2 3
+# sent_id = 764
+double root 6 15
+# sent_id = 769
+double root 1 30
+# sent_id = 776
+double root 1 5
+# sent_id = 777
+double root 8 10
+# sent_id = 780
+double root 3 18
+# sent_id = 782
+double root 7 10
+# sent_id = 790
+double root 6 16
+# sent_id = 794
+double root 1 15
+# sent_id = 798
+double root 4 8
+# sent_id = 799
+double root 1 5
+# sent_id = 801
+double root 2 9
+# sent_id = 818
+double root 1 19
+# sent_id = 819
+double root 5 14
+# sent_id = 832
+double root 6 14
+# sent_id = 847
+double root 2 6
+# sent_id = 855
+double root 2 8
+# sent_id = 865
+double root 7 16
+# sent_id = 877
+double root 4 5
+# sent_id = 887
+double root 2 7
+# sent_id = 890
+double root 2 7
+# sent_id = 901
+double root 2 3
+# sent_id = 919
+double root 8 9
+# sent_id = 920
+double root 1 16
+# sent_id = 922
+double root 5 6
+# sent_id = 936
+double root 7 11
+# sent_id = 944
+double root 2 12
+# sent_id = 949
+double root 2 4
+# sent_id = 951
+double root 6 7
+# sent_id = 953
+double root 1 5
+# sent_id = 954
+double root 3 7
+# sent_id = 959
+double root 5 8
+# sent_id = 960
+double root 2 7
+# sent_id = 974
+double root 2 9
+# sent_id = 979
+double root 2 12
+# sent_id = 980
+double root 8 9
+# sent_id = 981
+double root 5 6
+# sent_id = 982
+double root 3 8
+# sent_id = 987
+double root 8 16
+# sent_id = 995
+double root 1 9
+# sent_id = 996
+double root 7 12
+# sent_id = 998
+double root 1 20
+# sent_id = 1004
+double root 7 13
+# sent_id = 1008
+double root 3 10
+# sent_id = 1011
+double root 6 12
+# sent_id = 1012
+double root 1 9
+# sent_id = 1031
+Multiple roots removed
+Language: kmr-0
+Model: UD_Kurmanji
+start surprise language script
+Surprise language script done
+Language: ko-0
+Model: UD_Korean
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 15.428196907 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Korean/embedding/wiki.2ko.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+969 sentences read.
+Finished predicting test 26.9128289223
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/ko.conllu.voting
+double root 2 5
+# sent_id = 13
+double root 8 10
+# sent_id = 46
+double root 10 11
+# sent_id = 52
+double root 17 18
+# sent_id = 57
+double root 7 9
+# sent_id = 62
+double root 1 4
+# sent_id = 69
+double root 2 5
+# sent_id = 81
+double root 6 7
+# sent_id = 83
+double root 4 5
+# sent_id = 96
+double root 4 8
+# sent_id = 114
+double root 6 8
+# sent_id = 166
+double root 8 9
+# sent_id = 176
+double root 7 17
+# sent_id = 202
+double root 34 35
+# sent_id = 214
+double root 6 11
+# sent_id = 216
+double root 3 5
+# sent_id = 236
+double root 4 8
+# sent_id = 249
+double root 7 8
+# sent_id = 251
+double root 2 7
+# sent_id = 257
+double root 5 6
+# sent_id = 272
+double root 1 19
+# sent_id = 318
+double root 1 18
+# sent_id = 334
+double root 8 9
+# sent_id = 349
+double root 6 7
+# sent_id = 364
+double root 1 2
+# sent_id = 369
+double root 4 5
+# sent_id = 394
+double root 3 7
+# sent_id = 403
+double root 6 7
+# sent_id = 417
+double root 13 31
+# sent_id = 425
+double root 9 15
+# sent_id = 433
+double root 12 15
+# sent_id = 449
+double root 20 21
+# sent_id = 466
+double root 13 14
+# sent_id = 474
+double root 13 14
+# sent_id = 485
+double root 1 4
+# sent_id = 492
+double root 18 19
+# sent_id = 494
+double root 6 10
+# sent_id = 521
+double root 3 6
+# sent_id = 531
+double root 4 6
+# sent_id = 545
+double root 10 16
+# sent_id = 574
+double root 3 4
+# sent_id = 579
+double root 1 3
+# sent_id = 585
+double root 11 12
+# sent_id = 586
+double root 3 4
+# sent_id = 598
+double root 4 12
+# sent_id = 599
+double root 10 11
+# sent_id = 603
+double root 3 4
+# sent_id = 627
+double root 23 25
+# sent_id = 660
+double root 9 10
+# sent_id = 663
+double root 1 17
+# sent_id = 678
+double root 5 8
+# sent_id = 708
+double root 3 4
+# sent_id = 740
+double root 3 6
+# sent_id = 752
+double root 6 11
+# sent_id = 764
+double root 4 5
+# sent_id = 768
+double root 4 10
+# sent_id = 788
+double root 2 4
+# sent_id = 791
+double root 8 17
+# sent_id = 797
+double root 3 5
+# sent_id = 807
+double root 1 4
+# sent_id = 837
+double root 9 10
+# sent_id = 851
+double root 4 5
+# sent_id = 855
+double root 9 12
+# sent_id = 886
+double root 8 10
+# sent_id = 898
+double root 11 32
+# sent_id = 909
+double root 5 7
+# sent_id = 927
+double root 11 12
+# sent_id = 938
+double root 9 11
+# sent_id = 946
+double root 10 12
+# sent_id = 956
+Multiple roots removed
+Language: la-ittb
+Model: UD_Latin
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 16.7082309723 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Latin/embedding/wiki.la.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+745 sentences read.
+Finished predicting test 28.4862020016
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/la_ittb.conllu.voting
+double root 1 15
+double root 1 19
+# sent_id = 10
+double root 3 13
+# sent_id = 17
+double root 1 4
+# sent_id = 18
+double root 1 5
+# sent_id = 20
+double root 5 10
+# sent_id = 21
+double root 9 11
+# sent_id = 26
+double root 2 6
+# sent_id = 31
+double root 2 6
+# sent_id = 33
+double root 3 10
+double root 3 11
+# sent_id = 34
+double root 7 8
+# sent_id = 49
+double root 6 11
+# sent_id = 50
+double root 1 6
+# sent_id = 52
+double root 3 5
+# sent_id = 53
+double root 5 11
+# sent_id = 54
+double root 2 7
+# sent_id = 56
+double root 9 11
+# sent_id = 58
+double root 18 22
+# sent_id = 62
+double root 1 12
+# sent_id = 64
+double root 9 14
+# sent_id = 65
+double root 3 8
+# sent_id = 80
+double root 4 7
+# sent_id = 83
+double root 2 9
+double root 2 11
+# sent_id = 89
+double root 1 8
+# sent_id = 90
+double root 13 14
+# sent_id = 94
+double root 9 14
+# sent_id = 99
+double root 2 3
+# sent_id = 101
+double root 1 13
+# sent_id = 102
+double root 3 8
+# sent_id = 106
+double root 2 4
+double root 2 19
+# sent_id = 107
+double root 3 9
+# sent_id = 111
+double root 1 4
+# sent_id = 121
+double root 8 12
+# sent_id = 125
+double root 1 8
+# sent_id = 127
+double root 1 10
+# sent_id = 133
+double root 4 12
+# sent_id = 137
+double root 2 12
+# sent_id = 140
+double root 2 5
+# sent_id = 141
+double root 2 3
+# sent_id = 144
+double root 4 7
+# sent_id = 150
+double root 1 9
+# sent_id = 151
+double root 8 15
+# sent_id = 161
+double root 3 6
+# sent_id = 162
+double root 7 12
+# sent_id = 167
+double root 5 8
+# sent_id = 176
+double root 5 7
+# sent_id = 180
+double root 2 10
+# sent_id = 181
+double root 3 12
+# sent_id = 182
+double root 2 12
+# sent_id = 188
+double root 3 7
+# sent_id = 192
+double root 5 9
+# sent_id = 194
+double root 2 12
+# sent_id = 199
+double root 2 3
+double root 2 11
+# sent_id = 203
+double root 12 19
+# sent_id = 204
+double root 2 20
+# sent_id = 210
+double root 44 48
+# sent_id = 218
+double root 5 10
+# sent_id = 221
+double root 10 33
+# sent_id = 226
+double root 4 9
+# sent_id = 227
+double root 11 14
+# sent_id = 228
+double root 5 11
+double root 5 15
+# sent_id = 229
+double root 2 4
+# sent_id = 237
+double root 2 3
+# sent_id = 239
+double root 5 7
+# sent_id = 242
+double root 9 15
+# sent_id = 244
+double root 4 15
+# sent_id = 246
+double root 7 12
+# sent_id = 247
+double root 5 15
+# sent_id = 248
+double root 2 10
+# sent_id = 249
+double root 3 13
+# sent_id = 252
+double root 1 2
+double root 1 8
+# sent_id = 257
+double root 2 22
+# sent_id = 262
+double root 1 7
+# sent_id = 264
+double root 9 23
+# sent_id = 269
+double root 1 3
+# sent_id = 273
+double root 3 7
+# sent_id = 275
+double root 5 8
+double root 5 12
+# sent_id = 285
+double root 8 12
+# sent_id = 290
+double root 1 6
+# sent_id = 296
+double root 1 2
+# sent_id = 304
+double root 1 3
+# sent_id = 311
+double root 1 3
+# sent_id = 312
+double root 7 15
+# sent_id = 314
+double root 1 2
+# sent_id = 326
+double root 8 17
+# sent_id = 328
+double root 2 11
+# sent_id = 333
+double root 7 12
+# sent_id = 344
+double root 3 7
+# sent_id = 345
+double root 5 11
+# sent_id = 346
+double root 2 5
+# sent_id = 351
+double root 2 5
+# sent_id = 361
+double root 13 17
+# sent_id = 362
+double root 1 12
+# sent_id = 365
+double root 4 18
+# sent_id = 369
+double root 2 11
+# sent_id = 372
+double root 3 13
+# sent_id = 379
+double root 5 12
+# sent_id = 385
+double root 7 9
+# sent_id = 391
+double root 3 13
+# sent_id = 392
+double root 2 8
+# sent_id = 400
+double root 5 22
+# sent_id = 408
+double root 14 30
+# sent_id = 419
+double root 1 11
+# sent_id = 445
+double root 3 9
+# sent_id = 449
+double root 2 9
+# sent_id = 455
+double root 3 8
+# sent_id = 460
+double root 2 10
+double root 2 12
+# sent_id = 463
+double root 3 8
+# sent_id = 474
+double root 2 11
+# sent_id = 482
+double root 1 8
+# sent_id = 492
+double root 2 5
+# sent_id = 497
+double root 4 10
+# sent_id = 498
+double root 3 19
+# sent_id = 500
+double root 1 3
+# sent_id = 502
+double root 9 15
+# sent_id = 517
+double root 8 13
+# sent_id = 528
+double root 4 5
+# sent_id = 532
+double root 1 6
+# sent_id = 537
+double root 4 5
+# sent_id = 543
+double root 10 14
+# sent_id = 545
+double root 5 15
+# sent_id = 548
+double root 6 12
+# sent_id = 551
+double root 10 15
+# sent_id = 554
+double root 1 10
+# sent_id = 566
+double root 2 4
+# sent_id = 571
+double root 1 4
+# sent_id = 583
+double root 6 15
+# sent_id = 588
+double root 10 14
+# sent_id = 590
+double root 7 8
+# sent_id = 591
+double root 1 5
+# sent_id = 593
+double root 5 12
+# sent_id = 597
+double root 4 10
+# sent_id = 598
+double root 8 14
+# sent_id = 601
+double root 2 8
+# sent_id = 604
+double root 1 5
+double root 1 6
+double root 1 28
+# sent_id = 605
+double root 10 15
+# sent_id = 607
+double root 2 21
+# sent_id = 608
+double root 9 15
+# sent_id = 610
+double root 3 4
+# sent_id = 613
+double root 7 8
+# sent_id = 616
+double root 1 10
+# sent_id = 619
+double root 5 11
+# sent_id = 622
+double root 6 8
+# sent_id = 626
+double root 1 6
+# sent_id = 627
+double root 1 8
+# sent_id = 629
+double root 3 14
+# sent_id = 633
+double root 4 8
+# sent_id = 642
+double root 1 6
+double root 1 10
+# sent_id = 645
+double root 1 8
+# sent_id = 650
+double root 1 2
+# sent_id = 655
+double root 8 12
+# sent_id = 661
+double root 2 10
+# sent_id = 664
+double root 5 12
+double root 5 30
+# sent_id = 666
+double root 11 15
+# sent_id = 669
+double root 2 9
+# sent_id = 672
+double root 1 5
+# sent_id = 673
+double root 1 3
+# sent_id = 681
+double root 9 17
+# sent_id = 687
+double root 6 13
+# sent_id = 688
+double root 3 9
+# sent_id = 693
+double root 1 5
+double root 1 7
+# sent_id = 695
+double root 1 34
+# sent_id = 696
+double root 1 10
+# sent_id = 699
+double root 5 7
+double root 5 12
+double root 5 15
+# sent_id = 702
+double root 8 10
+# sent_id = 704
+double root 2 24
+# sent_id = 709
+double root 5 12
+# sent_id = 721
+double root 4 6
+# sent_id = 743
+double root 5 11
+double root 5 23
+# sent_id = 744
+Multiple roots removed
+Language: la-proiel
+Model: UD_Latin
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 31.5182058811 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Latin/embedding/wiki.la.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+591 sentences read.
+Finished predicting test 32.7063310146
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/la_proiel.conllu.voting
+Multiple roots removed
+Language: la-0
+Model: UD_Latin
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 14.8210539818 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Latin/embedding/wiki.la.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+941 sentences read.
+Finished predicting test 30.2682859898
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/la.conllu.voting
+double root 1 4
+# newdoc
+double root 2 3
+# sent_id = 16
+double root 1 6
+# sent_id = 17
+double root 2 4
+# sent_id = 25
+double root 5 13
+# sent_id = 34
+double root 2 5
+# sent_id = 60
+double root 10 13
+# sent_id = 65
+double root 2 9
+# sent_id = 74
+double root 2 9
+# sent_id = 76
+double root 1 3
+# sent_id = 79
+double root 2 13
+# sent_id = 92
+double root 2 6
+# sent_id = 94
+double root 3 9
+# sent_id = 95
+double root 4 17
+# sent_id = 102
+double root 2 9
+# sent_id = 106
+double root 26 31
+# sent_id = 120
+double root 2 11
+# sent_id = 134
+double root 6 8
+# sent_id = 138
+double root 18 26
+# sent_id = 140
+double root 9 15
+# sent_id = 147
+double root 2 9
+# sent_id = 151
+double root 6 16
+# sent_id = 173
+double root 1 2
+# sent_id = 183
+double root 13 15
+# sent_id = 188
+double root 9 17
+# sent_id = 190
+double root 4 13
+# sent_id = 203
+double root 9 15
+# sent_id = 206
+double root 3 6
+# sent_id = 208
+double root 17 22
+# sent_id = 209
+double root 6 9
+# sent_id = 211
+double root 1 7
+# sent_id = 214
+double root 5 11
+# sent_id = 221
+double root 1 2
+# sent_id = 226
+double root 6 10
+# sent_id = 227
+double root 13 23
+# sent_id = 228
+double root 3 7
+# sent_id = 231
+double root 5 10
+# sent_id = 232
+double root 1 11
+# sent_id = 234
+double root 1 26
+# sent_id = 239
+double root 1 16
+# newpar
+double root 3 5
+# sent_id = 241
+double root 4 17
+# sent_id = 244
+double root 3 5
+# sent_id = 248
+double root 5 13
+# sent_id = 252
+double root 2 4
+# sent_id = 257
+double root 11 16
+# sent_id = 261
+double root 4 5
+# sent_id = 268
+double root 4 9
+# sent_id = 275
+double root 2 11
+# sent_id = 277
+double root 2 5
+# sent_id = 293
+double root 5 6
+# sent_id = 309
+double root 3 4
+# sent_id = 318
+double root 3 9
+# sent_id = 320
+double root 2 5
+# sent_id = 323
+double root 1 17
+# sent_id = 324
+double root 5 6
+# sent_id = 330
+double root 8 15
+# sent_id = 343
+double root 2 8
+# sent_id = 345
+double root 2 4
+# sent_id = 366
+double root 3 7
+# sent_id = 375
+double root 3 13
+# sent_id = 381
+double root 2 5
+# sent_id = 391
+double root 4 9
+# sent_id = 394
+double root 2 3
+# sent_id = 396
+double root 3 5
+# sent_id = 398
+double root 5 11
+# sent_id = 400
+double root 2 3
+# sent_id = 407
+double root 4 10
+# sent_id = 412
+double root 4 6
+# sent_id = 413
+double root 6 12
+# sent_id = 436
+double root 1 3
+# sent_id = 443
+double root 2 23
+# sent_id = 458
+double root 2 17
+# sent_id = 460
+double root 6 12
+# sent_id = 461
+double root 2 4
+# sent_id = 468
+double root 3 4
+# sent_id = 472
+double root 1 9
+# sent_id = 473
+double root 2 13
+# sent_id = 479
+double root 3 5
+# sent_id = 497
+double root 5 28
+# sent_id = 504
+double root 3 4
+# sent_id = 507
+double root 2 5
+double root 2 23
+# sent_id = 508
+double root 1 10
+# sent_id = 512
+double root 3 6
+double root 3 22
+# sent_id = 513
+double root 2 4
+# sent_id = 522
+double root 3 4
+# sent_id = 525
+double root 7 9
+# sent_id = 528
+double root 2 4
+# sent_id = 530
+double root 5 6
+# sent_id = 531
+double root 2 6
+# sent_id = 533
+double root 1 4
+# sent_id = 536
+double root 1 2
+# sent_id = 549
+double root 11 17
+# sent_id = 550
+double root 4 7
+# sent_id = 564
+double root 2 6
+# sent_id = 568
+double root 3 7
+# sent_id = 579
+double root 8 14
+# sent_id = 606
+double root 2 3
+# sent_id = 620
+double root 11 16
+# sent_id = 626
+double root 4 11
+# sent_id = 633
+double root 5 6
+# sent_id = 645
+double root 2 6
+# sent_id = 656
+double root 2 18
+# sent_id = 666
+double root 2 7
+# sent_id = 667
+double root 3 16
+# sent_id = 680
+double root 1 6
+# sent_id = 687
+double root 2 9
+double root 2 17
+# sent_id = 703
+double root 2 14
+# sent_id = 715
+double root 1 3
+# sent_id = 732
+double root 3 6
+# sent_id = 754
+double root 5 16
+# sent_id = 793
+double root 5 9
+# sent_id = 800
+double root 8 11
+# sent_id = 801
+double root 1 10
+# sent_id = 802
+double root 2 8
+# sent_id = 803
+double root 5 6
+# sent_id = 804
+double root 1 2
+# sent_id = 809
+double root 6 10
+# sent_id = 817
+double root 3 13
+# sent_id = 825
+double root 1 10
+# sent_id = 826
+double root 2 3
+# sent_id = 837
+double root 3 15
+# sent_id = 846
+double root 2 6
+# sent_id = 847
+double root 2 10
+double root 2 17
+# sent_id = 848
+double root 4 9
+# sent_id = 849
+double root 3 6
+# sent_id = 852
+double root 3 5
+# sent_id = 855
+double root 3 6
+# sent_id = 856
+double root 2 4
+double root 2 6
+double root 2 10
+double root 2 18
+# sent_id = 858
+double root 5 14
+# sent_id = 859
+double root 2 5
+# sent_id = 861
+double root 5 6
+# sent_id = 865
+double root 6 12
+# sent_id = 866
+double root 1 9
+# sent_id = 867
+double root 4 14
+# sent_id = 870
+double root 1 6
+# sent_id = 880
+double root 2 5
+double root 2 16
+# sent_id = 882
+double root 6 13
+# sent_id = 885
+double root 2 10
+# sent_id = 905
+double root 4 9
+# sent_id = 911
+double root 2 5
+# sent_id = 921
+double root 2 11
+# sent_id = 926
+Multiple roots removed
+Language: lv-0
+Model: UD_Latvian
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 17.0571680069 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Latvian/embedding/wiki.lv.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+920 sentences read.
+Finished predicting test 29.5927898884
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/lv.conllu.voting
+double root 2 5
+# newpar
+double root 1 3
+# newpar
+double root 4 53
+# sent_id = 30
+double root 3 5
+double root 3 11
+# newpar
+double root 1 13
+# sent_id = 40
+double root 1 3
+# newpar
+double root 1 5
+# newpar
+double root 1 3
+# newpar
+double root 1 4
+# newpar
+double root 2 5
+# sent_id = 73
+double root 1 10
+# sent_id = 74
+double root 5 11
+# newpar
+double root 2 3
+# sent_id = 86
+double root 2 5
+# sent_id = 87
+double root 1 3
+# newpar
+double root 3 5
+# newpar
+double root 1 4
+# newpar
+double root 2 5
+# newpar
+double root 4 5
+# sent_id = 129
+double root 1 5
+# sent_id = 137
+double root 5 8
+# sent_id = 140
+double root 2 8
+# sent_id = 153
+double root 1 4
+# newpar
+double root 2 6
+# newpar
+double root 1 3
+# newpar
+double root 1 5
+# sent_id = 178
+double root 2 6
+# sent_id = 180
+double root 5 8
+# newpar
+double root 5 6
+# sent_id = 196
+double root 2 4
+# newpar
+double root 3 7
+# sent_id = 237
+double root 2 6
+# newpar
+double root 1 2
+# sent_id = 264
+double root 1 2
+double root 1 7
+# sent_id = 265
+double root 3 6
+# sent_id = 267
+double root 2 3
+# sent_id = 268
+double root 1 3
+# sent_id = 270
+double root 2 4
+# sent_id = 281
+double root 1 9
+double root 1 16
+# sent_id = 283
+double root 3 8
+# sent_id = 286
+double root 2 5
+# sent_id = 287
+double root 1 5
+# sent_id = 288
+double root 1 2
+# sent_id = 296
+double root 1 6
+# sent_id = 300
+double root 2 3
+# sent_id = 314
+double root 2 4
+# sent_id = 318
+double root 4 10
+# sent_id = 322
+double root 1 4
+# sent_id = 349
+double root 1 58
+# sent_id = 350
+double root 1 3
+# newpar
+double root 1 5
+# sent_id = 372
+double root 3 6
+# newpar
+double root 2 6
+# sent_id = 380
+double root 2 3
+# newpar
+double root 6 12
+# newpar
+double root 4 5
+# newpar
+double root 1 2
+# newpar
+double root 4 8
+# newpar
+double root 1 6
+# newpar
+double root 1 3
+# sent_id = 463
+double root 2 8
+# newpar
+double root 2 5
+# newpar
+double root 3 14
+# sent_id = 478
+double root 5 14
+# sent_id = 479
+double root 1 2
+double root 1 6
+# newpar
+double root 2 7
+# newpar
+double root 3 8
+# newpar
+double root 3 5
+# sent_id = 554
+double root 3 4
+# newpar
+double root 2 3
+# sent_id = 626
+double root 5 14
+double root 5 23
+# sent_id = 629
+double root 1 9
+# sent_id = 643
+double root 2 10
+# newpar
+double root 7 16
+# newpar
+double root 11 13
+# newpar
+double root 1 13
+# newpar
+double root 1 15
+# sent_id = 674
+double root 1 10
+# sent_id = 679
+double root 1 4
+# sent_id = 705
+double root 5 11
+# sent_id = 707
+double root 5 10
+# newpar
+double root 2 4
+double root 2 5
+# newpar
+double root 4 18
+# sent_id = 735
+double root 1 9
+# sent_id = 740
+double root 3 13
+# newpar
+double root 1 10
+# newpar
+double root 4 12
+double root 4 13
+# sent_id = 762
+double root 2 7
+# sent_id = 769
+double root 2 5
+# sent_id = 779
+double root 5 15
+# sent_id = 785
+double root 5 16
+# sent_id = 790
+double root 1 12
+# sent_id = 798
+double root 2 6
+# sent_id = 805
+double root 1 2
+# sent_id = 816
+double root 5 6
+# sent_id = 820
+double root 3 12
+# newpar
+double root 2 3
+# newpar
+double root 2 14
+# sent_id = 829
+double root 3 4
+# sent_id = 848
+double root 5 11
+# sent_id = 851
+double root 5 20
+# sent_id = 856
+double root 1 3
+# sent_id = 877
+double root 4 16
+# newpar
+double root 2 5
+# newpar
+double root 7 20
+# sent_id = 892
+double root 2 11
+# newpar
+double root 4 6
+# newpar
+double root 1 9
+# newpar
+double root 2 6
+# sent_id = 905
+double root 3 16
+# newpar
+double root 6 9
+# sent_id = 917
+double root 1 9
+# sent_id = 918
+double root 5 18
+# newpar
+Multiple roots removed
+Language: nl-lassysmall
+Model: UD_Dutch
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 16.7745440006 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Dutch/embedding/wiki.2nl.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+767 sentences read.
+Finished predicting test 25.135393858
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/nl_lassysmall.conllu.voting
+double root 2 7
+# sent_id = 29
+double root 2 3
+# sent_id = 48
+double root 13 25
+# sent_id = 53
+double root 1 3
+# sent_id = 72
+double root 3 10
+# sent_id = 97
+double root 1 4
+# sent_id = 100
+double root 5 11
+# sent_id = 106
+double root 16 35
+# sent_id = 117
+double root 18 21
+# sent_id = 127
+double root 6 15
+# sent_id = 130
+double root 2 18
+# sent_id = 132
+double root 2 5
+# sent_id = 142
+double root 1 3
+# sent_id = 166
+double root 1 6
+# sent_id = 168
+double root 1 5
+# sent_id = 169
+double root 1 2
+# sent_id = 184
+double root 1 4
+# sent_id = 185
+double root 1 4
+# sent_id = 193
+double root 2 8
+# sent_id = 221
+double root 3 18
+double root 3 20
+double root 3 23
+# sent_id = 230
+double root 1 2
+# sent_id = 247
+double root 1 13
+# sent_id = 251
+double root 2 11
+# sent_id = 259
+double root 1 24
+# sent_id = 274
+double root 2 30
+# sent_id = 291
+double root 1 7
+# sent_id = 300
+double root 2 6
+# sent_id = 313
+double root 6 14
+double root 6 24
+# sent_id = 344
+double root 1 16
+# sent_id = 347
+double root 1 3
+# sent_id = 365
+double root 2 6
+# sent_id = 368
+double root 1 6
+# sent_id = 384
+double root 1 6
+# sent_id = 387
+double root 4 11
+# sent_id = 404
+double root 5 23
+double root 5 24
+# sent_id = 405
+double root 4 15
+# sent_id = 408
+double root 7 17
+# sent_id = 414
+double root 3 7
+# sent_id = 421
+double root 1 8
+# sent_id = 423
+double root 4 9
+# sent_id = 433
+double root 4 16
+# sent_id = 436
+double root 2 16
+# sent_id = 445
+double root 1 9
+# sent_id = 471
+double root 1 4
+double root 1 9
+# sent_id = 472
+double root 4 9
+# sent_id = 492
+double root 1 4
+# sent_id = 508
+double root 1 3
+# sent_id = 530
+double root 7 16
+# sent_id = 531
+double root 3 4
+# sent_id = 538
+double root 9 10
+# sent_id = 546
+double root 1 4
+# sent_id = 580
+double root 1 5
+# sent_id = 618
+double root 1 9
+# sent_id = 620
+double root 1 7
+# sent_id = 648
+double root 2 4
+# sent_id = 666
+double root 2 3
+# sent_id = 667
+double root 1 6
+# sent_id = 675
+double root 3 4
+# sent_id = 682
+double root 4 18
+double root 4 21
+# sent_id = 708
+double root 1 4
+# sent_id = 716
+double root 2 5
+# sent_id = 728
+double root 1 3
+# sent_id = 729
+double root 1 6
+# sent_id = 745
+double root 1 7
+# sent_id = 750
+double root 8 10
+# sent_id = 751
+double root 1 3
+# sent_id = 761
+double root 3 4
+# sent_id = 764
+Multiple roots removed
+Language: nl-0
+Model: UD_Dutch
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 19.5860760212 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Dutch/embedding/wiki.2nl.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+588 sentences read.
+Finished predicting test 27.3442211151
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/nl.conllu.voting
+double root 3 20
+# sent_id = 6
+double root 2 9
+# sent_id = 15
+double root 20 27
+# sent_id = 67
+double root 2 3
+# sent_id = 75
+double root 8 22
+double root 8 34
+# sent_id = 83
+double root 3 13
+# sent_id = 97
+double root 9 11
+# sent_id = 101
+double root 1 26
+# sent_id = 104
+double root 2 9
+# sent_id = 112
+double root 4 7
+# sent_id = 116
+double root 1 3
+# sent_id = 119
+double root 6 8
+# sent_id = 123
+double root 7 25
+# sent_id = 127
+double root 3 4
+double root 3 9
+# sent_id = 130
+double root 2 27
+# sent_id = 149
+double root 2 17
+# sent_id = 156
+double root 7 11
+# sent_id = 157
+double root 4 5
+# sent_id = 165
+double root 4 6
+# sent_id = 172
+double root 3 7
+# sent_id = 173
+double root 1 7
+# sent_id = 201
+double root 1 13
+# sent_id = 203
+double root 3 4
+# sent_id = 227
+double root 3 13
+double root 3 14
+double root 3 23
+# sent_id = 234
+double root 21 25
+# sent_id = 239
+double root 3 26
+# sent_id = 241
+double root 2 10
+# sent_id = 242
+double root 2 4
+# sent_id = 271
+double root 2 9
+double root 2 13
+# sent_id = 279
+double root 4 6
+double root 4 7
+double root 4 9
+double root 4 22
+# sent_id = 299
+double root 6 8
+# sent_id = 302
+double root 2 4
+double root 2 18
+# sent_id = 311
+double root 1 10
+# sent_id = 318
+double root 1 6
+# sent_id = 332
+double root 1 2
+# sent_id = 335
+double root 16 20
+# sent_id = 336
+double root 5 7
+# sent_id = 337
+double root 1 13
+# sent_id = 355
+double root 2 13
+# sent_id = 367
+double root 4 6
+# sent_id = 385
+double root 1 12
+# sent_id = 392
+double root 3 7
+# sent_id = 410
+double root 10 45
+# sent_id = 433
+double root 1 2
+# sent_id = 447
+double root 10 28
+# sent_id = 458
+double root 2 8
+# sent_id = 472
+double root 2 8
+# sent_id = 479
+double root 1 14
+# sent_id = 489
+double root 6 10
+# sent_id = 493
+double root 7 29
+# sent_id = 507
+double root 2 5
+# sent_id = 523
+double root 5 13
+# sent_id = 528
+double root 1 9
+# sent_id = 533
+double root 1 10
+# sent_id = 543
+double root 3 17
+# sent_id = 544
+double root 10 16
+# sent_id = 567
+double root 5 30
+# sent_id = 587
+Multiple roots removed
+Language: no-bokmaal
+Model: 
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/no_bokmaal.conllu.transition
+Multiple roots removed
+Language: no-nynorsk
+Model: 
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/no_nynorsk.conllu.transition
+Multiple roots removed
+Language: pl-0
+Model: UD_Polish
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 12.8064050674 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Polish/embedding/wiki.2pl.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1100 sentences read.
+Finished predicting test 30.3311021328
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/pl.conllu.voting
+double root 4 10
+# sent_id = 14
+double root 1 4
+# sent_id = 22
+double root 2 5
+# sent_id = 134
+double root 3 6
+# sent_id = 157
+double root 3 9
+# sent_id = 174
+double root 2 3
+# sent_id = 187
+double root 1 8
+# sent_id = 257
+double root 1 2
+# sent_id = 306
+double root 1 33
+# sent_id = 430
+double root 1 2
+# sent_id = 447
+double root 1 5
+# sent_id = 481
+double root 1 8
+# sent_id = 545
+double root 3 8
+# sent_id = 561
+double root 1 2
+# sent_id = 572
+double root 10 12
+# sent_id = 597
+double root 1 3
+# sent_id = 618
+double root 8 18
+# sent_id = 639
+double root 1 3
+double root 1 5
+# sent_id = 663
+double root 1 3
+# sent_id = 665
+double root 2 5
+# sent_id = 751
+double root 2 6
+# sent_id = 880
+double root 3 13
+double root 3 14
+# sent_id = 888
+double root 5 6
+# sent_id = 923
+double root 1 3
+# sent_id = 986
+double root 2 8
+# sent_id = 1092
+double root 7 15
+# sent_id = 1097
+Multiple roots removed
+Language: pt-br
+Model: UD_Portuguese
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 69.7533218861 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Portuguese/embedding/wiki.pt.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1200 sentences read.
+Finished predicting test 81.7297029495
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/pt_br.conllu.voting
+double root 22 23
+# sent_id = 12
+double root 1 18
+# sent_id = 20
+double root 3 6
+# sent_id = 24
+double root 11 14
+# sent_id = 31
+double root 2 15
+# sent_id = 36
+double root 5 6
+# sent_id = 38
+double root 1 32
+# sent_id = 104
+double root 3 17
+# sent_id = 117
+double root 3 10
+# sent_id = 151
+double root 16 21
+# sent_id = 152
+double root 2 6
+# sent_id = 154
+double root 3 7
+# sent_id = 155
+double root 6 31
+# sent_id = 168
+double root 3 22
+# sent_id = 172
+double root 1 5
+# sent_id = 173
+double root 1 8
+# sent_id = 179
+double root 11 48
+# sent_id = 180
+double root 2 18
+# sent_id = 186
+double root 8 10
+# sent_id = 193
+double root 3 14
+# sent_id = 195
+double root 1 27
+# sent_id = 245
+double root 7 15
+# sent_id = 259
+double root 5 8
+# sent_id = 269
+double root 31 34
+# sent_id = 272
+double root 4 9
+# sent_id = 296
+double root 9 10
+# sent_id = 330
+double root 2 8
+# sent_id = 332
+double root 2 14
+# sent_id = 353
+double root 1 21
+# sent_id = 375
+double root 1 17
+# sent_id = 389
+double root 3 17
+# sent_id = 399
+double root 1 13
+# sent_id = 407
+double root 7 10
+double root 7 14
+# sent_id = 419
+double root 1 2
+# sent_id = 432
+double root 1 10
+# sent_id = 450
+double root 1 4
+# sent_id = 454
+double root 9 18
+# sent_id = 466
+double root 1 7
+# sent_id = 470
+double root 9 16
+# sent_id = 472
+double root 1 11
+# sent_id = 476
+double root 1 10
+# sent_id = 517
+double root 6 22
+# sent_id = 519
+double root 10 52
+# sent_id = 587
+double root 7 14
+# sent_id = 602
+double root 4 17
+# sent_id = 607
+double root 3 5
+# sent_id = 611
+double root 1 3
+# sent_id = 623
+double root 12 26
+# sent_id = 637
+double root 8 27
+# sent_id = 680
+double root 1 7
+# sent_id = 681
+double root 3 8
+# sent_id = 720
+double root 1 6
+# sent_id = 738
+double root 9 30
+# sent_id = 760
+double root 4 49
+# sent_id = 777
+double root 26 38
+# sent_id = 786
+double root 1 25
+# sent_id = 796
+double root 1 8
+# sent_id = 799
+double root 4 5
+# sent_id = 833
+double root 1 19
+# sent_id = 860
+double root 1 28
+# sent_id = 888
+double root 7 16
+# sent_id = 897
+double root 5 18
+# sent_id = 932
+double root 2 11
+# sent_id = 933
+double root 1 6
+# sent_id = 957
+double root 1 4
+double root 1 15
+# sent_id = 978
+double root 6 7
+# sent_id = 985
+double root 2 4
+# sent_id = 989
+double root 7 32
+# sent_id = 1003
+double root 9 30
+# sent_id = 1026
+double root 3 8
+# sent_id = 1031
+double root 1 11
+# sent_id = 1043
+double root 8 12
+# sent_id = 1049
+double root 1 9
+# sent_id = 1063
+double root 4 7
+# sent_id = 1089
+double root 2 9
+# sent_id = 1097
+double root 1 21
+# sent_id = 1098
+double root 18 22
+# sent_id = 1107
+double root 1 4
+# sent_id = 1118
+double root 2 4
+double root 2 5
+# sent_id = 1136
+double root 9 24
+# sent_id = 1145
+double root 7 14
+# sent_id = 1149
+double root 1 6
+# sent_id = 1176
+Multiple roots removed
+Language: pt-pud
+Model: UD_Portuguese
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 42.5189430714 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Portuguese/embedding/wiki.pt.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1022 sentences read.
+Finished predicting test 63.1233098507
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/pt_pud.conllu.voting
+double root 2 31
+# sent_id = 50
+double root 2 15
+double root 2 19
+double root 2 20
+# sent_id = 52
+double root 1 17
+# newpar
+double root 1 17
+# sent_id = 71
+double root 16 25
+# newpar
+double root 7 18
+# newpar
+double root 5 7
+# newpar
+double root 2 19
+# sent_id = 123
+double root 3 12
+# newpar
+double root 12 13
+double root 12 14
+double root 12 17
+# newpar
+double root 1 8
+# sent_id = 149
+double root 4 6
+# newpar
+double root 9 15
+# sent_id = 159
+double root 4 15
+# sent_id = 172
+double root 4 20
+# sent_id = 181
+double root 5 10
+# sent_id = 204
+double root 2 9
+# sent_id = 211
+double root 10 29
+# sent_id = 233
+double root 4 6
+# sent_id = 235
+double root 15 22
+# sent_id = 238
+double root 9 16
+# newpar
+double root 5 20
+# newpar
+double root 3 18
+double root 3 25
+# newpar
+double root 4 17
+# sent_id = 344
+double root 4 13
+# sent_id = 349
+double root 4 13
+# sent_id = 382
+double root 12 15
+# sent_id = 420
+double root 1 23
+# newpar
+double root 1 20
+double root 1 25
+# sent_id = 431
+double root 2 8
+# newpar
+double root 10 16
+# sent_id = 451
+double root 9 19
+# sent_id = 483
+double root 7 19
+# sent_id = 487
+double root 17 48
+# sent_id = 498
+double root 2 11
+# sent_id = 531
+double root 4 15
+# newpar
+double root 2 12
+# sent_id = 577
+double root 3 8
+# sent_id = 586
+double root 10 16
+# sent_id = 639
+double root 2 28
+# sent_id = 701
+double root 10 15
+# newpar
+double root 2 4
+# sent_id = 752
+double root 13 19
+# newpar
+double root 15 22
+# sent_id = 822
+double root 3 15
+# newpar
+double root 4 12
+# sent_id = 847
+double root 7 19
+# sent_id = 887
+double root 1 9
+# newpar
+double root 7 21
+# sent_id = 931
+double root 3 15
+# newpar
+double root 2 4
+# sent_id = 957
+double root 4 31
+# sent_id = 959
+double root 19 28
+# sent_id = 970
+double root 10 31
+# sent_id = 997
+double root 1 7
+# sent_id = 999
+double root 4 21
+# newpar
+double root 10 16
+# sent_id = 1005
+double root 2 31
+# newpar
+Multiple roots removed
+Language: pt-0
+Model: UD_Portuguese
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 20.5928349495 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Portuguese/embedding/wiki.pt.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+463 sentences read.
+Finished predicting test 25.8355770111
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/pt.conllu.voting
+double root 22 36
+# newpar
+double root 1 23
+# newpar
+double root 38 54
+# newpar
+double root 4 12
+# sent_id = 88
+double root 1 27
+# newpar
+double root 3 10
+# sent_id = 103
+double root 2 8
+# sent_id = 104
+double root 20 22
+# sent_id = 105
+double root 2 10
+# sent_id = 121
+double root 2 11
+# sent_id = 127
+double root 17 28
+# newpar
+double root 3 10
+# sent_id = 333
+double root 1 6
+# newpar
+double root 5 8
+# sent_id = 396
+double root 2 18
+# newpar
+double root 1 2
+# sent_id = 400
+double root 2 4
+# newpar
+Multiple roots removed
+Language: ro-0
+Model: UD_Romanian
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 33.7881860733 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Romanian/embedding/wiki.ro.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+731 sentences read.
+Finished predicting test 43.1416671276
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/ro.conllu.voting
+double root 1 9
+# sent_id = 41
+double root 26 27
+# sent_id = 69
+double root 1 8
+# sent_id = 86
+double root 11 15
+# sent_id = 106
+double root 13 18
+# sent_id = 107
+double root 11 69
+# sent_id = 165
+double root 8 13
+# sent_id = 182
+double root 6 22
+# sent_id = 244
+double root 2 6
+# sent_id = 283
+double root 3 5
+# sent_id = 290
+double root 5 6
+# sent_id = 303
+double root 1 22
+double root 1 35
+# sent_id = 313
+double root 1 6
+# sent_id = 315
+double root 6 10
+# sent_id = 332
+double root 13 23
+# sent_id = 409
+double root 1 6
+# sent_id = 451
+double root 4 26
+# sent_id = 503
+double root 2 15
+# newpar
+double root 4 16
+# sent_id = 549
+double root 1 10
+# sent_id = 556
+double root 2 9
+# sent_id = 656
+double root 10 35
+# sent_id = 666
+double root 7 29
+# sent_id = 708
+Multiple roots removed
+Language: ru-pud
+Model: UD_Russian
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 32.9247760773 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Russian/embedding/wiki.2ru.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1005 sentences read.
+Finished predicting test 54.9240889549
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/ru_pud.conllu.voting
+double root 2 3
+# sent_id = 5
+double root 4 8
+# sent_id = 9
+double root 3 5
+# sent_id = 14
+double root 6 21
+# sent_id = 23
+double root 13 14
+# sent_id = 24
+double root 1 8
+# sent_id = 30
+double root 2 9
+# newpar
+double root 4 10
+# sent_id = 35
+double root 3 4
+double root 3 5
+double root 3 11
+# sent_id = 49
+double root 1 8
+# newpar
+double root 1 3
+# sent_id = 88
+double root 1 20
+double root 1 21
+double root 1 24
+# newpar
+double root 10 21
+double root 10 23
+# sent_id = 107
+double root 4 7
+# newpar
+double root 1 2
+# newpar
+double root 4 25
+# newpar
+double root 2 3
+# sent_id = 127
+double root 2 9
+double root 2 19
+double root 2 21
+double root 2 22
+double root 2 24
+# sent_id = 134
+double root 1 25
+# newpar
+double root 1 11
+# sent_id = 147
+double root 14 19
+# sent_id = 148
+double root 1 3
+# newpar
+double root 1 9
+# sent_id = 153
+double root 4 11
+# newpar
+double root 7 18
+# sent_id = 214
+double root 3 17
+# sent_id = 216
+double root 2 16
+# newpar
+double root 1 3
+# newpar
+double root 1 9
+# newpar
+double root 1 18
+# sent_id = 238
+double root 3 5
+# sent_id = 242
+double root 8 18
+# newpar
+double root 1 3
+# newpar
+double root 4 12
+# sent_id = 257
+double root 1 12
+# newpar
+double root 5 13
+# newpar
+double root 2 5
+# sent_id = 276
+double root 1 2
+# newpar
+double root 1 3
+double root 1 4
+# sent_id = 288
+double root 3 8
+# sent_id = 290
+double root 8 9
+# newpar
+double root 2 7
+# sent_id = 313
+double root 3 7
+# newpar
+double root 2 11
+# newpar
+double root 3 6
+# sent_id = 346
+double root 3 8
+# sent_id = 350
+double root 7 19
+# sent_id = 353
+double root 3 6
+# newpar
+double root 3 6
+double root 3 8
+double root 3 19
+# sent_id = 403
+double root 2 8
+# newpar
+double root 1 10
+# newpar
+double root 2 22
+# sent_id = 423
+double root 1 5
+# sent_id = 425
+double root 3 5
+# sent_id = 465
+double root 3 6
+# newpar
+double root 5 8
+# sent_id = 475
+double root 3 6
+# sent_id = 480
+double root 6 19
+# newpar
+double root 3 6
+double root 3 11
+# newpar
+double root 4 8
+# sent_id = 504
+double root 1 2
+# newpar
+double root 1 12
+# sent_id = 514
+double root 5 8
+# newpar
+double root 1 8
+# sent_id = 527
+double root 1 3
+double root 1 16
+double root 1 19
+double root 1 40
+# sent_id = 532
+double root 2 23
+# newpar
+double root 1 5
+# sent_id = 541
+double root 5 6
+# newpar
+double root 3 5
+# sent_id = 548
+double root 1 8
+# newpar
+double root 5 8
+# newpar
+double root 8 14
+# sent_id = 567
+double root 1 11
+# newpar
+double root 1 21
+# sent_id = 574
+double root 3 11
+# sent_id = 580
+double root 2 17
+# sent_id = 586
+double root 1 3
+# newpar
+double root 8 13
+# sent_id = 607
+double root 2 3
+# sent_id = 609
+double root 2 8
+# sent_id = 617
+double root 3 5
+# sent_id = 627
+double root 1 13
+# sent_id = 639
+double root 4 7
+# newpar
+double root 1 8
+# sent_id = 651
+double root 11 14
+# newpar
+double root 3 12
+# sent_id = 693
+double root 2 12
+# newpar
+double root 2 4
+# newpar
+double root 3 12
+# newpar
+double root 10 14
+# newpar
+double root 1 7
+# newpar
+double root 3 11
+# newpar
+double root 1 3
+# newpar
+double root 2 8
+double root 2 10
+# newpar
+double root 2 18
+# newpar
+double root 3 5
+# newpar
+double root 3 5
+# sent_id = 809
+double root 2 4
+# newpar
+double root 1 12
+# sent_id = 830
+double root 3 13
+# sent_id = 838
+double root 1 8
+# sent_id = 862
+double root 1 5
+# sent_id = 866
+double root 2 3
+double root 2 4
+# sent_id = 875
+double root 5 7
+# newpar
+double root 1 3
+double root 1 8
+# sent_id = 885
+double root 3 6
+# sent_id = 901
+double root 4 20
+# sent_id = 905
+double root 1 3
+# sent_id = 927
+double root 1 3
+# sent_id = 932
+double root 3 4
+# newpar
+double root 5 8
+# newpar
+double root 2 6
+# sent_id = 966
+double root 3 21
+# sent_id = 972
+double root 1 3
+# newpar
+double root 3 13
+# newpar
+Multiple roots removed
+Language: ru-syntagrus
+Model: UD_Russian
+Start udpipe

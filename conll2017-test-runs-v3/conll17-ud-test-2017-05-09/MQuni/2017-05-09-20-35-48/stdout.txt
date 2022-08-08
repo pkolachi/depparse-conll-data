@@ -1,0 +1,570 @@
+/home/MQuni/CoNLL2017/conll2017_run.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/MQuni/2017-05-09-20-35-48/output
+
+
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Arabic/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar_pud-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/ar_pud.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 57.6884651184 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Arabic/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/ar.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 146.194955111 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Bulgarian/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bg-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/bg.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 46.9427189827 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Buryat/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/bxr.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 29.7034580708 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Catalan/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ca-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/ca.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 208.969247103 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Czech-CAC/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cac-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/cs_cac.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 45.7042071819 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Czech-CLTT/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cltt-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/cs_cltt.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 72.8633081913 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Czech/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_pud-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/cs_pud.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 43.9781410694 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Czech/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/cs.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 468.98030901 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Old_Church_Slavonic/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cu-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/cu.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 31.2446429729 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Danish/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/da-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/da.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 37.4023401737 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_German/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de_pud-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/de_pud.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 76.6178841591 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_German/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/de.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 59.9640641212 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Greek/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/el-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/el.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 46.5419700146 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_English-LinES/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_lines-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/en_lines.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 60.8352530003 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_English-ParTUT/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_partut-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/en_partut.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 45.8477780819 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_English/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_pud-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/en_pud.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 59.5510439873 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_English/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/en.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 74.0242819786 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Spanish-AnCora/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_ancora-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/es_ancora.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 184.944803953 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Spanish/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_pud-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/es_pud.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 68.0115981102 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Spanish/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/es.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 41.9220979214 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Estonian/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/et-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/et.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 32.5464560986 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Basque/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/eu-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/eu.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 62.2526059151 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Persian/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fa-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/fa.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 76.1522531509 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Finnish-FTB/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_ftb-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/fi_ftb.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 42.8597729206 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Finnish/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_pud-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/fi_pud.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 43.3617479801 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Finnish/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/fi.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 80.5212130547 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_French-ParTUT/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_partut-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/fr_partut.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 37.1254928112 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_French/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_pud-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/fr_pud.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 74.0870828629 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_French-Sequoia/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_sequoia-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/fr_sequoia.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 33.4147839546 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_French/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/fr.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 31.841244936 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Irish/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ga-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/ga.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 35.7131609917 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Galician-TreeGal/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl_treegal-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/gl_treegal.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 34.6399731636 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Galician/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/gl.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 97.6361031532 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Gothic/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/got-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/got.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 29.7956089973 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Ancient_Greek-PROIEL/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc_proiel-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/grc_proiel.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 46.718487978 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Ancient_Greek/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/grc.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 66.2800660133 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Hebrew/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/he-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/he.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 36.3681209087 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Hindi/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi_pud-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/hi_pud.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 80.3800439835 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Hindi/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/hi.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 120.545746088 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Croatian/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hr-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/hr.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 40.9009981155 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Upper_Sorbian/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/hsb.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 31.048432827 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Hungarian/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hu-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/hu.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 32.5939569473 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Indonesian/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/id-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/id.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 42.6312260628 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Italian/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it_pud-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/it_pud.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 94.5960488319 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Italian/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/it.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 33.6553330421 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Japanese/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja_pud-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/ja_pud.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 85.3083469868 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Japanese/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/ja.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 43.2909200191 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Kazakh/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kk-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/kk.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 29.1426129341 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Kurmanji/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/kmr.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 24.7134931087 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Korean/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ko-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/ko.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 30.7095520496 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Latin-ITTB/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_ittb-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/la_ittb.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 39.1064999104 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Latin-PROIEL/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_proiel-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/la_proiel.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 62.1896018982 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Latin/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/la.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 39.8836538792 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Latvian/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/lv-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/lv.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 29.3663589954 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Dutch-LassySmall/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl_lassysmall-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/nl_lassysmall.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 27.8276569843 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Dutch/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/nl.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 33.0127809048 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Norwegian-Bokmaal/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_bokmaal-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/no_bokmaal.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 81.1429080963 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Norwegian-Nynorsk/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_nynorsk-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/no_nynorsk.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 69.2622001171 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Polish/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pl-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/pl.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 38.168063879 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Portuguese-BR/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_br-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/pt_br.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 98.5661571026 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Portuguese/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_pud-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/pt_pud.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 66.4989690781 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Portuguese/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/pt.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 31.5733749866 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Romanian/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ro-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/ro.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 50.3202950954 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Russian/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_pud-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/ru_pud.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 58.5087039471 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Russian-SynTagRus/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_syntagrus-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/ru_syntagrus.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 473.023303986 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Russian/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/ru.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 39.9051289558 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Slovak/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sk-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/sk.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 33.7985079288 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Slovenian-SST/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl_sst-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/sl_sst.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 31.8096220493 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Slovenian/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/sl.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 38.9747169018 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_North_Sami/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/sme.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 27.8494360447 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Swedish-LinES/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_lines-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/sv_lines.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 41.0653879642 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Swedish/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_pud-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/sv_pud.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 61.902780056 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Swedish/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/sv.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 75.8130731583 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Turkish/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr_pud-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/tr_pud.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 48.9567909241 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Turkish/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/tr.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 26.0155630112 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Uyghur/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ug-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/ug.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 30.2819149494 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Ukrainian/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/uk-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/uk.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 52.133961916 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Urdu/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ur-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/ur.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 68.9916479588 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Vietnamese/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/vi-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/vi.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 43.400591135 seconds.
+---
+Model: /home/MQuni/CoNLL2017/Pre-trained-jPTDP-models/UD_Chinese/model
+Test: /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh-udpipe.conllu
+Output: /tmp/MQuni/2017-05-09-20-35-48/output/zh.conllu
+Loading pre-trained joint model
+Predicting POS tags and parsing dependencies
+Finished in 36.5967321396 seconds.

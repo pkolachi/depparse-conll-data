@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "deploy.py", line 59, in <module>
+    model_path = os.path.join("models", models_dict[la])
+NameError: name 'la' is not defined

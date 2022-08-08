@@ -1,0 +1,12 @@
+#0
+1
+2
+3
+1	然而	然而	ADV	RB	_	3	case:dec	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	7	nsubj	_	SpaceAfter=No
+3	這樣	這樣	PRON	PRD	_	7	mark	_	SpaceAfter=No
+4	的	的	PART	DEC	Case=Gen	0	root	_	SpaceAfter=No
+5	處理	處理	NOUN	NN	_	7	case:aspect	_	SpaceAfter=No
+6	也	也	ADV	RB	_	10	amod	_	SpaceAfter=No
+7	衍生	衍生	VERB	VV	_	7	obj	_	SpaceAfter=No
+8	了	了	PART	AS	Aspect=Perf	7	punct	_	SpaceAfter=No

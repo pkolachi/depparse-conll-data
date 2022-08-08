@@ -1,0 +1,349 @@
+python run_tira.py /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/HIT-SCIR/2017-05-10-17-38-36/output
+
+
+[2017-05-10 17:41:54]  udpipe raw-to-conll.code
+[2017-05-10 17:41:54]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/ar_pud.pos -i /media/data/yxwang/models/ar.infos -s list-tree -k ar --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_ar-mod1.params --model2 /media/data/yxwang/models/parser_ar-mod2.params --extra_emb ../resources/pruned_embedding/ar.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/ar_pud.conllu
+[2017-05-10 17:49:06]  udpipe raw-to-conll.code
+[2017-05-10 17:49:06]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/ar.pos -i /media/data/yxwang/models/ar.infos -s list-tree -k ar --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_ar-mod1.params --model2 /media/data/yxwang/models/parser_ar-mod2.params --extra_emb ../resources/pruned_embedding/ar.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/ar.conllu
+[2017-05-10 17:58:30]  udpipe raw-to-conll.code
+[2017-05-10 17:58:30]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/bg.pos -i /media/data/yxwang/models/bg.infos -s list-tree -k bg --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_bg-mod.params --extra_emb ../resources/pruned_embedding/bg.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/bg.conllu
+./bin/lstmparse -p /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu -i /media/data/yxwang/models/bxr.infos -s list-tree -k bxr --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -D -P -B -R  -m /media/data/yxwang/models/parser_bxr-mod.params > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/bxr.conllu
+[2017-05-10 18:03:26]  udpipe raw-to-conll.code
+[2017-05-10 18:03:26]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/ca.pos -i /media/data/yxwang/models/ca.infos -s list-tree -k ca --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_ca-mod1.params --model2 /media/data/yxwang/models/parser_ca-mod2.params --extra_emb ../resources/pruned_embedding/ca.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/ca.conllu
+[2017-05-10 18:23:09]  udpipe raw-to-conll.code
+[2017-05-10 18:23:09]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/cs_cac.pos -i /media/data/yxwang/models/cs_cac.infos -s list-tree -k cs_cac --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_cs_cac-mod.params --extra_emb ../resources/pruned_embedding/cs_cac.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/cs_cac.conllu
+[2017-05-10 18:26:34]  yliu's raw-to-stn code
+[2017-05-10 18:26:34]  dcteng's stn-to-conll.code
+[2017-05-10 18:26:34]  [2017-05-10 18:26:36]  dcteng's postag.code
+[2017-05-10 18:26:36]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/cs_cltt.pos -i /media/data/yxwang/models/cs_cltt.infos -s list-tree -k cs_cltt --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_cs_cltt-mod.params --extra_emb ../resources/pruned_embedding/cs_cltt.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/cs_cltt.conllu
+[2017-05-10 18:30:08]  udpipe raw-to-conll.code
+[2017-05-10 18:30:08]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/cs_pud.pos -i /media/data/yxwang/models/cs.infos -s list-tree -k cs --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_cs-mod1.params --model2 /media/data/yxwang/models/parser_cs-mod2.params --extra_emb ../resources/pruned_embedding/cs.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/cs_pud.conllu
+[2017-05-10 18:38:55]  udpipe raw-to-conll.code
+[2017-05-10 18:38:55]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/cs.pos -i /media/data/yxwang/models/cs.infos -s list-tree -k cs --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_cs-mod1.params --model2 /media/data/yxwang/models/parser_cs-mod2.params --extra_emb ../resources/pruned_embedding/cs.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/cs.conllu
+[2017-05-10 19:44:57]  yliu's raw-to-stn code
+[2017-05-10 19:45:25]  dcteng's stn-to-conll.code
+[2017-05-10 19:45:25]  [2017-05-10 19:45:27]  dcteng's postag.code
+[2017-05-10 19:45:27]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/cu.pos -i /media/data/yxwang/models/cu.infos -s list-tree -k cu --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_cu-mod1.params --model2 /media/data/yxwang/models/parser_cu-mod2.params --extra_emb ../resources/pruned_embedding/cu.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/cu.conllu
+[2017-05-10 19:48:48]  yliu's raw-to-stn code
+[2017-05-10 19:49:14]  dcteng's stn-to-conll.code
+[2017-05-10 19:49:14]  [2017-05-10 19:49:16]  dcteng's postag.code
+[2017-05-10 19:49:16]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/da.pos -i /media/data/yxwang/models/da.infos -s list-tree -k da --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_da-mod1.params --model2 /media/data/yxwang/models/parser_da-mod2.params --extra_emb ../resources/pruned_embedding/da.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/da.conllu
+[2017-05-10 19:52:57]  udpipe raw-to-conll.code
+[2017-05-10 19:52:57]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/de_pud.pos -i /media/data/yxwang/models/de.infos -s list-tree -k de --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_de-mod1.params --model2 /media/data/yxwang/models/parser_de-mod2.params --extra_emb ../resources/pruned_embedding/de.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/de_pud.conllu
+[2017-05-10 20:00:55]  udpipe raw-to-conll.code
+[2017-05-10 20:00:55]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/de.pos -i /media/data/yxwang/models/de.infos -s list-tree -k de --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_de-mod1.params --model2 /media/data/yxwang/models/parser_de-mod2.params --extra_emb ../resources/pruned_embedding/de.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/de.conllu
+[2017-05-10 20:07:27]  udpipe raw-to-conll.code
+[2017-05-10 20:07:27]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/el.pos -i /media/data/yxwang/models/el.infos -s list-tree -k el --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_el-mod1.params --model2 /media/data/yxwang/models/parser_el-mod2.params --extra_emb ../resources/pruned_embedding/el.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/el.conllu
+[2017-05-10 20:11:04]  udpipe raw-to-conll.code
+[2017-05-10 20:11:04]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/en_lines.pos -i /media/data/yxwang/models/en_lines.infos -s list-tree -k en_lines --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_en_lines-mod.params --extra_emb ../resources/pruned_embedding/en_lines.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/en_lines.conllu
+[2017-05-10 20:15:20]  udpipe raw-to-conll.code
+[2017-05-10 20:15:20]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/en_partut.pos -i /media/data/yxwang/models/en_partut.infos -s list-tree -k en_partut --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_en_partut-mod.params --extra_emb ../resources/pruned_embedding/en_partut.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/en_partut.conllu
+[2017-05-10 20:19:26]  yliu's raw-to-stn code
+[2017-05-10 20:19:46]  dcteng's stn-to-conll.code
+[2017-05-10 20:19:46]  [2017-05-10 20:19:50]  dcteng's postag.code
+[2017-05-10 20:19:50]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/en_pud.pos -i /media/data/yxwang/models/en.infos -s list-tree -k en --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_en-mod1.params --model2 /media/data/yxwang/models/parser_en-mod2.params --extra_emb ../resources/pruned_embedding/en.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/en_pud.conllu
+[2017-05-10 20:27:26]  yliu's raw-to-stn code
+[2017-05-10 20:27:53]  dcteng's stn-to-conll.code
+[2017-05-10 20:27:53]  [2017-05-10 20:27:56]  dcteng's postag.code
+[2017-05-10 20:27:56]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/en.pos -i /media/data/yxwang/models/en.infos -s list-tree -k en --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_en-mod1.params --model2 /media/data/yxwang/models/parser_en-mod2.params --extra_emb ../resources/pruned_embedding/en.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/en.conllu
+[2017-05-10 20:37:44]  udpipe raw-to-conll.code
+[2017-05-10 20:37:44]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/es_ancora.pos -i /media/data/yxwang/models/es_ancora.infos -s list-tree -k es_ancora --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_es_ancora-mod1.params --model2 /media/data/yxwang/models/parser_es_ancora-mod2.params --extra_emb ../resources/pruned_embedding/es_ancora.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/es_ancora.conllu
+[2017-05-10 20:55:11]  udpipe raw-to-conll.code
+[2017-05-10 20:55:11]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/es_pud.pos -i /media/data/yxwang/models/es_ancora.infos -s list-tree -k es_ancora --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_es_ancora-mod1.params --model2 /media/data/yxwang/models/parser_es_ancora-mod2.params --extra_emb ../resources/pruned_embedding/es_ancora.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/es_pud.conllu
+[2017-05-10 21:03:13]  udpipe raw-to-conll.code
+[2017-05-10 21:03:13]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/es.pos -i /media/data/yxwang/models/es.infos -s list-tree -k es --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_es-mod1.params --model2 /media/data/yxwang/models/parser_es-mod2.params --extra_emb ../resources/pruned_embedding/es.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/es.conllu
+[2017-05-10 21:08:46]  udpipe raw-to-conll.code
+[2017-05-10 21:08:46]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/et.pos -i /media/data/yxwang/models/et.infos -s list-tree -k et --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_et-mod1.params --model2 /media/data/yxwang/models/parser_et-mod2.params --extra_emb ../resources/pruned_embedding/et.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/et.conllu
+[2017-05-10 21:14:42]  udpipe raw-to-conll.code
+[2017-05-10 21:14:42]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/eu.pos -i /media/data/yxwang/models/eu.infos -s list-tree -k eu --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_eu-mod1.params --model2 /media/data/yxwang/models/parser_eu-mod2.params --extra_emb ../resources/pruned_embedding/eu.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/eu.conllu
+[2017-05-10 21:22:42]  udpipe raw-to-conll.code
+[2017-05-10 21:22:42]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/fa.pos -i /media/data/yxwang/models/fa.infos -s list-tree -k fa --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_fa-mod1.params --model2 /media/data/yxwang/models/parser_fa-mod2.params --extra_emb ../resources/pruned_embedding/fa.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/fa.conllu
+./tokenizer.sh ar /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar_pud.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/ar_pud.tok
+ar_pud
+./tokenizer.sh ar /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/ar.tok
+ar
+./tokenizer.sh bg /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bg.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/bg.tok
+bg
+bxr
+./tokenizer.sh ca /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ca.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/ca.tok
+ca
+./tokenizer.sh cs_cac /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cac.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/cs_cac.tok
+cs_cac
+./tokenizer.sh cs_cltt /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cltt.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/cs_cltt.tok
+cs_cltt
+./tokenizer.sh cs /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_pud.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/cs_pud.tok
+cs_pud
+./tokenizer.sh cs /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/cs.tok
+cs
+./tokenizer.sh cu /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cu.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/cu.tok
+cu
+./tokenizer.sh da /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/da.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/da.tok
+da
+./tokenizer.sh de /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de_pud.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/de_pud.tok
+de_pud
+./tokenizer.sh de /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/de.tok
+de
+./tokenizer.sh el /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/el.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/el.tok
+el
+./tokenizer.sh en_lines /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_lines.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/en_lines.tok
+en_lines
+./tokenizer.sh en_partut /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_partut.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/en_partut.tok
+en_partut
+./tokenizer.sh en /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_pud.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/en_pud.tok
+en_pud
+./tokenizer.sh en /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/en.tok
+en
+./tokenizer.sh es_ancora /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_ancora.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/es_ancora.tok
+es_ancora
+./tokenizer.sh es_ancora /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_pud.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/es_pud.tok
+es_pud
+./tokenizer.sh es /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/es.tok
+es
+./tokenizer.sh et /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/et.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/et.tok
+et
+./tokenizer.sh eu /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/eu.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/eu.tok
+eu
+./tokenizer.sh fa /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fa.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/fa.tok
+fa
+./tokenizer.sh fi_ftb /media/test-datasets/universal-dependency-lear[2017-05-10 21:27:40]  udpipe raw-to-conll.code
+[2017-05-10 21:27:40]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/fi_ftb.pos -i /media/data/yxwang/models/fi_ftb.infos -s list-tree -k fi_ftb --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_fi_ftb-mod1.params --model2 /media/data/yxwang/models/parser_fi_ftb-mod2.params --extra_emb ../resources/pruned_embedding/fi_ftb.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/fi_ftb.conllu
+[2017-05-10 21:34:13]  udpipe raw-to-conll.code
+[2017-05-10 21:34:13]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/fi_pud.pos -i /media/data/yxwang/models/fi.infos -s list-tree -k fi --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_fi-mod1.params --model2 /media/data/yxwang/models/parser_fi-mod2.params --extra_emb ../resources/pruned_embedding/fi.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/fi_pud.conllu
+[2017-05-10 21:40:44]  udpipe raw-to-conll.code
+[2017-05-10 21:40:44]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/fi.pos -i /media/data/yxwang/models/fi.infos -s list-tree -k fi --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_fi-mod1.params --model2 /media/data/yxwang/models/parser_fi-mod2.params --extra_emb ../resources/pruned_embedding/fi.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/fi.conllu
+[2017-05-10 21:48:34]  udpipe raw-to-conll.code
+[2017-05-10 21:48:34]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/fr_partut.pos -i /media/data/yxwang/models/fr_partut.infos -s list-tree -k fr_partut --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_fr_partut-mod.params --extra_emb ../resources/pruned_embedding/fr_partut.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/fr_partut.conllu
+[2017-05-10 21:51:11]  udpipe raw-to-conll.code
+[2017-05-10 21:51:11]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/fr_pud.pos -i /media/data/yxwang/models/fr.infos -s list-tree -k fr --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_fr-mod.params --extra_emb ../resources/pruned_embedding/fr.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/fr_pud.conllu
+[2017-05-10 21:56:36]  udpipe raw-to-conll.code
+[2017-05-10 21:56:36]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/fr_sequoia.pos -i /media/data/yxwang/models/fr_sequoia.infos -s list-tree -k fr_sequoia --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_fr_sequoia-mod.params --extra_emb ../resources/pruned_embedding/fr_sequoia.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/fr_sequoia.conllu
+[2017-05-10 21:59:18]  udpipe raw-to-conll.code
+[2017-05-10 21:59:18]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/fr.pos -i /media/data/yxwang/models/fr.infos -s list-tree -k fr --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_fr-mod.params --extra_emb ../resources/pruned_embedding/fr.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/fr.conllu
+[2017-05-10 22:01:59]  udpipe raw-to-conll.code
+[2017-05-10 22:01:59]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/ga.pos -i /media/data/yxwang/models/ga.infos -s list-tree -k ga --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_ga-mod.params --extra_emb ../resources/pruned_embedding/ga.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/ga.conllu
+[2017-05-10 22:04:14]  udpipe raw-to-conll.code
+[2017-05-10 22:04:14]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/gl_treegal.pos -i /media/data/yxwang/models/gl_treegal.infos -s list-tree -k gl_treegal --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_gl_treegal-mod.params --extra_emb ../resources/pruned_embedding/gl_treegal.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/gl_treegal.conllu
+[2017-05-10 22:06:27]  udpipe raw-to-conll.code
+[2017-05-10 22:06:27]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/gl.pos -i /media/data/yxwang/models/gl.infos -s list-tree -k gl --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_gl-mod1.params --model2 /media/data/yxwang/models/parser_gl-mod2.params --extra_emb ../resources/pruned_embedding/gl.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/gl.conllu
+[2017-05-10 22:15:04]  yliu's raw-to-stn code
+[2017-05-10 22:15:12]  dcteng's stn-to-conll.code
+[2017-05-10 22:15:12]  [2017-05-10 22:15:14]  dcteng's postag.code
+[2017-05-10 22:15:14]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/got.pos -i /media/data/yxwang/models/got.infos -s list-tree -k got --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R  -m /media/data/yxwang/models/parser_got-mod1.params --model2 /media/data/yxwang/models/parser_got-mod2.params > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/got.conllu
+[2017-05-10 22:18:23]  yliu's raw-to-stn code
+[2017-05-10 22:18:49]  dcteng's stn-to-conll.code
+[2017-05-10 22:18:49]  [2017-05-10 22:18:52]  dcteng's postag.code
+[2017-05-10 22:18:52]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/grc_proiel.pos -i /media/data/yxwang/models/grc_proiel.infos -s list-tree -k grc_proiel --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_grc_proiel-mod1.params --model2 /media/data/yxwang/models/parser_grc_proiel-mod2.params --extra_emb ../resources/pruned_embedding/grc_proiel.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/grc_proiel.conllu
+[2017-05-10 22:23:26]  udpipe raw-to-conll.code
+[2017-05-10 22:23:26]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/grc.pos -i /media/data/yxwang/models/grc.infos -s list-tree -k grc --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_grc-mod.params --extra_emb ../resources/pruned_embedding/grc.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/grc.conllu
+[2017-05-10 22:27:30]  udpipe raw-to-conll.code
+[2017-05-10 22:27:30]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/he.pos -i /media/data/yxwang/models/he.infos -s list-tree -k he --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_he-mod.params --extra_emb ../resources/pruned_embedding/he.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/he.conllu
+[2017-05-10 22:29:54]  udpipe raw-to-conll.code
+[2017-05-10 22:29:54]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/hi_pud.pos -i /media/data/yxwang/models/hi.infos -s list-tree -k hi --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_hi-mod1.params --model2 /media/data/yxwang/models/parser_hi-mod2.params --extra_emb ../resources/pruned_embedding/hi.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/hi_pud.conllu
+[2017-05-10 22:38:02]  udpipe raw-to-conll.code
+[2017-05-10 22:38:02]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/hi.pos -i /media/data/yxwang/models/hi.infos -s list-tree -k hi --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_hi-mod1.params --model2 /media/data/yxwang/models/parser_hi-mod2.params --extra_emb ../resources/pruned_embedding/hi.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/hi.conllu
+[2017-05-10 22:50:55]  udpipe raw-to-conll.code
+[2017-05-10 22:50:55]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/hr.pos -i /media/data/yxwang/models/hr.infos -s list-tree -k hr --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_hr-mod1.params --model2 /media/data/yxwang/models/parser_hr-mod2.params --extra_emb ../resources/pruned_embedding/hr.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/hr.conllu
+./bin/lstmparse -p /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu -i /media/data/yxwang/models/hsb.infos -s list-tree -k hsb --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -D -P -B -R  -m /media/data/yxwang/models/parser_hsb-mod.params > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/hsb.conllu
+[2017-05-10 22:57:28]  udpipe raw-to-conll.code
+[2017-05-10 22:57:28]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/hu.pos -i /media/data/yxwang/models/hu.infos -s list-tree -k hu --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_hu-mod1.params --model2 /media/data/yxwang/models/parser_hu-mod2.params --extra_emb ../resources/pruned_embedding/hu.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/hu.conllu
+[2017-05-10 23:02:22]  udpipe raw-to-conll.code
+[2017-05-10 23:02:22]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/id.pos -i /media/data/yxwang/models/id.infos -s list-tree -k id --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_id-mod1.params --model2 /media/data/yxwang/models/parser_id-mod2.params --extra_emb ../resources/pruned_embedding/id.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/id.conllu
+[2017-05-10 23:06:44]  udpipe raw-to-conll.code
+[2017-05-10 23:06:44]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/it_pud.pos -i /media/data/yxwang/models/it.infos -s list-tree -k it --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_it-mod.params --extra_emb ../resources/pruned_embedding/it.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/it_pud.conllu
+[2017-05-10 23:12:08]  udpipe raw-to-conll.code
+[2017-05-10 23:12:08]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/it.pos -i /media/data/yxwang/models/it.infos -s list-tree -k it --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_it-mod.params --extra_emb ../resources/pruned_embedding/it.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/it.conllu
+[2017-05-10 23:15:17]  dcteng's raw-to-stn.code
+[2017-05-10 23:15:17]  [2017-05-10 23:15:19]  bzheng's ./segment.py ja
+[2017-05-10 23:16:11]  dcteng's postag.code
+[2017-05-10 23:16:11]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/ja_pud.pos -i /media/data/yxwang/models/ja.infos -s list-tree -k ja --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_ja-mod.params --extra_emb ../resources/pruned_embedding/ja.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/ja_pud.conllu
+[2017-05-10 23:22:43]  dcteng's raw-to-stn.code
+[2017-05-10 23:22:43]  [2017-05-10 23:22:44]  bzheng's ./segment.py ja
+[2017-05-10 23:23:27]  dcteng's postag.code
+[2017-05-10 23:23:27]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/ja.pos -i /media/data/yxwang/models/ja.infos -s list-tree -k ja --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_ja-mod.params --extra_emb ../resources/pruned_embedding/ja.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/ja.conllu
+ning/conll17-ud-test-2017-05-09/fi_ftb.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/fi_ftb.tok
+fi_ftb
+./tokenizer.sh fi /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_pud.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/fi_pud.tok
+fi_pud
+./tokenizer.sh fi /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/fi.tok
+fi
+./tokenizer.sh fr_partut /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_partut.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/fr_partut.tok
+fr_partut
+./tokenizer.sh fr /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_pud.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/fr_pud.tok
+fr_pud
+./tokenizer.sh fr_sequoia /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_sequoia.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/fr_sequoia.tok
+fr_sequoia
+./tokenizer.sh fr /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/fr.tok
+fr
+./tokenizer.sh ga /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ga.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/ga.tok
+ga
+./tokenizer.sh gl_treegal /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl_treegal.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/gl_treegal.tok
+gl_treegal
+./tokenizer.sh gl /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/gl.tok
+gl
+./tokenizer.sh got /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/got.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/got.tok
+got
+./tokenizer.sh grc_proiel /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc_proiel.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/grc_proiel.tok
+grc_proiel
+./tokenizer.sh grc /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/grc.tok
+grc
+./tokenizer.sh he /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/he.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/he.tok
+he
+./tokenizer.sh hi /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi_pud.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/hi_pud.tok
+hi_pud
+./tokenizer.sh hi /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/hi.tok
+hi
+./tokenizer.sh hr /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hr.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/hr.tok
+hr
+hsb
+./tokenizer.sh hu /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hu.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/hu.tok
+hu
+./tokenizer.sh id /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/id.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/id.tok
+id
+./tokenizer.sh it /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it_pud.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/it_pud.tok
+it_pud
+./tokenizer.sh it /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/it.tok
+it
+./tokenizer.sh ja /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja_pud.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/ja_pud.tok
+ja_pud
+./tokenizer.sh ja /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/ja.tok
+ja
+./tokenizer.sh kk /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kk.txt /home/HI[2017-05-10 23:27:28]  udpipe raw-to-conll.code
+[2017-05-10 23:27:28]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/kk.pos -i /media/data/yxwang/models/kk.infos -s list-tree -k kk --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_kk-mod.params --extra_emb ../resources/pruned_embedding/kk.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/kk.conllu
+./bin/lstmparse -p /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu -i /media/data/yxwang/models/kmr.infos -s list-tree -k kmr --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -D -P -B -R  -m /media/data/yxwang/models/parser_kmr-mod.params > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/kmr.conllu
+[2017-05-10 23:31:16]  udpipe raw-to-conll.code
+[2017-05-10 23:31:16]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/ko.pos -i /media/data/yxwang/models/ko.infos -s list-tree -k ko --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_ko-mod1.params --model2 /media/data/yxwang/models/parser_ko-mod2.params --extra_emb ../resources/pruned_embedding/ko.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/ko.conllu
+[2017-05-10 23:36:18]  yliu's raw-to-stn code
+[2017-05-10 23:36:18]  dcteng's stn-to-conll.code
+[2017-05-10 23:36:18]  [2017-05-10 23:36:21]  dcteng's postag.code
+[2017-05-10 23:36:21]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/la_ittb.pos -i /media/data/yxwang/models/la_ittb.infos -s list-tree -k la_ittb --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_la_ittb-mod1.params --model2 /media/data/yxwang/models/parser_la_ittb-mod2.params --extra_emb ../resources/pruned_embedding/la_ittb.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/la_ittb.conllu
+[2017-05-10 23:40:24]  yliu's raw-to-stn code
+[2017-05-10 23:40:39]  dcteng's stn-to-conll.code
+[2017-05-10 23:40:39]  [2017-05-10 23:40:42]  dcteng's postag.code
+[2017-05-10 23:40:42]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/la_proiel.pos -i /media/data/yxwang/models/la_proiel.infos -s list-tree -k la_proiel --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_la_proiel-mod.params --extra_emb ../resources/pruned_embedding/la_proiel.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/la_proiel.conllu
+[2017-05-10 23:43:51]  udpipe raw-to-conll.code
+[2017-05-10 23:43:51]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/la.pos -i /media/data/yxwang/models/la.infos -s list-tree -k la --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_la-mod.params --extra_emb ../resources/pruned_embedding/la.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/la.conllu
+[2017-05-10 23:46:30]  udpipe raw-to-conll.code
+[2017-05-10 23:46:30]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/lv.pos -i /media/data/yxwang/models/lv.infos -s list-tree -k lv --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_lv-mod1.params --model2 /media/data/yxwang/models/parser_lv-mod2.params --extra_emb ../resources/pruned_embedding/lv.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/lv.conllu
+[2017-05-10 23:50:27]  yliu's raw-to-stn code
+[2017-05-10 23:50:37]  dcteng's stn-to-conll.code
+[2017-05-10 23:50:37]  [2017-05-10 23:50:39]  dcteng's postag.code
+[2017-05-10 23:50:39]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/nl_lassysmall.pos -i /media/data/yxwang/models/nl_lassysmall.infos -s list-tree -k nl_lassysmall --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_nl_lassysmall-mod.params --extra_emb ../resources/pruned_embedding/nl_lassysmall.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/nl_lassysmall.conllu
+[2017-05-10 23:53:17]  udpipe raw-to-conll.code
+[2017-05-10 23:53:17]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/nl.pos -i /media/data/yxwang/models/nl.infos -s list-tree -k nl --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_nl-mod.params --extra_emb ../resources/pruned_embedding/nl.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/nl.conllu
+[2017-05-10 23:56:21]  udpipe raw-to-conll.code
+[2017-05-10 23:56:21]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/no_bokmaal.pos -i /media/data/yxwang/models/no_bokmaal.infos -s list-tree -k no_bokmaal --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_no_bokmaal-mod.params --extra_emb ../resources/pruned_embedding/no_bokmaal.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/no_bokmaal.conllu
+[2017-05-11 00:02:25]  udpipe raw-to-conll.code
+[2017-05-11 00:02:25]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/no_nynorsk.pos -i /media/data/yxwang/models/no_nynorsk.infos -s list-tree -k no_nynorsk --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_no_nynorsk-mod.params --extra_emb ../resources/pruned_embedding/no_nynorsk.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/no_nynorsk.conllu
+[2017-05-11 00:07:34]  udpipe raw-to-conll.code
+[2017-05-11 00:07:34]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/pl.pos -i /media/data/yxwang/models/pl.infos -s list-tree -k pl --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_pl-mod1.params --model2 /media/data/yxwang/models/parser_pl-mod2.params --extra_emb ../resources/pruned_embedding/pl.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/pl.conllu
+[2017-05-11 00:12:07]  udpipe raw-to-conll.code
+[2017-05-11 00:12:07]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/pt_br.pos -i /media/data/yxwang/models/pt_br.infos -s list-tree -k pt_br --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_pt_br-mod.params --extra_emb ../resources/pruned_embedding/pt_br.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/pt_br.conllu
+[2017-05-11 00:19:10]  udpipe raw-to-conll.code
+[2017-05-11 00:19:10]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/pt_pud.pos -i /media/data/yxwang/models/pt_br.infos -s list-tree -k pt_br --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_pt_br-mod.params --extra_emb ../resources/pruned_embedding/pt_br.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/pt_pud.conllu
+[2017-05-11 00:24:05]  udpipe raw-to-conll.code
+[2017-05-11 00:24:05]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/pt.pos -i /media/data/yxwang/models/pt.infos -s list-tree -k pt --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_pt-mod.params --extra_emb ../resources/pruned_embedding/pt.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/pt.conllu
+[2017-05-11 00:27:04]  udpipe raw-to-conll.code
+[2017-05-11 00:27:04]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/ro.pos -i /media/data/yxwang/models/ro.infos -s list-tree -k ro --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_ro-mod1.params --model2 /media/data/yxwang/models/parser_ro-mod2.params --extra_emb ../resources/pruned_embedding/ro.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/ro.conllu
+[2017-05-11 00:33:33]  udpipe raw-to-conll.code
+[2017-05-11 00:33:33]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/ru_pud.pos -i /media/data/yxwang/models/ru_syntagrus.infos -s list-tree -k ru_syntagrus --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_ru_syntagrus-mod1.params --model2 /media/data/yxwang/models/parser_ru_syntagrus-mod2.params --extra_emb ../resources/pruned_embedding/ru_syntagrus.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/ru_pud.conllu
+[2017-05-11 00:43:34]  udpipe raw-to-conll.code
+[2017-05-11 00:43:34]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/ru_syntagrus.pos -i /media/data/yxwang/models/ru_syntagrus.infos -s list-tree -k ru_syntagrus --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_ru_syntagrus-mod1.params --model2 /media/data/yxwang/models/parser_ru_syntagrus-mod2.params --extra_emb ../resources/pruned_embedding/ru_syntagrus.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/ru_syntagrus.conllu
+[2017-05-11 01:30:24]  udpipe raw-to-conll.code
+[2017-05-11 01:30:24]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/ru.pos -i /media/data/yxwang/models/ru.infos -s list-tree -k ru --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_ru-mod.params --extra_emb ../resources/pruned_embedding/ru.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/ru.conllu
+[2017-05-11 01:34:33]  udpipe raw-to-conll.code
+[2017-05-11 01:34:33]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/sk.pos -i /media/data/yxwang/models/sk.infos -s list-tree -k sk --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_sk-mod1.params --model2 /media/data/yxwang/models/parser_sk-mod2.params --extra_emb ../resources/pruned_embedding/sk.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/sk.conllu
+[2017-05-11 01:39:16]  udpipe raw-to-conll.code
+[2017-05-11 01:39:16]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/sl_sst.pos -i /media/data/yxwang/models/sl_sst.infos -s list-tree -k sl_sst --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_sl_sst-mod.params --extra_emb ../resources/pruned_embedding/sl_sst.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/sl_sst.conllu
+[2017-05-11 01:41:48]  udpipe raw-to-conll.code
+[2017-05-11 01:41:48]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/sl.pos -i /media/data/yxwang/models/sl.infos -s list-tree -k sl --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_sl-mod.params --extra_emb ../resources/pruned_embedding/sl.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/sl.conllu
+./bin/lstmparse -p /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu -i /media/data/yxwang/models/sme.infos -s list-tree -k sme --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -D -P -B -R  -m /media/data/yxwang/models/parser_sme-mod.params > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/sme.conllu
+[2017-05-11 01:46:07]  yliu's raw-to-stn code
+[2017-05-11 01:46:25]  dcteng's stn-to-conll.code
+[2017-05-11 01:46:25]  [2017-05-11 01:46:27]  dcteng's postag.code
+[2017-05-11 01:46:27]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/sv_lines.pos -i /media/data/yxwang/models/sv_lines.infos -s list-tree -k sv_lines --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_sv_lines-mod1.params --model2 /media/data/yxwang/models/parser_sv_lines-mod2.params --extra_emb ../resources/pruned_embedding/sv_lines.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/sv_lines.conllu
+[2017-05-11 01:51:46]  udpipe raw-to-conll.code
+[2017-05-11 01:51:46]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/sv_pud.pos -i /media/data/yxwang/models/sv.infos -s list-tree -k sv --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_sv-mod1.params --model2 /media/data/yxwang/models/parser_sv-mod2.params --extra_emb ../resources/pruned_embedding/sv.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/sv_pud.conllu
+T-SCIR/sandbox/Evaluation/output/tokenization/kk.tok
+kk
+kmr
+./tokenizer.sh ko /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ko.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/ko.tok
+ko
+./tokenizer.sh la_ittb /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_ittb.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/la_ittb.tok
+la_ittb
+./tokenizer.sh la_proiel /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_proiel.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/la_proiel.tok
+la_proiel
+./tokenizer.sh la /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/la.tok
+la
+./tokenizer.sh lv /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/lv.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/lv.tok
+lv
+./tokenizer.sh nl_lassysmall /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl_lassysmall.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/nl_lassysmall.tok
+nl_lassysmall
+./tokenizer.sh nl /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/nl.tok
+nl
+./tokenizer.sh no_bokmaal /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_bokmaal.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/no_bokmaal.tok
+no_bokmaal
+./tokenizer.sh no_nynorsk /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_nynorsk.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/no_nynorsk.tok
+no_nynorsk
+./tokenizer.sh pl /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pl.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/pl.tok
+pl
+./tokenizer.sh pt_br /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_br.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/pt_br.tok
+pt_br
+./tokenizer.sh pt_br /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_pud.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/pt_pud.tok
+pt_pud
+./tokenizer.sh pt /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/pt.tok
+pt
+./tokenizer.sh ro /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ro.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/ro.tok
+ro
+./tokenizer.sh ru_syntagrus /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_pud.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/ru_pud.tok
+ru_pud
+./tokenizer.sh ru_syntagrus /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_syntagrus.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/ru_syntagrus.tok
+ru_syntagrus
+./tokenizer.sh ru /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/ru.tok
+ru
+./tokenizer.sh sk /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sk.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/sk.tok
+sk
+./tokenizer.sh sl_sst /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl_sst.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/sl_sst.tok
+sl_sst
+./tokenizer.sh sl /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/sl.tok
+sl
+sme
+./tokenizer.sh sv_lines /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_lines.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/sv_lines.tok
+sv_lines
+./tokenizer.sh sv /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_pud.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/sv_pud.tok
+sv_pud
+./tokenizer.sh sv /media/test-datasets/universal-dependency-l[2017-05-11 01:58:08]  udpipe raw-to-conll.code
+[2017-05-11 01:58:08]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/sv.pos -i /media/data/yxwang/models/sv.infos -s list-tree -k sv --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_sv-mod1.params --model2 /media/data/yxwang/models/parser_sv-mod2.params --extra_emb ../resources/pruned_embedding/sv.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/sv.conllu
+[2017-05-11 02:04:59]  udpipe raw-to-conll.code
+[2017-05-11 02:04:59]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/tr_pud.pos -i /media/data/yxwang/models/tr.infos -s list-tree -k tr --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_tr-mod1.params --model2 /media/data/yxwang/models/parser_tr-mod2.params --extra_emb ../resources/pruned_embedding/tr.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/tr_pud.conllu
+[2017-05-11 02:10:41]  udpipe raw-to-conll.code
+[2017-05-11 02:10:41]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/tr.pos -i /media/data/yxwang/models/tr.infos -s list-tree -k tr --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_tr-mod1.params --model2 /media/data/yxwang/models/parser_tr-mod2.params --extra_emb ../resources/pruned_embedding/tr.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/tr.conllu
+[2017-05-11 02:13:48]  udpipe raw-to-conll.code
+[2017-05-11 02:13:48]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/ug.pos -i /media/data/yxwang/models/ug.infos -s list-tree -k ug --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_ug-mod.params --extra_emb ../resources/pruned_embedding/ug.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/ug.conllu
+[2017-05-11 02:15:42]  udpipe raw-to-conll.code
+[2017-05-11 02:15:42]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/uk.pos -i /media/data/yxwang/models/uk.infos -s list-tree -k uk --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_uk-mod.params --extra_emb ../resources/pruned_embedding/uk.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/uk.conllu
+[2017-05-11 02:18:58]  udpipe raw-to-conll.code
+[2017-05-11 02:18:58]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/ur.pos -i /media/data/yxwang/models/ur.infos -s list-tree -k ur --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_ur-mod1.params --model2 /media/data/yxwang/models/parser_ur-mod2.params --extra_emb ../resources/pruned_embedding/ur.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/ur.conllu
+[2017-05-11 02:23:55]  dcteng's raw-to-stn.code
+[2017-05-11 02:23:55]  [2017-05-11 02:23:57]  bzheng's ./segment.py vi
+[2017-05-11 02:24:42]  dcteng's postag.code
+[2017-05-11 02:24:42]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/vi.pos -i /media/data/yxwang/models/vi.infos -s list-tree -k vi --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_vi-mod1.params --model2 /media/data/yxwang/models/parser_vi-mod2.params --extra_emb ../resources/pruned_embedding/vi.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/vi.conllu
+[2017-05-11 02:29:21]  dcteng's raw-to-stn.code
+[2017-05-11 02:29:21]  [2017-05-11 02:29:22]  bzheng's ./segment.py zh
+[2017-05-11 02:30:17]  dcteng's postag.code
+[2017-05-11 02:30:17]  ./bin/lstmparse -p /home/HIT-SCIR/sandbox/Evaluation/output/postag/zh.pos -i /media/data/yxwang/models/zh.infos -s list-tree -k zh --cluster_dim 100 --pretrained_dim 100 --hidden_dim 200 --bilstm_hidden_dim 200 --lstm_input_dim 200 --input_dim 100 --action_dim 50 --pos_dim 50 --rel_dim 50 --dynet_mem 4000 -P -B -R -C  -m /media/data/yxwang/models/parser_zh-mod1.params --model2 /media/data/yxwang/models/parser_zh-mod2.params --extra_emb ../resources/pruned_embedding/zh.ext-vec > /tmp/HIT-SCIR/2017-05-10-17-38-36/output/zh.conllu
+earning/conll17-ud-test-2017-05-09/sv.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/sv.tok
+sv
+./tokenizer.sh tr /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr_pud.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/tr_pud.tok
+tr_pud
+./tokenizer.sh tr /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/tr.tok
+tr
+./tokenizer.sh ug /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ug.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/ug.tok
+ug
+./tokenizer.sh uk /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/uk.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/uk.tok
+uk
+./tokenizer.sh ur /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ur.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/ur.tok
+ur
+./tokenizer.sh vi /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/vi.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/vi.tok
+vi
+./tokenizer.sh zh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh.txt /home/HIT-SCIR/sandbox/Evaluation/output/tokenization/zh.tok
+zh

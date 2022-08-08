@@ -1,0 +1,33 @@
+  1. Stanford (Stanford)                     	software1-P	76.30 [OK]	Fin: 2017-05-14-10-36-20 => 2017-05-15-02-58-52
+  2. C2L2 (Ithaca)                           	software5-P	75.00 [OK]	Fin: 2017-05-12-09-27-46 => 2017-05-12-17-36-03
+  3. IMS (Stuttgart)                         	software2-P	74.42 [OK]	Fin: 2017-05-19-16-00-44 => 2017-05-20-21-39-04
+  4. HIT-SCIR (Harbin)                       	software4-P	72.11 [OK]	Fin: 2017-05-10-17-38-36 => 2017-05-11-04-53-11
+  5. LATTICE (Paris)                         	software7-P	70.93 [OK]	Fin: 2017-05-15-11-18-08 => 2017-05-15-20-28-49
+  6. Uppsala (Uppsala)                       	software3	70.49 [OK]	OOT: 2017-06-07-16-57-58 => 2017-06-07-17-02-33
+  7. ParisNLP (Paris)                        	software1-P	70.35 [OK]	     2017-05-18-18-30-47 => 2017-05-19-03-26-19
+  8. NAIST SATO (Nara)                       	software1-P	70.14 [OK]	Fin: 2017-05-15-08-05-20 => 2017-05-15-11-48-44
+  9. Koç University (İstanbul)               	software3-P	69.76 [OK]	Fin: 2017-05-11-18-53-35 => 2017-05-11-23-16-25
+ 10. ÚFAL – UDPipe 1.2 (Praha)               	software1-P	69.52 [OK]	Fin: 2017-05-15-09-58-56 => 2017-05-15-12-16-30
+ 11. LyS-FASTPARSE (A Coruña)                	software5-P	69.15 [OK]	     2017-05-20-10-51-06 => 2017-05-22-09-34-33
+ 12. LIMSI (Paris)                           	software3	68.90 [OK]	     2017-05-22-00-54-35 => 2017-05-22-12-05-17
+ 13. UParse (Edinburgh)                      	software1-P	68.87 [OK]	Fin: 2017-05-12-22-37-39 => 2017-05-13-01-27-31
+ 14. RACAI (București)                       	software1-P	68.79 [OK]	     2017-05-18-16-05-12 => 2017-05-19-00-50-13
+ 15. Orange – Deskiñ (Lannion)               	software1-P	68.63 [OK]	     2017-05-09-19-00-13 => 2017-05-09-23-12-28
+ 16. TurkuNLP (Turku)                        	software1-P	68.59 [OK]	Fin: 2017-05-14-02-33-45 => 2017-05-14-08-32-00
+ 17. darc (Tübingen)                         	software1-P	68.41 [OK]	Fin: 2017-05-09-19-56-24 => 2017-05-09-21-54-48
+ 18. BASELINE UDPipe 1.1 (Praha)             	software2-P	68.35 [OK]	Fin: 2017-05-15-09-35-05 => 2017-05-15-10-42-39
+ 19. MQuni (Sydney)                          	software2-P	68.05 [OK]	Fin: 2017-05-09-20-35-48 => 2017-05-10-05-14-53
+ 20. fbaml (Palo Alto)                       	software1-P	67.92 [80]	     2017-05-15-18-00-23 => 2017-05-18-19-26-02
+ 21. IIT Kharagpur (Kharagpur)               	software2	67.75 [OK]	     2017-05-09-21-17-16 => 2017-05-09-21-42-32
+ 22. naistCL (Nara)                          	software1-P	67.59 [OK]	Fin: 2017-05-14-05-33-50 => 2017-05-14-07-31-46
+ 23. Wanghao-ftd-SJTU (Shanghai)             	software2-P	66.53 [OK]	Fin: 2017-05-14-12-32-00 => 2017-05-14-13-21-51
+ 24. UALING (Tucson)                         	software2	65.68 [OK]	     2017-05-16-12-04-27 => 2017-05-16-16-31-20
+ 25. METU (Ankara)                           	software2-P	61.98 [OK]	Fin: 2017-05-14-08-05-06 => 2017-05-14-09-38-40
+ 26. CLCL (Genève)                           	software2-P	61.82 [OK]	Fin: 2017-05-15-17-08-20+2017-05-15-12-58-58+2017...
+ 27. Mengest (Shanghai)                      	software1-P	61.33 [79]	Fin: 2017-05-15-12-26-00+2017-05-15-11-48-07+2017...
+ 28. Wenba-NLU (Wuhan)                       	software1-P	57.50 [76]	     2017-05-20-15-43-16 => 2017-05-20-20-30-57
+ 29. OpenU NLP Lab (Ra'anana)                	software6-P	57.06 [OK]	     2017-05-15-10-14-12 => 2017-05-22-20-47-45
+ 30. TRL (Tokyo)                             	software1-P	43.07 [OK]	Fin: 2017-05-15-13-31-13 => 2017-05-15-13-44-26
+ 31. MetaRomance (Santiago de Compostela)    	software1-P	34.05 [78]	Fin: 2017-05-12-10-34-18 => 2017-05-12-11-14-57
+ 32. UT (Tartu)                              	software1-P	21.10 [27]	Fin: 2017-05-15-01-44-30+2017-05-14-17-15-26+2017...
+ 33. ECNU (Shanghai)                         	software1-P	 3.18 [36]	Fin: 2017-05-13-17-22-09 => 2017-05-14-09-39-04

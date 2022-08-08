@@ -1,0 +1,84 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/METU/2017-05-13-13-51-31/output
+├── [1.4M]  ar.conllu
+├── [   0]  ar_pud.conllu
+├── [610K]  bg.conllu
+├── [   0]  bxr.conllu
+├── [1.8M]  ca.conllu
+├── [9.4M]  cs.conllu
+├── [607K]  cs_cac.conllu
+├── [605K]  cs_cltt.conllu
+├── [   0]  cs_pud.conllu
+├── [337K]  cu.conllu
+├── [274K]  da.conllu
+├── [531K]  de.conllu
+├── [   0]  de_pud.conllu
+├── [395K]  el.conllu
+├── [740K]  en.conllu
+├── [525K]  en_lines.conllu
+├── [326K]  en_partut.conllu
+├── [   0]  en_pud.conllu
+├── [333K]  es.conllu
+├── [1.7M]  es_ancora.conllu
+├── [   0]  es_pud.conllu
+├── [344K]  et.conllu
+├── [682K]  eu.conllu
+├── [606K]  fa.conllu
+├── [666K]  fi.conllu
+├── [754K]  fi_ftb.conllu
+├── [   0]  fi_pud.conllu
+├── [282K]  fr.conllu
+├── [   0]  fr_partut.conllu
+├── [   0]  fr_pud.conllu
+├── [287K]  fr_sequoia.conllu
+├── [   0]  ga.conllu
+├── [1.0M]  gl.conllu
+├── [   0]  gl_treegal.conllu
+├── [305K]  got.conllu
+├── [1016K]  grc.conllu
+├── [472K]  grc_proiel.conllu
+├── [464K]  he.conllu
+├── [1.3M]  hi.conllu
+├── [   0]  hi_pud.conllu
+├── [370K]  hr.conllu
+├── [   0]  hsb.conllu
+├── [319K]  hu.conllu
+├── [332K]  id.conllu
+├── [312K]  it.conllu
+├── [   0]  it_pud.conllu
+├── [354K]  ja.conllu
+├── [   0]  ja_pud.conllu
+├── [   0]  kk.conllu
+├── [   0]  kmr.conllu
+├── [414K]  ko.conllu
+├── [   0]  la.conllu
+├── [600K]  la_ittb.conllu
+├── [371K]  la_proiel.conllu
+├── [382K]  lv.conllu
+├── [652K]  nl.conllu
+├── [280K]  nl_lassysmall.conllu
+├── [817K]  no_bokmaal.conllu
+├── [680K]  no_nynorsk.conllu
+├── [537K]  pl.conllu
+├── [583K]  pt.conllu
+├── [1.0M]  pt_br.conllu
+├── [   0]  pt_pud.conllu
+├── [600K]  ro.conllu
+├── [407K]  ru.conllu
+├── [   0]  ru_pud.conllu
+├── [3.7M]  ru_syntagrus.conllu
+├── [442K]  sk.conllu
+├── [478K]  sl.conllu
+├── [   0]  sl_sst.conllu
+├── [   0]  sme.conllu
+├── [979K]  sv.conllu
+├── [565K]  sv_lines.conllu
+├── [   0]  sv_pud.conllu
+├── [349K]  tr.conllu
+├── [   0]  tr_pud.conllu
+├── [   0]  ug.conllu
+├── [   0]  uk.conllu
+├── [500K]  ur.conllu
+├── [346K]  vi.conllu
+└── [364K]  zh.conllu
+
+0 directories, 81 files

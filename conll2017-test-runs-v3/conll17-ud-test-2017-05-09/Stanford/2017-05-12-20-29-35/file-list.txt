@@ -1,0 +1,5 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/Stanford/2017-05-12-20-24-22/../2017-05-12-20-29-35/output
+├── [6.1K]  evaluation.bin
+└── [7.3K]  evaluation.prototext
+
+0 directories, 2 files

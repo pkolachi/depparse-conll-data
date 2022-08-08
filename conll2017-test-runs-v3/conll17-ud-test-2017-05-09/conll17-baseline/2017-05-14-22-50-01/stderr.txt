@@ -1,0 +1,405 @@
+Loading UDPipe model: done.
+
+real	0m21.592s
+user	0m20.656s
+sys	0m0.380s
+Loading UDPipe model: done.
+
+real	0m33.091s
+user	0m32.592s
+sys	0m0.312s
+Loading UDPipe model: done.
+
+real	0m16.296s
+user	0m15.556s
+sys	0m0.184s
+Loading UDPipe model: done.
+
+real	0m9.017s
+user	0m8.436s
+sys	0m0.220s
+Loading UDPipe model: done.
+
+real	0m59.046s
+user	0m57.996s
+sys	0m0.492s
+Loading UDPipe model: done.
+
+real	0m14.969s
+user	0m14.280s
+sys	0m0.268s
+Loading UDPipe model: done.
+
+real	0m10.386s
+user	0m10.084s
+sys	0m0.196s
+Loading UDPipe model: done.
+
+real	0m24.562s
+user	0m23.260s
+sys	0m0.404s
+Loading UDPipe model: done.
+
+real	2m49.630s
+user	2m47.460s
+sys	0m1.300s
+Loading UDPipe model: done.
+
+real	0m8.624s
+user	0m8.328s
+sys	0m0.140s
+Loading UDPipe model: done.
+
+real	0m9.756s
+user	0m9.376s
+sys	0m0.164s
+Loading UDPipe model: done.
+
+real	0m36.012s
+user	0m35.256s
+sys	0m0.328s
+Loading UDPipe model: done.
+
+real	0m26.865s
+user	0m26.572s
+sys	0m0.168s
+Loading UDPipe model: done.
+
+real	0m9.145s
+user	0m8.896s
+sys	0m0.124s
+Loading UDPipe model: done.
+
+real	0m11.893s
+user	0m11.604s
+sys	0m0.164s
+Loading UDPipe model: done.
+
+real	0m11.582s
+user	0m11.352s
+sys	0m0.136s
+Loading UDPipe model: done.
+
+real	0m21.128s
+user	0m20.584s
+sys	0m0.240s
+Loading UDPipe model: done.
+
+real	0m24.524s
+user	0m24.224s
+sys	0m0.192s
+Loading UDPipe model: done.
+
+real	0m57.172s
+user	0m56.060s
+sys	0m0.448s
+Loading UDPipe model: done.
+
+real	0m25.234s
+user	0m24.816s
+sys	0m0.288s
+Loading UDPipe model: done.
+
+real	0m15.803s
+user	0m15.196s
+sys	0m0.200s
+Loading UDPipe model: done.
+
+real	0m9.460s
+user	0m9.204s
+sys	0m0.144s
+Loading UDPipe model: done.
+
+real	0m18.654s
+user	0m18.160s
+sys	0m0.216s
+Loading UDPipe model: done.
+
+real	0m13.668s
+user	0m13.212s
+sys	0m0.176s
+Loading UDPipe model: done.
+
+real	0m14.599s
+user	0m14.360s
+sys	0m0.168s
+Loading UDPipe model: done.
+
+real	0m16.755s
+user	0m16.200s
+sys	0m0.248s
+Loading UDPipe model: done.
+
+real	0m21.270s
+user	0m20.992s
+sys	0m0.172s
+Loading UDPipe model: done.
+
+real	0m10.614s
+user	0m10.300s
+sys	0m0.156s
+Loading UDPipe model: done.
+
+real	0m28.071s
+user	0m27.428s
+sys	0m0.284s
+Loading UDPipe model: done.
+
+real	0m8.734s
+user	0m8.452s
+sys	0m0.124s
+Loading UDPipe model: done.
+
+real	0m12.659s
+user	0m12.428s
+sys	0m0.164s
+Loading UDPipe model: done.
+
+real	0m6.896s
+user	0m6.628s
+sys	0m0.128s
+Loading UDPipe model: done.
+
+real	0m8.408s
+user	0m8.124s
+sys	0m0.192s
+Loading UDPipe model: done.
+
+real	0m20.899s
+user	0m20.508s
+sys	0m0.200s
+Loading UDPipe model: done.
+
+real	0m7.174s
+user	0m6.924s
+sys	0m0.128s
+Loading UDPipe model: done.
+
+real	0m16.940s
+user	0m16.316s
+sys	0m0.268s
+Loading UDPipe model: done.
+
+real	0m21.938s
+user	0m21.104s
+sys	0m0.328s
+Loading UDPipe model: done.
+
+real	0m12.330s
+user	0m11.904s
+sys	0m0.208s
+Loading UDPipe model: done.
+
+real	1m1.465s
+user	0m59.824s
+sys	0m0.428s
+Loading UDPipe model: done.
+
+real	1m37.683s
+user	1m36.660s
+sys	0m0.556s
+Loading UDPipe model: done.
+
+real	0m16.075s
+user	0m15.536s
+sys	0m0.264s
+Loading UDPipe model: done.
+
+real	0m10.079s
+user	0m9.652s
+sys	0m0.168s
+Loading UDPipe model: done.
+
+real	0m11.872s
+user	0m11.620s
+sys	0m0.144s
+Loading UDPipe model: done.
+
+real	0m10.135s
+user	0m9.844s
+sys	0m0.136s
+Loading UDPipe model: done.
+
+real	0m21.986s
+user	0m21.456s
+sys	0m0.216s
+Loading UDPipe model: done.
+
+real	0m10.598s
+user	0m10.424s
+sys	0m0.120s
+Loading UDPipe model: done.
+
+real	0m17.661s
+user	0m17.132s
+sys	0m0.260s
+Loading UDPipe model: done.
+
+real	0m9.294s
+user	0m9.168s
+sys	0m0.084s
+Loading UDPipe model: done.
+
+real	0m3.523s
+user	0m3.188s
+sys	0m0.064s
+Loading UDPipe model: done.
+
+real	0m8.866s
+user	0m8.484s
+sys	0m0.148s
+Loading UDPipe model: done.
+
+real	0m8.559s
+user	0m8.228s
+sys	0m0.168s
+Loading UDPipe model: done.
+
+real	0m10.683s
+user	0m10.196s
+sys	0m0.156s
+Loading UDPipe model: done.
+
+real	0m15.195s
+user	0m14.688s
+sys	0m0.192s
+Loading UDPipe model: done.
+
+real	0m8.775s
+user	0m8.484s
+sys	0m0.172s
+Loading UDPipe model: done.
+
+real	0m8.889s
+user	0m8.572s
+sys	0m0.168s
+Loading UDPipe model: done.
+
+real	0m8.556s
+user	0m8.296s
+sys	0m0.152s
+Loading UDPipe model: done.
+
+real	0m21.402s
+user	0m20.820s
+sys	0m0.204s
+Loading UDPipe model: done.
+
+real	0m27.145s
+user	0m26.468s
+sys	0m0.300s
+Loading UDPipe model: done.
+
+real	0m24.277s
+user	0m23.744s
+sys	0m0.236s
+Loading UDPipe model: done.
+
+real	0m9.299s
+user	0m9.104s
+sys	0m0.136s
+Loading UDPipe model: done.
+
+real	0m31.154s
+user	0m30.572s
+sys	0m0.248s
+Loading UDPipe model: done.
+
+real	0m36.682s
+user	0m35.876s
+sys	0m0.292s
+Loading UDPipe model: done.
+
+real	0m17.659s
+user	0m17.452s
+sys	0m0.132s
+Loading UDPipe model: done.
+
+real	0m20.167s
+user	0m19.608s
+sys	0m0.184s
+Loading UDPipe model: done.
+
+real	0m24.082s
+user	0m22.948s
+sys	0m0.448s
+Loading UDPipe model: done.
+
+real	1m55.080s
+user	1m53.628s
+sys	0m0.904s
+Loading UDPipe model: done.
+
+real	0m11.356s
+user	0m10.940s
+sys	0m0.192s
+Loading UDPipe model: done.
+
+real	0m12.461s
+user	0m12.232s
+sys	0m0.172s
+Loading UDPipe model: done.
+
+real	0m9.285s
+user	0m9.044s
+sys	0m0.120s
+Loading UDPipe model: done.
+
+real	0m15.755s
+user	0m15.228s
+sys	0m0.204s
+Loading UDPipe model: done.
+
+real	0m10.556s
+user	0m9.860s
+sys	0m0.184s
+Loading UDPipe model: done.
+
+real	0m12.134s
+user	0m11.892s
+sys	0m0.104s
+Loading UDPipe model: done.
+
+real	0m16.485s
+user	0m16.128s
+sys	0m0.172s
+Loading UDPipe model: done.
+
+real	0m16.460s
+user	0m16.248s
+sys	0m0.128s
+Loading UDPipe model: done.
+
+real	0m14.333s
+user	0m13.908s
+sys	0m0.200s
+Loading UDPipe model: done.
+
+real	0m8.172s
+user	0m8.056s
+sys	0m0.080s
+Loading UDPipe model: done.
+
+real	0m4.698s
+user	0m4.468s
+sys	0m0.080s
+Loading UDPipe model: done.
+
+real	0m7.957s
+user	0m7.708s
+sys	0m0.132s
+Loading UDPipe model: done.
+
+real	0m41.399s
+user	0m40.740s
+sys	0m0.248s
+Loading UDPipe model: done.
+
+real	0m7.875s
+user	0m7.648s
+sys	0m0.108s
+Loading UDPipe model: done.
+
+real	0m9.451s
+user	0m9.052s
+sys	0m0.188s

@@ -1,0 +1,651 @@
+./baseline.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/IMS/2017-05-14-21-46-37/output
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ar_pud
+Segmenting at Sun May 14 21:49:02 CEST 2017
+Tagging and Stagging at Sun May 14 21:50:52 CEST 2017
+BL Parsing at Sun May 14 21:55:00 CEST 2017
+Copying outfile at Sun May 14 21:56:01 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ar_pud/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/ar_pud.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ar_0
+Segmenting at Sun May 14 21:56:01 CEST 2017
+Tagging and Stagging at Sun May 14 21:57:53 CEST 2017
+BL Parsing at Sun May 14 22:03:20 CEST 2017
+Copying outfile at Sun May 14 22:04:47 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ar_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/ar.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/bg_0
+Segmenting at Sun May 14 22:04:47 CEST 2017
+Tagging and Stagging at Sun May 14 22:04:47 CEST 2017
+BL Parsing at Sun May 14 22:07:55 CEST 2017
+Copying outfile at Sun May 14 22:08:43 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/bg_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/bg.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/bxr_0
+Segmenting at Sun May 14 22:08:43 CEST 2017
+Tagging and Stagging at Sun May 14 22:08:44 CEST 2017
+BL Parsing at Sun May 14 22:08:44 CEST 2017
+Copying outfile at Sun May 14 22:08:58 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/bxr_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/bxr.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ca_0
+Segmenting at Sun May 14 22:08:58 CEST 2017
+Tagging and Stagging at Sun May 14 22:08:59 CEST 2017
+BL Parsing at Sun May 14 22:19:46 CEST 2017
+Copying outfile at Sun May 14 22:22:21 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ca_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/ca.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/cs_cac
+Segmenting at Sun May 14 22:22:21 CEST 2017
+Tagging and Stagging at Sun May 14 22:22:22 CEST 2017
+BL Parsing at Sun May 14 22:24:51 CEST 2017
+Copying outfile at Sun May 14 22:25:35 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/cs_cac/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/cs_cac.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/cs_cltt
+Segmenting at Sun May 14 22:25:35 CEST 2017
+Tagging and Stagging at Sun May 14 22:25:36 CEST 2017
+BL Parsing at Sun May 14 22:27:49 CEST 2017
+Copying outfile at Sun May 14 22:28:25 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/cs_cltt/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/cs_cltt.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/cs_pud
+Segmenting at Sun May 14 22:28:25 CEST 2017
+Tagging and Stagging at Sun May 14 22:28:26 CEST 2017
+BL Parsing at Sun May 14 22:32:36 CEST 2017
+Copying outfile at Sun May 14 22:33:51 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/cs_pud/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/cs_pud.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/cs_0
+Segmenting at Sun May 14 22:33:51 CEST 2017
+Tagging and Stagging at Sun May 14 22:33:54 CEST 2017
+BL Parsing at Sun May 14 23:04:48 CEST 2017
+Copying outfile at Sun May 14 23:14:57 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/cs_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/cs.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/cu_0
+Segmenting at Sun May 14 23:14:57 CEST 2017
+Tagging and Stagging at Sun May 14 23:15:45 CEST 2017
+BL Parsing at Sun May 14 23:17:55 CEST 2017
+Copying outfile at Sun May 14 23:18:24 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/cu_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/cu.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/da_0
+Segmenting at Sun May 14 23:18:24 CEST 2017
+Tagging and Stagging at Sun May 14 23:18:24 CEST 2017
+BL Parsing at Sun May 14 23:20:26 CEST 2017
+Copying outfile at Sun May 14 23:21:01 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/da_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/da.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/de_pud
+Segmenting at Sun May 14 23:21:01 CEST 2017
+Tagging and Stagging at Sun May 14 23:21:01 CEST 2017
+BL Parsing at Sun May 14 23:25:13 CEST 2017
+Copying outfile at Sun May 14 23:26:13 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/de_pud/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/de_pud.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/de_0
+Segmenting at Sun May 14 23:26:13 CEST 2017
+Tagging and Stagging at Sun May 14 23:26:13 CEST 2017
+BL Parsing at Sun May 14 23:29:30 CEST 2017
+Copying outfile at Sun May 14 23:30:17 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/de_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/de.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/el_0
+Segmenting at Sun May 14 23:30:17 CEST 2017
+Tagging and Stagging at Sun May 14 23:30:17 CEST 2017
+BL Parsing at Sun May 14 23:32:26 CEST 2017
+Copying outfile at Sun May 14 23:32:58 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/el_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/el.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/en_lines
+Segmenting at Sun May 14 23:32:58 CEST 2017
+Tagging and Stagging at Sun May 14 23:32:58 CEST 2017
+BL Parsing at Sun May 14 23:35:57 CEST 2017
+Copying outfile at Sun May 14 23:36:45 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/en_lines/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/en_lines.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/en_partut
+Segmenting at Sun May 14 23:36:45 CEST 2017
+Tagging and Stagging at Sun May 14 23:36:45 CEST 2017
+BL Parsing at Sun May 14 23:38:59 CEST 2017
+Copying outfile at Sun May 14 23:39:37 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/en_partut/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/en_partut.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/en_pud
+Segmenting at Sun May 14 23:39:37 CEST 2017
+Tagging and Stagging at Sun May 14 23:39:38 CEST 2017
+BL Parsing at Sun May 14 23:43:36 CEST 2017
+Copying outfile at Sun May 14 23:44:59 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/en_pud/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/en_pud.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/en_0
+Segmenting at Sun May 14 23:44:59 CEST 2017
+Tagging and Stagging at Sun May 14 23:45:27 CEST 2017
+BL Parsing at Sun May 14 23:50:09 CEST 2017
+Copying outfile at Sun May 14 23:51:42 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/en_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/en.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/es_ancora
+Segmenting at Sun May 14 23:51:42 CEST 2017
+Tagging and Stagging at Sun May 14 23:51:42 CEST 2017
+BL Parsing at Mon May 15 00:01:37 CEST 2017
+Copying outfile at Mon May 15 00:03:57 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/es_ancora/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/es_ancora.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/es_pud
+Segmenting at Mon May 15 00:03:57 CEST 2017
+Tagging and Stagging at Mon May 15 00:03:57 CEST 2017
+BL Parsing at Mon May 15 00:08:32 CEST 2017
+Copying outfile at Mon May 15 00:09:37 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/es_pud/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/es_pud.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/es_0
+Segmenting at Mon May 15 00:09:37 CEST 2017
+Tagging and Stagging at Mon May 15 00:09:37 CEST 2017
+BL Parsing at Mon May 15 00:12:09 CEST 2017
+Copying outfile at Mon May 15 00:12:47 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/es_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/es.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/et_0
+Segmenting at Mon May 15 00:12:47 CEST 2017
+Tagging and Stagging at Mon May 15 00:13:29 CEST 2017
+BL Parsing at Mon May 15 00:15:56 CEST 2017
+Copying outfile at Mon May 15 00:16:34 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/et_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/et.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/eu_0
+Segmenting at Mon May 15 00:16:34 CEST 2017
+Tagging and Stagging at Mon May 15 00:16:34 CEST 2017
+BL Parsing at Mon May 15 00:21:20 CEST 2017
+Copying outfile at Mon May 15 00:22:20 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/eu_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/eu.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/fa_0
+Segmenting at Mon May 15 00:22:20 CEST 2017
+Tagging and Stagging at Mon May 15 00:22:20 CEST 2017
+BL Parsing at Mon May 15 00:25:27 CEST 2017
+Copying outfile at Mon May 15 00:26:20 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/fa_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/fa.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/fi_ftb
+Segmenting at Mon May 15 00:26:20 CEST 2017
+Tagging and Stagging at Mon May 15 00:26:20 CEST 2017
+BL Parsing at Mon May 15 00:29:38 CEST 2017
+Copying outfile at Mon May 15 00:30:23 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/fi_ftb/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/fi_ftb.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/fi_pud
+Segmenting at Mon May 15 00:30:23 CEST 2017
+Tagging and Stagging at Mon May 15 00:30:24 CEST 2017
+BL Parsing at Mon May 15 00:33:43 CEST 2017
+Copying outfile at Mon May 15 00:34:38 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/fi_pud/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/fi_pud.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/fi_0
+Segmenting at Mon May 15 00:34:38 CEST 2017
+Tagging and Stagging at Mon May 15 00:34:38 CEST 2017
+BL Parsing at Mon May 15 00:38:58 CEST 2017
+Copying outfile at Mon May 15 00:40:10 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/fi_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/fi.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/fr_partut
+Segmenting at Mon May 15 00:40:10 CEST 2017
+Tagging and Stagging at Mon May 15 00:40:26 CEST 2017
+BL Parsing at Mon May 15 00:42:29 CEST 2017
+Copying outfile at Mon May 15 00:43:06 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/fr_partut/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/fr_partut.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/fr_pud
+Segmenting at Mon May 15 00:43:06 CEST 2017
+Tagging and Stagging at Mon May 15 00:43:23 CEST 2017
+BL Parsing at Mon May 15 00:48:07 CEST 2017
+Copying outfile at Mon May 15 00:49:26 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/fr_pud/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/fr_pud.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/fr_sequoia
+Segmenting at Mon May 15 00:49:26 CEST 2017
+Tagging and Stagging at Mon May 15 00:49:43 CEST 2017
+BL Parsing at Mon May 15 00:51:44 CEST 2017
+Copying outfile at Mon May 15 00:52:13 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/fr_sequoia/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/fr_sequoia.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/fr_0
+Segmenting at Mon May 15 00:52:13 CEST 2017
+Tagging and Stagging at Mon May 15 00:52:28 CEST 2017
+BL Parsing at Mon May 15 00:54:34 CEST 2017
+Copying outfile at Mon May 15 00:55:10 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/fr_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/fr.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ga_0
+Segmenting at Mon May 15 00:55:10 CEST 2017
+Tagging and Stagging at Mon May 15 00:55:10 CEST 2017
+BL Parsing at Mon May 15 00:57:15 CEST 2017
+Copying outfile at Mon May 15 00:57:47 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ga_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/ga.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/gl_treegal
+Segmenting at Mon May 15 00:57:47 CEST 2017
+Tagging and Stagging at Mon May 15 00:57:47 CEST 2017
+BL Parsing at Mon May 15 00:59:47 CEST 2017
+Copying outfile at Mon May 15 01:00:18 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/gl_treegal/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/gl_treegal.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/gl_0
+Segmenting at Mon May 15 01:00:18 CEST 2017
+Tagging and Stagging at Mon May 15 01:00:18 CEST 2017
+BL Parsing at Mon May 15 01:05:55 CEST 2017
+Copying outfile at Mon May 15 01:06:50 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/gl_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/gl.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/got_0
+Segmenting at Mon May 15 01:06:50 CEST 2017
+Tagging and Stagging at Mon May 15 01:07:32 CEST 2017
+BL Parsing at Mon May 15 01:10:09 CEST 2017
+Copying outfile at Mon May 15 01:10:40 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/got_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/got.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/grc_proiel
+Segmenting at Mon May 15 01:10:40 CEST 2017
+Tagging and Stagging at Mon May 15 01:11:02 CEST 2017
+BL Parsing at Mon May 15 01:13:52 CEST 2017
+Copying outfile at Mon May 15 01:14:37 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/grc_proiel/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/grc_proiel.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/grc_0
+Segmenting at Mon May 15 01:14:37 CEST 2017
+Tagging and Stagging at Mon May 15 01:14:38 CEST 2017
+BL Parsing at Mon May 15 01:18:52 CEST 2017
+Copying outfile at Mon May 15 01:19:47 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/grc_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/grc.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/he_0
+Segmenting at Mon May 15 01:19:47 CEST 2017
+Tagging and Stagging at Mon May 15 01:20:18 CEST 2017
+BL Parsing at Mon May 15 01:22:50 CEST 2017
+Copying outfile at Mon May 15 01:23:30 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/he_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/he.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/hi_pud
+Segmenting at Mon May 15 01:23:30 CEST 2017
+Tagging and Stagging at Mon May 15 01:23:31 CEST 2017
+BL Parsing at Mon May 15 01:28:08 CEST 2017
+Copying outfile at Mon May 15 01:29:08 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/hi_pud/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/hi_pud.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/hi_0
+Segmenting at Mon May 15 01:29:08 CEST 2017
+Tagging and Stagging at Mon May 15 01:29:09 CEST 2017
+BL Parsing at Mon May 15 01:35:54 CEST 2017
+Copying outfile at Mon May 15 01:37:22 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/hi_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/hi.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/hr_0
+Segmenting at Mon May 15 01:37:22 CEST 2017
+Tagging and Stagging at Mon May 15 01:37:22 CEST 2017
+BL Parsing at Mon May 15 01:40:05 CEST 2017
+Copying outfile at Mon May 15 01:40:54 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/hr_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/hr.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/hsb_0
+Segmenting at Mon May 15 01:40:54 CEST 2017
+Tagging and Stagging at Mon May 15 01:40:54 CEST 2017
+BL Parsing at Mon May 15 01:40:54 CEST 2017
+Copying outfile at Mon May 15 01:41:14 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/hsb_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/hsb.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/hu_0
+Segmenting at Mon May 15 01:41:14 CEST 2017
+Tagging and Stagging at Mon May 15 01:41:15 CEST 2017
+BL Parsing at Mon May 15 01:43:54 CEST 2017
+Copying outfile at Mon May 15 01:44:47 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/hu_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/hu.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/id_0
+Segmenting at Mon May 15 01:44:47 CEST 2017
+Tagging and Stagging at Mon May 15 01:44:47 CEST 2017
+BL Parsing at Mon May 15 01:47:06 CEST 2017
+Copying outfile at Mon May 15 01:47:38 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/id_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/id.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/it_pud
+Segmenting at Mon May 15 01:47:38 CEST 2017
+Tagging and Stagging at Mon May 15 01:47:39 CEST 2017
+BL Parsing at Mon May 15 01:52:13 CEST 2017
+Copying outfile at Mon May 15 01:53:41 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/it_pud/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/it_pud.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/it_0
+Segmenting at Mon May 15 01:53:41 CEST 2017
+Tagging and Stagging at Mon May 15 01:53:41 CEST 2017
+BL Parsing at Mon May 15 01:55:51 CEST 2017
+Copying outfile at Mon May 15 01:56:32 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/it_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/it.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ja_pud
+Segmenting at Mon May 15 01:56:32 CEST 2017
+Tagging and Stagging at Mon May 15 01:56:42 CEST 2017
+BL Parsing at Mon May 15 02:01:41 CEST 2017
+Copying outfile at Mon May 15 02:02:10 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ja_pud/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/ja_pud.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ja_0
+Segmenting at Mon May 15 02:02:10 CEST 2017
+Tagging and Stagging at Mon May 15 02:02:18 CEST 2017
+BL Parsing at Mon May 15 02:04:43 CEST 2017
+Copying outfile at Mon May 15 02:05:00 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ja_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/ja.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/kk_0
+Segmenting at Mon May 15 02:05:00 CEST 2017
+Tagging and Stagging at Mon May 15 02:05:00 CEST 2017
+BL Parsing at Mon May 15 02:06:54 CEST 2017
+Copying outfile at Mon May 15 02:07:10 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/kk_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/kk.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/kmr_0
+Segmenting at Mon May 15 02:07:10 CEST 2017
+Tagging and Stagging at Mon May 15 02:07:10 CEST 2017
+BL Parsing at Mon May 15 02:07:10 CEST 2017
+Copying outfile at Mon May 15 02:07:26 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/kmr_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/kmr.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ko_0
+Segmenting at Mon May 15 02:07:26 CEST 2017
+Tagging and Stagging at Mon May 15 02:07:26 CEST 2017
+BL Parsing at Mon May 15 02:09:35 CEST 2017
+Copying outfile at Mon May 15 02:09:55 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ko_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/ko.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/la_ittb
+Segmenting at Mon May 15 02:09:55 CEST 2017
+Tagging and Stagging at Mon May 15 02:10:19 CEST 2017
+BL Parsing at Mon May 15 02:12:32 CEST 2017
+Copying outfile at Mon May 15 02:13:10 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/la_ittb/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/la_ittb.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/la_proiel
+Segmenting at Mon May 15 02:13:10 CEST 2017
+Tagging and Stagging at Mon May 15 02:14:18 CEST 2017
+BL Parsing at Mon May 15 02:16:49 CEST 2017
+Copying outfile at Mon May 15 02:17:33 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/la_proiel/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/la_proiel.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/la_0
+Segmenting at Mon May 15 02:17:33 CEST 2017
+Tagging and Stagging at Mon May 15 02:17:52 CEST 2017
+BL Parsing at Mon May 15 02:20:06 CEST 2017
+Copying outfile at Mon May 15 02:20:34 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/la_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/la.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/lv_0
+Segmenting at Mon May 15 02:20:34 CEST 2017
+Tagging and Stagging at Mon May 15 02:20:34 CEST 2017
+BL Parsing at Mon May 15 02:22:46 CEST 2017
+Copying outfile at Mon May 15 02:23:20 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/lv_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/lv.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/nl_lassysmall
+Segmenting at Mon May 15 02:23:20 CEST 2017
+Tagging and Stagging at Mon May 15 02:23:52 CEST 2017
+BL Parsing at Mon May 15 02:25:53 CEST 2017
+Copying outfile at Mon May 15 02:26:22 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/nl_lassysmall/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/nl_lassysmall.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/nl_0
+Segmenting at Mon May 15 02:26:22 CEST 2017
+Tagging and Stagging at Mon May 15 02:26:22 CEST 2017
+BL Parsing at Mon May 15 02:28:41 CEST 2017
+Copying outfile at Mon May 15 02:29:16 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/nl_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/nl.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/no_bokmaal
+Segmenting at Mon May 15 02:29:16 CEST 2017
+Tagging and Stagging at Mon May 15 02:29:17 CEST 2017
+BL Parsing at Mon May 15 02:35:14 CEST 2017
+Copying outfile at Mon May 15 02:36:39 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/no_bokmaal/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/no_bokmaal.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/no_nynorsk
+Segmenting at Mon May 15 02:36:39 CEST 2017
+Tagging and Stagging at Mon May 15 02:36:39 CEST 2017
+BL Parsing at Mon May 15 02:41:17 CEST 2017
+Copying outfile at Mon May 15 02:42:30 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/no_nynorsk/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/no_nynorsk.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/pl_0
+Segmenting at Mon May 15 02:42:30 CEST 2017
+Tagging and Stagging at Mon May 15 02:42:30 CEST 2017
+BL Parsing at Mon May 15 02:45:22 CEST 2017
+Copying outfile at Mon May 15 02:45:51 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/pl_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/pl.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/pt_br
+Segmenting at Mon May 15 02:45:51 CEST 2017
+Tagging and Stagging at Mon May 15 02:45:51 CEST 2017
+BL Parsing at Mon May 15 02:51:58 CEST 2017
+Copying outfile at Mon May 15 02:53:34 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/pt_br/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/pt_br.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/pt_pud
+Segmenting at Mon May 15 02:53:34 CEST 2017
+Tagging and Stagging at Mon May 15 02:53:34 CEST 2017
+BL Parsing at Mon May 15 02:58:08 CEST 2017
+Copying outfile at Mon May 15 02:59:30 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/pt_pud/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/pt_pud.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/pt_0
+Segmenting at Mon May 15 02:59:30 CEST 2017
+Tagging and Stagging at Mon May 15 02:59:30 CEST 2017
+BL Parsing at Mon May 15 03:01:43 CEST 2017
+Copying outfile at Mon May 15 03:02:24 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/pt_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/pt.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ro_0
+Segmenting at Mon May 15 03:02:24 CEST 2017
+Tagging and Stagging at Mon May 15 03:02:24 CEST 2017
+BL Parsing at Mon May 15 03:05:45 CEST 2017
+Copying outfile at Mon May 15 03:06:56 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ro_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/ro.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ru_pud
+Segmenting at Mon May 15 03:06:56 CEST 2017
+Tagging and Stagging at Mon May 15 03:06:56 CEST 2017
+BL Parsing at Mon May 15 03:11:00 CEST 2017
+Copying outfile at Mon May 15 03:12:09 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ru_pud/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/ru_pud.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ru_syntagrus
+Segmenting at Mon May 15 03:12:09 CEST 2017
+Tagging and Stagging at Mon May 15 03:12:10 CEST 2017
+BL Parsing at Mon May 15 03:34:51 CEST 2017
+Copying outfile at Mon May 15 03:41:23 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ru_syntagrus/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/ru_syntagrus.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ru_0
+Segmenting at Mon May 15 03:41:23 CEST 2017
+Tagging and Stagging at Mon May 15 03:41:23 CEST 2017
+BL Parsing at Mon May 15 03:44:30 CEST 2017
+Copying outfile at Mon May 15 03:45:14 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ru_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/ru.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/sk_0
+Segmenting at Mon May 15 03:45:14 CEST 2017
+Tagging and Stagging at Mon May 15 03:45:14 CEST 2017
+BL Parsing at Mon May 15 03:48:01 CEST 2017
+Copying outfile at Mon May 15 03:48:48 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/sk_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/sk.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/sl_sst
+Segmenting at Mon May 15 03:48:48 CEST 2017
+Tagging and Stagging at Mon May 15 03:49:09 CEST 2017
+BL Parsing at Mon May 15 03:51:18 CEST 2017
+Copying outfile at Mon May 15 03:51:55 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/sl_sst/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/sl_sst.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/sl_0
+Segmenting at Mon May 15 03:51:55 CEST 2017
+Tagging and Stagging at Mon May 15 03:51:55 CEST 2017
+BL Parsing at Mon May 15 03:54:59 CEST 2017
+Copying outfile at Mon May 15 03:55:39 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/sl_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/sl.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/sme_0
+Segmenting at Mon May 15 03:55:39 CEST 2017
+Tagging and Stagging at Mon May 15 03:55:39 CEST 2017
+BL Parsing at Mon May 15 03:55:39 CEST 2017
+Copying outfile at Mon May 15 03:55:53 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/sme_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/sme.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/sv_lines
+Segmenting at Mon May 15 03:55:53 CEST 2017
+Tagging and Stagging at Mon May 15 03:55:53 CEST 2017
+BL Parsing at Mon May 15 03:58:48 CEST 2017
+Copying outfile at Mon May 15 03:59:36 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/sv_lines/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/sv_lines.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/sv_pud
+Segmenting at Mon May 15 03:59:36 CEST 2017
+Tagging and Stagging at Mon May 15 03:59:36 CEST 2017
+BL Parsing at Mon May 15 04:03:14 CEST 2017
+Copying outfile at Mon May 15 04:04:16 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/sv_pud/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/sv_pud.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/sv_0
+Segmenting at Mon May 15 04:04:16 CEST 2017
+Tagging and Stagging at Mon May 15 04:04:17 CEST 2017
+BL Parsing at Mon May 15 04:08:08 CEST 2017
+Copying outfile at Mon May 15 04:09:16 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/sv_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/sv.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/tr_pud
+Segmenting at Mon May 15 04:09:16 CEST 2017
+Tagging and Stagging at Mon May 15 04:09:16 CEST 2017
+BL Parsing at Mon May 15 04:13:41 CEST 2017
+Copying outfile at Mon May 15 04:14:28 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/tr_pud/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/tr_pud.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/tr_0
+Segmenting at Mon May 15 04:14:28 CEST 2017
+Tagging and Stagging at Mon May 15 04:14:28 CEST 2017
+BL Parsing at Mon May 15 04:17:05 CEST 2017
+Copying outfile at Mon May 15 04:17:32 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/tr_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/tr.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ug_0
+Segmenting at Mon May 15 04:17:32 CEST 2017
+Tagging and Stagging at Mon May 15 04:17:32 CEST 2017
+BL Parsing at Mon May 15 04:19:23 CEST 2017
+Copying outfile at Mon May 15 04:19:46 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ug_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/ug.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/uk_0
+Segmenting at Mon May 15 04:19:46 CEST 2017
+Tagging and Stagging at Mon May 15 04:19:46 CEST 2017
+BL Parsing at Mon May 15 04:22:25 CEST 2017
+Copying outfile at Mon May 15 04:23:10 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/uk_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/uk.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ur_0
+Segmenting at Mon May 15 04:23:10 CEST 2017
+Tagging and Stagging at Mon May 15 04:23:11 CEST 2017
+BL Parsing at Mon May 15 04:26:13 CEST 2017
+Copying outfile at Mon May 15 04:26:53 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ur_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/ur.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/vi_0
+Segmenting at Mon May 15 04:26:53 CEST 2017
+Tagging and Stagging at Mon May 15 04:26:58 CEST 2017
+BL Parsing at Mon May 15 04:29:15 CEST 2017
+Copying outfile at Mon May 15 04:29:45 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/vi_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/vi.conllu'
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/zh_0
+Segmenting at Mon May 15 04:29:45 CEST 2017
+Tagging and Stagging at Mon May 15 04:30:00 CEST 2017
+BL Parsing at Mon May 15 04:32:22 CEST 2017
+Copying outfile at Mon May 15 04:33:04 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/zh_0/input.segmented.pp.blparse.conllu.out.conllu' -> '/tmp/IMS/2017-05-14-21-46-37/output/zh.conllu'
+
+

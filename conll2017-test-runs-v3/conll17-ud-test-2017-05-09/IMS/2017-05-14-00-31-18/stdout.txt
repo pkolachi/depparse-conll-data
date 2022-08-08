@@ -1,0 +1,572 @@
+./main.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/IMS/2017-05-14-00-31-18/output
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ar_pud
+Segmenting at Sun May 14 00:34:05 CEST 2017
+Tagging and Stagging at Sun May 14 00:35:53 CEST 2017
+BL Parsing at Sun May 14 00:39:57 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ar_0
+Segmenting at Sun May 14 00:40:58 CEST 2017
+Tagging and Stagging at Sun May 14 00:42:51 CEST 2017
+BL Parsing at Sun May 14 00:48:16 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/cu_0
+Segmenting at Sun May 14 00:49:42 CEST 2017
+Tagging and Stagging at Sun May 14 00:50:30 CEST 2017
+BL Parsing at Sun May 14 00:52:37 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/en_0
+Segmenting at Sun May 14 00:53:06 CEST 2017
+Tagging and Stagging at Sun May 14 00:53:33 CEST 2017
+BL Parsing at Sun May 14 00:58:16 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/et_0
+Segmenting at Sun May 14 00:59:46 CEST 2017
+Tagging and Stagging at Sun May 14 01:00:30 CEST 2017
+BL Parsing at Sun May 14 01:02:56 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/fr_partut
+Segmenting at Sun May 14 01:03:34 CEST 2017
+Tagging and Stagging at Sun May 14 01:03:50 CEST 2017
+BL Parsing at Sun May 14 01:05:55 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/fr_pud
+Segmenting at Sun May 14 01:06:31 CEST 2017
+Tagging and Stagging at Sun May 14 01:06:48 CEST 2017
+BL Parsing at Sun May 14 01:11:26 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/fr_sequoia
+Segmenting at Sun May 14 01:12:45 CEST 2017
+Tagging and Stagging at Sun May 14 01:13:01 CEST 2017
+BL Parsing at Sun May 14 01:15:01 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/fr_0
+Segmenting at Sun May 14 01:15:30 CEST 2017
+Tagging and Stagging at Sun May 14 01:15:46 CEST 2017
+BL Parsing at Sun May 14 01:17:51 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/got_0
+Segmenting at Sun May 14 01:18:27 CEST 2017
+Tagging and Stagging at Sun May 14 01:19:08 CEST 2017
+BL Parsing at Sun May 14 01:21:43 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/grc_proiel
+Segmenting at Sun May 14 01:22:14 CEST 2017
+Tagging and Stagging at Sun May 14 01:22:36 CEST 2017
+BL Parsing at Sun May 14 01:25:24 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/he_0
+Segmenting at Sun May 14 01:26:09 CEST 2017
+Tagging and Stagging at Sun May 14 01:26:40 CEST 2017
+BL Parsing at Sun May 14 01:29:09 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ja_pud
+Segmenting at Sun May 14 01:29:49 CEST 2017
+Tagging and Stagging at Sun May 14 01:29:59 CEST 2017
+BL Parsing at Sun May 14 01:34:54 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/ja_0
+Segmenting at Sun May 14 01:35:24 CEST 2017
+Tagging and Stagging at Sun May 14 01:35:32 CEST 2017
+BL Parsing at Sun May 14 01:37:55 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/la_ittb
+Segmenting at Sun May 14 01:38:12 CEST 2017
+Tagging and Stagging at Sun May 14 01:38:36 CEST 2017
+BL Parsing at Sun May 14 01:40:47 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/la_proiel
+Segmenting at Sun May 14 01:41:25 CEST 2017
+Tagging and Stagging at Sun May 14 01:42:33 CEST 2017
+BL Parsing at Sun May 14 01:45:07 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/nl_lassysmall
+Segmenting at Sun May 14 01:45:51 CEST 2017
+Tagging and Stagging at Sun May 14 01:46:22 CEST 2017
+BL Parsing at Sun May 14 01:48:20 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/sl_sst
+Segmenting at Sun May 14 01:48:50 CEST 2017
+Tagging and Stagging at Sun May 14 01:49:11 CEST 2017
+BL Parsing at Sun May 14 01:51:14 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/vi_0
+Segmenting at Sun May 14 01:51:50 CEST 2017
+Tagging and Stagging at Sun May 14 01:51:55 CEST 2017
+BL Parsing at Sun May 14 01:54:08 CEST 2017
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/zh_0
+Segmenting at Sun May 14 01:54:36 CEST 2017
+Tagging and Stagging at Sun May 14 01:54:51 CEST 2017
+BL Parsing at Sun May 14 01:57:10 CEST 2017
+
+
+
+
+Start blending
+
+
+Blend ar at Sun May 14 01:57:51 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/ar_pud/blend-out'
+Running ABT parsers at Sun May 14 01:57:51 CEST 2017
+abt 0 done
+abt 1 done
+Running Anna parsers at Sun May 14 01:59:53 CEST 2017
+anna 0 done
+anna 1 done
+Running Xiang parsers at Sun May 14 02:04:34 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Xiang 3 done
+Xiang 4 done
+Running ABT delex parsers at Sun May 14 02:26:52 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 02:26:52 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 02:26:52 CEST 2017
+Copying outfile at Sun May 14 02:26:55 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ar_pud/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/ar_pud.conllu'
+Blend ar at Sun May 14 02:26:55 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/ar_0/blend-out'
+Running ABT parsers at Sun May 14 02:26:55 CEST 2017
+abt 0 done
+abt 1 done
+Running Anna parsers at Sun May 14 02:29:43 CEST 2017
+anna 0 done
+anna 1 done
+Running Xiang parsers at Sun May 14 02:36:41 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Xiang 3 done
+Xiang 4 done
+Running ABT delex parsers at Sun May 14 03:06:54 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 03:06:54 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 03:06:54 CEST 2017
+Copying outfile at Sun May 14 03:06:58 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ar_0/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/ar.conllu'
+Blend cu at Sun May 14 03:06:58 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/cu_0/blend-out'
+Running ABT parsers at Sun May 14 03:06:58 CEST 2017
+abt 0 done
+abt 1 done
+abt 2 done
+Running Anna parsers at Sun May 14 03:08:19 CEST 2017
+anna 0 done
+Running Xiang parsers at Sun May 14 03:09:06 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Xiang 3 done
+Xiang 4 done
+Running ABT delex parsers at Sun May 14 03:20:20 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 03:20:20 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 03:20:20 CEST 2017
+Copying outfile at Sun May 14 03:20:22 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/cu_0/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/cu.conllu'
+Blend en at Sun May 14 03:20:22 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/en_0/blend-out'
+Running ABT parsers at Sun May 14 03:20:22 CEST 2017
+abt 0 done
+abt 1 done
+abt 2 done
+abt 3 done
+abt 4 done
+Running Anna parsers at Sun May 14 03:27:52 CEST 2017
+anna 0 done
+anna 1 done
+anna 2 done
+anna 3 done
+Running Xiang parsers at Sun May 14 03:36:21 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Running ABT delex parsers at Sun May 14 03:52:35 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 03:52:35 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 03:52:35 CEST 2017
+Copying outfile at Sun May 14 03:52:38 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/en_0/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/en.conllu'
+Blend et at Sun May 14 03:52:38 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/et_0/blend-out'
+Running ABT parsers at Sun May 14 03:52:38 CEST 2017
+No ABT models, quit
+Running Anna parsers at Sun May 14 03:52:38 CEST 2017
+anna 0 done
+anna 1 done
+anna 2 done
+anna 3 done
+Running Xiang parsers at Sun May 14 03:56:07 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Xiang 3 done
+Xiang 4 done
+Xiang 5 done
+Running ABT delex parsers at Sun May 14 04:12:37 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 04:12:37 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 04:12:37 CEST 2017
+Copying outfile at Sun May 14 04:12:39 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/et_0/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/et.conllu'
+Blend fr_partut at Sun May 14 04:12:39 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/fr_partut/blend-out'
+Running ABT parsers at Sun May 14 04:12:39 CEST 2017
+abt 0 done
+abt 1 done
+abt 2 done
+abt 3 done
+Running Anna parsers at Sun May 14 04:15:00 CEST 2017
+anna 0 done
+anna 1 done
+anna 2 done
+anna 3 done
+Running Xiang parsers at Sun May 14 04:18:16 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Running ABT delex parsers at Sun May 14 04:23:02 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 04:23:02 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 04:23:02 CEST 2017
+Copying outfile at Sun May 14 04:23:04 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/fr_partut/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/fr_partut.conllu'
+Blend fr_pud at Sun May 14 04:23:04 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/fr_pud/blend-out'
+Running ABT parsers at Sun May 14 04:23:04 CEST 2017
+abt 0 done
+abt 1 done
+abt 2 done
+abt 3 done
+Running Anna parsers at Sun May 14 04:28:41 CEST 2017
+anna 0 done
+anna 1 done
+anna 2 done
+Running Xiang parsers at Sun May 14 04:37:47 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Running ABT delex parsers at Sun May 14 04:54:01 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 04:54:01 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 04:54:01 CEST 2017
+Copying outfile at Sun May 14 04:54:03 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/fr_pud/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/fr_pud.conllu'
+Blend fr_sequoia at Sun May 14 04:54:03 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/fr_sequoia/blend-out'
+Running ABT parsers at Sun May 14 04:54:03 CEST 2017
+abt 0 done
+abt 1 done
+abt 2 done
+Running Anna parsers at Sun May 14 04:55:29 CEST 2017
+anna 0 done
+anna 1 done
+anna 2 done
+anna 3 done
+Running Xiang parsers at Sun May 14 04:59:24 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Xiang 3 done
+Xiang 4 done
+Xiang 5 done
+Running ABT delex parsers at Sun May 14 05:12:40 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 05:12:40 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 05:12:40 CEST 2017
+Copying outfile at Sun May 14 05:12:42 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/fr_sequoia/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/fr_sequoia.conllu'
+Blend fr at Sun May 14 05:12:42 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/fr_0/blend-out'
+Running ABT parsers at Sun May 14 05:12:42 CEST 2017
+abt 0 done
+abt 1 done
+abt 2 done
+abt 3 done
+Running Anna parsers at Sun May 14 05:15:04 CEST 2017
+anna 0 done
+anna 1 done
+Running Xiang parsers at Sun May 14 05:17:34 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Running ABT delex parsers at Sun May 14 05:24:20 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 05:24:20 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 05:24:20 CEST 2017
+Copying outfile at Sun May 14 05:24:22 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/fr_0/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/fr.conllu'
+Blend got at Sun May 14 05:24:22 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/got_0/blend-out'
+Running ABT parsers at Sun May 14 05:24:22 CEST 2017
+abt 0 done
+abt 1 done
+abt 2 done
+abt 3 done
+abt 4 done
+Running Anna parsers at Sun May 14 05:26:45 CEST 2017
+anna 0 done
+Running Xiang parsers at Sun May 14 05:27:37 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Xiang 3 done
+Xiang 4 done
+Running ABT delex parsers at Sun May 14 05:38:59 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 05:38:59 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 05:38:59 CEST 2017
+Copying outfile at Sun May 14 05:39:01 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/got_0/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/got.conllu'
+Blend grc_proiel at Sun May 14 05:39:01 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/grc_proiel/blend-out'
+Running ABT parsers at Sun May 14 05:39:01 CEST 2017
+abt 0 done
+abt 1 done
+abt 2 done
+abt 3 done
+Running Anna parsers at Sun May 14 05:41:55 CEST 2017
+anna 0 done
+anna 1 done
+Running Xiang parsers at Sun May 14 05:45:01 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Running ABT delex parsers at Sun May 14 05:54:11 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 05:54:11 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 05:54:11 CEST 2017
+Copying outfile at Sun May 14 05:54:13 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/grc_proiel/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/grc_proiel.conllu'
+Blend he at Sun May 14 05:54:13 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/he_0/blend-out'
+Running ABT parsers at Sun May 14 05:54:13 CEST 2017
+abt 0 done
+abt 1 done
+abt 2 done
+abt 3 done
+abt 4 done
+Running Anna parsers at Sun May 14 05:57:33 CEST 2017
+anna 0 done
+anna 1 done
+anna 2 done
+Running Xiang parsers at Sun May 14 06:02:09 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Xiang 3 done
+Running ABT delex parsers at Sun May 14 06:12:49 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 06:12:49 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 06:12:49 CEST 2017
+Copying outfile at Sun May 14 06:12:51 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/he_0/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/he.conllu'
+Blend ja at Sun May 14 06:12:51 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/ja_pud/blend-out'
+Running ABT parsers at Sun May 14 06:12:51 CEST 2017
+abt 0 done
+Running Anna parsers at Sun May 14 06:13:22 CEST 2017
+No Anna models, quit
+Running Xiang parsers at Sun May 14 06:13:22 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Xiang 3 done
+Running ABT delex parsers at Sun May 14 06:36:36 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 06:36:36 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 06:36:36 CEST 2017
+Copying outfile at Sun May 14 06:36:38 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ja_pud/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/ja_pud.conllu'
+Blend ja at Sun May 14 06:36:38 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/ja_0/blend-out'
+Running ABT parsers at Sun May 14 06:36:38 CEST 2017
+abt 0 done
+Running Anna parsers at Sun May 14 06:36:55 CEST 2017
+No Anna models, quit
+Running Xiang parsers at Sun May 14 06:36:55 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Xiang 3 done
+Running ABT delex parsers at Sun May 14 06:48:04 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 06:48:04 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 06:48:04 CEST 2017
+Copying outfile at Sun May 14 06:48:06 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/ja_0/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/ja.conllu'
+Blend la_ittb at Sun May 14 06:48:06 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/la_ittb/blend-out'
+Running ABT parsers at Sun May 14 06:48:06 CEST 2017
+abt 0 done
+abt 1 done
+abt 2 done
+abt 3 done
+abt 4 done
+Running Anna parsers at Sun May 14 06:51:06 CEST 2017
+anna 0 done
+anna 1 done
+Running Xiang parsers at Sun May 14 06:53:37 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Xiang 3 done
+Running ABT delex parsers at Sun May 14 07:03:17 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 07:03:17 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 07:03:17 CEST 2017
+Copying outfile at Sun May 14 07:03:19 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/la_ittb/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/la_ittb.conllu'
+Blend la_proiel at Sun May 14 07:03:19 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/la_proiel/blend-out'
+Running ABT parsers at Sun May 14 07:03:19 CEST 2017
+abt 0 done
+abt 1 done
+abt 2 done
+Running Anna parsers at Sun May 14 07:05:21 CEST 2017
+anna 0 done
+anna 1 done
+anna 2 done
+Running Xiang parsers at Sun May 14 07:09:32 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Xiang 3 done
+Xiang 4 done
+Xiang 5 done
+Running ABT delex parsers at Sun May 14 07:26:05 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 07:26:05 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 07:26:05 CEST 2017
+Copying outfile at Sun May 14 07:26:07 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/la_proiel/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/la_proiel.conllu'
+Blend nl_lassysmall at Sun May 14 07:26:07 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/nl_lassysmall/blend-out'
+Running ABT parsers at Sun May 14 07:26:07 CEST 2017
+abt 0 done
+abt 1 done
+abt 2 done
+Running Anna parsers at Sun May 14 07:27:34 CEST 2017
+anna 0 done
+anna 1 done
+anna 2 done
+anna 3 done
+Running Xiang parsers at Sun May 14 07:31:06 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Xiang 3 done
+Xiang 4 done
+Running ABT delex parsers at Sun May 14 07:43:12 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 07:43:12 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 07:43:12 CEST 2017
+Copying outfile at Sun May 14 07:43:14 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/nl_lassysmall/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/nl_lassysmall.conllu'
+Blend sl_sst at Sun May 14 07:43:14 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/sl_sst/blend-out'
+Running ABT parsers at Sun May 14 07:43:14 CEST 2017
+abt 0 done
+abt 1 done
+abt 2 done
+abt 3 done
+Running Anna parsers at Sun May 14 07:45:26 CEST 2017
+anna 0 done
+anna 1 done
+anna 2 done
+anna 3 done
+Running Xiang parsers at Sun May 14 07:49:24 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Running ABT delex parsers at Sun May 14 07:53:56 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 07:53:56 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 07:53:56 CEST 2017
+Copying outfile at Sun May 14 07:53:58 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/sl_sst/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/sl_sst.conllu'
+Blend vi at Sun May 14 07:53:58 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/vi_0/blend-out'
+Running ABT parsers at Sun May 14 07:53:58 CEST 2017
+abt 0 done
+abt 1 done
+abt 2 done
+abt 3 done
+Running Anna parsers at Sun May 14 07:55:49 CEST 2017
+anna 0 done
+anna 1 done
+Running Xiang parsers at Sun May 14 07:57:16 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Xiang 3 done
+Xiang 4 done
+Running ABT delex parsers at Sun May 14 08:10:08 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 08:10:08 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 08:10:08 CEST 2017
+Copying outfile at Sun May 14 08:10:10 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/vi_0/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/vi.conllu'
+Blend zh at Sun May 14 08:10:10 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/zh_0/blend-out'
+Running ABT parsers at Sun May 14 08:10:10 CEST 2017
+abt 0 done
+abt 1 done
+abt 2 done
+Running Anna parsers at Sun May 14 08:12:08 CEST 2017
+anna 0 done
+anna 1 done
+Running Xiang parsers at Sun May 14 08:14:51 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Xiang 2 done
+Xiang 3 done
+Xiang 4 done
+Xiang 5 done
+Xiang 6 done
+Running ABT delex parsers at Sun May 14 08:33:23 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 08:33:23 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 08:33:23 CEST 2017
+Copying outfile at Sun May 14 08:33:25 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/zh_0/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-00-31-18/output/zh.conllu'

@@ -1,0 +1,1 @@
+./run_all_parsing.sh: line 86:  1260 Segmentation fault      (core dumped) $parsing_cmd

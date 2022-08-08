@@ -1,0 +1,4 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/NAIST-SATO/2017-05-13-07-21-23/output
+└── [1.7M]  ar_pud.conllu
+
+0 directories, 1 file

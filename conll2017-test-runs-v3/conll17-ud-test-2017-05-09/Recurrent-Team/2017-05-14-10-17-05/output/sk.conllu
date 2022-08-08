@@ -1,0 +1,22 @@
+#0
+1
+2
+3
+1	Jednou	jeden	NUM	NFfs7	Case=Ins|Gender=Fem|Number=Sing	0	root	_	_
+2	z	z	ADP	Eu2	AdpType=Prep|Case=Gen	7	advmod:emph	_	_
+3	príčin	príčina	NOUN	SSfp2	Case=Gen|Gender=Fem|Number=Plur	7	amod	_	_
+4	bola	byť	AUX	VLescf+	Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	nsubj	_	_
+5	aj	aj	PART	T	_	11	det	_	_
+6	nedostatočná	nedostatočný	ADJ	AAfs1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+7	komunikácia	komunikácia	NOUN	SSfs1	Case=Nom|Gender=Fem|Number=Sing	11	amod	_	_
+8	medzi	medzi	ADP	Eu7	AdpType=Prep|Case=Ins	7	nmod	_	_
+9	vedúcimi	ovedúco	ADJ	Gkmp7x	Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Act	16	cc	_	_
+10	bezpečnostnými	bezpečnostný	ADJ	Gtmp7x	Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	14	nmod	_	_
+11	pracovníkmi	pracovník	NOUN	SSmp7	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	16	nsubj	_	_
+12	a	a	CCONJ	O	_	16	expl:pv	_	_
+13	operátormi	operátor	NOUN	SSmp7	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	4	conj	_	_
+14	čo	čo	PRON	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel	16	obj	_	_
+15	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	17	acl	_	_
+16	týka	týkať	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	amod	_	_
+17	príkazu	príkaz	NOUN	SSfs4	Case=Acc|Gender=Fem|Number=Sing	18	obj	_	_
+18	vykonať	vykonať	VERB	VId+	Aspect=Perf|Polarity=Pos|VerbForm=Inf	4	punct	_	_

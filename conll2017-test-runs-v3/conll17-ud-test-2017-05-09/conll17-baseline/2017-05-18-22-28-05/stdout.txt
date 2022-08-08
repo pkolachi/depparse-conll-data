@@ -1,0 +1,4 @@
+/home/conll17-baseline/udpipe-baseline/udpipe.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/conll17-baseline/2017-05-18-22-28-05/output
+
+
+All done

@@ -1,0 +1,995 @@
+Loading UDPipe model: done.
+Warning: Unknown character: K
+Warning: Unknown character: i
+Warning: Unknown character: '
+Warning: Unknown character: F
+[dynet] random seed: 423132559
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1183609126
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: N
+Warning: Unknown character: E
+Warning: Unknown character: F
+Warning: Unknown character: R
+Warning: Unknown character: P
+Warning: Unknown character: H
+Warning: Unknown character: ❊
+[dynet] random seed: 647587853
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 3898715434
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: Cannot load UDPipe model 'bxr.kk.embedding.udpipe'!
+Loading UDPipe model: done.
+Warning: Unknown character: 
+Warning: Unknown character: ª
+[dynet] random seed: 921656435
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 931854283
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+An error occurred during UDPipe execution: The CoNLL-U line '13	#' does not contain 10 columns!
+Warning: Unknown character: #
+[dynet] random seed: 1843301565
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2655822768
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+[dynet] random seed: 1036800582
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1821343777
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: „
+Warning: Unknown character: “
+Warning: Unknown character: –
+Warning: Unknown character: —
+Warning: Unknown character: …
+Warning: Unknown character: î
+Warning: Unknown character: ’
+Warning: Unknown character: ō
+[dynet] random seed: 1348099136
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2743135461
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: φ
+Warning: Unknown character: <
+[dynet] random seed: 1276049580
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 125547166
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: „
+Warning: Unknown character: “
+Warning: Unknown character: –
+Warning: Unknown character: …
+[dynet] random seed: 1356937869
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1687303838
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+[dynet] random seed: 1739393373
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 3984701935
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+[dynet] random seed: 1752571018
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2354921146
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+[dynet] random seed: 951205835
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2844474721
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+[dynet] random seed: 2978903732
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 4066371191
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+An error occurred during UDPipe execution: The CoNLL-U line '7	#432785' does not contain 10 columns!
+[dynet] random seed: 2211790873
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 637027198
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 3809957327
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1397691831
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 2533412856
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1070641235
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+An error occurred during UDPipe execution: The CoNLL-U line '18	#' does not contain 10 columns!
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 2453720734
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 228855744
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 329196382
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 212913537
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: ­
+[dynet] random seed: 325763653
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 835352510
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Warning: Unknown character: …
+Warning: Unknown character: ’
+Warning: Unknown character: ‘
+Warning: Unknown character: ț
+[dynet] random seed: 1154357318
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1978857716
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Warning: Unknown character: <
+Warning: Unknown character: ½
+[dynet] random seed: 3288765450
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 701188082
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Warning: Unknown character: ế
+Warning: Unknown character: đ
+Warning: Unknown character: ị
+Warning: Unknown character: ộ
+Warning: Unknown character: ĩ
+[dynet] random seed: 1053493857
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 3468143446
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Warning: Unknown character: Q
+Warning: Unknown character: Y
+Warning: Unknown character: j
+Warning: Unknown character: [
+Warning: Unknown character: ]
+Warning: Unknown character: %
+Warning: Unknown character: ù
+[dynet] random seed: 548851926
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2083580431
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: ¡
+Warning: Unknown character: â
+[dynet] random seed: 1631906376
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2324721703
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: ~
+Warning: Unknown character: ö
+Warning: Unknown character: µ
+[dynet] random seed: 2666321766
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 103197215
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+[dynet] random seed: 1125573404
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2461060503
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: ’
+[dynet] random seed: 947191151
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 3492463226
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: Ὥ
+Warning: Unknown character: (
+Warning: Unknown character: )
+Warning: Unknown character: Ὤ
+Warning: Unknown character: ὂ
+[dynet] random seed: 3922669852
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2198842755
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+[dynet] random seed: 2616255216
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1571225809
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: “
+Warning: Unknown character: ”
+Warning: Unknown character: G
+Warning: Unknown character: P
+Warning: Unknown character: —
+Warning: Unknown character: $
+Warning: Unknown character: o
+Warning: Unknown character: M
+Warning: Unknown character: a
+Warning: Unknown character: H
+Warning: Unknown character: u
+Warning: Unknown character: w
+Warning: Unknown character: e
+Warning: Unknown character: i
+Warning: Unknown character: n
+Warning: Unknown character: t
+Warning: Unknown character: l
+Warning: Unknown character: g
+Warning: Unknown character: c
+Warning: Unknown character: C
+Warning: Unknown character: F
+Warning: Unknown character: s
+Warning: Unknown character: %
+Warning: Unknown character: b
+Warning: Unknown character: R
+Warning: Unknown character: E
+Warning: Unknown character: ऩ
+Warning: Unknown character: ;
+Warning: Unknown character: …
+Warning: Unknown character: £
+Warning: Unknown character: –
+Warning: Unknown character: m
+Warning: Unknown character: r
+Warning: Unknown character: V
+Warning: Unknown character: W
+Warning: Unknown character: €
+Warning: Unknown character: v
+Warning: Unknown character: y
+Warning: Unknown character: q
+Warning: Unknown character: x
+Warning: Unknown character: A
+Warning: Unknown character: S
+Warning: Unknown character: T
+Warning: Unknown character: L
+Warning: Unknown character: U
+/home/UT/system/run.sh: line 78: [: too many arguments
+[dynet] random seed: 1089149790
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+/home/UT/system/run.sh: line 78: [: too many arguments
+[dynet] random seed: 635187126
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+[dynet] random seed: 3921241232
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 525554235
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: Cannot load UDPipe model 'hsb.sk.embedding.udpipe'!
+Loading UDPipe model: done.
+Warning: Unknown character: q
+[dynet] random seed: 2769400126
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1811207734
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Warning: Unknown character: 뭘
+Warning: Unknown character: 봐
+Warning: Unknown character: ひ
+Warning: Unknown character: ヒ
+Warning: Unknown character: 形
+Warning: Unknown character: 聲
+Warning: Unknown character: ī
+Warning: Unknown character: œ
+Warning: Unknown character: 汉
+Warning: Unknown character: 东
+Warning: Unknown character: 王
+Warning: Unknown character: 伊
+Warning: Unknown character: 尹
+Warning: Unknown character: ）
+Warning: Unknown character: Ö
+Warning: Unknown character: ȝ
+[dynet] random seed: 1074038348
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1241430969
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: £
+Warning: Unknown character: Á
+Warning: Unknown character: ñ
+Warning: Unknown character: Ö
+[dynet] random seed: 2243773378
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2750950456
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Warning: Unknown character: の
+Warning: Unknown character: ノ
+Warning: Unknown character: ″
+[dynet] random seed: 1478023028
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 4060550024
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Warning: Unknown character: 填
+Warning: Unknown character: ％
+Warning: Unknown character: Ⅲ
+Warning: Unknown character: （
+Warning: Unknown character: ）
+Warning: Unknown character: 諜
+Warning: Unknown character: ℃
+Warning: Unknown character: 淵
+Warning: Unknown character: ？
+Warning: Unknown character: 賑
+Warning: Unknown character: 瘍
+Warning: Unknown character: 膀
+Warning: Unknown character: 胱
+Warning: Unknown character: 疼
+Warning: Unknown character: 矮
+Warning: Unknown character: ’
+Warning: Unknown character: £
+Warning: Unknown character: 躊
+Warning: Unknown character: 躇
+Warning: Unknown character: 繭
+Warning: Unknown character: 蛹
+Warning: Unknown character: 贔
+Warning: Unknown character: 屓
+Warning: Unknown character: 卸
+Warning: Unknown character: –
+Warning: Unknown character: ä
+Warning: Unknown character: 飢
+Warning: Unknown character: 饉
+Warning: Unknown character: 漑
+Warning: Unknown character: 脆
+Warning: Unknown character: 渇
+Warning: Unknown character: 烙
+Warning: Unknown character: 嵐
+Warning: Unknown character: 愍
+Warning: Unknown character: 閏
+Warning: Unknown character: ／
+Warning: Unknown character: 浚
+Warning: Unknown character: 渫
+Warning: Unknown character: 鉢
+Warning: Unknown character: 站
+Warning: Unknown character: 諡
+Warning: Unknown character: 溺
+Warning: Unknown character: 姦
+Warning: Unknown character: 擢
+Warning: Unknown character: ＝
+Warning: Unknown character: １
+Warning: Unknown character: ２
+Warning: Unknown character: ６
+Warning: Unknown character: ü
+Warning: Unknown character: ＆
+Warning: Unknown character: 苛
+Warning: Unknown character: 撼
+Warning: Unknown character: 誼
+Warning: Unknown character: 厩
+[dynet] random seed: 1972248359
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1071049190
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: 兎
+Warning: Unknown character: ぉ
+Warning: Unknown character: ぅ
+Warning: Unknown character: 哉
+Warning: Unknown character: 弄
+Warning: Unknown character: 缶
+Warning: Unknown character: 糀
+Warning: Unknown character: 勿
+Warning: Unknown character: 錮
+Warning: Unknown character: 某
+Warning: Unknown character: 徽
+Warning: Unknown character: 湘
+Warning: Unknown character: 稚
+Warning: Unknown character: 朽
+Warning: Unknown character: 掩
+Warning: Unknown character: 弧
+[dynet] random seed: 1115289592
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1825774771
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character:  
+Warning: Unknown character: Ү
+Warning: Unknown character: Ә
+Warning: Unknown character: Х
+Warning: Unknown character: 8
+Warning: Unknown character: X
+Warning: Unknown character: З
+Warning: Unknown character: 3
+Warning: Unknown character: И
+Warning: Unknown character: ч
+Warning: Unknown character: Ч
+Warning: Unknown character: Р
+Warning: Unknown character: Ю
+Warning: Unknown character: ъ
+Warning: Unknown character: ”
+Warning: Unknown character: “
+Warning: Unknown character: /
+Warning: Unknown character: һ
+Warning: Unknown character: Ф
+Warning: Unknown character: І
+Warning: Unknown character: "
+Warning: Unknown character: ²
+Warning: Unknown character: %
+Warning: Unknown character: °
+Warning: Unknown character: ;
+Warning: Unknown character: Я
+Warning: Unknown character: щ
+Warning: Unknown character: Ц
+[dynet] random seed: 3665710201
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 4148753455
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: Cannot load UDPipe model 'tr.embedding.udpipe'!
+Loading UDPipe model: done.
+Warning: Unknown character: 녜
+Warning: Unknown character: 챌
+Warning: Unknown character: 孝
+Warning: Unknown character: 甲
+Warning: Unknown character: 낱
+Warning: Unknown character: 맣
+Warning: Unknown character: 텀
+Warning: Unknown character: 昌
+Warning: Unknown character: 谷
+Warning: Unknown character: 高
+Warning: Unknown character: 等
+Warning: Unknown character: 校
+Warning: Unknown character: 勒
+Warning: Unknown character: 佛
+Warning: Unknown character: 竿
+Warning: Unknown character: 林
+Warning: Unknown character: 茅
+Warning: Unknown character: 史
+Warning: Unknown character: 婦
+Warning: Unknown character: 愛
+Warning: Unknown character: 理
+Warning: Unknown character: 施
+Warning: Unknown character: 苗
+Warning: Unknown character: 栗
+Warning: Unknown character: 찢
+Warning: Unknown character: 촘
+Warning: Unknown character: 삐
+Warning: Unknown character: 城
+Warning: Unknown character: 툴
+Warning: Unknown character: 쑈
+Warning: Unknown character: 愚
+Warning: Unknown character: 问
+Warning: Unknown character: 贤
+Warning: Unknown character: 答
+Warning: Unknown character: 盧
+Warning: Unknown character: 콕
+Warning: Unknown character: 펌
+Warning: Unknown character: 兼
+Warning: Unknown character: 六
+Warning: Unknown character: 园
+Warning: Unknown character: 뜬
+Warning: Unknown character: 手
+Warning: Unknown character: 봇
+Warning: Unknown character: 쏙
+Warning: Unknown character: 볐
+Warning: Unknown character: 쌌
+Warning: Unknown character: 푀
+Warning: Unknown character: 工
+Warning: Unknown character: 폈
+Warning: Unknown character: 럿
+Warning: Unknown character: 쌔
+Warning: Unknown character: 淸
+Warning: Unknown character: 淨
+Warning: Unknown character: 發
+Warning: Unknown character: 엿
+Warning: Unknown character: 툰
+Warning: Unknown character: 쿡
+Warning: Unknown character: 門
+Warning: Unknown character: 物
+Warning: Unknown character: 群
+Warning: Unknown character: 系
+Warning: Unknown character: 井
+Warning: Unknown character: 燕
+Warning: Unknown character: 쑥
+Warning: Unknown character: 樂
+Warning: Unknown character: 毅
+Warning: Unknown character: 씻
+Warning: Unknown character: 댔
+Warning: Unknown character: 묜
+Warning: Unknown character: ø
+Warning: Unknown character: 빡
+Warning: Unknown character: 돛
+Warning: Unknown character: 一
+Warning: Unknown character: 般
+Warning: Unknown character: 界
+Warning: Unknown character: 特
+Warning: Unknown character: 殊
+Warning: Unknown character: 目
+Warning: Unknown character: 的
+Warning: Unknown character: 됬
+Warning: Unknown character: 엾
+Warning: Unknown character: 멓
+Warning: Unknown character: 윅
+Warning: Unknown character: 갓
+Warning: Unknown character: ·
+Warning: Unknown character: 짙
+Warning: Unknown character: 젯
+Warning: Unknown character: 젖
+[dynet] random seed: 1024860269
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 245236857
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 2293282939
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2188205839
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 3602072557
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2400081080
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 1911770007
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2015365729
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 195259961
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 4205652680
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: «
+Warning: Unknown character: »
+Warning: Unknown character: ²
+Warning: Unknown character: %
+[dynet] random seed: 3904338654
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2211095279
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Warning: Unknown character: *
+Warning: Unknown character: á
+Warning: Unknown character: ]
+Warning: Unknown character: Ï
+Warning: Unknown character: ­
+[dynet] random seed: 3351251542
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1123391273
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+usage: vnew_voting.py [-h] --parses PARSES [PARSES ...] --weights WEIGHTS
+                      [WEIGHTS ...] [--output PATH]
+vnew_voting.py: error: argument --parses/-p: expected at least one argument
+Traceback (most recent call last):
+  File "/home/UT/system/scripts/remove_two_roots.py", line 49, in <module>
+    main()
+  File "/home/UT/system/scripts/remove_two_roots.py", line 13, in main
+    removeroots(args)
+  File "/home/UT/system/scripts/remove_two_roots.py", line 17, in removeroots
+    fail = open(args.o,'r').read()
+IOError: [Errno 2] No such file or directory: '/home/UT/system/temp/no_bokmaal.conllu.transition'
+cat: /home/UT/system/temp/no_bokmaal.conllu.voting_no2root: No such file or directory
+usage: vnew_voting.py [-h] --parses PARSES [PARSES ...] --weights WEIGHTS
+                      [WEIGHTS ...] [--output PATH]
+vnew_voting.py: error: argument --parses/-p: expected at least one argument
+Traceback (most recent call last):
+  File "/home/UT/system/scripts/remove_two_roots.py", line 49, in <module>
+    main()
+  File "/home/UT/system/scripts/remove_two_roots.py", line 13, in main
+    removeroots(args)
+  File "/home/UT/system/scripts/remove_two_roots.py", line 17, in removeroots
+    fail = open(args.o,'r').read()
+IOError: [Errno 2] No such file or directory: '/home/UT/system/temp/no_nynorsk.conllu.transition'
+cat: /home/UT/system/temp/no_nynorsk.conllu.voting_no2root: No such file or directory
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 90053298
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 3895084811
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 2007501165
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2062288949
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 1145633837
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 3390683561
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 2518907105
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1527509986
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 2570147220
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 3678662499
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 2502376665
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 4159839904
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.

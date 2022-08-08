@@ -1,0 +1,4 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/Orange-Deskin/2017-05-10-12-02-22/../2017-05-10-15-33-39/output
+└── [ 51K]  evaluation.prototext
+
+0 directories, 1 file

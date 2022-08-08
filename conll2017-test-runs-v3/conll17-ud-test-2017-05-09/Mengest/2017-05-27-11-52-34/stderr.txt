@@ -1,0 +1,21 @@
+[dynet] random seed: 2693179761
+[dynet] allocating memory: 2048MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "src/parser.py", line 84, in <module>
+    with open(options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/no_rlBulgarian/params.pickle'
+[dynet] random seed: 3147359210
+[dynet] allocating memory: 2048MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "src/parser.py", line 84, in <module>
+    with open(options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/no_rlCatalan/params.pickle'
+[dynet] random seed: 3762856336
+[dynet] allocating memory: 2048MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "src/parser.py", line 84, in <module>
+    with open(options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/no_rlEnglish/params.pickle'

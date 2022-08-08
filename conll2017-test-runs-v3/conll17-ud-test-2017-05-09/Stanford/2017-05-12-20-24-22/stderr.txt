@@ -1,0 +1,145 @@
+conll17-scripts/run.sh: line 4: /home/Stanford/.bashrc: No such file or directory
+/home/Stanford/UnstableParser/parser/configurable.py:139: UserWarning: Original list ['/media/data/UD_saves2/Altaic/Altaic-Tagger/en-ud-train.conllu'] has no files
+  warnings.warn('Original list %s has no files' % lst)
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 53, in __init__
+    word_vocab = WordVocab.from_configurable(self)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 54, in __init__
+    self.dump()
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 107, in dump
+    with codecs.open(self.filename, 'w', encoding='utf-8') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/media/data/UD_saves2/Altaic/Altaic-Tagger/words.txt'
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 54, in __init__
+    pretrained_vocab = PretrainedVocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 46, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 76, in load
+    with open_func(self.filename, 'rb') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: ''
+/home/Stanford/UnstableParser/parser/configurable.py:139: UserWarning: Original list ['/media/data/UD_saves2/Slavic/Slavic-Tagger/en-ud-train.conllu'] has no files
+  warnings.warn('Original list %s has no files' % lst)
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 53, in __init__
+    word_vocab = WordVocab.from_configurable(self)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 54, in __init__
+    self.dump()
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 107, in dump
+    with codecs.open(self.filename, 'w', encoding='utf-8') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/media/data/UD_saves2/Slavic/Slavic-Tagger/words.txt'
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 54, in __init__
+    pretrained_vocab = PretrainedVocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 46, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 76, in load
+    with open_func(self.filename, 'rb') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: ''
+/home/Stanford/UnstableParser/parser/configurable.py:139: UserWarning: Original list ['/media/data/UD_saves2/Indo_Iranian/Indo_Iranian-Tagger/en-ud-train.conllu'] has no files
+  warnings.warn('Original list %s has no files' % lst)
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 53, in __init__
+    word_vocab = WordVocab.from_configurable(self)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 54, in __init__
+    self.dump()
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 107, in dump
+    with codecs.open(self.filename, 'w', encoding='utf-8') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/media/data/UD_saves2/Indo_Iranian/Indo_Iranian-Tagger/words.txt'
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 54, in __init__
+    pretrained_vocab = PretrainedVocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 46, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 76, in load
+    with open_func(self.filename, 'rb') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: ''
+/home/Stanford/UnstableParser/parser/configurable.py:139: UserWarning: Original list ['/media/data/UD_saves2/Uralic/Uralic-Tagger/en-ud-train.conllu'] has no files
+  warnings.warn('Original list %s has no files' % lst)
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 53, in __init__
+    word_vocab = WordVocab.from_configurable(self)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 54, in __init__
+    self.dump()
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 107, in dump
+    with codecs.open(self.filename, 'w', encoding='utf-8') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/media/data/UD_saves2/Uralic/Uralic-Tagger/words.txt'
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 54, in __init__
+    pretrained_vocab = PretrainedVocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 46, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/pretrained_vocab.py", line 76, in load
+    with open_func(self.filename, 'rb') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: ''

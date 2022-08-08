@@ -1,0 +1,3 @@
+sh /home/Uppsala/bash_taito.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/Uppsala/2017-05-21-22-25-52/output
+
+

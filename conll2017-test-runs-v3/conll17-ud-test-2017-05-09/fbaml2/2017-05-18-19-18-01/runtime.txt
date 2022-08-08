@@ -1,0 +1,2 @@
+7055524.98user 721664.20system 187:08:28elapsed 1154%CPU (0avgtext+0avgdata 27366580maxresident)k
+6664inputs+15906848outputs (12major+252801018minor)pagefaults 0swaps

@@ -1,0 +1,4 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/MetaRomance/2017-05-12-10-34-18/../2017-05-12-11-14-57/output
+└── [ 50K]  evaluation.prototext
+
+0 directories, 1 file

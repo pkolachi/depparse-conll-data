@@ -1,0 +1,85 @@
+/home/UFAL-UDPipe-1-2/udpipe/udpipe.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/UFAL-UDPipe-1-2/2017-05-15-02-00-38/output
+
+
+Processing ar_pud ar 10 ar_pud.txt ar_pud.conllu
+Processing ar ar 10 ar.txt ar.conllu
+Processing bg bg 15 bg.txt bg.conllu
+Processing bxr bxr bxr.txt bxr.conllu
+Processing ca ca 10 ca.txt ca.conllu
+Processing cs_cac cs_cac 5 cs_cac.txt cs_cac.conllu
+Processing cs_cltt cs_cltt 20 cs_cltt.txt cs_cltt.conllu
+Processing cs_pud cs 20 cs_pud.txt cs_pud.conllu
+Processing cs cs 20 cs.txt cs.conllu
+Processing cu cu 10 cu.txt cu.conllu
+Processing da da 15 da.txt da.conllu
+Processing de_pud de 15 de_pud.txt de_pud.conllu
+Processing de de 15 de.txt de.conllu
+Processing el el 15 el.txt el.conllu
+Processing en_lines en_lines 10 en_lines.txt en_lines.conllu
+Processing en_partut en_partut 20 en_partut.txt en_partut.conllu
+Processing en_pud en 20 en_pud.txt en_pud.conllu
+Processing en en 20 en.txt en.conllu
+Processing es_ancora es_ancora 20 es_ancora.txt es_ancora.conllu
+Processing es_pud es 20 es_pud.txt es_pud.conllu
+Processing es es 20 es.txt es.conllu
+Processing et et 20 et.txt et.conllu
+Processing eu eu 20 eu.txt eu.conllu
+Processing fa fa 20 fa.txt fa.conllu
+Processing fi_ftb fi_ftb 10 fi_ftb.txt fi_ftb.conllu
+Processing fi_pud fi 20 fi_pud.txt fi_pud.conllu
+Processing fi fi 20 fi.txt fi.conllu
+Processing fr_partut fr_partut 20 fr_partut.txt fr_partut.conllu
+Processing fr_pud fr 10 fr_pud.txt fr_pud.conllu
+Processing fr_sequoia fr_sequoia 20 fr_sequoia.txt fr_sequoia.conllu
+Processing fr fr 10 fr.txt fr.conllu
+Processing ga ga 5 ga.txt ga.conllu
+Processing gl_treegal gl_treegal 20 gl_treegal.txt gl_treegal.conllu
+Processing gl gl 10 gl.txt gl.conllu
+Processing got got 20 got.txt got.conllu
+Processing grc_proiel grc_proiel 5 grc_proiel.txt grc_proiel.conllu
+Processing grc grc 15 grc.txt grc.conllu
+Processing he he 20 he.txt he.conllu
+Processing hi_pud hi 15 hi_pud.txt hi_pud.conllu
+Processing hi hi 15 hi.txt hi.conllu
+Processing hr hr 20 hr.txt hr.conllu
+Processing hsb hsb hsb.txt hsb.conllu
+Processing hu hu 20 hu.txt hu.conllu
+Processing id id 20 id.txt id.conllu
+Processing it_pud it 5 it_pud.txt it_pud.conllu
+Processing it it 5 it.txt it.conllu
+Processing ja_pud ja 20 ja_pud.txt ja_pud.conllu
+Processing ja ja 20 ja.txt ja.conllu
+Processing kk kk 5 kk.txt kk.conllu
+Processing kmr kmr kmr.txt kmr.conllu
+Processing ko ko 5 ko.txt ko.conllu
+Processing la_ittb la_ittb 10 la_ittb.txt la_ittb.conllu
+Processing la_proiel la_proiel 15 la_proiel.txt la_proiel.conllu
+Processing la la 5 la.txt la.conllu
+Processing lv lv 20 lv.txt lv.conllu
+Processing nl_lassysmall nl_lassysmall 20 nl_lassysmall.txt nl_lassysmall.conllu
+Processing nl nl 20 nl.txt nl.conllu
+Processing no_bokmaal no_bokmaal 10 no_bokmaal.txt no_bokmaal.conllu
+Processing no_nynorsk no_nynorsk 20 no_nynorsk.txt no_nynorsk.conllu
+Processing pl pl 5 pl.txt pl.conllu
+Processing pt_br pt_br 20 pt_br.txt pt_br.conllu
+Processing pt_pud pt 15 pt_pud.txt pt_pud.conllu
+Processing pt pt 15 pt.txt pt.conllu
+Processing ro ro 10 ro.txt ro.conllu
+Processing ru_pud ru 10 ru_pud.txt ru_pud.conllu
+Processing ru_syntagrus ru_syntagrus 20 ru_syntagrus.txt ru_syntagrus.conllu
+Processing ru ru 10 ru.txt ru.conllu
+Processing sk sk 10 sk.txt sk.conllu
+Processing sl_sst sl_sst 20 sl_sst.txt sl_sst.conllu
+Processing sl sl 20 sl.txt sl.conllu
+Processing sme sme sme.txt sme.conllu
+Processing sv_lines sv_lines 20 sv_lines.txt sv_lines.conllu
+Processing sv_pud sv 20 sv_pud.txt sv_pud.conllu
+Processing sv sv 20 sv.txt sv.conllu
+Processing tr_pud tr 20 tr_pud.txt tr_pud.conllu
+Processing tr tr 20 tr.txt tr.conllu
+Processing ug ug 20 ug.txt ug.conllu
+Processing uk uk 5 uk.txt uk.conllu
+Processing ur ur 5 ur.txt ur.conllu
+Processing vi vi 20 vi.txt vi.conllu
+Processing zh zh 15 zh.txt zh.conllu
+All done

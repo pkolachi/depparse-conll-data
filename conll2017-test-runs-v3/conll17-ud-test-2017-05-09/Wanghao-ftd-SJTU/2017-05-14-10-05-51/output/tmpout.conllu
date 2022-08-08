@@ -1,0 +1,8 @@
+# newdoc
+# sent_id = 1
+# text = Meheke Nîsanê bû.
+1	_	_	SCONJ	_	_	2	advmod	_	_
+2	_	_	NOUN	_	_	0	root	_	_
+3	_	_	AUX	_	_	2	cop	_	_
+4	_	_	PUNCT	_	_	2	punct	_	_
+

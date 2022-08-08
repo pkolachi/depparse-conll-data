@@ -1,0 +1,209 @@
+/home/UT/system/run.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/UT/2017-05-15-00-07-37/output
+
+
+Language: ar-pud
+Model: UD_Arabic
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 34.0335168839 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Arabic/embedding/wiki.ar.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1000 sentences read.
+Finished predicting test 57.2808771133
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/ar_pud.conllu.voting
+double root 1 13
+# newpar
+double root 3 5
+# newpar
+double root 2 8
+# newpar
+double root 1 7
+# newpar
+double root 1 5
+# newpar
+double root 2 7
+# newpar
+double root 1 2
+# newpar
+double root 1 2
+double root 1 4
+# newpar
+double root 1 2
+# newpar
+double root 1 10
+# newpar
+double root 3 16
+# newpar
+double root 4 17
+# newpar
+double root 1 13
+# newpar
+double root 2 5
+# newpar
+double root 2 13
+# newpar
+double root 1 2
+# newpar
+double root 2 11
+# newpar
+double root 4 10
+# newpar
+double root 2 4
+# newpar
+double root 1 4
+# newpar
+double root 1 4
+# newpar
+double root 1 6
+# newpar
+double root 1 13
+double root 1 15
+# newpar
+double root 2 9
+# newpar
+double root 2 9
+# newpar
+double root 1 2
+# newpar
+double root 1 2
+# newpar
+double root 2 7
+# newpar
+double root 1 4
+# newpar
+double root 7 9
+# newpar
+double root 11 18
+# newpar
+double root 3 13
+# newpar
+double root 1 4
+# newpar
+double root 2 6
+# newpar
+double root 5 14
+# newpar
+double root 2 9
+# newpar
+double root 2 6
+# newpar
+double root 3 8
+# newpar
+double root 2 10
+# newpar
+double root 2 13
+# newpar
+double root 2 7
+# newpar
+double root 2 6
+# newpar
+double root 1 2
+# newpar
+double root 9 13
+# newpar
+double root 4 6
+# newpar
+double root 1 2
+# newpar
+double root 4 19
+# newpar
+double root 2 3
+# newpar
+double root 2 17
+# newpar
+double root 1 2
+# newpar
+double root 2 12
+# newpar
+double root 1 2
+# newpar
+double root 1 13
+# newpar
+double root 2 10
+# newpar
+double root 1 2
+# newpar
+double root 2 8
+# newpar
+double root 3 9
+# newpar
+double root 2 3
+# newpar
+double root 1 3
+# newpar
+Multiple roots removed
+Language: ar-0
+Model: UD_Arabic
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 110.798307896 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Arabic/embedding/wiki.ar.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+597 sentences read.
+Finished predicting test 70.0585429668
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/ar.conllu.voting
+double root 1 4
+# newpar
+double root 1 19
+# newpar
+double root 3 22
+# newpar
+double root 1 5
+# newpar
+double root 1 3
+# newpar
+double root 1 2
+# newpar
+double root 1 8
+# newpar
+double root 1 8
+# newpar
+double root 1 11
+# newpar
+double root 1 2
+# newpar
+double root 1 7
+# newpar
+double root 1 2
+# newpar
+Multiple roots removed
+Language: bxr-0
+Model: UD_Buryat
+start surprise language script
+Surprise language script done
+Language: ca-0
+Model: UD_Catalan
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 142.730834007 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)

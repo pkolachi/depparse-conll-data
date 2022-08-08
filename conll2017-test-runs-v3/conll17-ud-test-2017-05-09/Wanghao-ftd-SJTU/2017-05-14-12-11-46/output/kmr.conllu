@@ -1,0 +1,8 @@
+# newdoc
+# sent_id = 1
+# text = Meheke Nîsanê bû.
+1	Meheke	Meh	SCONJ	cnjsub	_	2	advmod	_	_
+2	Nîsanê	Nîsan	NOUN	n	Case=Obl|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+3	bû	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
+4	.	.	PUNCT	sent	_	2	punct	_	_
+

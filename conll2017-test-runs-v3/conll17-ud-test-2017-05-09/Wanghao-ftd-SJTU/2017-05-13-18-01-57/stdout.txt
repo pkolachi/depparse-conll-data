@@ -1,0 +1,3 @@
+python deploy_new.py /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/Wanghao-ftd-SJTU/2017-05-13-18-01-57/output
+
+

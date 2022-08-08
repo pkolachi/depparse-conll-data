@@ -1,0 +1,4 @@
+./tira_evaluation2.py -c /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 -r conllu -o /tmp/LyS-FASTPARSE/2017-05-23-11-46-34/output -m /media/data/conll2017_best_models_3/ -e /media/data/ --dynet-mem 38000 -conf /home/LyS-FASTPARSE/configuration.yml -um /media/data/UDpipe/udpipe-ud-2.0-conll17-170315/models/
+
+
+args Namespace(c='/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09', conf='/home/LyS-FASTPARSE/configuration.yml', dynet_mem='38000', e='/media/data/', m='/media/data/conll2017_best_models_3/', o='/tmp/LyS-FASTPARSE/2017-05-23-11-46-34/output', r='conllu', um='/media/data/UDpipe/udpipe-ud-2.0-conll17-170315/models/')

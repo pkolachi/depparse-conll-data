@@ -1,0 +1,3 @@
+java -Xmx4G -Xms4G -jar ./RunMultilingualParser.jar -tira /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/metadata.json /tmp/TRL/2017-05-15-13-31-13/output
+
+

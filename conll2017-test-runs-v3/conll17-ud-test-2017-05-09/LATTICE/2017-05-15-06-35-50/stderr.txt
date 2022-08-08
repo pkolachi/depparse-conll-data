@@ -1,0 +1,639 @@
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/ar_pud/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/ar/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/bg/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/ca/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/cs_cac/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/cs_pud/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/cs/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/cu/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/da/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/de_pud/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/de/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/el/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/en_lines/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/en_pud/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/en/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/es_ancora/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/es_pud/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/es/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/et/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/eu/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/fa/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/fi_ftb/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/fi_pud/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/fi/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/fr_pud/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/fr_sequoia/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/fr/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/gl/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/got/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/grc_proiel/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/grc/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/he/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/hi_pud/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/hi/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/hr/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/hu/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/id/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/it_pud/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/ja_pud/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/ja/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/ko/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/la_ittb/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/la_proiel/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/lv/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/nl_lassysmall/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/nl/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/no_bokmaal/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/no_nynorsk/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/pl/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/pt_br/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/pt_pud/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/pt/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/ro/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/ru_pud/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/ru_syntagrus/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/ru/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/sk/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/sl/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/sv_lines/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/sv_pud/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/sv/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/tr_pud/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/tr/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/ur/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/vi/params.pickle'
+[dynet] random seed: 123456789
+[dynet] allocating memory: 20480MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py", line 54, in <module>
+    parser = mstlstm.MSTParserLSTM(options)
+  File "/home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/mstlstm.py", line 24, in __init__
+    with open(new_options.params, 'r') as paramsfp:
+IOError: [Errno 2] No such file or directory: '/media/data/LATTICE/Models/mono_exc6/zh/params.pickle'

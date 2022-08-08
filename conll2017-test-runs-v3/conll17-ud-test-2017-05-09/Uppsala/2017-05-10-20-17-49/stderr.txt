@@ -1,0 +1,183 @@
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+Traceback (most recent call last):
+  File "segmenter.py", line 520, in <module>
+    ensemble=args.ensemble, batch_size=args.tag_batch, sent_seg=sent_seg, seg_large=args.segment_large)
+  File "/home/Uppsala/segmenter/model.py", line 447, in tag
+    toolbox.printer(r_x_raw, prediction_out, multi_out, outpath, sent_seg)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1880, in printer
+    validator(raw, multi_out)
+  File "/home/Uppsala/segmenter/toolbox.py", line 1961, in validator
+    raise Exception('Error: unmatch...')
+Exception: Error: unmatch...
+[dynet] random seed: 570143109
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "src/parser.py", line 217, in <module>
+    om = OptionsManager(options)
+  File "/home/Uppsala/bist-parser/uuparser/bist-parser/barchybrid/src/options_manager.py", line 62, in __init__
+    self.conllu)
+  File "/home/Uppsala/bist-parser/uuparser/bist-parser/barchybrid/src/options_manager.py", line 102, in prepare_data
+    utils.remove_ellipsis_lines(treebank.testfile,clean_test)
+  File "/home/Uppsala/bist-parser/uuparser/bist-parser/barchybrid/src/utils.py", line 340, in remove_ellipsis_lines
+    for line in open(infile,'r'):
+IOError: [Errno 2] No such file or directory: u'/tmp/Uppsala/2017-05-10-20-17-49/output/tokenized/cs.txt'

@@ -1,0 +1,1 @@
+./run_all_parsing.sh: line 20:  1232 Segmentation fault      (core dumped) "$@"

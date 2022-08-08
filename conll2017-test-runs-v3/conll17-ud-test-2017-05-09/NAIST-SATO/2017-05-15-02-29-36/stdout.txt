@@ -1,0 +1,113 @@
+python run.py --input_dataset /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 --output_dir /tmp/NAIST-SATO/2017-05-15-02-29-36/output 
+
+
+UD_Arabic <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-02-29-36/output/ar_pud.conllu
+UD_Arabic
+ar_pud
+biaffine_pre-emb_UD_Arabic_29_UAS_0.829756275009_LAS_0.763583451834.model
+domain_idx: 0
+False
+UD_Arabic <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-02-29-36/output/ar.conllu
+UD_Arabic
+ar
+biaffine_pre-emb_UD_Arabic_29_UAS_0.829756275009_LAS_0.763583451834.model
+domain_idx: 0
+False
+UD_Bulgarian <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bg-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-02-29-36/output/bg.conllu
+UD_Bulgarian
+bg
+biaffine_pre-emb_UD_Bulgarian_59_UAS_0.906022748462_LAS_0.862390453105.model
+domain_idx: 0
+False
+UD_Russian-SynTagRus <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-02-29-36/output/bxr.conllu
+UD_Russian-SynTagRus
+bxr
+biaffine_pre-emb_2_UD_Russian-SynTagRus_13_UAS_0.920795088958_LAS_0.894863502411.model
+domain_idx: 0
+False
+UD_Catalan <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ca-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-02-29-36/output/ca.conllu
+UD_Catalan
+ca
+biaffine_pre-emb_UD_Catalan_13_UAS_0.905704472221_LAS_0.874207712191.model
+domain_idx: 0
+False
+UD_Czech-CAC <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cac-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-02-29-36/output/cs_cac.conllu
+UD_Czech-CAC
+[8, 9, 10]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Czech-CAC_12_UAS_0.897727272727_LAS_0.867302052786.model
+domain_idx: 1
+True
+UD_Czech-CLTT <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cltt-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-02-29-36/output/cs_cltt.conllu
+UD_Czech-CLTT
+[8, 9, 10]
+biaffine_pre-emb_biemb_share_domain_adv0.5_UD_Czech-CLTT_6_UAS_0.788748675465_LAS_0.752335998459.model
+domain_idx: 2
+True
+UD_Czech <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-02-29-36/output/cs_pud.conllu
+UD_Czech
+cs_pud
+biaffine_pre-emb_2_UD_Czech_19_UAS_0.913625976244_LAS_0.883126993295.model
+domain_idx: 0
+False
+UD_Czech <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-02-29-36/output/cs.conllu
+UD_Czech
+cs
+biaffine_pre-emb_2_UD_Czech_19_UAS_0.913625976244_LAS_0.883126993295.model
+domain_idx: 0
+False
+UD_Old_Church_Slavonic <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cu-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-02-29-36/output/cu.conllu
+UD_Old_Church_Slavonic
+cu
+biaffine_pre-emb_UD_Old_Church_Slavonic_90_UAS_0.828316831683_LAS_0.753069306931.model
+domain_idx: 0
+False
+UD_Danish <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/da-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-02-29-36/output/da.conllu
+UD_Danish
+da
+biaffine_pre-emb_UD_Danish_94_UAS_0.820460704607_LAS_0.784262485482.model
+domain_idx: 0
+False
+UD_German <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de_pud-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-02-29-36/output/de_pud.conllu
+UD_German
+de_pud
+biaffine_pre-emb_UD_German_70_UAS_0.844023323615_LAS_0.801749271137.model
+domain_idx: 0
+False
+UD_German <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-02-29-36/output/de.conllu
+UD_German
+de
+biaffine_pre-emb_UD_German_70_UAS_0.844023323615_LAS_0.801749271137.model
+domain_idx: 0
+False
+UD_Greek <type 'unicode'>
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/el-udpipe.conllu
+/tmp/NAIST-SATO/2017-05-15-02-29-36/output/el.conllu
+UD_Greek
+el
+biaffine_pre-emb_

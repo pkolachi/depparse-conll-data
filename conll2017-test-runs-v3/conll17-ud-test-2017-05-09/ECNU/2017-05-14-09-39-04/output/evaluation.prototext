@@ -1,0 +1,1952 @@
+measure{
+  key: "total-Tokens-F1"
+  value: "43.68"
+}
+measure{
+  key: "total-Sentences-F1"
+  value: "38.28"
+}
+measure{
+  key: "total-Words-F1"
+  value: "43.69"
+}
+measure{
+  key: "total-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "total-XPOS-F1"
+  value: "12.88"
+}
+measure{
+  key: "total-Feats-F1"
+  value: "20.73"
+}
+measure{
+  key: "total-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "total-Lemmas-F1"
+  value: "8.50"
+}
+measure{
+  key: "total-UAS-F1"
+  value: "8.25"
+}
+measure{
+  key: "total-LAS-F1"
+  value: "3.18"
+}
+measure{
+  key: "total-CLAS-F1"
+  value: "2.02"
+}
+measure{
+  key: "ar_pud-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 79903 nonspace characters, which is approximately 101% of the gold file"
+}
+measure{
+  key: "ar-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "bg-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "bxr-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "bxr-Tokens-F1"
+  value: "99.35"
+}
+measure{
+  key: "bxr-Sentences-F1"
+  value: "91.81"
+}
+measure{
+  key: "bxr-Words-F1"
+  value: "99.35"
+}
+measure{
+  key: "bxr-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "bxr-XPOS-F1"
+  value: "99.35"
+}
+measure{
+  key: "bxr-Feats-F1"
+  value: "44.29"
+}
+measure{
+  key: "bxr-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "bxr-Lemmas-F1"
+  value: "0.47"
+}
+measure{
+  key: "bxr-UAS-F1"
+  value: "13.58"
+}
+measure{
+  key: "bxr-LAS-F1"
+  value: "5.78"
+}
+measure{
+  key: "bxr-CLAS-F1"
+  value: "1.46"
+}
+measure{
+  key: "ca-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "cs_cac-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 55870 nonspace characters, which is approximately 100% of the gold file"
+}
+measure{
+  key: "cs_cltt-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "cs_pud-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 89358 nonspace characters, which is approximately 100% of the gold file"
+}
+measure{
+  key: "cs-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "cu-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "cu-Tokens-F1"
+  value: "99.96"
+}
+measure{
+  key: "cu-Sentences-F1"
+  value: "36.05"
+}
+measure{
+  key: "cu-Words-F1"
+  value: "99.96"
+}
+measure{
+  key: "cu-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "cu-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "cu-Feats-F1"
+  value: "26.22"
+}
+measure{
+  key: "cu-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "cu-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "cu-UAS-F1"
+  value: "15.93"
+}
+measure{
+  key: "cu-LAS-F1"
+  value: "6.41"
+}
+measure{
+  key: "cu-CLAS-F1"
+  value: "4.56"
+}
+measure{
+  key: "da-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "da-Tokens-F1"
+  value: "99.69"
+}
+measure{
+  key: "da-Sentences-F1"
+  value: "79.36"
+}
+measure{
+  key: "da-Words-F1"
+  value: "99.69"
+}
+measure{
+  key: "da-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "da-XPOS-F1"
+  value: "99.69"
+}
+measure{
+  key: "da-Feats-F1"
+  value: "31.01"
+}
+measure{
+  key: "da-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "da-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "da-UAS-F1"
+  value: "20.23"
+}
+measure{
+  key: "da-LAS-F1"
+  value: "5.74"
+}
+measure{
+  key: "da-CLAS-F1"
+  value: "2.80"
+}
+measure{
+  key: "de_pud-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 109458 nonspace characters, which is approximately 100% of the gold file"
+}
+measure{
+  key: "de-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 84103 nonspace characters, which is approximately 100% of the gold file"
+}
+measure{
+  key: "el-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "el-Tokens-F1"
+  value: "99.88"
+}
+measure{
+  key: "el-Sentences-F1"
+  value: "90.79"
+}
+measure{
+  key: "el-Words-F1"
+  value: "99.88"
+}
+measure{
+  key: "el-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "el-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "el-Feats-F1"
+  value: "29.89"
+}
+measure{
+  key: "el-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "el-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "el-UAS-F1"
+  value: "6.38"
+}
+measure{
+  key: "el-LAS-F1"
+  value: "1.32"
+}
+measure{
+  key: "el-CLAS-F1"
+  value: "0.36"
+}
+measure{
+  key: "en_lines-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "en_lines-Tokens-F1"
+  value: "99.94"
+}
+measure{
+  key: "en_lines-Sentences-F1"
+  value: "85.84"
+}
+measure{
+  key: "en_lines-Words-F1"
+  value: "99.94"
+}
+measure{
+  key: "en_lines-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_lines-XPOS-F1"
+  value: "22.47"
+}
+measure{
+  key: "en_lines-Feats-F1"
+  value: "99.94"
+}
+measure{
+  key: "en_lines-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_lines-Lemmas-F1"
+  value: "99.94"
+}
+measure{
+  key: "en_lines-UAS-F1"
+  value: "43.70"
+}
+measure{
+  key: "en_lines-LAS-F1"
+  value: "38.68"
+}
+measure{
+  key: "en_lines-CLAS-F1"
+  value: "27.30"
+}
+measure{
+  key: "en_partut-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 51929 nonspace characters, which is approximately 100% of the gold file"
+}
+measure{
+  key: "en_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "en_pud-Tokens-F1"
+  value: "99.66"
+}
+measure{
+  key: "en_pud-Sentences-F1"
+  value: "97.13"
+}
+measure{
+  key: "en_pud-Words-F1"
+  value: "99.66"
+}
+measure{
+  key: "en_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_pud-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_pud-Feats-F1"
+  value: "32.92"
+}
+measure{
+  key: "en_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_pud-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_pud-UAS-F1"
+  value: "39.55"
+}
+measure{
+  key: "en_pud-LAS-F1"
+  value: "34.20"
+}
+measure{
+  key: "en_pud-CLAS-F1"
+  value: "22.07"
+}
+measure{
+  key: "en-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "es_ancora-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "es_pud-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 103547 nonspace characters, which is approximately 100% of the gold file"
+}
+measure{
+  key: "es-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 51795 nonspace characters, which is approximately 100% of the gold file"
+}
+measure{
+  key: "et-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "et-Tokens-F1"
+  value: "99.77"
+}
+measure{
+  key: "et-Sentences-F1"
+  value: "85.20"
+}
+measure{
+  key: "et-Words-F1"
+  value: "99.77"
+}
+measure{
+  key: "et-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "et-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "et-Feats-F1"
+  value: "34.19"
+}
+measure{
+  key: "et-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "et-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "et-UAS-F1"
+  value: "20.11"
+}
+measure{
+  key: "et-LAS-F1"
+  value: "3.42"
+}
+measure{
+  key: "et-CLAS-F1"
+  value: "2.66"
+}
+measure{
+  key: "eu-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "eu-Tokens-F1"
+  value: "99.96"
+}
+measure{
+  key: "eu-Sentences-F1"
+  value: "99.58"
+}
+measure{
+  key: "eu-Words-F1"
+  value: "99.96"
+}
+measure{
+  key: "eu-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "eu-XPOS-F1"
+  value: "99.96"
+}
+measure{
+  key: "eu-Feats-F1"
+  value: "37.02"
+}
+measure{
+  key: "eu-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "eu-Lemmas-F1"
+  value: "0.10"
+}
+measure{
+  key: "eu-UAS-F1"
+  value: "17.46"
+}
+measure{
+  key: "eu-LAS-F1"
+  value: "2.36"
+}
+measure{
+  key: "eu-CLAS-F1"
+  value: "1.86"
+}
+measure{
+  key: "fa-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 61665 nonspace characters, which is approximately 99% of the gold file"
+}
+measure{
+  key: "fi_ftb-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fi_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "fi_pud-Tokens-F1"
+  value: "99.61"
+}
+measure{
+  key: "fi_pud-Sentences-F1"
+  value: "93.67"
+}
+measure{
+  key: "fi_pud-Words-F1"
+  value: "99.61"
+}
+measure{
+  key: "fi_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "fi_pud-XPOS-F1"
+  value: "99.61"
+}
+measure{
+  key: "fi_pud-Feats-F1"
+  value: "28.18"
+}
+measure{
+  key: "fi_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "fi_pud-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "fi_pud-UAS-F1"
+  value: "21.20"
+}
+measure{
+  key: "fi_pud-LAS-F1"
+  value: "3.54"
+}
+measure{
+  key: "fi_pud-CLAS-F1"
+  value: "3.25"
+}
+measure{
+  key: "fi-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "fr_partut-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 48380 nonspace characters, which is approximately 101% of the gold file"
+}
+measure{
+  key: "fr_pud-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 108368 nonspace characters, which is approximately 101% of the gold file"
+}
+measure{
+  key: "fr_sequoia-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 44999 nonspace characters, which is approximately 101% of the gold file"
+}
+measure{
+  key: "fr-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 42053 nonspace characters, which is approximately 101% of the gold file"
+}
+measure{
+  key: "ga-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "gl_treegal-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 43109 nonspace characters, which is approximately 101% of the gold file"
+}
+measure{
+  key: "gl-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "gl-Tokens-F1"
+  value: "99.92"
+}
+measure{
+  key: "gl-Sentences-F1"
+  value: "96.15"
+}
+measure{
+  key: "gl-Words-F1"
+  value: "99.92"
+}
+measure{
+  key: "gl-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "gl-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "gl-Feats-F1"
+  value: "99.69"
+}
+measure{
+  key: "gl-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "gl-Lemmas-F1"
+  value: "0.17"
+}
+measure{
+  key: "gl-UAS-F1"
+  value: "29.41"
+}
+measure{
+  key: "gl-LAS-F1"
+  value: "12.45"
+}
+measure{
+  key: "gl-CLAS-F1"
+  value: "6.82"
+}
+measure{
+  key: "got-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "got-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "got-Sentences-F1"
+  value: "27.85"
+}
+measure{
+  key: "got-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "got-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "got-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "got-Feats-F1"
+  value: "27.67"
+}
+measure{
+  key: "got-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "got-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "got-UAS-F1"
+  value: "20.08"
+}
+measure{
+  key: "got-LAS-F1"
+  value: "1.56"
+}
+measure{
+  key: "got-CLAS-F1"
+  value: "0.84"
+}
+measure{
+  key: "grc_proiel-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "grc-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "he-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 37503 nonspace characters, which is approximately 104% of the gold file"
+}
+measure{
+  key: "hi_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "hi_pud-Tokens-F1"
+  value: "97.81"
+}
+measure{
+  key: "hi_pud-Sentences-F1"
+  value: "90.83"
+}
+measure{
+  key: "hi_pud-Words-F1"
+  value: "97.81"
+}
+measure{
+  key: "hi_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "hi_pud-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "hi_pud-Feats-F1"
+  value: "31.96"
+}
+measure{
+  key: "hi_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "hi_pud-Lemmas-F1"
+  value: "97.81"
+}
+measure{
+  key: "hi_pud-UAS-F1"
+  value: "12.48"
+}
+measure{
+  key: "hi_pud-LAS-F1"
+  value: "0.59"
+}
+measure{
+  key: "hi_pud-CLAS-F1"
+  value: "0.23"
+}
+measure{
+  key: "hi-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "hr-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "hr-Tokens-F1"
+  value: "99.93"
+}
+measure{
+  key: "hr-Sentences-F1"
+  value: "96.92"
+}
+measure{
+  key: "hr-Words-F1"
+  value: "99.93"
+}
+measure{
+  key: "hr-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "hr-XPOS-F1"
+  value: "99.93"
+}
+measure{
+  key: "hr-Feats-F1"
+  value: "19.84"
+}
+measure{
+  key: "hr-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "hr-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "hr-UAS-F1"
+  value: "4.05"
+}
+measure{
+  key: "hr-LAS-F1"
+  value: "1.80"
+}
+measure{
+  key: "hr-CLAS-F1"
+  value: "0.81"
+}
+measure{
+  key: "hsb-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "hsb-Tokens-F1"
+  value: "99.84"
+}
+measure{
+  key: "hsb-Sentences-F1"
+  value: "90.69"
+}
+measure{
+  key: "hsb-Words-F1"
+  value: "99.84"
+}
+measure{
+  key: "hsb-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "hsb-XPOS-F1"
+  value: "99.84"
+}
+measure{
+  key: "hsb-Feats-F1"
+  value: "36.92"
+}
+measure{
+  key: "hsb-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "hsb-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "hsb-UAS-F1"
+  value: "18.30"
+}
+measure{
+  key: "hsb-LAS-F1"
+  value: "6.91"
+}
+measure{
+  key: "hsb-CLAS-F1"
+  value: "3.66"
+}
+measure{
+  key: "hu-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "hu-Tokens-F1"
+  value: "99.82"
+}
+measure{
+  key: "hu-Sentences-F1"
+  value: "93.85"
+}
+measure{
+  key: "hu-Words-F1"
+  value: "99.82"
+}
+measure{
+  key: "hu-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "hu-XPOS-F1"
+  value: "99.82"
+}
+measure{
+  key: "hu-Feats-F1"
+  value: "26.73"
+}
+measure{
+  key: "hu-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "hu-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "hu-UAS-F1"
+  value: "24.04"
+}
+measure{
+  key: "hu-LAS-F1"
+  value: "9.07"
+}
+measure{
+  key: "hu-CLAS-F1"
+  value: "3.79"
+}
+measure{
+  key: "id-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "id-Tokens-F1"
+  value: "99.99"
+}
+measure{
+  key: "id-Sentences-F1"
+  value: "91.15"
+}
+measure{
+  key: "id-Words-F1"
+  value: "99.99"
+}
+measure{
+  key: "id-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "id-XPOS-F1"
+  value: "99.99"
+}
+measure{
+  key: "id-Feats-F1"
+  value: "96.15"
+}
+measure{
+  key: "id-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "id-Lemmas-F1"
+  value: "99.99"
+}
+measure{
+  key: "id-UAS-F1"
+  value: "19.17"
+}
+measure{
+  key: "id-LAS-F1"
+  value: "3.76"
+}
+measure{
+  key: "id-CLAS-F1"
+  value: "2.41"
+}
+measure{
+  key: "it_pud-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 105322 nonspace characters, which is approximately 99% of the gold file"
+}
+measure{
+  key: "it-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 44993 nonspace characters, which is approximately 99% of the gold file"
+}
+measure{
+  key: "ja_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ja_pud-Tokens-F1"
+  value: "91.06"
+}
+measure{
+  key: "ja_pud-Sentences-F1"
+  value: "94.89"
+}
+measure{
+  key: "ja_pud-Words-F1"
+  value: "91.06"
+}
+measure{
+  key: "ja_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ja_pud-XPOS-F1"
+  value: "7.50"
+}
+measure{
+  key: "ja_pud-Feats-F1"
+  value: "54.80"
+}
+measure{
+  key: "ja_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ja_pud-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ja_pud-UAS-F1"
+  value: "7.59"
+}
+measure{
+  key: "ja_pud-LAS-F1"
+  value: "0.65"
+}
+measure{
+  key: "ja_pud-CLAS-F1"
+  value: "0.44"
+}
+measure{
+  key: "ja-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ja-Tokens-F1"
+  value: "89.68"
+}
+measure{
+  key: "ja-Sentences-F1"
+  value: "94.92"
+}
+measure{
+  key: "ja-Words-F1"
+  value: "89.68"
+}
+measure{
+  key: "ja-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ja-XPOS-F1"
+  value: "89.68"
+}
+measure{
+  key: "ja-Feats-F1"
+  value: "88.01"
+}
+measure{
+  key: "ja-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ja-Lemmas-F1"
+  value: "0.04"
+}
+measure{
+  key: "ja-UAS-F1"
+  value: "8.16"
+}
+measure{
+  key: "ja-LAS-F1"
+  value: "1.00"
+}
+measure{
+  key: "ja-CLAS-F1"
+  value: "0.64"
+}
+measure{
+  key: "kk-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "kmr-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 37899 nonspace characters, which is approximately 100% of the gold file"
+}
+measure{
+  key: "ko-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ko-Tokens-F1"
+  value: "99.73"
+}
+measure{
+  key: "ko-Sentences-F1"
+  value: "93.05"
+}
+measure{
+  key: "ko-Words-F1"
+  value: "99.73"
+}
+measure{
+  key: "ko-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ko-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ko-Feats-F1"
+  value: "98.99"
+}
+measure{
+  key: "ko-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ko-Lemmas-F1"
+  value: "92.64"
+}
+measure{
+  key: "ko-UAS-F1"
+  value: "37.84"
+}
+measure{
+  key: "ko-LAS-F1"
+  value: "12.78"
+}
+measure{
+  key: "ko-CLAS-F1"
+  value: "7.04"
+}
+measure{
+  key: "la_ittb-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "la_ittb-Tokens-F1"
+  value: "99.99"
+}
+measure{
+  key: "la_ittb-Sentences-F1"
+  value: "93.24"
+}
+measure{
+  key: "la_ittb-Words-F1"
+  value: "99.99"
+}
+measure{
+  key: "la_ittb-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "la_ittb-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "la_ittb-Feats-F1"
+  value: "31.57"
+}
+measure{
+  key: "la_ittb-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "la_ittb-Lemmas-F1"
+  value: "0.60"
+}
+measure{
+  key: "la_ittb-UAS-F1"
+  value: "18.09"
+}
+measure{
+  key: "la_ittb-LAS-F1"
+  value: "8.16"
+}
+measure{
+  key: "la_ittb-CLAS-F1"
+  value: "4.54"
+}
+measure{
+  key: "la_proiel-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "la-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "la-Tokens-F1"
+  value: "99.99"
+}
+measure{
+  key: "la-Sentences-F1"
+  value: "98.09"
+}
+measure{
+  key: "la-Words-F1"
+  value: "99.99"
+}
+measure{
+  key: "la-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "la-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "la-Feats-F1"
+  value: "36.76"
+}
+measure{
+  key: "la-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "la-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "la-UAS-F1"
+  value: "15.69"
+}
+measure{
+  key: "la-LAS-F1"
+  value: "5.50"
+}
+measure{
+  key: "la-CLAS-F1"
+  value: "2.77"
+}
+measure{
+  key: "lv-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "lv-Tokens-F1"
+  value: "98.91"
+}
+measure{
+  key: "lv-Sentences-F1"
+  value: "98.59"
+}
+measure{
+  key: "lv-Words-F1"
+  value: "98.91"
+}
+measure{
+  key: "lv-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "lv-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "lv-Feats-F1"
+  value: "39.93"
+}
+measure{
+  key: "lv-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "lv-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "lv-UAS-F1"
+  value: "22.03"
+}
+measure{
+  key: "lv-LAS-F1"
+  value: "6.72"
+}
+measure{
+  key: "lv-CLAS-F1"
+  value: "2.09"
+}
+measure{
+  key: "nl_lassysmall-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "nl_lassysmall-Tokens-F1"
+  value: "99.93"
+}
+measure{
+  key: "nl_lassysmall-Sentences-F1"
+  value: "78.62"
+}
+measure{
+  key: "nl_lassysmall-Words-F1"
+  value: "99.93"
+}
+measure{
+  key: "nl_lassysmall-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl_lassysmall-XPOS-F1"
+  value: "99.93"
+}
+measure{
+  key: "nl_lassysmall-Feats-F1"
+  value: "47.01"
+}
+measure{
+  key: "nl_lassysmall-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl_lassysmall-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl_lassysmall-UAS-F1"
+  value: "20.59"
+}
+measure{
+  key: "nl_lassysmall-LAS-F1"
+  value: "4.98"
+}
+measure{
+  key: "nl_lassysmall-CLAS-F1"
+  value: "3.42"
+}
+measure{
+  key: "nl-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "nl-Tokens-F1"
+  value: "99.88"
+}
+measure{
+  key: "nl-Sentences-F1"
+  value: "77.14"
+}
+measure{
+  key: "nl-Words-F1"
+  value: "99.88"
+}
+measure{
+  key: "nl-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl-Feats-F1"
+  value: "7.56"
+}
+measure{
+  key: "nl-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl-UAS-F1"
+  value: "20.95"
+}
+measure{
+  key: "nl-LAS-F1"
+  value: "4.27"
+}
+measure{
+  key: "nl-CLAS-F1"
+  value: "2.50"
+}
+measure{
+  key: "no_bokmaal-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "no_nynorsk-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "pl-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "pl-Tokens-F1"
+  value: "98.57"
+}
+measure{
+  key: "pl-Sentences-F1"
+  value: "98.91"
+}
+measure{
+  key: "pl-Words-F1"
+  value: "99.88"
+}
+measure{
+  key: "pl-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "pl-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "pl-Feats-F1"
+  value: "26.00"
+}
+measure{
+  key: "pl-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "pl-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "pl-UAS-F1"
+  value: "12.10"
+}
+measure{
+  key: "pl-LAS-F1"
+  value: "3.96"
+}
+measure{
+  key: "pl-CLAS-F1"
+  value: "2.70"
+}
+measure{
+  key: "pt_br-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "pt_pud-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 99901 nonspace characters, which is approximately 101% of the gold file"
+}
+measure{
+  key: "pt-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 42238 nonspace characters, which is approximately 101% of the gold file"
+}
+measure{
+  key: "ro-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ru_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ru_pud-Tokens-F1"
+  value: "97.18"
+}
+measure{
+  key: "ru_pud-Sentences-F1"
+  value: "98.95"
+}
+measure{
+  key: "ru_pud-Words-F1"
+  value: "97.18"
+}
+measure{
+  key: "ru_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru_pud-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru_pud-Feats-F1"
+  value: "35.31"
+}
+measure{
+  key: "ru_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru_pud-Lemmas-F1"
+  value: "97.18"
+}
+measure{
+  key: "ru_pud-UAS-F1"
+  value: "25.26"
+}
+measure{
+  key: "ru_pud-LAS-F1"
+  value: "20.04"
+}
+measure{
+  key: "ru_pud-CLAS-F1"
+  value: "15.31"
+}
+measure{
+  key: "ru_syntagrus-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ru-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "sk-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sk-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "sk-Sentences-F1"
+  value: "83.53"
+}
+measure{
+  key: "sk-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "sk-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sk-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sk-Feats-F1"
+  value: "19.11"
+}
+measure{
+  key: "sk-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "sk-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "sk-UAS-F1"
+  value: "7.47"
+}
+measure{
+  key: "sk-LAS-F1"
+  value: "2.66"
+}
+measure{
+  key: "sk-CLAS-F1"
+  value: "1.53"
+}
+measure{
+  key: "sl_sst-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sl_sst-Tokens-F1"
+  value: "99.82"
+}
+measure{
+  key: "sl_sst-Sentences-F1"
+  value: "16.72"
+}
+measure{
+  key: "sl_sst-Words-F1"
+  value: "99.82"
+}
+measure{
+  key: "sl_sst-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sl_sst-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sl_sst-Feats-F1"
+  value: "29.70"
+}
+measure{
+  key: "sl_sst-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "sl_sst-Lemmas-F1"
+  value: "1.20"
+}
+measure{
+  key: "sl_sst-UAS-F1"
+  value: "3.88"
+}
+measure{
+  key: "sl_sst-LAS-F1"
+  value: "1.45"
+}
+measure{
+  key: "sl_sst-CLAS-F1"
+  value: "1.94"
+}
+measure{
+  key: "sl-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sl-Tokens-F1"
+  value: "99.96"
+}
+measure{
+  key: "sl-Sentences-F1"
+  value: "99.24"
+}
+measure{
+  key: "sl-Words-F1"
+  value: "99.96"
+}
+measure{
+  key: "sl-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sl-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sl-Feats-F1"
+  value: "23.64"
+}
+measure{
+  key: "sl-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "sl-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "sl-UAS-F1"
+  value: "4.31"
+}
+measure{
+  key: "sl-LAS-F1"
+  value: "1.75"
+}
+measure{
+  key: "sl-CLAS-F1"
+  value: "0.75"
+}
+measure{
+  key: "sme-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sme-Tokens-F1"
+  value: "99.88"
+}
+measure{
+  key: "sme-Sentences-F1"
+  value: "98.79"
+}
+measure{
+  key: "sme-Words-F1"
+  value: "99.88"
+}
+measure{
+  key: "sme-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sme-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sme-Feats-F1"
+  value: "36.35"
+}
+measure{
+  key: "sme-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "sme-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "sme-UAS-F1"
+  value: "17.77"
+}
+measure{
+  key: "sme-LAS-F1"
+  value: "2.89"
+}
+measure{
+  key: "sme-CLAS-F1"
+  value: "1.88"
+}
+measure{
+  key: "sv_lines-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sv_lines-Tokens-F1"
+  value: "99.98"
+}
+measure{
+  key: "sv_lines-Sentences-F1"
+  value: "86.44"
+}
+measure{
+  key: "sv_lines-Words-F1"
+  value: "99.98"
+}
+measure{
+  key: "sv_lines-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv_lines-XPOS-F1"
+  value: "25.10"
+}
+measure{
+  key: "sv_lines-Feats-F1"
+  value: "99.98"
+}
+measure{
+  key: "sv_lines-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv_lines-Lemmas-F1"
+  value: "99.98"
+}
+measure{
+  key: "sv_lines-UAS-F1"
+  value: "21.32"
+}
+measure{
+  key: "sv_lines-LAS-F1"
+  value: "3.65"
+}
+measure{
+  key: "sv_lines-CLAS-F1"
+  value: "2.01"
+}
+measure{
+  key: "sv_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sv_pud-Tokens-F1"
+  value: "98.26"
+}
+measure{
+  key: "sv_pud-Sentences-F1"
+  value: "90.20"
+}
+measure{
+  key: "sv_pud-Words-F1"
+  value: "98.26"
+}
+measure{
+  key: "sv_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv_pud-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv_pud-Feats-F1"
+  value: "32.27"
+}
+measure{
+  key: "sv_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv_pud-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv_pud-UAS-F1"
+  value: "20.38"
+}
+measure{
+  key: "sv_pud-LAS-F1"
+  value: "2.88"
+}
+measure{
+  key: "sv_pud-CLAS-F1"
+  value: "2.06"
+}
+measure{
+  key: "sv-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "tr_pud-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 96922 nonspace characters, which is approximately 100% of the gold file"
+}
+measure{
+  key: "tr-Status"
+  value: "Error: The concatenation of tokens in gold file and in system file differ, system file has 52670 nonspace characters, which is approximately 100% of the gold file"
+}
+measure{
+  key: "ug-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ug-Tokens-F1"
+  value: "98.52"
+}
+measure{
+  key: "ug-Sentences-F1"
+  value: "63.55"
+}
+measure{
+  key: "ug-Words-F1"
+  value: "98.52"
+}
+measure{
+  key: "ug-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ug-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ug-Feats-F1"
+  value: "98.52"
+}
+measure{
+  key: "ug-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ug-Lemmas-F1"
+  value: "98.52"
+}
+measure{
+  key: "ug-UAS-F1"
+  value: "13.17"
+}
+measure{
+  key: "ug-LAS-F1"
+  value: "2.37"
+}
+measure{
+  key: "ug-CLAS-F1"
+  value: "0.78"
+}
+measure{
+  key: "uk-Status"
+  value: "Error: Cannot open generated CoNLL-U file"
+}
+measure{
+  key: "ur-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ur-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "ur-Sentences-F1"
+  value: "98.32"
+}
+measure{
+  key: "ur-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "ur-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ur-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ur-Feats-F1"
+  value: "14.53"
+}
+measure{
+  key: "ur-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ur-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ur-UAS-F1"
+  value: "20.35"
+}
+measure{
+  key: "ur-LAS-F1"
+  value: "0.59"
+}
+measure{
+  key: "ur-CLAS-F1"
+  value: "0.34"
+}
+measure{
+  key: "vi-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "vi-Tokens-F1"
+  value: "82.47"
+}
+measure{
+  key: "vi-Sentences-F1"
+  value: "92.59"
+}
+measure{
+  key: "vi-Words-F1"
+  value: "82.47"
+}
+measure{
+  key: "vi-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "vi-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "vi-Feats-F1"
+  value: "78.23"
+}
+measure{
+  key: "vi-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "vi-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "vi-UAS-F1"
+  value: "8.61"
+}
+measure{
+  key: "vi-LAS-F1"
+  value: "1.33"
+}
+measure{
+  key: "vi-CLAS-F1"
+  value: "0.55"
+}
+measure{
+  key: "zh-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "zh-Tokens-F1"
+  value: "88.91"
+}
+measure{
+  key: "zh-Sentences-F1"
+  value: "98.19"
+}
+measure{
+  key: "zh-Words-F1"
+  value: "88.91"
+}
+measure{
+  key: "zh-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "zh-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "zh-Feats-F1"
+  value: "78.27"
+}
+measure{
+  key: "zh-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "zh-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "zh-UAS-F1"
+  value: "36.87"
+}
+measure{
+  key: "zh-LAS-F1"
+  value: "32.27"
+}
+measure{
+  key: "zh-CLAS-F1"
+  value: "25.50"
+}

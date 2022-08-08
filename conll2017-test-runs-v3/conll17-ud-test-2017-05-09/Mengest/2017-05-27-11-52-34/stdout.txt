@@ -1,0 +1,12 @@
+./run.sh -i /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 -o /tmp/Mengest/2017-05-27-11-52-34/output 
+
+
+Using external embedding: None
+Load params
+Using external embedding: None
+Load params
+Using external embedding: None
+Load params
+/media/data/no_rlBulgarian
+/media/data/no_rlCatalan
+/media/data/no_rlEnglish

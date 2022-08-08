@@ -1,0 +1,2 @@
+574861.06user 47320.18system 18:45:04elapsed 921%CPU (0avgtext+0avgdata 24578524maxresident)k
+606272inputs+1802256outputs (75major+106083726minor)pagefaults 0swaps

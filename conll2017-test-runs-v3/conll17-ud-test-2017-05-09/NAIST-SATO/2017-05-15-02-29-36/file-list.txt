@@ -1,0 +1,21 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/NAIST-SATO/2017-05-15-02-29-36/output
+├── [2.4M]  ar.conllu
+├── [1.7M]  ar_pud.conllu
+├── [1.3M]  bg.conllu
+├── [689K]  bxr.conllu
+├── [3.6M]  ca.conllu
+├── [ 16M]  cs.conllu
+├── [1.0M]  cs_cac.conllu
+├── [996K]  cs_cltt.conllu
+├── [1.8M]  cs_pud.conllu
+├── [899K]  cu.conllu
+├── [605K]  da.conllu
+├── [1019K]  de.conllu
+├── [1.3M]  de_pud.conllu
+├── [922K]  el.conllu
+├── [1.3M]  en.conllu
+├── [635K]  en_lines.conllu
+├── [610K]  en_partut.conllu
+└── [1.1M]  en_pud.conllu
+
+0 directories, 18 files

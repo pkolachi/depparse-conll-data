@@ -1,0 +1,4 @@
+/home/MQuni/CoNLL2017/conll2017_run.sh: line 2: /home/MQuni/.bashrc: No such file or directory
+[dynet] random seed: 1282923899
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.

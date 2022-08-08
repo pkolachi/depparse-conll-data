@@ -1,0 +1,3 @@
+/home/ParisNLP/scratch/bin/run_ud_tests.pl --input /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 --output /tmp/ParisNLP/2017-05-11-00-05-25/output
+
+

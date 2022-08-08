@@ -1,0 +1,7 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/Wanghao-ftd-SJTU/2017-05-14-12-11-46/output
+├── [671K]  bxr.conllu
+├── [702K]  hsb.conllu
+├── [ 292]  kmr.conllu
+└── [653K]  sme.conllu
+
+0 directories, 4 files

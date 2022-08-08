@@ -1,0 +1,8 @@
+softwareId: "software1"
+runId: "2017-05-12-23-08-21"
+inputDataset: "conll17-ud-test-2017-05-09"
+inputRun: "none"
+downloadable: true
+deleted: false
+taskId: "universal-dependency-learning"
+accessToken: "56658f26-b584-47bf-9922-cebcc7535179"

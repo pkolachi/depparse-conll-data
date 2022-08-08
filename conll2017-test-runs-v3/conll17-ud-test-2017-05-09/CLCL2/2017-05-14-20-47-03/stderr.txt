@@ -1,0 +1,2 @@
+Warning: unknown elementary feature 'Derivation=Tar' in file '/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_pud-udpipe.conllu'
+Warning: unknown elementary feature 'NameType=Giv,Pro,Sur' in file '/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_pud-udpipe.conllu'

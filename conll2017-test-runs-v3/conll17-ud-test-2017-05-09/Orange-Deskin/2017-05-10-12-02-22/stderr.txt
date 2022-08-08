@@ -1,0 +1,481 @@
+
+Processing language: ar_pud, start: 2017.05.10 12:07
+[cnn] random seed: 1003371904
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 23171 != 26170
+
+Processing language: ar, start: 2017.05.10 12:09
+[cnn] random seed: 2719134676
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 23171 != 25031
+
+Processing language: bg, start: 2017.05.10 12:11
+[cnn] random seed: 367390527
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 26314 != 27776
+
+Processing language: bxr, start: 2017.05.10 12:12
+[cnn] random seed: 1870203343
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+
+Processing language: ca, start: 2017.05.10 12:13
+[cnn] random seed: 356594630
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 28897 != 30628
+
+Processing language: cs_cac, start: 2017.05.10 12:15
+[cnn] random seed: 2320811104
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 67195 != 68182
+
+Processing language: cs_cltt, start: 2017.05.10 12:17
+[cnn] random seed: 2487308239
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 4201 != 5077
+
+Processing language: cs_pud, start: 2017.05.10 12:20
+[cnn] random seed: 3193057713
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 120248 != 121763
+
+Processing language: cs, start: 2017.05.10 12:23
+[cnn] random seed: 782404319
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 120248 != 127589
+
+Processing language: cu, start: 2017.05.10 12:30
+[cnn] random seed: 2183165250
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 57 != 58
+
+Processing language: da, start: 2017.05.10 12:31
+[cnn] random seed: 996426253
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 17530 != 18692
+
+Processing language: de_pud, start: 2017.05.10 12:33
+[cnn] random seed: 2186062494
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 49375 != 51572
+
+Processing language: de, start: 2017.05.10 12:37
+[cnn] random seed: 1385079873
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 49375 != 50995
+
+Processing language: el, start: 2017.05.10 12:41
+[cnn] random seed: 3093066155
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 11558 != 12843
+
+Processing language: en_lines, start: 2017.05.10 12:42
+[cnn] random seed: 292613200
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 8037 != 9034
+
+Processing language: en_partut, start: 2017.05.10 12:46
+[cnn] random seed: 2342422485
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 6560 != 7266
+
+Processing language: en_pud, start: 2017.05.10 12:49
+[cnn] random seed: 2993134416
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 16763 != 18525
+
+Processing language: en, start: 2017.05.10 12:52
+[cnn] random seed: 1487527329
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 16763 != 17882
+
+Processing language: es_ancora, start: 2017.05.10 12:55
+[cnn] random seed: 3649522412
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 36797 != 38735
+
+Processing language: es_pud, start: 2017.05.10 13:00
+[cnn] random seed: 71963844
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 43983 != 45148
+
+Processing language: es, start: 2017.05.10 13:03
+[cnn] random seed: 3497284550
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 43983 != 44628
+
+Processing language: et, start: 2017.05.10 13:05
+[cnn] random seed: 1694524742
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 10124 != 12828
+
+Processing language: eu, start: 2017.05.10 13:06
+[cnn] random seed: 4163402504
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 19181 != 21599
+
+Processing language: fa, start: 2017.05.10 13:07
+[cnn] random seed: 3421313935
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 11118 != 11841
+
+Processing language: fi_ftb, start: 2017.05.10 13:09
+[cnn] random seed: 1255478797
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 43124 != 46259
+
+Processing language: fi_pud, start: 2017.05.10 13:11
+[cnn] random seed: 750410868
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 48064 != 51888
+
+Processing language: fi, start: 2017.05.10 13:14
+[cnn] random seed: 2493085436
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 48064 != 51799
+
+Processing language: fr_partut, start: 2017.05.10 13:17
+[cnn] random seed: 70060633
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 40951 != 41275
+
+Processing language: fr_pud, start: 2017.05.10 13:20
+[cnn] random seed: 843395180
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 40951 != 42300
+
+Processing language: fr_sequoia, start: 2017.05.10 13:23
+[cnn] random seed: 1755116447
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 9289 != 10055
+
+Processing language: fr, start: 2017.05.10 13:25
+[cnn] random seed: 1634132186
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 40951 != 41411
+
+Processing language: ga, start: 2017.05.10 13:28
+[cnn] random seed: 379571711
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 3796 != 5255
+
+Processing language: gl_treegal, start: 2017.05.10 13:29
+[cnn] random seed: 17437906
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 13742 != 14821
+
+Processing language: gl, start: 2017.05.10 13:30
+[cnn] random seed: 3225924564
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 13742 != 15625
+
+Processing language: got, start: 2017.05.10 13:31
+[cnn] random seed: 1045995211
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+
+Processing language: grc_proiel, start: 2017.05.10 13:31
+[cnn] random seed: 3436944082
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 11741 != 11981
+
+Processing language: grc, start: 2017.05.10 13:32
+[cnn] random seed: 2381318365
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 14341 != 15831
+
+Processing language: he, start: 2017.05.10 13:33
+[cnn] random seed: 2536445747
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 16679 != 17991
+
+Processing language: hi_pud, start: 2017.05.10 13:34
+[cnn] random seed: 2305494265
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 14748 != 16176
+
+Processing language: hi, start: 2017.05.10 13:36
+[cnn] random seed: 4070861519
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 14748 != 15479
+
+Processing language: hr, start: 2017.05.10 13:37
+[cnn] random seed: 2647778876
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 37069 != 38528
+
+Processing language: hsb, start: 2017.05.10 13:39
+[cnn] random seed: 1416727965
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+
+Processing language: hu, start: 2017.05.10 13:39
+[cnn] random seed: 1883926440
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 11845 != 14881
+
+Processing language: id, start: 2017.05.10 13:41
+[cnn] random seed: 4122838327
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 17049 != 18152
+
+Processing language: it_pud, start: 2017.05.10 13:43
+[cnn] random seed: 3696391389
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 27801 != 29482
+
+Processing language: it, start: 2017.05.10 13:47
+[cnn] random seed: 1629668529
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 27801 != 28327
+
+Processing language: ja_pud, start: 2017.05.10 13:50
+[cnn] random seed: 3662262626
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 22558 != 23579
+
+Processing language: ja, start: 2017.05.10 13:54
+[cnn] random seed: 1255299090
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 22558 != 23200
+
+Processing language: kk, start: 2017.05.10 13:58
+[cnn] random seed: 1331143558
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 369 != 4338
+
+Processing language: kmr, start: 2017.05.10 13:59
+[cnn] random seed: 858335972
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+
+Processing language: ko, start: 2017.05.10 13:59
+[cnn] random seed: 1997155745
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 22661 != 22707
+
+Processing language: la_ittb, start: 2017.05.10 14:01
+[cnn] random seed: 299156168
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 13718 != 13911
+
+Processing language: la_proiel, start: 2017.05.10 14:02
+[cnn] random seed: 222084607
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 24319 != 25339
+
+Processing language: la, start: 2017.05.10 14:03
+[cnn] random seed: 889230241
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 7563 != 10789
+
+Processing language: lv, start: 2017.05.10 14:04
+[cnn] random seed: 3857040460
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 13888 != 15919
+
+Processing language: nl_lassysmall, start: 2017.05.10 14:05
+[cnn] random seed: 505755546
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 14916 != 15478
+
+Processing language: nl, start: 2017.05.10 14:08
+[cnn] random seed: 2570151961
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 25757 != 26696
+
+Processing language: no_bokmaal, start: 2017.05.10 14:11
+[cnn] random seed: 1951422275
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 30658 != 32485
+
+Processing language: no_nynorsk, start: 2017.05.10 14:13
+[cnn] random seed: 3329714268
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 21729 != 22708
+
+Processing language: pl, start: 2017.05.10 14:14
+[cnn] random seed: 972312533
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 27784 != 30320
+
+Processing language: pt_br, start: 2017.05.10 14:18
+[cnn] random seed: 1783606717
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 26644 != 28209
+
+Processing language: pt_pud, start: 2017.05.10 14:21
+[cnn] random seed: 3952644204
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 25552 != 27469
+
+Processing language: pt, start: 2017.05.10 14:24
+[cnn] random seed: 3945774604
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 25552 != 26211
+
+Processing language: ro, start: 2017.05.10 14:26
+[cnn] random seed: 2977625810
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 32340 != 33684
+
+Processing language: ru_pud, start: 2017.05.10 14:28
+[cnn] random seed: 3929356161
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 32451 != 36213
+
+Processing language: ru_syntagrus, start: 2017.05.10 14:31
+[cnn] random seed: 990332944
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 115863 != 123751
+
+Processing language: ru, start: 2017.05.10 14:38
+[cnn] random seed: 145831671
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 32451 != 34754
+
+Processing language: sk, start: 2017.05.10 14:41
+[cnn] random seed: 4111873418
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 26098 != 29470
+
+Processing language: sl_sst, start: 2017.05.10 14:43
+[cnn] random seed: 2507536221
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 33569 != 34637
+
+Processing language: sl, start: 2017.05.10 14:44
+[cnn] random seed: 3277667128
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 33569 != 35890
+
+Processing language: sme, start: 2017.05.10 14:45
+[cnn] random seed: 3665408754
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+
+Processing language: sv_lines, start: 2017.05.10 14:46
+[cnn] random seed: 661523190
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 10466 != 11937
+
+Processing language: sv_pud, start: 2017.05.10 14:48
+[cnn] random seed: 1143664755
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 13861 != 18160
+
+Processing language: sv, start: 2017.05.10 14:51
+[cnn] random seed: 1317132007
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 13861 != 16048
+
+Processing language: tr_pud, start: 2017.05.10 14:55
+[cnn] random seed: 4264164767
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 16184 != 21301
+
+Processing language: tr, start: 2017.05.10 14:58
+[cnn] random seed: 843266551
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 16184 != 18450
+
+Processing language: ug, start: 2017.05.10 15:00
+[cnn] random seed: 917606635
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 551 != 2279
+
+Processing language: uk, start: 2017.05.10 15:01
+[cnn] random seed: 2691151457
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 6816 != 11314
+
+Processing language: ur, start: 2017.05.10 15:02
+[cnn] random seed: 10455596
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 7695 != 8048
+
+Processing language: vi, start: 2017.05.10 15:03
+[cnn] random seed: 3367948841
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 1598 != 2086
+
+Processing language: zh, start: 2017.05.10 15:05
+[cnn] random seed: 3762473378
+[cnn] allocating memory: 4000MB
+[cnn] memory allocation done.
+Attention 16756 != 18038

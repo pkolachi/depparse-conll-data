@@ -1,0 +1,416 @@
+usage: vnew_voting.py [-h] --parses PARSES [PARSES ...] --weights WEIGHTS
+                      [WEIGHTS ...] [--output PATH]
+vnew_voting.py: error: argument --parses/-p: expected at least one argument
+Traceback (most recent call last):
+  File "/home/UT/system/scripts/remove_two_roots.py", line 49, in <module>
+    main()
+  File "/home/UT/system/scripts/remove_two_roots.py", line 13, in main
+    removeroots(args)
+  File "/home/UT/system/scripts/remove_two_roots.py", line 17, in removeroots
+    fail = open(args.o,'r').read()
+IOError: [Errno 2] No such file or directory: '/home/UT/system/temp/ar_pud.conllu.voting'
+cp: cannot stat '/home/UT/system/temp/ar_pud.conllu.voting_no2root': No such file or directory
+rm: cannot remove '/home/UT/system/temp/*': No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: N
+Warning: Unknown character: E
+Warning: Unknown character: F
+Warning: Unknown character: R
+Warning: Unknown character: P
+Warning: Unknown character: H
+Warning: Unknown character: ❊
+[dynet] random seed: 3447526057
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 641277645
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: [
+Warning: Unknown character: ]
+[dynet] random seed: 517139769
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1940049442
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+cat: bxr-udpipe.conllu: No such file or directory
+Loading UDPipe model: Cannot load UDPipe model 'bxr.kk.embedding.udpipe'!
+rm: cannot remove '/home/UT/system/temp/*': No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: 
+Warning: Unknown character: ª
+[dynet] random seed: 685839457
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 500720641
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+An error occurred during UDPipe execution: The CoNLL-U line '13	#' does not contain 10 columns!
+[dynet] random seed: 4022067646
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 3724223431
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: Ů
+Warning: Unknown character: *
+[dynet] random seed: 1244404172
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2385852167
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+usage: vnew_voting.py [-h] --parses PARSES [PARSES ...] --weights WEIGHTS
+                      [WEIGHTS ...] [--output PATH]
+vnew_voting.py: error: argument --parses/-p: expected at least one argument
+Traceback (most recent call last):
+  File "/home/UT/system/scripts/remove_two_roots.py", line 49, in <module>
+    main()
+  File "/home/UT/system/scripts/remove_two_roots.py", line 13, in main
+    removeroots(args)
+  File "/home/UT/system/scripts/remove_two_roots.py", line 17, in removeroots
+    fail = open(args.o,'r').read()
+IOError: [Errno 2] No such file or directory: '/home/UT/system/temp/cs_pud.conllu.voting'
+cp: cannot stat '/home/UT/system/temp/cs_pud.conllu.voting_no2root': No such file or directory
+rm: cannot remove '/home/UT/system/temp/*': No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: φ
+Warning: Unknown character: <
+[dynet] random seed: 157260490
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1196008682
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 2515315229
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/UT/source/bist-parser/bmstparser/src/parser.py", line 50, in <module>
+    test_res = list(parser.Predict(options.conll_test))
+  File "/home/UT/source/bist-parser/bmstparser/src/mstlstm.py", line 149, in Predict
+    posvec = self.plookup[int(self.pos[entry.cpos])] if self.pdims > 0 else None
+KeyError: 'PUNCT'
+mv: cannot stat '/home/UT/system/temp/test_pred.conllu': No such file or directory
+[dynet] random seed: 1074592365
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "/home/UT/source/bist-parser/barchybrid/src/parser.py", line 78, in <module>
+    pred = list(parser.Predict(options.conll_test))
+  File "/home/UT/source/bist-parser/barchybrid/src/arc_hybrid.py", line 227, in Predict
+    self.getWordEmbeddings(conll_sentence, False)
+  File "/home/UT/source/bist-parser/barchybrid/src/arc_hybrid.py", line 174, in getWordEmbeddings
+    root.posvec = self.plookup[int(self.pos[root.cpos])] if self.pdims > 0 else None
+KeyError: 'PUNCT'
+mv: cannot stat '/home/UT/system/temp/test_pred.conllu': No such file or directory
+Loading UDPipe model: done.
+[dynet] random seed: 1740765192
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1870025123
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+usage: vnew_voting.py [-h] --parses PARSES [PARSES ...] --weights WEIGHTS
+                      [WEIGHTS ...] [--output PATH]
+vnew_voting.py: error: argument --parses/-p: expected at least one argument
+Traceback (most recent call last):
+  File "/home/UT/system/scripts/remove_two_roots.py", line 49, in <module>
+    main()
+  File "/home/UT/system/scripts/remove_two_roots.py", line 13, in main
+    removeroots(args)
+  File "/home/UT/system/scripts/remove_two_roots.py", line 17, in removeroots
+    fail = open(args.o,'r').read()
+IOError: [Errno 2] No such file or directory: '/home/UT/system/temp/de_pud.conllu.voting'
+cp: cannot stat '/home/UT/system/temp/de_pud.conllu.voting_no2root': No such file or directory
+rm: cannot remove '/home/UT/system/temp/*': No such file or directory
+Loading UDPipe model: done.
+[dynet] random seed: 2746345638
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 3293917799
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Warning: Unknown character: x
+[dynet] random seed: 3174034105
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1104508590
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: [
+Warning: Unknown character: ]
+[dynet] random seed: 2284031864
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2966186102
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Warning: Unknown character: °
+Warning: Unknown character: ‘
+Warning: Unknown character: ï
+[dynet] random seed: 2425481796
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2157546857
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+usage: vnew_voting.py [-h] --parses PARSES [PARSES ...] --weights WEIGHTS
+                      [WEIGHTS ...] [--output PATH]
+vnew_voting.py: error: argument --parses/-p: expected at least one argument
+Traceback (most recent call last):
+  File "/home/UT/system/scripts/remove_two_roots.py", line 49, in <module>
+    main()
+  File "/home/UT/system/scripts/remove_two_roots.py", line 13, in main
+    removeroots(args)
+  File "/home/UT/system/scripts/remove_two_roots.py", line 17, in removeroots
+    fail = open(args.o,'r').read()
+IOError: [Errno 2] No such file or directory: '/home/UT/system/temp/en_pud.conllu.voting'
+cp: cannot stat '/home/UT/system/temp/en_pud.conllu.voting_no2root': No such file or directory
+rm: cannot remove '/home/UT/system/temp/*': No such file or directory
+Loading UDPipe model: done.
+An error occurred during UDPipe execution: The CoNLL-U line '7	#432785' does not contain 10 columns!
+[dynet] random seed: 2816014508
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2636833238
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 2723769630
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 3307256019
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+usage: vnew_voting.py [-h] --parses PARSES [PARSES ...] --weights WEIGHTS
+                      [WEIGHTS ...] [--output PATH]
+vnew_voting.py: error: argument --parses/-p: expected at least one argument
+Traceback (most recent call last):
+  File "/home/UT/system/scripts/remove_two_roots.py", line 49, in <module>
+    main()
+  File "/home/UT/system/scripts/remove_two_roots.py", line 13, in main
+    removeroots(args)
+  File "/home/UT/system/scripts/remove_two_roots.py", line 17, in removeroots
+    fail = open(args.o,'r').read()
+IOError: [Errno 2] No such file or directory: '/home/UT/system/temp/es_pud.conllu.voting'
+cp: cannot stat '/home/UT/system/temp/es_pud.conllu.voting_no2root': No such file or directory
+rm: cannot remove '/home/UT/system/temp/*': No such file or directory
+Loading UDPipe model: done.
+An error occurred during UDPipe execution: The CoNLL-U line '18	#' does not contain 10 columns!
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 3093585319
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 1047407049
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Warning: Unknown character: —
+Warning: Unknown character: =
+Warning: Unknown character: %
+Warning: Unknown character: ø
+Warning: Unknown character: Š
+[dynet] random seed: 2066780256
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 3911388680
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Warning: Unknown character: Ç
+[dynet] random seed: 1518515428
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 3388319065
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+Exception in thread "main" java.lang.RuntimeException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:111)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:81)
+	at marmot.morph.cmd.Annotator.main(Annotator.java:42)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117)
+	at java.io.ObjectInputStream$PeekInputStream.read(ObjectInputStream.java:2620)
+	at java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2636)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3113)
+	at java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:853)
+	at java.io.ObjectInputStream.<init>(ObjectInputStream.java:349)
+	at marmot.util.FileUtils.loadFromFile(FileUtils.java:87)
+	... 2 more
+[dynet] random seed: 3614503156
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2903405359
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+Loading UDPipe model: done.
+[dynet] random seed: 2942464589
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2238769119
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+usage: vnew_voting.py [-h] --parses PARSES [PARSES ...] --weights WEIGHTS
+                      [WEIGHTS ...] [--output PATH]
+vnew_voting.py: error: argument --parses/-p: expected at least one argument
+Traceback (most recent call last):
+  File "/home/UT/system/scripts/remove_two_roots.py", line 49, in <module>
+    main()
+  File "/home/UT/system/scripts/remove_two_roots.py", line 13, in main
+    removeroots(args)
+  File "/home/UT/system/scripts/remove_two_roots.py", line 17, in removeroots
+    fail = open(args.o,'r').read()
+IOError: [Errno 2] No such file or directory: '/home/UT/system/temp/fi_pud.conllu.voting'
+cp: cannot stat '/home/UT/system/temp/fi_pud.conllu.voting_no2root': No such file or directory
+rm: cannot remove '/home/UT/system/temp/*': No such file or directory
+Loading UDPipe model: done.
+[dynet] random seed: 2884550145
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 63043449
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Warning: Unknown character: ï
+[dynet] random seed: 1879167478
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 3280527687
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+usage: vnew_voting.py [-h] --parses PARSES [PARSES ...] --weights WEIGHTS
+                      [WEIGHTS ...] [--output PATH]
+vnew_voting.py: error: argument --parses/-p: expected at least one argument
+Traceback (most recent call last):
+  File "/home/UT/system/scripts/remove_two_roots.py", line 49, in <module>
+    main()
+  File "/home/UT/system/scripts/remove_two_roots.py", line 13, in main
+    removeroots(args)
+  File "/home/UT/system/scripts/remove_two_roots.py", line 17, in removeroots
+    fail = open(args.o,'r').read()
+IOError: [Errno 2] No such file or directory: '/home/UT/system/temp/fr_pud.conllu.voting'
+cp: cannot stat '/home/UT/system/temp/fr_pud.conllu.voting_no2root': No such file or directory
+rm: cannot remove '/home/UT/system/temp/*': No such file or directory
+Loading UDPipe model: done.
+[dynet] random seed: 2735464064
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2945072369
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Warning: Unknown character: ế
+Warning: Unknown character: đ
+Warning: Unknown character: ị
+Warning: Unknown character: ộ
+Warning: Unknown character: ĩ
+[dynet] random seed: 2681967191
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 2983243046
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Warning: Unknown character: Q
+Warning: Unknown character: Y
+Warning: Unknown character: j
+Warning: Unknown character: [
+Warning: Unknown character: ]
+Warning: Unknown character: %
+Warning: Unknown character: ù
+[dynet] random seed: 18409386
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory
+[dynet] random seed: 56607327
+[dynet] allocating memory: 14000MB
+[dynet] memory allocation done.
+Can't open perl script "src/utils/eval.pl": No such file or directory

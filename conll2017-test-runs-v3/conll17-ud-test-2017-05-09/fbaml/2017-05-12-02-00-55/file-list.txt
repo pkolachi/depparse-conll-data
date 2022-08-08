@@ -1,0 +1,111 @@
+output/
+├── [1.9M]  ar.conllu
+├── [2.9M]  ar.dep.test
+├── [4.0M]  ar.morph.test
+├── [3.1M]  ar.rel.test
+├── [234K]  ar.ss.test
+├── [847K]  ar.tok.test
+├── [ 11M]  ar.tok.test.feat
+├── [ 10M]  ar.tok.test.morph
+├── [ 11M]  ar.tok.test.upos
+├── [ 11M]  ar.tok.test.xpos
+├── [129K]  ar.upos.test
+├── [2.7M]  ar.xpos.test
+├── [1.3M]  ar_pud.conllu
+├── [1006K]  bg.conllu
+├── [1.8M]  bg.dep.test
+├── [2.5M]  bg.morph.test
+├── [1.9M]  bg.rel.test
+├── [152K]  bg.ss.test
+├── [439K]  bg.tok.test
+├── [6.0M]  bg.tok.test.feat
+├── [5.9M]  bg.tok.test.morph
+├── [6.0M]  bg.tok.test.upos
+├── [6.0M]  bg.tok.test.xpos
+├── [ 84K]  bg.upos.test
+├── [1.7M]  bg.xpos.test
+├── [398K]  bxr.conllu
+├── [1.1M]  bxr.dep.test
+├── [1.5M]  bxr.morph.test
+├── [1.2M]  bxr.rel.test
+├── [115K]  bxr.ss.test
+├── [296K]  bxr.tok.test
+├── [3.8M]  bxr.tok.test.feat
+├── [3.8M]  bxr.tok.test.morph
+├── [3.8M]  bxr.tok.test.upos
+├── [3.8M]  bxr.tok.test.xpos
+├── [ 59K]  bxr.upos.test
+├── [1.0M]  bxr.xpos.test
+├── [3.0M]  ca.conllu
+├── [6.3M]  ca.dep.test
+├── [8.5M]  ca.morph.test
+├── [6.6M]  ca.rel.test
+├── [297K]  ca.ss.test
+├── [1.3M]  ca.tok.test
+├── [ 20M]  ca.tok.test.feat
+├── [ 20M]  ca.tok.test.morph
+├── [ 20M]  ca.tok.test.upos
+├── [ 20M]  ca.tok.test.xpos
+├── [286K]  ca.upos.test
+├── [5.9M]  ca.xpos.test
+├── [ 14M]  cs.conllu
+├── [ 20M]  cs.dep.test
+├── [ 28M]  cs.morph.test
+├── [ 21M]  cs.rel.test
+├── [1.0M]  cs.ss.test
+├── [4.2M]  cs.tok.test
+├── [ 62M]  cs.tok.test.feat
+├── [1.7M]  cs_cac.morph.test
+├── [3.9M]  cs_cac.tok.test.feat
+├── [3.9M]  cs_cac.tok.test.upos
+├── [1.1M]  cs_cac.xpos.test
+├── [1.2M]  cs_cltt.dep.test
+├── [3.8M]  cs_cltt.tok.test.xpos
+├── [1.1M]  da.dep.test
+├── [815K]  de.conllu
+├── [5.7M]  de.tok.test.feat
+├── [ 85K]  de.upos.test
+├── [1.7M]  de.xpos.test
+├── [302K]  el.tok.test
+├── [4.1M]  el.tok.test.feat
+├── [4.1M]  el.tok.test.upos
+├── [1.1M]  el.xpos.test
+├── [2.9M]  en.rel.test
+├── [579K]  en.tok.test
+├── [2.6M]  en.xpos.test
+├── [1.8M]  en_lines.dep.test
+├── [480K]  en_partut.conllu
+├── [274K]  en_partut.tok.test
+├── [ 58K]  en_partut.upos.test
+├── [ 62K]  es.ss.test
+├── [ 60K]  es.upos.test
+├── [624K]  et.conllu
+├── [3.9M]  eu.morph.test
+├── [2.8M]  eu.rel.test
+├── [6.0M]  fa.tok.test.upos
+├── [2.5M]  fi.rel.test
+├── [882K]  fi_pud.conllu
+├── [1.1M]  fr.rel.test
+├── [3.5M]  fr.tok.test.xpos
+├── [1.0M]  fr.xpos.test
+├── [538K]  fr_partut.conllu
+├── [1.6M]  fr_partut.morph.test
+├── [1.1M]  fr_partut.xpos.test
+├── [1.5M]  fr_sequoia.morph.test
+├── [248K]  fr_sequoia.tok.test
+├── [1.1M]  ga.dep.test
+├── [1.5M]  ga.morph.test
+├── [1.2M]  ga.rel.test
+├── [3.5M]  ga.tok.test.xpos
+├── [3.3M]  gl.dep.test
+├── [3.4M]  gl.rel.test
+├── [3.1M]  gl.xpos.test
+├── [1.1M]  gl_treegal.dep.test
+├── [3.4M]  gl_treegal.tok.test.morph
+├── [3.5M]  gl_treegal.tok.test.xpos
+├── [1.1M]  got.dep.test
+├── [ 64K]  got.ss.test
+├── [3.5M]  got.tok.test.morph
+└── [1.4M]  grc_proiel.xpos.test
+
+0 directories, 108 files

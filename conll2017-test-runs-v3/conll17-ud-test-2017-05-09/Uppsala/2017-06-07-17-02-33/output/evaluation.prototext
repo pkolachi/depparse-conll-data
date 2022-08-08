@@ -1,0 +1,3932 @@
+measure{
+  key: "total-Tokens-F1"
+  value: "98.19"
+}
+measure{
+  key: "total-Sentences-F1"
+  value: "89.48"
+}
+measure{
+  key: "total-Words-F1"
+  value: "98.79"
+}
+measure{
+  key: "total-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "total-XPOS-F1"
+  value: "20.49"
+}
+measure{
+  key: "total-Feats-F1"
+  value: "39.03"
+}
+measure{
+  key: "total-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "total-Lemmas-F1"
+  value: "15.37"
+}
+measure{
+  key: "total-UAS-F1"
+  value: "76.66"
+}
+measure{
+  key: "total-LAS-F1"
+  value: "70.49"
+}
+measure{
+  key: "total-CLAS-F1"
+  value: "65.30"
+}
+measure{
+  key: "ar_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ar_pud-Tokens-F1"
+  value: "94.82"
+}
+measure{
+  key: "ar_pud-Sentences-F1"
+  value: "98.66"
+}
+measure{
+  key: "ar_pud-Words-F1"
+  value: "95.30"
+}
+measure{
+  key: "ar_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ar_pud-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ar_pud-Feats-F1"
+  value: "36.04"
+}
+measure{
+  key: "ar_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ar_pud-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ar_pud-UAS-F1"
+  value: "62.13"
+}
+measure{
+  key: "ar_pud-LAS-F1"
+  value: "50.70"
+}
+measure{
+  key: "ar_pud-CLAS-F1"
+  value: "45.59"
+}
+measure{
+  key: "ar-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ar-Tokens-F1"
+  value: "82.45"
+}
+measure{
+  key: "ar-Sentences-F1"
+  value: "78.21"
+}
+measure{
+  key: "ar-Words-F1"
+  value: "94.99"
+}
+measure{
+  key: "ar-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ar-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ar-Feats-F1"
+  value: "20.80"
+}
+measure{
+  key: "ar-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ar-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ar-UAS-F1"
+  value: "74.70"
+}
+measure{
+  key: "ar-LAS-F1"
+  value: "68.68"
+}
+measure{
+  key: "ar-CLAS-F1"
+  value: "63.75"
+}
+measure{
+  key: "bg-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "bg-Tokens-F1"
+  value: "99.91"
+}
+measure{
+  key: "bg-Sentences-F1"
+  value: "95.23"
+}
+measure{
+  key: "bg-Words-F1"
+  value: "99.91"
+}
+measure{
+  key: "bg-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "bg-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "bg-Feats-F1"
+  value: "35.96"
+}
+measure{
+  key: "bg-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "bg-Lemmas-F1"
+  value: "0.01"
+}
+measure{
+  key: "bg-UAS-F1"
+  value: "89.93"
+}
+measure{
+  key: "bg-LAS-F1"
+  value: "85.38"
+}
+measure{
+  key: "bg-CLAS-F1"
+  value: "80.75"
+}
+measure{
+  key: "bxr-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "bxr-Tokens-F1"
+  value: "97.71"
+}
+measure{
+  key: "bxr-Sentences-F1"
+  value: "87.37"
+}
+measure{
+  key: "bxr-Words-F1"
+  value: "97.71"
+}
+measure{
+  key: "bxr-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "bxr-XPOS-F1"
+  value: "97.71"
+}
+measure{
+  key: "bxr-Feats-F1"
+  value: "43.06"
+}
+measure{
+  key: "bxr-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "bxr-Lemmas-F1"
+  value: "0.47"
+}
+measure{
+  key: "bxr-UAS-F1"
+  value: "36.05"
+}
+measure{
+  key: "bxr-LAS-F1"
+  value: "18.01"
+}
+measure{
+  key: "bxr-CLAS-F1"
+  value: "9.65"
+}
+measure{
+  key: "ca-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ca-Tokens-F1"
+  value: "99.69"
+}
+measure{
+  key: "ca-Sentences-F1"
+  value: "99.59"
+}
+measure{
+  key: "ca-Words-F1"
+  value: "99.79"
+}
+measure{
+  key: "ca-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ca-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ca-Feats-F1"
+  value: "19.49"
+}
+measure{
+  key: "ca-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ca-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ca-UAS-F1"
+  value: "89.85"
+}
+measure{
+  key: "ca-LAS-F1"
+  value: "87.08"
+}
+measure{
+  key: "ca-CLAS-F1"
+  value: "81.53"
+}
+measure{
+  key: "cs_cac-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "cs_cac-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "cs_cac-Sentences-F1"
+  value: "99.68"
+}
+measure{
+  key: "cs_cac-Words-F1"
+  value: "99.99"
+}
+measure{
+  key: "cs_cac-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs_cac-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs_cac-Feats-F1"
+  value: "22.91"
+}
+measure{
+  key: "cs_cac-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs_cac-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs_cac-UAS-F1"
+  value: "89.45"
+}
+measure{
+  key: "cs_cac-LAS-F1"
+  value: "85.75"
+}
+measure{
+  key: "cs_cac-CLAS-F1"
+  value: "82.27"
+}
+measure{
+  key: "cs_cltt-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "cs_cltt-Tokens-F1"
+  value: "99.78"
+}
+measure{
+  key: "cs_cltt-Sentences-F1"
+  value: "96.95"
+}
+measure{
+  key: "cs_cltt-Words-F1"
+  value: "99.78"
+}
+measure{
+  key: "cs_cltt-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs_cltt-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs_cltt-Feats-F1"
+  value: "27.34"
+}
+measure{
+  key: "cs_cltt-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs_cltt-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs_cltt-UAS-F1"
+  value: "80.08"
+}
+measure{
+  key: "cs_cltt-LAS-F1"
+  value: "75.67"
+}
+measure{
+  key: "cs_cltt-CLAS-F1"
+  value: "72.00"
+}
+measure{
+  key: "cs_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "cs_pud-Tokens-F1"
+  value: "99.25"
+}
+measure{
+  key: "cs_pud-Sentences-F1"
+  value: "95.55"
+}
+measure{
+  key: "cs_pud-Words-F1"
+  value: "99.25"
+}
+measure{
+  key: "cs_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs_pud-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs_pud-Feats-F1"
+  value: "22.22"
+}
+measure{
+  key: "cs_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs_pud-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs_pud-UAS-F1"
+  value: "87.36"
+}
+measure{
+  key: "cs_pud-LAS-F1"
+  value: "82.27"
+}
+measure{
+  key: "cs_pud-CLAS-F1"
+  value: "78.81"
+}
+measure{
+  key: "cs-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "cs-Tokens-F1"
+  value: "99.98"
+}
+measure{
+  key: "cs-Sentences-F1"
+  value: "92.79"
+}
+measure{
+  key: "cs-Words-F1"
+  value: "99.98"
+}
+measure{
+  key: "cs-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs-Feats-F1"
+  value: "23.69"
+}
+measure{
+  key: "cs-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "cs-UAS-F1"
+  value: "89.99"
+}
+measure{
+  key: "cs-LAS-F1"
+  value: "86.83"
+}
+measure{
+  key: "cs-CLAS-F1"
+  value: "84.44"
+}
+measure{
+  key: "cu-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "cu-Tokens-F1"
+  value: "99.94"
+}
+measure{
+  key: "cu-Sentences-F1"
+  value: "43.72"
+}
+measure{
+  key: "cu-Words-F1"
+  value: "99.94"
+}
+measure{
+  key: "cu-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "cu-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "cu-Feats-F1"
+  value: "26.20"
+}
+measure{
+  key: "cu-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "cu-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "cu-UAS-F1"
+  value: "74.65"
+}
+measure{
+  key: "cu-LAS-F1"
+  value: "67.04"
+}
+measure{
+  key: "cu-CLAS-F1"
+  value: "64.89"
+}
+measure{
+  key: "da-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "da-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "da-Sentences-F1"
+  value: "83.41"
+}
+measure{
+  key: "da-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "da-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "da-XPOS-F1"
+  value: "100.00"
+}
+measure{
+  key: "da-Feats-F1"
+  value: "31.15"
+}
+measure{
+  key: "da-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "da-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "da-UAS-F1"
+  value: "81.43"
+}
+measure{
+  key: "da-LAS-F1"
+  value: "77.70"
+}
+measure{
+  key: "da-CLAS-F1"
+  value: "73.43"
+}
+measure{
+  key: "de_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "de_pud-Tokens-F1"
+  value: "96.68"
+}
+measure{
+  key: "de_pud-Sentences-F1"
+  value: "86.83"
+}
+measure{
+  key: "de_pud-Words-F1"
+  value: "96.43"
+}
+measure{
+  key: "de_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "de_pud-XPOS-F1"
+  value: "0.02"
+}
+measure{
+  key: "de_pud-Feats-F1"
+  value: "29.28"
+}
+measure{
+  key: "de_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "de_pud-Lemmas-F1"
+  value: "93.71"
+}
+measure{
+  key: "de_pud-UAS-F1"
+  value: "76.88"
+}
+measure{
+  key: "de_pud-LAS-F1"
+  value: "70.90"
+}
+measure{
+  key: "de_pud-CLAS-F1"
+  value: "68.80"
+}
+measure{
+  key: "de-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "de-Tokens-F1"
+  value: "99.67"
+}
+measure{
+  key: "de-Sentences-F1"
+  value: "81.47"
+}
+measure{
+  key: "de-Words-F1"
+  value: "99.67"
+}
+measure{
+  key: "de-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "de-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "de-Feats-F1"
+  value: "47.32"
+}
+measure{
+  key: "de-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "de-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "de-UAS-F1"
+  value: "79.48"
+}
+measure{
+  key: "de-LAS-F1"
+  value: "75.27"
+}
+measure{
+  key: "de-CLAS-F1"
+  value: "70.51"
+}
+measure{
+  key: "el-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "el-Tokens-F1"
+  value: "99.80"
+}
+measure{
+  key: "el-Sentences-F1"
+  value: "91.09"
+}
+measure{
+  key: "el-Words-F1"
+  value: "99.80"
+}
+measure{
+  key: "el-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "el-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "el-Feats-F1"
+  value: "29.87"
+}
+measure{
+  key: "el-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "el-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "el-UAS-F1"
+  value: "84.24"
+}
+measure{
+  key: "el-LAS-F1"
+  value: "80.46"
+}
+measure{
+  key: "el-CLAS-F1"
+  value: "74.48"
+}
+measure{
+  key: "en_lines-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "en_lines-Tokens-F1"
+  value: "99.96"
+}
+measure{
+  key: "en_lines-Sentences-F1"
+  value: "87.17"
+}
+measure{
+  key: "en_lines-Words-F1"
+  value: "99.96"
+}
+measure{
+  key: "en_lines-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_lines-XPOS-F1"
+  value: "22.47"
+}
+measure{
+  key: "en_lines-Feats-F1"
+  value: "99.96"
+}
+measure{
+  key: "en_lines-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_lines-Lemmas-F1"
+  value: "99.96"
+}
+measure{
+  key: "en_lines-UAS-F1"
+  value: "80.29"
+}
+measure{
+  key: "en_lines-LAS-F1"
+  value: "75.80"
+}
+measure{
+  key: "en_lines-CLAS-F1"
+  value: "71.17"
+}
+measure{
+  key: "en_partut-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "en_partut-Tokens-F1"
+  value: "99.54"
+}
+measure{
+  key: "en_partut-Sentences-F1"
+  value: "98.10"
+}
+measure{
+  key: "en_partut-Words-F1"
+  value: "99.54"
+}
+measure{
+  key: "en_partut-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_partut-XPOS-F1"
+  value: "0.03"
+}
+measure{
+  key: "en_partut-Feats-F1"
+  value: "37.26"
+}
+measure{
+  key: "en_partut-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_partut-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_partut-UAS-F1"
+  value: "80.71"
+}
+measure{
+  key: "en_partut-LAS-F1"
+  value: "76.11"
+}
+measure{
+  key: "en_partut-CLAS-F1"
+  value: "69.00"
+}
+measure{
+  key: "en_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "en_pud-Tokens-F1"
+  value: "99.59"
+}
+measure{
+  key: "en_pud-Sentences-F1"
+  value: "96.15"
+}
+measure{
+  key: "en_pud-Words-F1"
+  value: "99.59"
+}
+measure{
+  key: "en_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_pud-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_pud-Feats-F1"
+  value: "32.89"
+}
+measure{
+  key: "en_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_pud-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "en_pud-UAS-F1"
+  value: "84.05"
+}
+measure{
+  key: "en_pud-LAS-F1"
+  value: "80.49"
+}
+measure{
+  key: "en_pud-CLAS-F1"
+  value: "76.33"
+}
+measure{
+  key: "en-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "en-Tokens-F1"
+  value: "99.05"
+}
+measure{
+  key: "en-Sentences-F1"
+  value: "80.26"
+}
+measure{
+  key: "en-Words-F1"
+  value: "99.05"
+}
+measure{
+  key: "en-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "en-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "en-Feats-F1"
+  value: "33.33"
+}
+measure{
+  key: "en-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "en-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "en-UAS-F1"
+  value: "82.68"
+}
+measure{
+  key: "en-LAS-F1"
+  value: "79.62"
+}
+measure{
+  key: "en-CLAS-F1"
+  value: "75.90"
+}
+measure{
+  key: "es_ancora-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "es_ancora-Tokens-F1"
+  value: "99.51"
+}
+measure{
+  key: "es_ancora-Sentences-F1"
+  value: "98.46"
+}
+measure{
+  key: "es_ancora-Words-F1"
+  value: "99.92"
+}
+measure{
+  key: "es_ancora-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "es_ancora-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "es_ancora-Feats-F1"
+  value: "16.98"
+}
+measure{
+  key: "es_ancora-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "es_ancora-Lemmas-F1"
+  value: "0.01"
+}
+measure{
+  key: "es_ancora-UAS-F1"
+  value: "89.54"
+}
+measure{
+  key: "es_ancora-LAS-F1"
+  value: "86.79"
+}
+measure{
+  key: "es_ancora-CLAS-F1"
+  value: "81.67"
+}
+measure{
+  key: "es_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "es_pud-Tokens-F1"
+  value: "99.00"
+}
+measure{
+  key: "es_pud-Sentences-F1"
+  value: "93.39"
+}
+measure{
+  key: "es_pud-Words-F1"
+  value: "99.34"
+}
+measure{
+  key: "es_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "es_pud-XPOS-F1"
+  value: "1.70"
+}
+measure{
+  key: "es_pud-Feats-F1"
+  value: "34.54"
+}
+measure{
+  key: "es_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "es_pud-Lemmas-F1"
+  value: "96.02"
+}
+measure{
+  key: "es_pud-UAS-F1"
+  value: "86.12"
+}
+measure{
+  key: "es_pud-LAS-F1"
+  value: "79.01"
+}
+measure{
+  key: "es_pud-CLAS-F1"
+  value: "72.06"
+}
+measure{
+  key: "es-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "es-Tokens-F1"
+  value: "99.43"
+}
+measure{
+  key: "es-Sentences-F1"
+  value: "94.16"
+}
+measure{
+  key: "es-Words-F1"
+  value: "99.84"
+}
+measure{
+  key: "es-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "es-XPOS-F1"
+  value: "99.84"
+}
+measure{
+  key: "es-Feats-F1"
+  value: "42.85"
+}
+measure{
+  key: "es-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "es-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "es-UAS-F1"
+  value: "87.53"
+}
+measure{
+  key: "es-LAS-F1"
+  value: "84.26"
+}
+measure{
+  key: "es-CLAS-F1"
+  value: "77.74"
+}
+measure{
+  key: "et-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "et-Tokens-F1"
+  value: "99.90"
+}
+measure{
+  key: "et-Sentences-F1"
+  value: "93.23"
+}
+measure{
+  key: "et-Words-F1"
+  value: "99.90"
+}
+measure{
+  key: "et-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "et-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "et-Feats-F1"
+  value: "34.24"
+}
+measure{
+  key: "et-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "et-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "et-UAS-F1"
+  value: "68.99"
+}
+measure{
+  key: "et-LAS-F1"
+  value: "58.67"
+}
+measure{
+  key: "et-CLAS-F1"
+  value: "53.87"
+}
+measure{
+  key: "eu-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "eu-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "eu-Sentences-F1"
+  value: "100.00"
+}
+measure{
+  key: "eu-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "eu-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "eu-XPOS-F1"
+  value: "100.00"
+}
+measure{
+  key: "eu-Feats-F1"
+  value: "37.04"
+}
+measure{
+  key: "eu-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "eu-Lemmas-F1"
+  value: "0.10"
+}
+measure{
+  key: "eu-UAS-F1"
+  value: "78.90"
+}
+measure{
+  key: "eu-LAS-F1"
+  value: "73.82"
+}
+measure{
+  key: "eu-CLAS-F1"
+  value: "71.25"
+}
+measure{
+  key: "fa-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "fa-Tokens-F1"
+  value: "99.35"
+}
+measure{
+  key: "fa-Sentences-F1"
+  value: "99.50"
+}
+measure{
+  key: "fa-Words-F1"
+  value: "99.61"
+}
+measure{
+  key: "fa-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "fa-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "fa-Feats-F1"
+  value: "33.35"
+}
+measure{
+  key: "fa-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "fa-Lemmas-F1"
+  value: "0.10"
+}
+measure{
+  key: "fa-UAS-F1"
+  value: "86.08"
+}
+measure{
+  key: "fa-LAS-F1"
+  value: "81.89"
+}
+measure{
+  key: "fa-CLAS-F1"
+  value: "77.46"
+}
+measure{
+  key: "fi_ftb-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "fi_ftb-Tokens-F1"
+  value: "99.78"
+}
+measure{
+  key: "fi_ftb-Sentences-F1"
+  value: "87.16"
+}
+measure{
+  key: "fi_ftb-Words-F1"
+  value: "99.99"
+}
+measure{
+  key: "fi_ftb-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "fi_ftb-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "fi_ftb-Feats-F1"
+  value: "28.85"
+}
+measure{
+  key: "fi_ftb-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "fi_ftb-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "fi_ftb-UAS-F1"
+  value: "81.74"
+}
+measure{
+  key: "fi_ftb-LAS-F1"
+  value: "76.25"
+}
+measure{
+  key: "fi_ftb-CLAS-F1"
+  value: "71.01"
+}
+measure{
+  key: "fi_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "fi_pud-Tokens-F1"
+  value: "99.59"
+}
+measure{
+  key: "fi_pud-Sentences-F1"
+  value: "91.64"
+}
+measure{
+  key: "fi_pud-Words-F1"
+  value: "99.59"
+}
+measure{
+  key: "fi_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "fi_pud-XPOS-F1"
+  value: "99.59"
+}
+measure{
+  key: "fi_pud-Feats-F1"
+  value: "28.17"
+}
+measure{
+  key: "fi_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "fi_pud-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "fi_pud-UAS-F1"
+  value: "83.64"
+}
+measure{
+  key: "fi_pud-LAS-F1"
+  value: "80.05"
+}
+measure{
+  key: "fi_pud-CLAS-F1"
+  value: "77.26"
+}
+measure{
+  key: "fi-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "fi-Tokens-F1"
+  value: "99.71"
+}
+measure{
+  key: "fi-Sentences-F1"
+  value: "91.48"
+}
+measure{
+  key: "fi-Words-F1"
+  value: "99.71"
+}
+measure{
+  key: "fi-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "fi-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "fi-Feats-F1"
+  value: "29.70"
+}
+measure{
+  key: "fi-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "fi-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "fi-UAS-F1"
+  value: "82.52"
+}
+measure{
+  key: "fi-LAS-F1"
+  value: "78.41"
+}
+measure{
+  key: "fi-CLAS-F1"
+  value: "75.85"
+}
+measure{
+  key: "fr_partut-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "fr_partut-Tokens-F1"
+  value: "99.82"
+}
+measure{
+  key: "fr_partut-Sentences-F1"
+  value: "99.50"
+}
+measure{
+  key: "fr_partut-Words-F1"
+  value: "99.50"
+}
+measure{
+  key: "fr_partut-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "fr_partut-XPOS-F1"
+  value: "0.48"
+}
+measure{
+  key: "fr_partut-Feats-F1"
+  value: "34.15"
+}
+measure{
+  key: "fr_partut-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "fr_partut-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "fr_partut-UAS-F1"
+  value: "85.21"
+}
+measure{
+  key: "fr_partut-LAS-F1"
+  value: "80.84"
+}
+measure{
+  key: "fr_partut-CLAS-F1"
+  value: "73.14"
+}
+measure{
+  key: "fr_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "fr_pud-Tokens-F1"
+  value: "97.57"
+}
+measure{
+  key: "fr_pud-Sentences-F1"
+  value: "91.33"
+}
+measure{
+  key: "fr_pud-Words-F1"
+  value: "97.34"
+}
+measure{
+  key: "fr_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "fr_pud-XPOS-F1"
+  value: "2.33"
+}
+measure{
+  key: "fr_pud-Feats-F1"
+  value: "36.61"
+}
+measure{
+  key: "fr_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "fr_pud-Lemmas-F1"
+  value: "92.67"
+}
+measure{
+  key: "fr_pud-UAS-F1"
+  value: "79.87"
+}
+measure{
+  key: "fr_pud-LAS-F1"
+  value: "75.25"
+}
+measure{
+  key: "fr_pud-CLAS-F1"
+  value: "71.44"
+}
+measure{
+  key: "fr_sequoia-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "fr_sequoia-Tokens-F1"
+  value: "99.77"
+}
+measure{
+  key: "fr_sequoia-Sentences-F1"
+  value: "84.95"
+}
+measure{
+  key: "fr_sequoia-Words-F1"
+  value: "99.48"
+}
+measure{
+  key: "fr_sequoia-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "fr_sequoia-XPOS-F1"
+  value: "99.48"
+}
+measure{
+  key: "fr_sequoia-Feats-F1"
+  value: "37.06"
+}
+measure{
+  key: "fr_sequoia-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "fr_sequoia-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "fr_sequoia-UAS-F1"
+  value: "85.65"
+}
+measure{
+  key: "fr_sequoia-LAS-F1"
+  value: "82.85"
+}
+measure{
+  key: "fr_sequoia-CLAS-F1"
+  value: "78.00"
+}
+measure{
+  key: "fr-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "fr-Tokens-F1"
+  value: "99.87"
+}
+measure{
+  key: "fr-Sentences-F1"
+  value: "94.32"
+}
+measure{
+  key: "fr-Words-F1"
+  value: "99.53"
+}
+measure{
+  key: "fr-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "fr-XPOS-F1"
+  value: "99.53"
+}
+measure{
+  key: "fr-Feats-F1"
+  value: "42.37"
+}
+measure{
+  key: "fr-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "fr-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "fr-UAS-F1"
+  value: "86.95"
+}
+measure{
+  key: "fr-LAS-F1"
+  value: "83.66"
+}
+measure{
+  key: "fr-CLAS-F1"
+  value: "79.29"
+}
+measure{
+  key: "ga-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ga-Tokens-F1"
+  value: "99.78"
+}
+measure{
+  key: "ga-Sentences-F1"
+  value: "95.35"
+}
+measure{
+  key: "ga-Words-F1"
+  value: "99.78"
+}
+measure{
+  key: "ga-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ga-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ga-Feats-F1"
+  value: "29.03"
+}
+measure{
+  key: "ga-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ga-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ga-UAS-F1"
+  value: "75.27"
+}
+measure{
+  key: "ga-LAS-F1"
+  value: "63.35"
+}
+measure{
+  key: "ga-CLAS-F1"
+  value: "51.27"
+}
+measure{
+  key: "gl_treegal-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "gl_treegal-Tokens-F1"
+  value: "98.07"
+}
+measure{
+  key: "gl_treegal-Sentences-F1"
+  value: "83.79"
+}
+measure{
+  key: "gl_treegal-Words-F1"
+  value: "98.23"
+}
+measure{
+  key: "gl_treegal-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "gl_treegal-XPOS-F1"
+  value: "0.02"
+}
+measure{
+  key: "gl_treegal-Feats-F1"
+  value: "21.95"
+}
+measure{
+  key: "gl_treegal-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "gl_treegal-Lemmas-F1"
+  value: "0.21"
+}
+measure{
+  key: "gl_treegal-UAS-F1"
+  value: "72.15"
+}
+measure{
+  key: "gl_treegal-LAS-F1"
+  value: "65.85"
+}
+measure{
+  key: "gl_treegal-CLAS-F1"
+  value: "55.35"
+}
+measure{
+  key: "gl-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "gl-Tokens-F1"
+  value: "99.96"
+}
+measure{
+  key: "gl-Sentences-F1"
+  value: "96.83"
+}
+measure{
+  key: "gl-Words-F1"
+  value: "99.96"
+}
+measure{
+  key: "gl-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "gl-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "gl-Feats-F1"
+  value: "99.72"
+}
+measure{
+  key: "gl-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "gl-Lemmas-F1"
+  value: "0.17"
+}
+measure{
+  key: "gl-UAS-F1"
+  value: "82.36"
+}
+measure{
+  key: "gl-LAS-F1"
+  value: "79.01"
+}
+measure{
+  key: "gl-CLAS-F1"
+  value: "72.49"
+}
+measure{
+  key: "got-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "got-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "got-Sentences-F1"
+  value: "35.01"
+}
+measure{
+  key: "got-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "got-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "got-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "got-Feats-F1"
+  value: "27.67"
+}
+measure{
+  key: "got-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "got-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "got-UAS-F1"
+  value: "70.44"
+}
+measure{
+  key: "got-LAS-F1"
+  value: "62.62"
+}
+measure{
+  key: "got-CLAS-F1"
+  value: "59.13"
+}
+measure{
+  key: "grc_proiel-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "grc_proiel-Tokens-F1"
+  value: "99.98"
+}
+measure{
+  key: "grc_proiel-Sentences-F1"
+  value: "48.86"
+}
+measure{
+  key: "grc_proiel-Words-F1"
+  value: "99.98"
+}
+measure{
+  key: "grc_proiel-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "grc_proiel-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "grc_proiel-Feats-F1"
+  value: "25.26"
+}
+measure{
+  key: "grc_proiel-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "grc_proiel-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "grc_proiel-UAS-F1"
+  value: "74.28"
+}
+measure{
+  key: "grc_proiel-LAS-F1"
+  value: "69.04"
+}
+measure{
+  key: "grc_proiel-CLAS-F1"
+  value: "62.70"
+}
+measure{
+  key: "grc-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "grc-Tokens-F1"
+  value: "99.98"
+}
+measure{
+  key: "grc-Sentences-F1"
+  value: "98.93"
+}
+measure{
+  key: "grc-Words-F1"
+  value: "99.98"
+}
+measure{
+  key: "grc-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "grc-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "grc-Feats-F1"
+  value: "35.17"
+}
+measure{
+  key: "grc-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "grc-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "grc-UAS-F1"
+  value: "66.42"
+}
+measure{
+  key: "grc-LAS-F1"
+  value: "58.83"
+}
+measure{
+  key: "grc-CLAS-F1"
+  value: "50.38"
+}
+measure{
+  key: "he-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "he-Tokens-F1"
+  value: "63.34"
+}
+measure{
+  key: "he-Sentences-F1"
+  value: "99.69"
+}
+measure{
+  key: "he-Words-F1"
+  value: "91.19"
+}
+measure{
+  key: "he-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "he-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "he-Feats-F1"
+  value: "36.73"
+}
+measure{
+  key: "he-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "he-Lemmas-F1"
+  value: "2.66"
+}
+measure{
+  key: "he-UAS-F1"
+  value: "72.53"
+}
+measure{
+  key: "he-LAS-F1"
+  value: "67.75"
+}
+measure{
+  key: "he-CLAS-F1"
+  value: "59.57"
+}
+measure{
+  key: "hi_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "hi_pud-Tokens-F1"
+  value: "98.65"
+}
+measure{
+  key: "hi_pud-Sentences-F1"
+  value: "95.00"
+}
+measure{
+  key: "hi_pud-Words-F1"
+  value: "98.65"
+}
+measure{
+  key: "hi_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "hi_pud-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "hi_pud-Feats-F1"
+  value: "32.54"
+}
+measure{
+  key: "hi_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "hi_pud-Lemmas-F1"
+  value: "98.65"
+}
+measure{
+  key: "hi_pud-UAS-F1"
+  value: "66.56"
+}
+measure{
+  key: "hi_pud-LAS-F1"
+  value: "53.31"
+}
+measure{
+  key: "hi_pud-CLAS-F1"
+  value: "46.55"
+}
+measure{
+  key: "hi-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "hi-Tokens-F1"
+  value: "99.99"
+}
+measure{
+  key: "hi-Sentences-F1"
+  value: "99.11"
+}
+measure{
+  key: "hi-Words-F1"
+  value: "99.99"
+}
+measure{
+  key: "hi-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "hi-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "hi-Feats-F1"
+  value: "14.94"
+}
+measure{
+  key: "hi-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "hi-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "hi-UAS-F1"
+  value: "93.00"
+}
+measure{
+  key: "hi-LAS-F1"
+  value: "89.13"
+}
+measure{
+  key: "hi-CLAS-F1"
+  value: "84.38"
+}
+measure{
+  key: "hr-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "hr-Tokens-F1"
+  value: "99.91"
+}
+measure{
+  key: "hr-Sentences-F1"
+  value: "97.25"
+}
+measure{
+  key: "hr-Words-F1"
+  value: "99.91"
+}
+measure{
+  key: "hr-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "hr-XPOS-F1"
+  value: "99.91"
+}
+measure{
+  key: "hr-Feats-F1"
+  value: "19.84"
+}
+measure{
+  key: "hr-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "hr-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "hr-UAS-F1"
+  value: "85.15"
+}
+measure{
+  key: "hr-LAS-F1"
+  value: "79.51"
+}
+measure{
+  key: "hr-CLAS-F1"
+  value: "76.16"
+}
+measure{
+  key: "hsb-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "hsb-Tokens-F1"
+  value: "98.76"
+}
+measure{
+  key: "hsb-Sentences-F1"
+  value: "89.88"
+}
+measure{
+  key: "hsb-Words-F1"
+  value: "98.76"
+}
+measure{
+  key: "hsb-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "hsb-XPOS-F1"
+  value: "98.76"
+}
+measure{
+  key: "hsb-Feats-F1"
+  value: "36.52"
+}
+measure{
+  key: "hsb-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "hsb-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "hsb-UAS-F1"
+  value: "56.72"
+}
+measure{
+  key: "hsb-LAS-F1"
+  value: "47.92"
+}
+measure{
+  key: "hsb-CLAS-F1"
+  value: "39.62"
+}
+measure{
+  key: "hu-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "hu-Tokens-F1"
+  value: "99.89"
+}
+measure{
+  key: "hu-Sentences-F1"
+  value: "97.65"
+}
+measure{
+  key: "hu-Words-F1"
+  value: "99.89"
+}
+measure{
+  key: "hu-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "hu-XPOS-F1"
+  value: "99.89"
+}
+measure{
+  key: "hu-Feats-F1"
+  value: "26.72"
+}
+measure{
+  key: "hu-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "hu-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "hu-UAS-F1"
+  value: "73.12"
+}
+measure{
+  key: "hu-LAS-F1"
+  value: "65.90"
+}
+measure{
+  key: "hu-CLAS-F1"
+  value: "62.40"
+}
+measure{
+  key: "id-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "id-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "id-Sentences-F1"
+  value: "93.55"
+}
+measure{
+  key: "id-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "id-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "id-XPOS-F1"
+  value: "100.00"
+}
+measure{
+  key: "id-Feats-F1"
+  value: "96.15"
+}
+measure{
+  key: "id-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "id-Lemmas-F1"
+  value: "100.00"
+}
+measure{
+  key: "id-UAS-F1"
+  value: "82.64"
+}
+measure{
+  key: "id-LAS-F1"
+  value: "76.13"
+}
+measure{
+  key: "id-CLAS-F1"
+  value: "73.51"
+}
+measure{
+  key: "it_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "it_pud-Tokens-F1"
+  value: "98.71"
+}
+measure{
+  key: "it_pud-Sentences-F1"
+  value: "93.90"
+}
+measure{
+  key: "it_pud-Words-F1"
+  value: "99.28"
+}
+measure{
+  key: "it_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "it_pud-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "it_pud-Feats-F1"
+  value: "34.02"
+}
+measure{
+  key: "it_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "it_pud-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "it_pud-UAS-F1"
+  value: "88.90"
+}
+measure{
+  key: "it_pud-LAS-F1"
+  value: "85.59"
+}
+measure{
+  key: "it_pud-CLAS-F1"
+  value: "80.98"
+}
+measure{
+  key: "it-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "it-Tokens-F1"
+  value: "98.90"
+}
+measure{
+  key: "it-Sentences-F1"
+  value: "99.38"
+}
+measure{
+  key: "it-Words-F1"
+  value: "99.86"
+}
+measure{
+  key: "it-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "it-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "it-Feats-F1"
+  value: "38.86"
+}
+measure{
+  key: "it-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "it-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "it-UAS-F1"
+  value: "90.09"
+}
+measure{
+  key: "it-LAS-F1"
+  value: "87.33"
+}
+measure{
+  key: "it-CLAS-F1"
+  value: "81.32"
+}
+measure{
+  key: "ja_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ja_pud-Tokens-F1"
+  value: "94.30"
+}
+measure{
+  key: "ja_pud-Sentences-F1"
+  value: "97.31"
+}
+measure{
+  key: "ja_pud-Words-F1"
+  value: "94.30"
+}
+measure{
+  key: "ja_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ja_pud-XPOS-F1"
+  value: "7.83"
+}
+measure{
+  key: "ja_pud-Feats-F1"
+  value: "57.16"
+}
+measure{
+  key: "ja_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ja_pud-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ja_pud-UAS-F1"
+  value: "83.98"
+}
+measure{
+  key: "ja_pud-LAS-F1"
+  value: "83.26"
+}
+measure{
+  key: "ja_pud-CLAS-F1"
+  value: "74.77"
+}
+measure{
+  key: "ja-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ja-Tokens-F1"
+  value: "93.59"
+}
+measure{
+  key: "ja-Sentences-F1"
+  value: "94.92"
+}
+measure{
+  key: "ja-Words-F1"
+  value: "93.59"
+}
+measure{
+  key: "ja-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ja-XPOS-F1"
+  value: "93.59"
+}
+measure{
+  key: "ja-Feats-F1"
+  value: "92.05"
+}
+measure{
+  key: "ja-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ja-Lemmas-F1"
+  value: "0.04"
+}
+measure{
+  key: "ja-UAS-F1"
+  value: "82.74"
+}
+measure{
+  key: "ja-LAS-F1"
+  value: "81.54"
+}
+measure{
+  key: "ja-CLAS-F1"
+  value: "73.47"
+}
+measure{
+  key: "kk-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "kk-Tokens-F1"
+  value: "95.37"
+}
+measure{
+  key: "kk-Sentences-F1"
+  value: "86.26"
+}
+measure{
+  key: "kk-Words-F1"
+  value: "96.46"
+}
+measure{
+  key: "kk-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "kk-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "kk-Feats-F1"
+  value: "33.56"
+}
+measure{
+  key: "kk-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "kk-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "kk-UAS-F1"
+  value: "33.04"
+}
+measure{
+  key: "kk-LAS-F1"
+  value: "17.14"
+}
+measure{
+  key: "kk-CLAS-F1"
+  value: "8.67"
+}
+measure{
+  key: "kmr-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "kmr-Tokens-F1"
+  value: "97.39"
+}
+measure{
+  key: "kmr-Sentences-F1"
+  value: "94.08"
+}
+measure{
+  key: "kmr-Words-F1"
+  value: "97.06"
+}
+measure{
+  key: "kmr-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "kmr-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "kmr-Feats-F1"
+  value: "22.89"
+}
+measure{
+  key: "kmr-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "kmr-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "kmr-UAS-F1"
+  value: "33.93"
+}
+measure{
+  key: "kmr-LAS-F1"
+  value: "20.39"
+}
+measure{
+  key: "kmr-CLAS-F1"
+  value: "13.49"
+}
+measure{
+  key: "ko-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ko-Tokens-F1"
+  value: "99.99"
+}
+measure{
+  key: "ko-Sentences-F1"
+  value: "93.01"
+}
+measure{
+  key: "ko-Words-F1"
+  value: "99.99"
+}
+measure{
+  key: "ko-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ko-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ko-Feats-F1"
+  value: "99.25"
+}
+measure{
+  key: "ko-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ko-Lemmas-F1"
+  value: "92.85"
+}
+measure{
+  key: "ko-UAS-F1"
+  value: "79.20"
+}
+measure{
+  key: "ko-LAS-F1"
+  value: "74.72"
+}
+measure{
+  key: "ko-CLAS-F1"
+  value: "71.92"
+}
+measure{
+  key: "la_ittb-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "la_ittb-Tokens-F1"
+  value: "99.99"
+}
+measure{
+  key: "la_ittb-Sentences-F1"
+  value: "92.93"
+}
+measure{
+  key: "la_ittb-Words-F1"
+  value: "99.99"
+}
+measure{
+  key: "la_ittb-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "la_ittb-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "la_ittb-Feats-F1"
+  value: "31.57"
+}
+measure{
+  key: "la_ittb-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "la_ittb-Lemmas-F1"
+  value: "0.60"
+}
+measure{
+  key: "la_ittb-UAS-F1"
+  value: "85.76"
+}
+measure{
+  key: "la_ittb-LAS-F1"
+  value: "82.34"
+}
+measure{
+  key: "la_ittb-CLAS-F1"
+  value: "79.20"
+}
+measure{
+  key: "la_proiel-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "la_proiel-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "la_proiel-Sentences-F1"
+  value: "34.66"
+}
+measure{
+  key: "la_proiel-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "la_proiel-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "la_proiel-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "la_proiel-Feats-F1"
+  value: "26.48"
+}
+measure{
+  key: "la_proiel-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "la_proiel-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "la_proiel-UAS-F1"
+  value: "69.08"
+}
+measure{
+  key: "la_proiel-LAS-F1"
+  value: "63.17"
+}
+measure{
+  key: "la_proiel-CLAS-F1"
+  value: "59.70"
+}
+measure{
+  key: "la-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "la-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "la-Sentences-F1"
+  value: "97.41"
+}
+measure{
+  key: "la-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "la-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "la-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "la-Feats-F1"
+  value: "36.78"
+}
+measure{
+  key: "la-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "la-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "la-UAS-F1"
+  value: "58.75"
+}
+measure{
+  key: "la-LAS-F1"
+  value: "46.26"
+}
+measure{
+  key: "la-CLAS-F1"
+  value: "38.94"
+}
+measure{
+  key: "lv-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "lv-Tokens-F1"
+  value: "99.13"
+}
+measure{
+  key: "lv-Sentences-F1"
+  value: "93.65"
+}
+measure{
+  key: "lv-Words-F1"
+  value: "99.13"
+}
+measure{
+  key: "lv-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "lv-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "lv-Feats-F1"
+  value: "39.80"
+}
+measure{
+  key: "lv-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "lv-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "lv-UAS-F1"
+  value: "67.32"
+}
+measure{
+  key: "lv-LAS-F1"
+  value: "59.75"
+}
+measure{
+  key: "lv-CLAS-F1"
+  value: "54.69"
+}
+measure{
+  key: "nl_lassysmall-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "nl_lassysmall-Tokens-F1"
+  value: "99.97"
+}
+measure{
+  key: "nl_lassysmall-Sentences-F1"
+  value: "87.00"
+}
+measure{
+  key: "nl_lassysmall-Words-F1"
+  value: "99.97"
+}
+measure{
+  key: "nl_lassysmall-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl_lassysmall-XPOS-F1"
+  value: "99.97"
+}
+measure{
+  key: "nl_lassysmall-Feats-F1"
+  value: "47.02"
+}
+measure{
+  key: "nl_lassysmall-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl_lassysmall-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl_lassysmall-UAS-F1"
+  value: "86.15"
+}
+measure{
+  key: "nl_lassysmall-LAS-F1"
+  value: "83.58"
+}
+measure{
+  key: "nl_lassysmall-CLAS-F1"
+  value: "79.42"
+}
+measure{
+  key: "nl-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "nl-Tokens-F1"
+  value: "99.85"
+}
+measure{
+  key: "nl-Sentences-F1"
+  value: "76.16"
+}
+measure{
+  key: "nl-Words-F1"
+  value: "99.85"
+}
+measure{
+  key: "nl-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl-Feats-F1"
+  value: "7.58"
+}
+measure{
+  key: "nl-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "nl-UAS-F1"
+  value: "80.67"
+}
+measure{
+  key: "nl-LAS-F1"
+  value: "74.41"
+}
+measure{
+  key: "nl-CLAS-F1"
+  value: "67.47"
+}
+measure{
+  key: "no_bokmaal-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "no_bokmaal-Tokens-F1"
+  value: "99.87"
+}
+measure{
+  key: "no_bokmaal-Sentences-F1"
+  value: "96.20"
+}
+measure{
+  key: "no_bokmaal-Words-F1"
+  value: "99.87"
+}
+measure{
+  key: "no_bokmaal-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "no_bokmaal-XPOS-F1"
+  value: "99.87"
+}
+measure{
+  key: "no_bokmaal-Feats-F1"
+  value: "40.16"
+}
+measure{
+  key: "no_bokmaal-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "no_bokmaal-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "no_bokmaal-UAS-F1"
+  value: "88.67"
+}
+measure{
+  key: "no_bokmaal-LAS-F1"
+  value: "86.04"
+}
+measure{
+  key: "no_bokmaal-CLAS-F1"
+  value: "82.88"
+}
+measure{
+  key: "no_nynorsk-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "no_nynorsk-Tokens-F1"
+  value: "99.92"
+}
+measure{
+  key: "no_nynorsk-Sentences-F1"
+  value: "93.67"
+}
+measure{
+  key: "no_nynorsk-Words-F1"
+  value: "99.92"
+}
+measure{
+  key: "no_nynorsk-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "no_nynorsk-XPOS-F1"
+  value: "99.92"
+}
+measure{
+  key: "no_nynorsk-Feats-F1"
+  value: "40.02"
+}
+measure{
+  key: "no_nynorsk-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "no_nynorsk-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "no_nynorsk-UAS-F1"
+  value: "87.24"
+}
+measure{
+  key: "no_nynorsk-LAS-F1"
+  value: "84.41"
+}
+measure{
+  key: "no_nynorsk-CLAS-F1"
+  value: "81.09"
+}
+measure{
+  key: "pl-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "pl-Tokens-F1"
+  value: "98.57"
+}
+measure{
+  key: "pl-Sentences-F1"
+  value: "99.46"
+}
+measure{
+  key: "pl-Words-F1"
+  value: "99.93"
+}
+measure{
+  key: "pl-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "pl-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "pl-Feats-F1"
+  value: "26.00"
+}
+measure{
+  key: "pl-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "pl-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "pl-UAS-F1"
+  value: "88.14"
+}
+measure{
+  key: "pl-LAS-F1"
+  value: "82.33"
+}
+measure{
+  key: "pl-CLAS-F1"
+  value: "78.21"
+}
+measure{
+  key: "pt_br-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "pt_br-Tokens-F1"
+  value: "99.21"
+}
+measure{
+  key: "pt_br-Sentences-F1"
+  value: "97.04"
+}
+measure{
+  key: "pt_br-Words-F1"
+  value: "99.87"
+}
+measure{
+  key: "pt_br-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "pt_br-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "pt_br-Feats-F1"
+  value: "90.14"
+}
+measure{
+  key: "pt_br-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "pt_br-Lemmas-F1"
+  value: "86.81"
+}
+measure{
+  key: "pt_br-UAS-F1"
+  value: "90.28"
+}
+measure{
+  key: "pt_br-LAS-F1"
+  value: "88.19"
+}
+measure{
+  key: "pt_br-CLAS-F1"
+  value: "82.70"
+}
+measure{
+  key: "pt_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "pt_pud-Tokens-F1"
+  value: "98.14"
+}
+measure{
+  key: "pt_pud-Sentences-F1"
+  value: "94.50"
+}
+measure{
+  key: "pt_pud-Words-F1"
+  value: "98.48"
+}
+measure{
+  key: "pt_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "pt_pud-XPOS-F1"
+  value: "6.24"
+}
+measure{
+  key: "pt_pud-Feats-F1"
+  value: "36.71"
+}
+measure{
+  key: "pt_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "pt_pud-Lemmas-F1"
+  value: "85.99"
+}
+measure{
+  key: "pt_pud-UAS-F1"
+  value: "80.42"
+}
+measure{
+  key: "pt_pud-LAS-F1"
+  value: "74.48"
+}
+measure{
+  key: "pt_pud-CLAS-F1"
+  value: "68.08"
+}
+measure{
+  key: "pt-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "pt-Tokens-F1"
+  value: "98.67"
+}
+measure{
+  key: "pt-Sentences-F1"
+  value: "90.43"
+}
+measure{
+  key: "pt-Words-F1"
+  value: "99.45"
+}
+measure{
+  key: "pt-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "pt-XPOS-F1"
+  value: "5.82"
+}
+measure{
+  key: "pt-Feats-F1"
+  value: "35.60"
+}
+measure{
+  key: "pt-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "pt-Lemmas-F1"
+  value: "0.02"
+}
+measure{
+  key: "pt-UAS-F1"
+  value: "86.29"
+}
+measure{
+  key: "pt-LAS-F1"
+  value: "83.25"
+}
+measure{
+  key: "pt-CLAS-F1"
+  value: "76.92"
+}
+measure{
+  key: "ro-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ro-Tokens-F1"
+  value: "99.75"
+}
+measure{
+  key: "ro-Sentences-F1"
+  value: "96.02"
+}
+measure{
+  key: "ro-Words-F1"
+  value: "99.75"
+}
+measure{
+  key: "ro-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ro-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ro-Feats-F1"
+  value: "16.29"
+}
+measure{
+  key: "ro-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ro-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ro-UAS-F1"
+  value: "87.23"
+}
+measure{
+  key: "ro-LAS-F1"
+  value: "81.68"
+}
+measure{
+  key: "ro-CLAS-F1"
+  value: "76.19"
+}
+measure{
+  key: "ru_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ru_pud-Tokens-F1"
+  value: "97.35"
+}
+measure{
+  key: "ru_pud-Sentences-F1"
+  value: "98.80"
+}
+measure{
+  key: "ru_pud-Words-F1"
+  value: "97.34"
+}
+measure{
+  key: "ru_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru_pud-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru_pud-Feats-F1"
+  value: "35.40"
+}
+measure{
+  key: "ru_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru_pud-Lemmas-F1"
+  value: "97.34"
+}
+measure{
+  key: "ru_pud-UAS-F1"
+  value: "78.26"
+}
+measure{
+  key: "ru_pud-LAS-F1"
+  value: "70.78"
+}
+measure{
+  key: "ru_pud-CLAS-F1"
+  value: "67.36"
+}
+measure{
+  key: "ru_syntagrus-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ru_syntagrus-Tokens-F1"
+  value: "99.63"
+}
+measure{
+  key: "ru_syntagrus-Sentences-F1"
+  value: "98.78"
+}
+measure{
+  key: "ru_syntagrus-Words-F1"
+  value: "99.63"
+}
+measure{
+  key: "ru_syntagrus-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru_syntagrus-XPOS-F1"
+  value: "99.63"
+}
+measure{
+  key: "ru_syntagrus-Feats-F1"
+  value: "37.53"
+}
+measure{
+  key: "ru_syntagrus-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru_syntagrus-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru_syntagrus-UAS-F1"
+  value: "91.71"
+}
+measure{
+  key: "ru_syntagrus-LAS-F1"
+  value: "89.61"
+}
+measure{
+  key: "ru_syntagrus-CLAS-F1"
+  value: "86.04"
+}
+measure{
+  key: "ru-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ru-Tokens-F1"
+  value: "99.90"
+}
+measure{
+  key: "ru-Sentences-F1"
+  value: "96.91"
+}
+measure{
+  key: "ru-Words-F1"
+  value: "99.90"
+}
+measure{
+  key: "ru-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru-Feats-F1"
+  value: "37.04"
+}
+measure{
+  key: "ru-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ru-UAS-F1"
+  value: "82.80"
+}
+measure{
+  key: "ru-LAS-F1"
+  value: "77.99"
+}
+measure{
+  key: "ru-CLAS-F1"
+  value: "75.33"
+}
+measure{
+  key: "sk-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sk-Tokens-F1"
+  value: "99.96"
+}
+measure{
+  key: "sk-Sentences-F1"
+  value: "87.17"
+}
+measure{
+  key: "sk-Words-F1"
+  value: "99.96"
+}
+measure{
+  key: "sk-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sk-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sk-Feats-F1"
+  value: "19.10"
+}
+measure{
+  key: "sk-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "sk-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "sk-UAS-F1"
+  value: "81.55"
+}
+measure{
+  key: "sk-LAS-F1"
+  value: "75.98"
+}
+measure{
+  key: "sk-CLAS-F1"
+  value: "71.60"
+}
+measure{
+  key: "sl_sst-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sl_sst-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "sl_sst-Sentences-F1"
+  value: "19.52"
+}
+measure{
+  key: "sl_sst-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "sl_sst-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sl_sst-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sl_sst-Feats-F1"
+  value: "29.76"
+}
+measure{
+  key: "sl_sst-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "sl_sst-Lemmas-F1"
+  value: "1.23"
+}
+measure{
+  key: "sl_sst-UAS-F1"
+  value: "54.29"
+}
+measure{
+  key: "sl_sst-LAS-F1"
+  value: "46.76"
+}
+measure{
+  key: "sl_sst-CLAS-F1"
+  value: "40.93"
+}
+measure{
+  key: "sl-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sl-Tokens-F1"
+  value: "99.97"
+}
+measure{
+  key: "sl-Sentences-F1"
+  value: "98.11"
+}
+measure{
+  key: "sl-Words-F1"
+  value: "99.97"
+}
+measure{
+  key: "sl-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sl-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sl-Feats-F1"
+  value: "23.64"
+}
+measure{
+  key: "sl-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "sl-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "sl-UAS-F1"
+  value: "87.11"
+}
+measure{
+  key: "sl-LAS-F1"
+  value: "84.16"
+}
+measure{
+  key: "sl-CLAS-F1"
+  value: "80.44"
+}
+measure{
+  key: "sme-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sme-Tokens-F1"
+  value: "96.75"
+}
+measure{
+  key: "sme-Sentences-F1"
+  value: "97.59"
+}
+measure{
+  key: "sme-Words-F1"
+  value: "96.75"
+}
+measure{
+  key: "sme-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sme-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sme-Feats-F1"
+  value: "35.43"
+}
+measure{
+  key: "sme-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "sme-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "sme-UAS-F1"
+  value: "27.08"
+}
+measure{
+  key: "sme-LAS-F1"
+  value: "11.72"
+}
+measure{
+  key: "sme-CLAS-F1"
+  value: "11.62"
+}
+measure{
+  key: "sv_lines-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sv_lines-Tokens-F1"
+  value: "99.99"
+}
+measure{
+  key: "sv_lines-Sentences-F1"
+  value: "88.12"
+}
+measure{
+  key: "sv_lines-Words-F1"
+  value: "99.99"
+}
+measure{
+  key: "sv_lines-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv_lines-XPOS-F1"
+  value: "25.11"
+}
+measure{
+  key: "sv_lines-Feats-F1"
+  value: "99.99"
+}
+measure{
+  key: "sv_lines-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv_lines-Lemmas-F1"
+  value: "99.99"
+}
+measure{
+  key: "sv_lines-UAS-F1"
+  value: "81.54"
+}
+measure{
+  key: "sv_lines-LAS-F1"
+  value: "76.37"
+}
+measure{
+  key: "sv_lines-CLAS-F1"
+  value: "72.05"
+}
+measure{
+  key: "sv_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sv_pud-Tokens-F1"
+  value: "98.47"
+}
+measure{
+  key: "sv_pud-Sentences-F1"
+  value: "81.14"
+}
+measure{
+  key: "sv_pud-Words-F1"
+  value: "98.47"
+}
+measure{
+  key: "sv_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv_pud-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv_pud-Feats-F1"
+  value: "32.42"
+}
+measure{
+  key: "sv_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv_pud-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv_pud-UAS-F1"
+  value: "74.41"
+}
+measure{
+  key: "sv_pud-LAS-F1"
+  value: "69.52"
+}
+measure{
+  key: "sv_pud-CLAS-F1"
+  value: "65.20"
+}
+measure{
+  key: "sv-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "sv-Tokens-F1"
+  value: "99.77"
+}
+measure{
+  key: "sv-Sentences-F1"
+  value: "95.96"
+}
+measure{
+  key: "sv-Words-F1"
+  value: "99.77"
+}
+measure{
+  key: "sv-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv-Feats-F1"
+  value: "34.12"
+}
+measure{
+  key: "sv-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "sv-UAS-F1"
+  value: "83.96"
+}
+measure{
+  key: "sv-LAS-F1"
+  value: "79.86"
+}
+measure{
+  key: "sv-CLAS-F1"
+  value: "76.72"
+}
+measure{
+  key: "tr_pud-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "tr_pud-Tokens-F1"
+  value: "94.98"
+}
+measure{
+  key: "tr_pud-Sentences-F1"
+  value: "90.75"
+}
+measure{
+  key: "tr_pud-Words-F1"
+  value: "96.93"
+}
+measure{
+  key: "tr_pud-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "tr_pud-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "tr_pud-Feats-F1"
+  value: "23.75"
+}
+measure{
+  key: "tr_pud-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "tr_pud-Lemmas-F1"
+  value: "96.93"
+}
+measure{
+  key: "tr_pud-UAS-F1"
+  value: "53.05"
+}
+measure{
+  key: "tr_pud-LAS-F1"
+  value: "32.84"
+}
+measure{
+  key: "tr_pud-CLAS-F1"
+  value: "26.02"
+}
+measure{
+  key: "tr-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "tr-Tokens-F1"
+  value: "97.70"
+}
+measure{
+  key: "tr-Sentences-F1"
+  value: "96.44"
+}
+measure{
+  key: "tr-Words-F1"
+  value: "97.51"
+}
+measure{
+  key: "tr-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "tr-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "tr-Feats-F1"
+  value: "35.65"
+}
+measure{
+  key: "tr-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "tr-Lemmas-F1"
+  value: "0.03"
+}
+measure{
+  key: "tr-UAS-F1"
+  value: "61.53"
+}
+measure{
+  key: "tr-LAS-F1"
+  value: "52.84"
+}
+measure{
+  key: "tr-CLAS-F1"
+  value: "48.31"
+}
+measure{
+  key: "ug-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ug-Tokens-F1"
+  value: "98.74"
+}
+measure{
+  key: "ug-Sentences-F1"
+  value: "69.36"
+}
+measure{
+  key: "ug-Words-F1"
+  value: "98.74"
+}
+measure{
+  key: "ug-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ug-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ug-Feats-F1"
+  value: "98.74"
+}
+measure{
+  key: "ug-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ug-Lemmas-F1"
+  value: "98.74"
+}
+measure{
+  key: "ug-UAS-F1"
+  value: "52.35"
+}
+measure{
+  key: "ug-LAS-F1"
+  value: "30.98"
+}
+measure{
+  key: "ug-CLAS-F1"
+  value: "17.21"
+}
+measure{
+  key: "uk-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "uk-Tokens-F1"
+  value: "99.52"
+}
+measure{
+  key: "uk-Sentences-F1"
+  value: "92.18"
+}
+measure{
+  key: "uk-Words-F1"
+  value: "99.52"
+}
+measure{
+  key: "uk-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "uk-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "uk-Feats-F1"
+  value: "29.98"
+}
+measure{
+  key: "uk-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "uk-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "uk-UAS-F1"
+  value: "69.29"
+}
+measure{
+  key: "uk-LAS-F1"
+  value: "59.33"
+}
+measure{
+  key: "uk-CLAS-F1"
+  value: "52.43"
+}
+measure{
+  key: "ur-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "ur-Tokens-F1"
+  value: "100.00"
+}
+measure{
+  key: "ur-Sentences-F1"
+  value: "98.60"
+}
+measure{
+  key: "ur-Words-F1"
+  value: "100.00"
+}
+measure{
+  key: "ur-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ur-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "ur-Feats-F1"
+  value: "14.53"
+}
+measure{
+  key: "ur-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "ur-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "ur-UAS-F1"
+  value: "85.80"
+}
+measure{
+  key: "ur-LAS-F1"
+  value: "79.31"
+}
+measure{
+  key: "ur-CLAS-F1"
+  value: "72.00"
+}
+measure{
+  key: "vi-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "vi-Tokens-F1"
+  value: "86.70"
+}
+measure{
+  key: "vi-Sentences-F1"
+  value: "89.49"
+}
+measure{
+  key: "vi-Words-F1"
+  value: "86.70"
+}
+measure{
+  key: "vi-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "vi-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "vi-Feats-F1"
+  value: "82.76"
+}
+measure{
+  key: "vi-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "vi-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "vi-UAS-F1"
+  value: "49.44"
+}
+measure{
+  key: "vi-LAS-F1"
+  value: "42.68"
+}
+measure{
+  key: "vi-CLAS-F1"
+  value: "38.84"
+}
+measure{
+  key: "zh-Status"
+  value: "OK: Evaluated non-zero LAS F1 score"
+}
+measure{
+  key: "zh-Tokens-F1"
+  value: "93.43"
+}
+measure{
+  key: "zh-Sentences-F1"
+  value: "98.80"
+}
+measure{
+  key: "zh-Words-F1"
+  value: "93.43"
+}
+measure{
+  key: "zh-UPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "zh-XPOS-F1"
+  value: "0.00"
+}
+measure{
+  key: "zh-Feats-F1"
+  value: "82.57"
+}
+measure{
+  key: "zh-AllTags-F1"
+  value: "0.00"
+}
+measure{
+  key: "zh-Lemmas-F1"
+  value: "0.00"
+}
+measure{
+  key: "zh-UAS-F1"
+  value: "69.97"
+}
+measure{
+  key: "zh-LAS-F1"
+  value: "65.25"
+}
+measure{
+  key: "zh-CLAS-F1"
+  value: "60.08"
+}

@@ -1,0 +1,3 @@
+/home/MetaRomance/run_tira.pl -c /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/metadata.json -o /tmp/MetaRomance/2017-05-12-10-34-18/output
+
+

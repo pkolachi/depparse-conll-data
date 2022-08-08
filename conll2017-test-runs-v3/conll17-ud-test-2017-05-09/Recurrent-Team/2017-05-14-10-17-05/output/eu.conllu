@@ -1,0 +1,20 @@
+#0
+1
+2
+3
+1	Familian	Familia	PROPN	_	Case=Ine|Definite=Def|Number=Sing	9	punct	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	9	obl	_	_
+3	aldiz	aldiz	CCONJ	_	_	9	aux	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	amod	_	_
+5	ez	ez	PART	_	Polarity=Neg	9	obj	_	_
+6	da	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Person[abs]=3	0	root	_	_
+7	inolako	inolako	ADJ	_	_	11	nmod	_	_
+8	hazkunderik	hazkunde	NOUN	_	Animacy=Inan|Case=Par|Definite=Ind	9	obl	_	_
+9	antzematen	antzeman	VERB	_	Aspect=Imp|VerbForm=Inf	9	punct	_	_
+10	euskararen	euskara	NOUN	_	Animacy=Inan|Case=Gen|Definite=Def|Number=Sing	16	nmod	_	_
+11	erabileran	erabilera	NOUN	_	Animacy=Inan|Case=Ine|Definite=Def|Number=Sing	15	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	nsubj	_	_
+13	elebidun	elebidun	ADJ	_	_	9	advcl	_	_
+14	gazteenen	gazte	ADJ	_	Case=Gen	16	cop	_	_
+15	gurasoak	guraso	NOUN	_	Case=Abs|Definite=Def|Number=Plur	17	advmod	_	_
+16	erdaldunak	erdaldun	ADJ	_	Case=Abs|Definite=Def|Number=Plur	9	punct	_	_

@@ -1,0 +1,9 @@
+runId: "2017-05-13-07-28-04"
+reviewerId: "conll17-master"
+reviewDate: "Sat May 13 09:47:11 CEST 2017"
+missingOutput: true
+otherErrors: true
+comment: "Even the non-zero scores are almost zero. There is probably a bug in your system."
+hasErrors: true
+hasWarnings: false
+hasNoErrors: false

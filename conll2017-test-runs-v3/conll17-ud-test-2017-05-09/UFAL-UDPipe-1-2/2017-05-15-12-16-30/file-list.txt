@@ -1,0 +1,4 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/UFAL-UDPipe-1-2/2017-05-15-09-58-56/../2017-05-15-12-16-30/output
+└── [ 52K]  evaluation.prototext
+
+0 directories, 1 file

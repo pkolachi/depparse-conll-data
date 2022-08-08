@@ -1,0 +1,1530 @@
+./parseJson.sh -c /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 -o /tmp/fbaml/2017-05-11-02-06-37/output
+
+
+inputDataSet = /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09, outputDir = /tmp/fbaml/2017-05-11-02-06-37/output
+output = /tmp/fbaml/2017-05-11-02-06-37/output
+input = /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBESTar_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output ar_pud.conllu ar_pud.txt
+ ./PipelineTest.sh ar 10 1 1ar_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output ar_pud.conllu ar_pud.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBEST /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output ar.conllu ar.txt
+ ./PipelineTest.sh ar 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output ar.conllu ar.txt
+ ./PipelineTest.sh bg 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output bg.conllu bg.txt
+ ./PipelineTest.sh ca 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output ca.conllu ca.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBEST /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output cs_cac.conllu cs_cac.txt
+ ./PipelineTest.sh cs_cac 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output cs_cac.conllu cs_cac.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBEST /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output cs_cltt.conllu cs_cltt.txt
+ ./PipelineTest.sh cs_cltt 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output cs_cltt.conllu cs_cltt.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBESTcs_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output cs_pud.conllu cs_pud.txt
+ ./PipelineTest.sh cs 10 1 1cs_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output cs_pud.conllu cs_pud.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBEST /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output cs.conllu cs.txt
+ ./PipelineTest.sh cs 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output cs.conllu cs.txt
+ ./PipelineTest.sh cu 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output cu.conllu cu.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBEST /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output da.conllu da.txt
+ ./PipelineTest.sh da 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output da.conllu da.txt
+ ./PipelineTest.sh de 10 1 3de_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output de_pud.conllu de_pud.txt
+ ./PipelineTest.sh de 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output de.conllu de.txt
+ ./PipelineTest.sh el 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output el.conllu el.txt
+ ./PipelineTest.sh en_lines 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output en_lines.conllu en_lines.txt
+ ./PipelineTest.sh en_partut 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output en_partut.conllu en_partut.txt
+ ./PipelineTest.sh en 10 1 3en_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output en_pud.conllu en_pud.txt
+ ./PipelineTest.sh en 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output en.conllu en.txt
+ ./PipelineTest.sh es_ancora 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output es_ancora.conllu es_ancora.txt
+ ./PipelineTest.sh es 10 1 1es_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output es_pud.conllu es_pud.txt
+ ./PipelineTest.sh es 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output es.conllu es.txt
+ ./PipelineTest.sh et 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output et.conllu et.txt
+ ./PipelineTest.sh eu 10 0 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output eu.conllu eu.txt
+ ./PipelineTest.sh fa 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output fa.conllu fa.txt
+ ./PipelineTest.sh fi_ftb 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output fi_ftb.conllu fi_ftb.txt
+ ./PipelineTest.sh fi 10 1 3fi_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output fi_pud.conllu fi_pud.txt
+ ./PipelineTest.sh fi 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output fi.conllu fi.txt
+ ./PipelineTest.sh fr_partut 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output fr_partut.conllu fr_partut.txt
+ ./PipelineTest.sh fr 10 1 1fr_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output fr_pud.conllu fr_pud.txt
+ ./PipelineTest.sh fr_sequoia 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output fr_sequoia.conllu fr_sequoia.txt
+ ./PipelineTest.sh fr 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output fr.conllu fr.txt
+ ./PipelineTest.sh ga 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output ga.conllu ga.txt
+ ./PipelineTest.sh gl_treegal 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output gl_treegal.conllu gl_treegal.txt
+ ./PipelineTest.sh gl 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output gl.conllu gl.txt
+ ./PipelineTest.sh got 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output got.conllu got.txt
+ ./PipelineTest.sh grc_proiel 10 0 2 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output grc_proiel.conllu grc_proiel.txt
+ ./PipelineTest.sh grc 10 0 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output grc.conllu grc.txt
+ ./PipelineTest.sh he 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output he.conllu he.txt
+ ./PipelineTest.sh hi 10 1 3hi_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output hi_pud.conllu hi_pud.txt
+ ./PipelineTest.sh hi 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output hi.conllu hi.txt
+ ./PipelineTest.sh hr 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output hr.conllu hr.txt
+ ./PipelineTest.sh hu 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output hu.conllu hu.txt
+ ./PipelineTest.sh id 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output id.conllu id.txt
+ ./PipelineTest.sh it 10 1 3it_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output it_pud.conllu it_pud.txt
+ ./PipelineTest.sh it 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output it.conllu it.txt
+ ./PipelineTest.sh ja 10 1 1ja_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output ja_pud.conllu ja_pud.txt
+ ./PipelineTest.sh ja 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output ja.conllu ja.txt
+ ./PipelineTest.sh kk 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output kk.conllu kk.txt
+ ./PipelineTest.sh ko 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output ko.conllu ko.txt
+ ./PipelineTest.sh la_ittb 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output la_ittb.conllu la_ittb.txt
+ ./PipelineTest.sh la_proiel 10 0 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output la_proiel.conllu la_proiel.txt
+ ./PipelineTest.sh la 10 0 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output la.conllu la.txt
+ ./PipelineTest.sh lv 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output lv.conllu lv.txt
+ ./PipelineTest.sh nl_lassysmall 10 0 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output nl_lassysmall.conllu nl_lassysmall.txt
+ ./PipelineTest.sh nl 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output nl.conllu nl.txt
+ ./PipelineTest.sh no_bokmaal 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output no_bokmaal.conllu no_bokmaal.txt
+ ./PipelineTest.sh no_nynorsk 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output no_nynorsk.conllu no_nynorsk.txt
+ ./PipelineTest.sh pl 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output pl.conllu pl.txt
+ ./PipelineTest.sh pt_br 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output pt_br.conllu pt_br.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBESTpt_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output pt_pud.conllu pt_pud.txt
+ ./PipelineTest.sh pt 10 1 1pt_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output pt_pud.conllu pt_pud.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBEST /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output pt.conllu pt.txt
+ ./PipelineTest.sh pt 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output pt.conllu pt.txt
+ ./PipelineTest.sh ro 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output ro.conllu ro.txt
+ ./PipelineTest.sh ru 10 1 3ru_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output ru_pud.conllu ru_pud.txt
+ ./PipelineTest.sh ru_syntagrus 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output ru_syntagrus.conllu ru_syntagrus.txt
+ ./PipelineTest.sh ru 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output ru.conllu ru.txt
+ ./PipelineTest.sh sk 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output sk.conllu sk.txt
+ ./PipelineTest.sh sl_sst 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output sl_sst.conllu sl_sst.txt
+ ./PipelineTest.sh sl 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output sl.conllu sl.txt
+ ./PipelineTest.sh sv_lines 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output sv_lines.conllu sv_lines.txt
+ ./PipelineTest.sh sv 10 1 3sv_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output sv_pud.conllu sv_pud.txt
+ ./PipelineTest.sh sv 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output sv.conllu sv.txt
+ ./PipelineTest.sh tr 10 1 3tr_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output tr_pud.conllu tr_pud.txt
+ ./PipelineTest.sh tr 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output tr.conllu tr.txt
+ ./PipelineTest.sh ug 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output ug.conllu ug.txt
+ ./PipelineTest.sh uk 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output uk.conllu uk.txt
+ ./PipelineTest.sh ur 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output ur.conllu ur.txt
+ ./PipelineTest.sh vi 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output vi.conllu vi.txt
+ ./PipelineTest.sh zh 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-02-06-37/output zh.conllu zh.txt
+***** PIPELINE TEST **** LANGUAGE = ar, THREAD = 10, PROJECTIVE = 1, XPOS_NBEST=1 INPUTPATH(no /)=/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT_PATH=/tmp/fbaml/2017-05-11-02-06-37/output OUTPUT_FILE = ar_pud.conllu RAWFILE = ar_pud.txt
+bin/SentenceSegmentor -m /media/data/models/ar.ss.model -T 6 -L ar -vtxt /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar_pud.txt -r /tmp/fbaml/2017-05-11-02-06-37/output/ar.ss.test
+rs size = 96812
+0K 1K 2K 3K 4K 5K 6K 7K 8K 9K 10K 11K 12K 13K 14K 15K 16K 17K 18K 19K 20K 21K 22K 23K 24K 25K 26K 27K 28K 29K 30K 31K 32K 33K 34K 35K 36K 37K 38K 39K 40K 41K 42K 43K 44K 45K 46K 47K 48K 49K 50K 51K 52K 53K 54K 55K 56K 57K 58K 59K 60K 61K 62K 63K 64K 65K 66K 67K 68K 69K 70K 71K 72K 73K 74K 75K 76K 77K 78K 79K 80K 81K 82K 83K 84K 85K 86K 87K 88K 89K 90K 91K 92K 93K 94K 95K 
+model loaded, features: 177298	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 339M
+accuracy: 0.979651	oracle: 1	seconds: 3.4238	speed: 28276.2 words/sec
+max sentence length = 259
+can not load word cluster from file ../resources/ar.wc
+model loaded, features: 24464	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 43M
+accuracy: 0.158887	oracle: 0.158887	seconds: 0.517088	speed: 181478 words/sec
+max length = 52 ends at line 17211
+model loaded, features: 3258	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.999443	oracle: 0.999443	seconds: 0.703111	speed: 28096.6 words/sec
+model loaded, features: 30406	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.856036	oracle: 0.856036	seconds: 0.686921	speed: 28758.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.436837	speed: 45222.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.438466	speed: 45054.8 words/sec
+model loaded, features: 149567	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.91835	oracle: 0.91835	seconds: 0.722093	speed: 27358 words/sec
+model loaded, features: 670440	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.542546	oracle: 0.542546	seconds: 0.788821	speed: 25043.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.437334	speed: 45171.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.428882	speed: 46061.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.432592	speed: 45666.6 words/sec
+model loaded, features: 477669	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.613921	oracle: 0.613921	seconds: 0.727753	speed: 27145.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.438982	speed: 45001.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.484402	speed: 40782.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.443071	speed: 44586.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.429285	speed: 46018.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.438396	speed: 45062 words/sec
+model loaded, features: 55020	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.979904	oracle: 0.979904	seconds: 0.711099	speed: 27780.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.440609	speed: 44835.7 words/sec
+model loaded, features: 376512	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.773374	oracle: 0.773374	seconds: 0.797455	speed: 24772.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.43854	speed: 45047.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.441557	speed: 44739.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.432985	speed: 45625.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.431981	speed: 45731.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.435156	speed: 45397.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.440287	speed: 44868.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.436725	speed: 45234.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.444969	speed: 44396.4 words/sec
+model loaded, features: 103164	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.964515	oracle: 0.964515	seconds: 0.681002	speed: 29008.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.430702	speed: 45867 words/sec
+accuracy: 1	oracle: 1	seconds: 0.46712	speed: 42291.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.471411	speed: 41906.1 words/sec
+model loaded, features: 12634	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.979853	oracle: 0.979853	seconds: 0.674349	speed: 29294.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.425613	speed: 46415.4 words/sec
+model loaded, features: 5944	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.997823	oracle: 0.997823	seconds: 0.659456	speed: 29956.5 words/sec
+model loaded, features: 471378	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.456239	oracle: 0.456239	seconds: 0.698216	speed: 28293.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.475816	speed: 41518.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.453536	speed: 43557.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.44568	speed: 44325.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.433451	speed: 45576.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.454937	speed: 43423.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.437949	speed: 45108 words/sec
+accuracy: 1	oracle: 1	seconds: 0.452986	speed: 43610.6 words/sec
+model loaded, features: 155102	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.891015	oracle: 0.891015	seconds: 0.686241	speed: 28787.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.427752	speed: 46183.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.510307	speed: 38712 words/sec
+accuracy: 1	oracle: 1	seconds: 0.465413	speed: 42446.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.456309	speed: 43293 words/sec
+model loaded, features: 2184	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 1	oracle: 1	seconds: 0.661041	speed: 29884.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.429528	speed: 45992.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.443568	speed: 44536.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.440763	speed: 44820 words/sec
+accuracy: 1	oracle: 1	seconds: 0.436513	speed: 45256.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.485944	speed: 40652.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.44759	speed: 44136.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.442575	speed: 44636.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.437978	speed: 45105 words/sec
+accuracy: 1	oracle: 1	seconds: 0.440242	speed: 44873 words/sec
+model loaded, features: 25914	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.954847	oracle: 0.954847	seconds: 0.666795	speed: 29626.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.490284	speed: 40293 words/sec
+accuracy: 1	oracle: 1	seconds: 0.468908	speed: 42129.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.440923	speed: 44803.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.501951	speed: 39356.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.441455	speed: 44749.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.449329	speed: 43965.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.445936	speed: 44300.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.443153	speed: 44578.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.443926	speed: 44500.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.445783	speed: 44315.3 words/sec
+model loaded, features: 85754	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.963655	oracle: 0.963655	seconds: 0.697717	speed: 28313.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.431518	speed: 45780.2 words/sec
+model loaded, features: 158313	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.918299	oracle: 0.918299	seconds: 0.700266	speed: 28210.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.42918	speed: 46029.6 words/sec
+accuracy: 0.2612
+max length = 52 ends at line 17211
+max length = 52 ends at line 16079
+model loaded, features: 3937393	labels: 16
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.37489	speed: 14368.4 words/sec
+max length = 52 ends at line 17211
+max length = 52 ends at line 16079
+model loaded, features: 3934799	labels: 15
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.36454	speed: 14477.4 words/sec
+model loaded, features: 1635183	labels: 12
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.26983	speed: 15557.2 words/sec
+model loaded, features: 706935	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.17616	speed: 16796.2 words/sec
+model loaded, features: 1244075	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.19988	speed: 16464.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.421819	speed: 46832.9 words/sec
+model loaded, features: 1210486	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.20139	speed: 16443.5 words/sec
+model loaded, features: 2897653	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.24558	speed: 15860.1 words/sec
+model loaded, features: 3425721	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.27255	speed: 15523.9 words/sec
+model loaded, features: 3982343	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.259	speed: 15691 words/sec
+model loaded, features: 3380186	labels: 6
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.27939	speed: 15440.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.426647	speed: 46302.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.424818	speed: 46502.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.424319	speed: 46557 words/sec
+accuracy: 1	oracle: 1	seconds: 0.421447	speed: 46874.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.427856	speed: 46172.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.425659	speed: 46410.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.424886	speed: 46494.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.424629	speed: 46523 words/sec
+accuracy: 1	oracle: 1	seconds: 0.471992	speed: 41854.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.43734	speed: 45170.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.433169	speed: 45605.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.453198	speed: 43590.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.432301	speed: 45697.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.433902	speed: 45528.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.429831	speed: 45959.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.428103	speed: 46145.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.437701	speed: 45133.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.432687	speed: 45656.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.438505	speed: 45050.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.431842	speed: 45745.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.431887	speed: 45741.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.453366	speed: 43574.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.434703	speed: 45444.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.435003	speed: 45413.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.431991	speed: 45730.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.444964	speed: 44396.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.435535	speed: 45358 words/sec
+accuracy: 1	oracle: 1	seconds: 0.435889	speed: 45321.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.437464	speed: 45158 words/sec
+accuracy: 1	oracle: 1	seconds: 0.437544	speed: 45149.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.436544	speed: 45253.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.433844	speed: 45534.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.442626	speed: 44631.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.441655	speed: 44729.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.43997	speed: 44900.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.437976	speed: 45105.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.436106	speed: 45298.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.433929	speed: 45525.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.436599	speed: 45247.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.442047	speed: 44689.8 words/sec
+accuracy: 0
+LANGUAGE = ar, PROJECTIVE = 1, THREAD = 10 INPUT =  /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-02-06-37/output
+task = test
+sync = 1
+max iter = 10
+is_dev = 1
+is_projective = 1
+singleRoot = 0
+eval_punc = 1
+mira_k = 10
+loss = 0
+thread_num = 10
+kbest = 1
+C = 0.01
+train_file = 
+model_file = /media/data/models/ar.dep.model
+test_file = /tmp/fbaml/2017-05-11-02-06-37/output/ar.tok.test
+result_file = /tmp/fbaml/2017-05-11-02-06-37/output/ar.dep.test
+template_file = 
+algorithm = 
+lang = ar
+train_lemma_file = 
+test_lemma_file = 
+train_upos_file = 
+test_upos_file = /tmp/fbaml/2017-05-11-02-06-37/output/ar.upos.test
+train_xpos_file = 
+test_xpos_file = /tmp/fbaml/2017-05-11-02-06-37/output/ar.xpos.test
+train_morph_file = 
+test_morph_file = /tmp/fbaml/2017-05-11-02-06-37/output/ar.morph.test
+max length = 52 ends at line 17211
+model loaded, feature number: 13685595
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx.xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx.xxxxxxx.xxxxx.xxx.x.
+elapsed time: 880.155
+LANGUAGE = ar THREAD = 10 INPUT = /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-02-06-37/output
+max length = 52 ends at line 17211
+max length = 52 ends at line 16079
+model loaded, features: 10393204	labels: 80
+src/Labeler/LinearTree.cpp:609	memory cost: 1253M
+............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................max length = 57 ends at line 17211
+***** PIPELINE TEST **** LANGUAGE = ar, THREAD = 10, PROJECTIVE = 1, XPOS_NBEST=1 INPUTPATH(no /)=/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT_PATH=/tmp/fbaml/2017-05-11-02-06-37/output OUTPUT_FILE = ar.conllu RAWFILE = ar.txt
+bin/SentenceSegmentor -m /media/data/models/ar.ss.model -T 6 -L ar -vtxt /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar.txt -r /tmp/fbaml/2017-05-11-02-06-37/output/ar.ss.test
+rs size = 133094
+0K 1K 2K 3K 4K 5K 6K 7K 8K 9K 10K 11K 12K 13K 14K 15K 16K 17K 18K 19K 20K 21K 22K 23K 24K 25K 26K 27K 28K 29K 30K 31K 32K 33K 34K 35K 36K 37K 38K 39K 40K 41K 42K 43K 44K 45K 46K 47K 48K 49K 50K 51K 52K 53K 54K 55K 56K 57K 58K 59K 60K 61K 62K 63K 64K 65K 66K 67K 68K 69K 70K 71K 72K 73K 74K 75K 76K 77K 78K 79K 80K 81K 82K 83K 84K 85K 86K 87K 88K 89K 90K 91K 92K 93K 94K 95K 96K 97K 98K 99K 100K 101K 102K 103K 104K 105K 106K 107K 108K 109K 110K 111K 112K 113K 114K 115K 116K 117K 118K 119K 120K 121K 122K 123K 124K 125K 126K 127K 128K 129K 130K 131K 132K 
+model loaded, features: 177298	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 339M
+accuracy: 0.991329	oracle: 1	seconds: 4.64097	speed: 28678 words/sec
+max sentence length = 933
+can not load word cluster from file ../resources/ar.wc
+model loaded, features: 24464	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 43M
+accuracy: 0.163838	oracle: 0.163838	seconds: 0.654878	speed: 200384 words/sec
+max length = 168 ends at line 25699
+model loaded, features: 3258	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.999891	oracle: 0.999891	seconds: 0.876058	speed: 31306.1 words/sec
+model loaded, features: 30406	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.844892	oracle: 0.844892	seconds: 0.951169	speed: 28834 words/sec
+accuracy: 1	oracle: 1	seconds: 0.651771	speed: 42079.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.584664	speed: 46909 words/sec
+model loaded, features: 149567	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.928389	oracle: 0.928389	seconds: 0.965564	speed: 28404.1 words/sec
+model loaded, features: 670440	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.477685	oracle: 0.477685	seconds: 0.955765	speed: 28695.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.589579	speed: 46517.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.591684	speed: 46352.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.639486	speed: 42887.6 words/sec
+model loaded, features: 477669	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.547583	oracle: 0.547583	seconds: 0.996477	speed: 27523 words/sec
+accuracy: 1	oracle: 1	seconds: 0.636858	speed: 43064.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.588004	speed: 46642.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.586922	speed: 46728.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.585573	speed: 46836.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.586024	speed: 46800.1 words/sec
+model loaded, features: 55020	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.991833	oracle: 0.991833	seconds: 0.959539	speed: 28582.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.592358	speed: 46299.7 words/sec
+model loaded, features: 376512	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.775614	oracle: 0.775614	seconds: 1.02503	speed: 26756.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.590376	speed: 46455.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.595431	speed: 46060.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.593588	speed: 46203.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.658567	speed: 41645 words/sec
+accuracy: 1	oracle: 1	seconds: 0.589339	speed: 46536.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.586893	speed: 46730.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.593552	speed: 46206.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.591133	speed: 46395.7 words/sec
+model loaded, features: 103164	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.969627	oracle: 0.969627	seconds: 0.950429	speed: 28856.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.597052	speed: 45935.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.596558	speed: 45973.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.593208	speed: 46233.4 words/sec
+model loaded, features: 12634	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.971596	oracle: 0.971596	seconds: 0.974918	speed: 28131.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.589968	speed: 46487.3 words/sec
+model loaded, features: 5944	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.99701	oracle: 0.99701	seconds: 0.921532	speed: 29761.3 words/sec
+model loaded, features: 471378	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.415555	oracle: 0.415555	seconds: 1.02574	speed: 26737.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.614009	speed: 44667.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.596439	speed: 45982.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.642121	speed: 42711.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.592983	speed: 46250.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.593219	speed: 46232.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.595167	speed: 46081.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.588868	speed: 46574.1 words/sec
+model loaded, features: 155102	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.897871	oracle: 0.897871	seconds: 0.971169	speed: 28240.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.593988	speed: 46172.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.594791	speed: 46110.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.595385	speed: 46064.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.591248	speed: 46386.6 words/sec
+model loaded, features: 2184	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 1	oracle: 1	seconds: 0.921608	speed: 29758.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.599433	speed: 45753.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.62589	speed: 43819.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.614399	speed: 44638.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.593319	speed: 46224.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.594067	speed: 46166.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.590383	speed: 46454.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.603319	speed: 45458.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.59233	speed: 46301.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.591441	speed: 46371.5 words/sec
+model loaded, features: 25914	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.953584	oracle: 0.953584	seconds: 0.940524	speed: 29160.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.643798	speed: 42600.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.592245	speed: 46308.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.590714	speed: 46428.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.59114	speed: 46395.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.593212	speed: 46233 words/sec
+accuracy: 1	oracle: 1	seconds: 0.594993	speed: 46094.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.595233	speed: 46076.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.608875	speed: 45043.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.59394	speed: 46176.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.590441	speed: 46450 words/sec
+model loaded, features: 85754	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.969263	oracle: 0.969263	seconds: 1.0765	speed: 25477.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.604243	speed: 45389 words/sec
+model loaded, features: 158313	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.927769	oracle: 0.927769	seconds: 1.01758	speed: 26952 words/sec
+accuracy: 1	oracle: 1	seconds: 0.599939	speed: 45714.6 words/sec
+accuracy: 0.221615
+max length = 168 ends at line 25699
+max length = 168 ends at line 23207
+model loaded, features: 3937393	labels: 16
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 2.06565	speed: 13277.2 words/sec
+max length = 168 ends at line 25699
+max length = 168 ends at line 23207
+model loaded, features: 3934799	labels: 15
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 2.1004	speed: 13057.5 words/sec
+model loaded, features: 1635183	labels: 12
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.89818	speed: 14448.6 words/sec
+model loaded, features: 706935	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.65277	speed: 16593.9 words/sec
+model loaded, features: 1244075	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.78883	speed: 15331.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.667844	speed: 41066.5 words/sec
+model loaded, features: 1210486	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.79302	speed: 15295.9 words/sec
+model loaded, features: 2897653	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.98213	speed: 13836.6 words/sec
+model loaded, features: 3425721	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.93092	speed: 14203.6 words/sec
+model loaded, features: 3982343	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.92393	speed: 14255.2 words/sec
+model loaded, features: 3380186	labels: 6
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.97019	speed: 13920.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.678321	speed: 40432.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.682904	speed: 40160.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.680062	speed: 40328.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.678067	speed: 40447.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.680582	speed: 40297.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.674026	speed: 40689.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.673804	speed: 40703.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.677622	speed: 40473.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.675495	speed: 40601.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.671475	speed: 40844.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.67064	speed: 40895.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.678281	speed: 40434.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.67496	speed: 40633.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.687725	speed: 39879.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.677822	speed: 40462 words/sec
+accuracy: 1	oracle: 1	seconds: 0.674776	speed: 40644.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.683266	speed: 40139.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.684352	speed: 40075.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.684486	speed: 40068 words/sec
+accuracy: 1	oracle: 1	seconds: 0.679311	speed: 40373.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.679529	speed: 40360.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.681638	speed: 40235.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.684377	speed: 40074.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.68175	speed: 40228.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.682087	speed: 40208.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.682334	speed: 40194.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.683272	speed: 40139.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.679722	speed: 40348.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.691772	speed: 39646 words/sec
+accuracy: 1	oracle: 1	seconds: 0.682604	speed: 40178.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.685298	speed: 40020.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.683766	speed: 40110.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.685384	speed: 40015.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.686711	speed: 39938.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.679987	speed: 40333.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.68053	speed: 40300.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.68273	speed: 40171.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.680219	speed: 40319.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.677991	speed: 40451.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.68267	speed: 40174.6 words/sec
+accuracy: 0
+LANGUAGE = ar, PROJECTIVE = 1, THREAD = 10 INPUT =  /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-02-06-37/output
+task = test
+sync = 1
+max iter = 10
+is_dev = 1
+is_projective = 1
+singleRoot = 0
+eval_punc = 1
+mira_k = 10
+loss = 0
+thread_num = 10
+kbest = 1
+C = 0.01
+train_file = 
+model_file = /media/data/models/ar.dep.model
+test_file = /tmp/fbaml/2017-05-11-02-06-37/output/ar.tok.test
+result_file = /tmp/fbaml/2017-05-11-02-06-37/output/ar.dep.test
+template_file = 
+algorithm = 
+lang = ar
+train_lemma_file = 
+test_lemma_file = 
+train_upos_file = 
+test_upos_file = /tmp/fbaml/2017-05-11-02-06-37/output/ar.upos.test
+train_xpos_file = 
+test_xpos_file = /tmp/fbaml/2017-05-11-02-06-37/output/ar.xpos.test
+train_morph_file = 
+test_morph_file = /tmp/fbaml/2017-05-11-02-06-37/output/ar.morph.test
+max length = 168 ends at line 25699
+model loaded, feature number: 13685595
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx.xxxxxxxxxxxxxx.
+elapsed time: 7741.46
+LANGUAGE = ar THREAD = 10 INPUT = /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-02-06-37/output
+max length = 168 ends at line 25699
+max length = 168 ends at line 23207
+model loaded, features: 10393204	labels: 80
+src/Labeler/LinearTree.cpp:609	memory cost: 1257M
+..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................max length = 185 ends at line 25699
+***** PIPELINE TEST **** LANGUAGE = bg, THREAD = 10, PROJECTIVE = 1, XPOS_NBEST=3 INPUTPATH(no /)=/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT_PATH=/tmp/fbaml/2017-05-11-02-06-37/output OUTPUT_FILE = bg.conllu RAWFILE = bg.txt
+bin/SentenceSegmentor -m /media/data/models/bg.ss.model -T 6 -L bg -vtxt /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bg.txt -r /tmp/fbaml/2017-05-11-02-06-37/output/bg.ss.test
+rs size = 86420
+0K 1K 2K 3K 4K 5K 6K 7K 8K 9K 10K 11K 12K 13K 14K 15K 16K 17K 18K 19K 20K 21K 22K 23K 24K 25K 26K 27K 28K 29K 30K 31K 32K 33K 34K 35K 36K 37K 38K 39K 40K 41K 42K 43K 44K 45K 46K 47K 48K 49K 50K 51K 52K 53K 54K 55K 56K 57K 58K 59K 60K 61K 62K 63K 64K 65K 66K 67K 68K 69K 70K 71K 72K 73K 74K 75K 76K 77K 78K 79K 80K 81K 82K 83K 84K 85K 
+model loaded, features: 467220	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 217M
+accuracy: 0.987595	oracle: 1	seconds: 3.14464	speed: 27481.7 words/sec
+max sentence length = 459
+can not load word cluster from file ../resources/bg.wc
+model loaded, features: 19783	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 38M
+accuracy: 0.146546	oracle: 0.146546	seconds: 0.471685	speed: 180618 words/sec
+max length = 79 ends at line 13817
+accuracy: 1	oracle: 1	seconds: 0.347967	speed: 45205.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.349545	speed: 45001.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.350295	speed: 44905 words/sec
+model loaded, features: 942	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.999682	oracle: 0.999682	seconds: 0.560373	speed: 28070.6 words/sec
+model loaded, features: 157218	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.860712	oracle: 0.860712	seconds: 0.610009	speed: 25786.5 words/sec
+model loaded, features: 32355	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.936364	oracle: 0.936364	seconds: 0.598397	speed: 26286.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.357888	speed: 43952.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.351549	speed: 44744.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.358365	speed: 43893.8 words/sec
+model loaded, features: 226925	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.602034	oracle: 0.602034	seconds: 0.604404	speed: 26025.6 words/sec
+model loaded, features: 165252	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.888684	oracle: 0.888684	seconds: 0.587323	speed: 26782.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.40483	speed: 38855.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.360354	speed: 43651.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.357804	speed: 43962.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.358166	speed: 43918.2 words/sec
+model loaded, features: 292	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 1	oracle: 1	seconds: 0.57132	speed: 27532.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.401242	speed: 39203.3 words/sec
+model loaded, features: 307105	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.617864	oracle: 0.617864	seconds: 0.59749	speed: 26326.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.358933	speed: 43824.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.355379	speed: 44262.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.367008	speed: 42860.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.363051	speed: 43327.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.369713	speed: 42546.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.369336	speed: 42589.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.357457	speed: 44005.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.360759	speed: 43602.5 words/sec
+model loaded, features: 97442	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.883408	oracle: 0.883408	seconds: 0.586859	speed: 26803.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.402457	speed: 39084.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.374539	speed: 41998.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.365595	speed: 43025.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.361733	speed: 43485.1 words/sec
+model loaded, features: 22837	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.976414	oracle: 0.976414	seconds: 0.590058	speed: 26658.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.361545	speed: 43507.7 words/sec
+model loaded, features: 229086	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.431596	oracle: 0.431596	seconds: 0.601364	speed: 26157.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.377628	speed: 41654.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.365188	speed: 43073.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.357903	speed: 43950.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.359142	speed: 43798.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.361939	speed: 43460.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.359183	speed: 43793.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.35766	speed: 43980.3 words/sec
+model loaded, features: 114168	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.856961	oracle: 0.856961	seconds: 0.593752	speed: 26492.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.400191	speed: 39306.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.367849	speed: 42762.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.35944	speed: 43762.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.363436	speed: 43281.3 words/sec
+model loaded, features: 1416	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.990909	oracle: 0.990909	seconds: 0.568507	speed: 27669 words/sec
+accuracy: 1	oracle: 1	seconds: 0.406487	speed: 38697.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.360934	speed: 43581.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.362526	speed: 43390 words/sec
+accuracy: 1	oracle: 1	seconds: 0.41245	speed: 38138 words/sec
+accuracy: 1	oracle: 1	seconds: 0.36249	speed: 43394.3 words/sec
+model loaded, features: 18074	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.987222	oracle: 0.987222	seconds: 0.590677	speed: 26630.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.421749	speed: 37297.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.362243	speed: 43423.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.362971	speed: 43336.8 words/sec
+model loaded, features: 31290	labels: 8
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.912397	oracle: 0.912397	seconds: 0.582474	speed: 27005.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.361117	speed: 43559.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.438331	speed: 35886.1 words/sec
+model loaded, features: 3198	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.975461	oracle: 0.975461	seconds: 0.590277	speed: 26648.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.366365	speed: 42935.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.364982	speed: 43098 words/sec
+accuracy: 1	oracle: 1	seconds: 0.369768	speed: 42540.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.368516	speed: 42684.7 words/sec
+model loaded, features: 131782	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.876097	oracle: 0.876097	seconds: 0.605717	speed: 25969.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.365392	speed: 43049.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.374104	speed: 42047.1 words/sec
+model loaded, features: 134395	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.860776	oracle: 0.860776	seconds: 0.632952	speed: 24851.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.364804	speed: 43119 words/sec
+model loaded, features: 131785	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.862174	oracle: 0.862174	seconds: 0.627468	speed: 25069 words/sec
+accuracy: 1	oracle: 1	seconds: 0.364522	speed: 43152.4 words/sec
+accuracy: 0.358423
+max length = 79 ends at line 13817
+max length = 79 ends at line 13817
+model loaded, features: 2085676	labels: 16
+src/Tagger/LinearSequence.cpp:632	memory cost: 382M
+accuracy: 0	oracle: 0	seconds: 1.19392	speed: 13175.1 words/sec
+max length = 79 ends at line 13817
+max length = 79 ends at line 13817
+model loaded, features: 3087253	labels: 218
+src/Tagger/LinearSequence.cpp:632	memory cost: 382M
+accuracy: 0	oracle: 0	seconds: 8.29892	speed: 1895.43 words/sec
+accuracy: 1	oracle: 1	seconds: 0.34617	speed: 45440.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.356571	speed: 44114.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.35122	speed: 44786.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.346698	speed: 45370.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.347028	speed: 45327.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.347913	speed: 45212.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.35899	speed: 43817.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.347587	speed: 45254.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.346774	speed: 45361 words/sec
+accuracy: 1	oracle: 1	seconds: 0.350973	speed: 44818.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.350018	speed: 44940.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.350016	speed: 44940.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.363152	speed: 43315.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.349637	speed: 44989.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.348803	speed: 45097.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.349714	speed: 44979.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.349178	speed: 45048.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.356339	speed: 44143.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.360468	speed: 43637.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.350533	speed: 44874.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.351895	speed: 44700.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.360201	speed: 43670.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.360181	speed: 43672.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.351533	speed: 44746.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.368282	speed: 42711.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.36591	speed: 42988.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.362002	speed: 43452.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.35225	speed: 44655.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.3523	speed: 44649.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.377216	speed: 41700.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.353041	speed: 44555.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.355479	speed: 44250.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.364702	speed: 43131.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.358188	speed: 43915.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.362758	speed: 43362.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.360416	speed: 43644 words/sec
+accuracy: 1	oracle: 1	seconds: 0.357996	speed: 43939 words/sec
+accuracy: 1	oracle: 1	seconds: 0.354469	speed: 44376.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.357446	speed: 44006.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.359665	speed: 43735.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.355043	speed: 44304.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.353035	speed: 44556.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.352183	speed: 44664.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.36746	speed: 42807.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.364906	speed: 43107 words/sec
+accuracy: 1	oracle: 1	seconds: 0.356617	speed: 44108.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.358281	speed: 43904.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.356998	speed: 44061.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.3562	speed: 44160.6 words/sec
+accuracy: 0
+LANGUAGE = bg, PROJECTIVE = 1, THREAD = 10 INPUT =  /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-02-06-37/output
+task = test
+sync = 1
+max iter = 10
+is_dev = 1
+is_projective = 1
+singleRoot = 0
+eval_punc = 1
+mira_k = 10
+loss = 0
+thread_num = 10
+kbest = 1
+C = 0.01
+train_file = 
+model_file = /media/data/models/bg.dep.model
+test_file = /tmp/fbaml/2017-05-11-02-06-37/output/bg.tok.test
+result_file = /tmp/fbaml/2017-05-11-02-06-37/output/bg.dep.test
+template_file = 
+algorithm = 
+lang = bg
+train_lemma_file = 
+test_lemma_file = 
+train_upos_file = 
+test_upos_file = /tmp/fbaml/2017-05-11-02-06-37/output/bg.upos.test
+train_xpos_file = 
+test_xpos_file = /tmp/fbaml/2017-05-11-02-06-37/output/bg.xpos.test
+train_morph_file = 
+test_morph_file = /tmp/fbaml/2017-05-11-02-06-37/output/bg.morph.test
+max length = 79 ends at line 13817
+model loaded, feature number: 6323787
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx.xxxxxxxxxxxxxxxxxxxx.xxx.xxxx.xxxx.xxx.xxxx.xxxxxxxxxxxxxx.
+elapsed time: 489.555
+LANGUAGE = bg THREAD = 10 INPUT = /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-02-06-37/output
+max length = 79 ends at line 13817
+max length = 79 ends at line 13817
+model loaded, features: 3985298	labels: 69
+src/Labeler/LinearTree.cpp:609	memory cost: 426M
+................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................max length = 79 ends at line 13817
+***** PIPELINE TEST **** LANGUAGE = ca, THREAD = 10, PROJECTIVE = 1, XPOS_NBEST=3 INPUTPATH(no /)=/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT_PATH=/tmp/fbaml/2017-05-11-02-06-37/output OUTPUT_FILE = ca.conllu RAWFILE = ca.txt
+bin/SentenceSegmentor -m /media/data/models/ca.ss.model -T 6 -L ca -vtxt /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ca.txt -r /tmp/fbaml/2017-05-11-02-06-37/output/ca.ss.test
+rs size = 298623
+0K 1K 2K 3K 4K 5K 6K 7K 8K 9K 10K 11K 12K 13K 14K 15K 16K 17K 18K 19K 20K 21K 22K 23K 24K 25K 26K 27K 28K 29K 30K 31K 32K 33K 34K 35K 36K 37K 38K 39K 40K 41K 42K 43K 44K 45K 46K 47K 48K 49K 50K 51K 52K 53K 54K 55K 56K 57K 58K 59K 60K 61K 62K 63K 64K 65K 66K 67K 68K 69K 70K 71K 72K 73K 74K 75K 76K 77K 78K 79K 80K 81K 82K 83K 84K 85K 86K 87K 88K 89K 90K 91K 92K 93K 94K 95K 96K 97K 98K 99K 100K 101K 102K 103K 104K 105K 106K 107K 108K 109K 110K 111K 112K 113K 114K 115K 116K 117K 118K 119K 120K 121K 122K 123K 124K 125K 126K 127K 128K 129K 130K 131K 132K 133K 134K 135K 136K 137K 138K 139K 140K 141K 142K 143K 144K 145K 146K 147K 148K 149K 150K 151K 152K 153K 154K 155K 156K 157K 158K 159K 160K 161K 162K 163K 164K 165K 166K 167K 168K 169K 170K 171K 172K 173K 174K 175K 176K 177K 178K 179K 180K 181K 182K 183K 184K 185K 186K 187K 188K 189K 190K 191K 192K 193K 194K 195K 196K 197K 198K 199K 200K 201K 202K 203K 204K 205K 206K 207K 208K 209K 210K 211K 212K 213K 214K 215K 216K 217K 218K 219K 220K 221K 222K 223K 224K 225K 226K 227K 228K 229K 230K 231K 232K 233K 234K 235K 236K 237K 238K 239K 240K 241K 242K 243K 244K 245K 246K 247K 248K 249K 250K 251K 252K 253K 254K 255K 256K 257K 258K 259K 260K 261K 262K 263K 264K 265K 266K 267K 268K 269K 270K 271K 272K 273K 274K 275K 276K 277K 278K 279K 280K 281K 282K 283K 284K 285K 286K 287K 288K 289K 290K 291K 292K 293K 294K 295K 296K 297K 
+model loaded, features: 69154	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 252M
+accuracy: 0.993795	oracle: 1	seconds: 9.92143	speed: 30098.8 words/sec
+max sentence length = 805
+can not load word cluster from file ../resources/ca.wc
+model loaded, features: 18237	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 39M
+accuracy: 0.159751	oracle: 0.159751	seconds: 1.44865	speed: 204858 words/sec
+max length = 150 ends at line 47495
+accuracy: 1	oracle: 1	seconds: 1.19631	speed: 48345.3 words/sec
+model loaded, features: 22780	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.833011	oracle: 0.833011	seconds: 1.90603	speed: 30343.7 words/sec
+model loaded, features: 15202	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.996698	oracle: 0.996698	seconds: 1.9154	speed: 30195.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19385	speed: 48445 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19427	speed: 48428 words/sec
+model loaded, features: 19001	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.998928	oracle: 0.998928	seconds: 1.87357	speed: 30869.4 words/sec
+accuracy: 1	oracle: 1	seconds: 1.27353	speed: 45414 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21689	speed: 47527.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.1972	speed: 48309.5 words/sec
+model loaded, features: 48156	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.903659	oracle: 0.903659	seconds: 1.9223	speed: 30086.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20444	speed: 48019.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19973	speed: 48207.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20179	speed: 48125 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20269	speed: 48088.9 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20616	speed: 47950.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20146	speed: 48138.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.24371	speed: 46502.8 words/sec
+model loaded, features: 299094	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.637198	oracle: 0.637198	seconds: 2.03252	speed: 28455.4 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20437	speed: 48021.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20685	speed: 47923.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20304	speed: 48074.9 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21289	speed: 47684.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21172	speed: 47730.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21878	speed: 47454.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.26962	speed: 45553.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21037	speed: 47783.6 words/sec
+model loaded, features: 85313	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.931479	oracle: 0.931479	seconds: 2.00225	speed: 28885.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.24913	speed: 46301.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20744	speed: 47899.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.2201	speed: 47402.6 words/sec
+model loaded, features: 15518	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.984923	oracle: 0.984923	seconds: 1.92124	speed: 30103.5 words/sec
+model loaded, features: 40263	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.98641	oracle: 0.98641	seconds: 1.97958	speed: 29216.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20858	speed: 47854.5 words/sec
+model loaded, features: 268506	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.512155	oracle: 0.512155	seconds: 2.0281	speed: 28517.4 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21172	speed: 47730.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.26555	speed: 45700.4 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20752	speed: 47896.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20885	speed: 47844 words/sec
+model loaded, features: 2274	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.99955	oracle: 0.99955	seconds: 1.98955	speed: 29069.9 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21673	speed: 47533.9 words/sec
+accuracy: 1	oracle: 1	seconds: 1.2096	speed: 47814.2 words/sec
+model loaded, features: 138735	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.915745	oracle: 0.915745	seconds: 1.97018	speed: 29355.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21706	speed: 47521 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22727	speed: 47125.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22976	speed: 47030.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.28425	speed: 45034.7 words/sec
+model loaded, features: 2814	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.994986	oracle: 0.994986	seconds: 1.92768	speed: 30002.9 words/sec
+model loaded, features: 1492	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 1	oracle: 1	seconds: 1.90664	speed: 30334.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22143	speed: 47351.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22767	speed: 47110.4 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22022	speed: 47398.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.28752	speed: 44920.5 words/sec
+model loaded, features: 3054	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.994242	oracle: 0.994242	seconds: 1.91279	speed: 30236.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22067	speed: 47380.6 words/sec
+model loaded, features: 708	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 1	oracle: 1	seconds: 1.89719	speed: 30485.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22328	speed: 47279.5 words/sec
+model loaded, features: 119471	labels: 8
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.8318	oracle: 0.8318	seconds: 2.0036	speed: 28866.1 words/sec
+model loaded, features: 2491	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.993378	oracle: 0.993378	seconds: 1.93651	speed: 29866.1 words/sec
+model loaded, features: 13262	labels: 10
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.899059	oracle: 0.899059	seconds: 1.97309	speed: 29312.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22204	speed: 47327.4 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22203	speed: 47327.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22457	speed: 47229.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.23296	speed: 46908.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22929	speed: 47048.2 words/sec
+model loaded, features: 108467	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.919877	oracle: 0.919877	seconds: 1.97729	speed: 29250.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.23268	speed: 46918.9 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22585	speed: 47180.3 words/sec
+model loaded, features: 144587	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.875804	oracle: 0.875804	seconds: 1.99506	speed: 28989.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22338	speed: 47275.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22769	speed: 47109.4 words/sec
+accuracy: 1	oracle: 1	seconds: 1.27016	speed: 45534.5 words/sec
+accuracy: 0.190833
+max length = 150 ends at line 47495
+max length = 150 ends at line 47466
+model loaded, features: 3923008	labels: 17
+src/Tagger/LinearSequence.cpp:632	memory cost: 949M
+accuracy: 0	oracle: 0	seconds: 4.39119	speed: 13170.9 words/sec
+max length = 150 ends at line 47495
+max length = 150 ends at line 47466
+model loaded, features: 3923008	labels: 17
+src/Tagger/LinearSequence.cpp:632	memory cost: 949M
+accuracy: 0	oracle: 0	seconds: 4.38979	speed: 13175.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21091	speed: 47762.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20428	speed: 48025.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.23112	speed: 46978.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19323	speed: 48470 words/sec
+accuracy: 1	oracle: 1	seconds: 1.23937	speed: 46665.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.25044	speed: 46252.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19882	speed: 48244.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19553	speed: 48376.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19606	speed: 48355.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20106	speed: 48154 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19626	speed: 48347.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19812	speed: 48272.4 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19862	speed: 48252 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19787	speed: 48282.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20041	speed: 48180.4 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19845	speed: 48259 words/sec
+accuracy: 1	oracle: 1	seconds: 1.1988	speed: 48245.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20038	speed: 48181.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20234	speed: 48102.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19658	speed: 48334.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20113	speed: 48151.4 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20044	speed: 48178.9 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20407	speed: 48033.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20919	speed: 47830.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20449	speed: 48017 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19904	speed: 48235.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20583	speed: 47963.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20344	speed: 48058.9 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20538	speed: 47981.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.1995	speed: 48216.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20722	speed: 47908.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20017	speed: 48190 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20531	speed: 47984.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20439	speed: 48021.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20495	speed: 47998.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20434	speed: 48023 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20464	speed: 48010.9 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20752	speed: 47896.4 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20597	speed: 47958.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20593	speed: 47959.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20711	speed: 47912.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21071	speed: 47770.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22056	speed: 47384.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20704	speed: 47915.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20649	speed: 47937.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20528	speed: 47985.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21843	speed: 47467.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20791	speed: 47881.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21071	speed: 47770.2 words/sec
+accuracy: 0
+LANGUAGE = ca, PROJECTIVE = 1, THREAD = 10 INPUT =  /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-02-06-37/output
+task = test
+sync = 1
+max iter = 10
+is_dev = 1
+is_projective = 1
+singleRoot = 0
+eval_punc = 1
+mira_k = 10
+loss = 0
+thread_num = 10
+kbest = 1
+C = 0.01
+train_file = 
+model_file = /media/data/models/ca.dep.model
+test_file = /tmp/fbaml/2017-05-11-02-06-37/output/ca.tok.test
+result_file = /tmp/fbaml/2017-05-11-02-06-37/output/ca.dep.test
+template_file = 
+algorithm = 
+lang = ca
+train_lemma_file = 
+test_lemma_file = 
+train_upos_file = 
+test_upos_file = /tmp/fbaml/2017-05-11-02-06-37/output/ca.upos.test
+train_xpos_file = 
+test_xpos_file = /tmp/fbaml/2017-05-11-02-06-37/output/ca.xpos.test
+train_morph_file = 
+test_morph_file = /tmp/fbaml/2017-05-11-02-06-37/output/ca.morph.test
+max length = 150 ends at line 47495
+model loaded, feature number: 18796545
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+elapsed time: 27530.1
+LANGUAGE = ca THREAD = 10 INPUT = /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-02-06-37/output
+max length = 150 ends at line 47495
+max length = 150 ends at line 47466
+model loaded, features: 11133925	labels: 76
+src/Labeler/LinearTree.cpp:609	memory cost: 949M
+..............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................max length = 150 ends at line 47495
+***** PIPELINE TEST **** LANGUAGE = cs_cac, THREAD = 10, PROJECTIVE = 1, XPOS_NBEST=1 INPUTPATH(no /)=/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT_PATH=/tmp/fbaml/2017-05-11-02-06-37/output OUTPUT_FILE = cs_cac.conllu RAWFILE = cs_cac.txt
+bin/SentenceSegmentor -m /media/data/models/cs_cac.ss.model -T 6 -L cs_cac -vtxt /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cac.txt -r /tmp/fbaml/2017-05-11-02-06-37/output/cs_cac.ss.test
+rs size = 65224
+0K 1K 2K 3K 4K 5K 6K 7K 8K 9K 10K 11K 12K 13K 14K 15K 16K 17K 18K 19K 20K 21K 22K 23K 24K 25K 26K 27K 28K 29K 30K 31K 32K 33K 34K 35K 36K 37K 38K 39K 40K 41K 42K 43K 44K 45K 46K 47K 48K 49K 50K 51K 52K 53K 54K 55K 56K 57K 58K 59K 60K 61K 62K 63K 64K 
+model loaded, features: 73610	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 521M
+accuracy: 0.990387	oracle: 1	seconds: 2.11615	speed: 30822 words/sec
+max sentence length = 529
+can not load word cluster from file ../resources/cs_cac.wc
+model loaded, features: 15500	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 42M
+accuracy: 0.136164	oracle: 0.136164	seconds: 0.333191	speed: 193856 words/sec
+max length = 84 ends at line 4077
+model loaded, features: 2968	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 522M
+accuracy: 0.99374	oracle: 0.99374	seconds: 0.375951	speed: 28892.1 words/sec
+model loaded, features: 33342	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 522M
+accuracy: 0.905818	oracle: 0.905818	seconds: 0.418047	speed: 25982.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.242354	speed: 44818.7 words/sec
+model loaded, features: 826545	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 528M
+accuracy: 0.821212	oracle: 0.821212	seconds: 0.434962	speed: 24972.3 words/sec
+model loaded, features: 246099	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 528M
+accuracy: 0.933438	oracle: 0.933438	seconds: 0.432885	speed: 25092.1 words/sec
+model loaded, features: 1317999	labels: 8
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.409685	oracle: 0.409685	seconds: 0.433467	speed: 25058.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.279861	speed: 38812.1 words/sec
+model loaded, features: 394	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 1	oracle: 1	seconds: 0.377603	speed: 28765.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.235598	speed: 46104 words/sec
+accuracy: 1	oracle: 1	seconds: 0.240047	speed: 45249.5 words/sec
+model loaded, features: 338576	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.85279	oracle: 0.85279	seconds: 0.41294	speed: 26304.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.244365	speed: 44449.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.242307	speed: 44827.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.241149	speed: 45042.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.234594	speed: 46301.3 words/sec
+model loaded, features: 22210	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.99954	oracle: 0.99954	seconds: 0.393742	speed: 27586.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.237418	speed: 45750.5 words/sec
+model loaded, features: 969942	labels: 7
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.499356	oracle: 0.499356	seconds: 0.42987	speed: 25268.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.237539	speed: 45727.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.234207	speed: 46377.8 words/sec
+model loaded, features: 27261	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.997883	oracle: 0.997883	seconds: 0.393577	speed: 27598.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.239472	speed: 45358.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.235385	speed: 46145.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.234545	speed: 46310.9 words/sec
+model loaded, features: 3274	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.999816	oracle: 0.999816	seconds: 0.377263	speed: 28791.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.240468	speed: 45170.3 words/sec
+model loaded, features: 113402	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.924876	oracle: 0.924876	seconds: 0.401266	speed: 27069.3 words/sec
+model loaded, features: 153719	labels: 20
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.990149	oracle: 0.990149	seconds: 0.458228	speed: 23704.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.246789	speed: 44013.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.237485	speed: 45737.6 words/sec
+model loaded, features: 8030	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.990978	oracle: 0.990978	seconds: 0.381321	speed: 28485.2 words/sec
+model loaded, features: 18823	labels: 7
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.9884	oracle: 0.9884	seconds: 0.401232	speed: 27071.6 words/sec
+model loaded, features: 6232	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.997146	oracle: 0.997146	seconds: 0.392497	speed: 27674.1 words/sec
+model loaded, features: 803344	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.413368	oracle: 0.413368	seconds: 0.414883	speed: 26180.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.236509	speed: 45926.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.238626	speed: 45518.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.237892	speed: 45659.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.237823	speed: 45672.6 words/sec
+model loaded, features: 6573	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.993924	oracle: 0.993924	seconds: 0.388606	speed: 27951.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.236208	speed: 45984.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.236395	speed: 45948.5 words/sec
+model loaded, features: 115829	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.912079	oracle: 0.912079	seconds: 0.410697	speed: 26447.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.237771	speed: 45682.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.248616	speed: 43689.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.236343	speed: 45958.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.238306	speed: 45580.1 words/sec
+model loaded, features: 160053	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.420273	oracle: 0.420273	seconds: 0.402066	speed: 27015.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.246804	speed: 44010.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.238323	speed: 45576.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.238278	speed: 45585.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.236444	speed: 45939 words/sec
+accuracy: 1	oracle: 1	seconds: 0.238726	speed: 45499.9 words/sec
+model loaded, features: 29972	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.990978	oracle: 0.990978	seconds: 0.397779	speed: 27306.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.240119	speed: 45235.9 words/sec
+model loaded, features: 4916	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.99733	oracle: 0.99733	seconds: 0.396359	speed: 27404.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.239037	speed: 45440.7 words/sec
+model loaded, features: 87398	labels: 9
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.921838	oracle: 0.921838	seconds: 0.414757	speed: 26188.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.245671	speed: 44213.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.238479	speed: 45547 words/sec
+model loaded, features: 19932	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.979009	oracle: 0.979009	seconds: 0.395959	speed: 27432.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.241802	speed: 44921.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.241279	speed: 45018.4 words/sec
+model loaded, features: 12411	labels: 7
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.999632	oracle: 0.999632	seconds: 0.381243	speed: 28491 words/sec
+accuracy: 1	oracle: 1	seconds: 0.242939	speed: 44710.8 words/sec
+model loaded, features: 172108	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.908857	oracle: 0.908857	seconds: 0.410255	speed: 26476.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.240067	speed: 45245.7 words/sec
+model loaded, features: 61328	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.97192	oracle: 0.97192	seconds: 0.404978	speed: 26821.2 words/sec
+model loaded, features: 219406	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.871202	oracle: 0.871202	seconds: 0.416214	speed: 26097.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.244279	speed: 44465.5 words/sec
+model loaded, features: 188161	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 538M
+accuracy: 0.90186	oracle: 0.90186	seconds: 0.435643	speed: 24933.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.238	speed: 45638.7 words/sec
+accuracy: 0.228135
+max length = 84 ends at line 4077
+max length = 84 ends at line 4061
+model loaded, features: 4659053	labels: 16
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 0.822402	speed: 13207.7 words/sec
+max length = 84 ends at line 4077
+max length = 84 ends at line 4061
+model loaded, features: 3827349	labels: 12
+src/Tagger/LinearSequence.cpp:632	memory cost: 628M
+accuracy: 0	oracle: 0	seconds: 0.777883	speed: 13963.5 words/sec
+model loaded, features: 4209672	labels: 59
+src/Tagger/LinearSequence.cpp:632	memory cost: 631M
+accuracy: 0	oracle: 0	seconds: 1.19387	speed: 9098.14 words/sec
+model loaded, features: 7074113	labels: 11
+src/Tagger/LinearSequence.cpp:632	memory cost: 727M
+accuracy: 0	oracle: 0	seconds: 0.811022	speed: 13393 words/sec
+model loaded, features: 5733283	labels: 6
+src/Tagger/LinearSequence.cpp:632	memory cost: 727M
+accuracy: 0	oracle: 0	seconds: 0.785913	speed: 13820.9 words/sec
+model loaded, features: 7787798	labels: 9
+src/Tagger/LinearSequence.cpp:632	memory cost: 750M
+accuracy: 0	oracle: 0	seconds: 0.79491	speed: 13664.4 words/sec
+model loaded, features: 560467	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 750M
+accuracy: 0	oracle: 0	seconds: 0.709305	speed: 15313.6 words/sec
+model loaded, features: 238225	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 750M
+accuracy: 0	oracle: 0	seconds: 0.640956	speed: 16946.6 words/sec
+model loaded, features: 1501453	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 750M
+accuracy: 0	oracle: 0	seconds: 0.699895	speed: 15519.5 words/sec
+model loaded, features: 1371330	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 750M
+accuracy: 0	oracle: 0	seconds: 0.711075	speed: 15275.5 words/sec
+model loaded, features: 2566883	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 750M
+accuracy: 0	oracle: 0	seconds: 0.730988	speed: 14859.3 words/sec
+model loaded, features: 1982421	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 750M
+accuracy: 0	oracle: 0	seconds: 0.771713	speed: 14075.2 words/sec
+model loaded, features: 1261896	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 750M
+accuracy: 0	oracle: 0	seconds: 0.70782	speed: 15345.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.242905	speed: 44717.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.279387	speed: 38878 words/sec
+model loaded, features: 1732743	labels: 9
+src/Tagger/LinearSequence.cpp:632	memory cost: 750M
+accuracy: 0	oracle: 0	seconds: 0.716292	speed: 15164.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.23519	speed: 46183.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.281281	speed: 38616.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.239222	speed: 45405.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.242225	speed: 44842.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.234159	speed: 46387.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.240797	speed: 45108.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.238386	speed: 45564.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.241878	speed: 44906.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.236689	speed: 45891.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.24037	speed: 45188.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.237881	speed: 45661.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.241645	speed: 44950.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.239944	speed: 45268.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.236854	speed: 45859.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.246878	speed: 43997.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.23708	speed: 45815.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.239398	speed: 45372.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.241512	speed: 44975 words/sec
+accuracy: 1	oracle: 1	seconds: 0.244911	speed: 44350.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.240636	speed: 45138.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.23898	speed: 45451.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.233978	speed: 46423.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.239131	speed: 45422.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.240736	speed: 45120 words/sec
+accuracy: 1	oracle: 1	seconds: 0.244189	speed: 44481.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.236229	speed: 45980.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.239451	speed: 45362.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.238491	speed: 45544.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.239729	speed: 45309.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.236721	speed: 45885.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.242653	speed: 44763.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.240446	speed: 45174.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.242948	speed: 44709.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.239692	speed: 45316.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.24291	speed: 44716.2 words/sec
+accuracy: 0
+LANGUAGE = cs_cac, PROJECTIVE = 1, THREAD = 10 INPUT =  /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-02-06-37/output
+task = test
+sync = 1
+max iter = 10
+is_dev = 1
+is_projective = 1
+singleRoot = 0
+eval_punc = 1
+mira_k = 10
+loss = 0
+thread_num = 10
+kbest = 1
+C = 0.01
+train_file = 
+model_file = /media/data/models/cs_cac.dep.model
+test_file = /tmp/fbaml/2017-05-11-02-06-37/output/cs_cac.tok.test
+result_file = /tmp/fbaml/2017-05-11-02-06-37/output/cs_cac.dep.test
+template_file = 
+algorithm = 
+lang = cs_cac
+train_lemma_file = 
+test_lemma_file = 
+train_upos_file = 
+test_upos_file = /tmp/fbaml/2017-05-11-02-06-37/output/cs_cac.upos.test
+train_xpos_file = 
+test_xpos_file = /tmp/fbaml/2017-05-11-02-06-37/output/cs_cac.xpos.test
+train_morph_file = 
+test_morph_file = /tmp/fbaml/2017-05-11-02-06-37/output/cs_cac.morph.test
+max length = 84 ends at line 4077
+model loaded, feature number: 27426443
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx.xxxxxxxxxxxx.xxxx.xxxxxxxxx.
+elapsed time: 741.591
+LANGUAGE = cs_cac THREAD = 10 INPUT = /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-02-06-37/output
+max length = 84 ends at line 4077
+max length = 84 ends at line 4061
+model loaded, features: 18044777	labels: 105
+src/Labeler/LinearTree.cpp:609	memory cost: 2740M
+...................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................max length = 85 ends at line 4077
+***** PIPELINE TEST **** LANGUAGE = cs_cltt, THREAD = 10, PROJECTIVE = 1, XPOS_NBEST=1 INPUTPATH(no /)=/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT_PATH=/tmp/fbaml/2017-05-11-02-06-37/output OUTPUT_FILE = cs_cltt.conllu RAWFILE = cs_cltt.txt
+bin/SentenceSegmentor -m /media/data/models/cs_cltt.ss.model -T 6 -L cs_cltt -vtxt /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cltt.txt -r /tmp/fbaml/2017-05-11-02-06-37/output/cs_cltt.ss.test
+rs size = 65042
+0K 1K 2K 3K 4K 5K 6K 7K 8K 9K 10K 11K 12K 13K 14K 15K 16K 17K 18K 19K 20K 21K 22K 23K 24K 25K 26K 27K 28K 29K 30K 31K 32K 33K 34K 35K 36K 37K 38K 39K 40K 41K 42K 43K 44K 45K 46K 47K 48K 49K 50K 51K 52K 53K 54K 55K 56K 57K 58K 59K 60K 61K 62K 63K 64K 
+model loaded, features: 39744	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 520M
+accuracy: 0.994942	oracle: 1	seconds: 2.39946	speed: 27106.9 words/sec
+max sentence length = 1673
+can not load word cluster from file ../resources/cs_cltt.wc
+model loaded, features: 3923	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 36M
+accuracy: 0.144789	oracle: 0.144789	seconds: 0.326584	speed: 197946 words/sec
+max length = 150 ends at line 3485
+model loaded, features: 2042	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.99916	oracle: 0.99916	seconds: 0.390554	speed: 27430.3 words/sec
+model loaded, features: 6687	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.894801	oracle: 0.894801	seconds: 0.376454	speed: 28457.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.228287	speed: 46927.8 words/sec
+model loaded, features: 40765	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.824979	oracle: 0.824979	seconds: 0.362572	speed: 29547.2 words/sec
+model loaded, features: 2642	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.993653	oracle: 0.993653	seconds: 0.333597	speed: 32113.6 words/sec
+model loaded, features: 67005	labels: 7
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.38542	oracle: 0.38542	seconds: 0.354342	speed: 30233.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.250796	speed: 42716 words/sec
+accuracy: 1	oracle: 1	seconds: 0.216442	speed: 49495.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.222909	speed: 48060 words/sec
+accuracy: 1	oracle: 1	seconds: 0.221929	speed: 48272.2 words/sec
+model loaded, features: 31629	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.847102	oracle: 0.847102	seconds: 0.366557	speed: 29226 words/sec
+accuracy: 1	oracle: 1	seconds: 0.264134	speed: 40559 words/sec
+accuracy: 1	oracle: 1	seconds: 0.245805	speed: 43583.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.216755	speed: 49424.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.266555	speed: 40190.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.226167	speed: 47367.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.228319	speed: 46921.2 words/sec
+model loaded, features: 53849	labels: 7
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.487258	oracle: 0.487258	seconds: 0.378472	speed: 28305.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.215422	speed: 49730.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.215741	speed: 49656.8 words/sec
+model loaded, features: 3493	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.99804	oracle: 0.99804	seconds: 0.336848	speed: 31803.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.26336	speed: 40678.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.220649	speed: 48552.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.216566	speed: 49467.6 words/sec
+model loaded, features: 1102	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 1	oracle: 1	seconds: 0.360742	speed: 29697.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.216776	speed: 49419.7 words/sec
+model loaded, features: 9953	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.950247	oracle: 0.950247	seconds: 0.354763	speed: 30197.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.252865	speed: 42366.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.234951	speed: 45596.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.220131	speed: 48666.5 words/sec
+model loaded, features: 3173	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.989452	oracle: 0.989452	seconds: 0.372543	speed: 28756.4 words/sec
+model loaded, features: 3643	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.987679	oracle: 0.987679	seconds: 0.349472	speed: 30654.8 words/sec
+model loaded, features: 1678	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 1	oracle: 1	seconds: 0.36254	speed: 29549.8 words/sec
+model loaded, features: 51554	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.429105	oracle: 0.429105	seconds: 0.342675	speed: 31262.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.246836	speed: 43401.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.219032	speed: 48910.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.216738	speed: 49428.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.226476	speed: 47303 words/sec
+model loaded, features: 1294	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.993093	oracle: 0.993093	seconds: 0.343553	speed: 31183 words/sec
+accuracy: 1	oracle: 1	seconds: 0.217612	speed: 49229.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.21806	speed: 49128.7 words/sec
+model loaded, features: 10498	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.943153	oracle: 0.943153	seconds: 0.355241	speed: 30157 words/sec
+accuracy: 1	oracle: 1	seconds: 0.219129	speed: 48889 words/sec
+accuracy: 1	oracle: 1	seconds: 0.253735	speed: 42221.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.218658	speed: 48994.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.221941	speed: 48269.6 words/sec
+model loaded, features: 23426	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.439933	oracle: 0.439933	seconds: 0.358918	speed: 29848 words/sec
+accuracy: 1	oracle: 1	seconds: 0.222562	speed: 48134.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.22602	speed: 47398.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.220339	speed: 48620.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.218393	speed: 49053.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.218458	speed: 49039.2 words/sec
+model loaded, features: 2892	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.993746	oracle: 0.993746	seconds: 0.394068	speed: 27185.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.260706	speed: 41092.3 words/sec
+model loaded, features: 1402	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.9986	oracle: 0.9986	seconds: 0.42087	speed: 25454.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.27665	speed: 38724 words/sec
+model loaded, features: 7746	labels: 8
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.94838	oracle: 0.94838	seconds: 0.343046	speed: 31229 words/sec
+accuracy: 1	oracle: 1	seconds: 0.27541	speed: 38898.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.226661	speed: 47264.4 words/sec
+model loaded, features: 1496	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.984598	oracle: 0.984598	seconds: 0.348479	speed: 30742.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.243445	speed: 44005.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.220146	speed: 48663.2 words/sec
+model loaded, features: 650	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.99972	oracle: 0.99972	seconds: 0.354029	speed: 30260.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.219482	speed: 48810.4 words/sec
+model loaded, features: 14475	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.94166	oracle: 0.94166	seconds: 0.335751	speed: 31907.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.265814	speed: 40302.6 words/sec
+model loaded, features: 1938	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.981518	oracle: 0.981518	seconds: 0.353912	speed: 30270.2 words/sec
+model loaded, features: 19855	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.925324	oracle: 0.925324	seconds: 0.355469	speed: 30137.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.219842	speed: 48730.5 words/sec
+model loaded, features: 16482	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 524M
+accuracy: 0.937459	oracle: 0.937459	seconds: 0.401452	speed: 26685.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.22562	speed: 47482.5 words/sec
+accuracy: 0.266685
+max length = 150 ends at line 3485
+max length = 150 ends at line 3480
+model loaded, features: 329954	labels: 15
+src/Tagger/LinearSequence.cpp:632	memory cost: 615M
+accuracy: 0	oracle: 0	seconds: 0.636113	speed: 16841.3 words/sec
+max length = 150 ends at line 3485
+max length = 150 ends at line 3480
+model loaded, features: 318126	labels: 11
+src/Tagger/LinearSequence.cpp:632	memory cost: 615M
+accuracy: 0	oracle: 0	seconds: 0.639978	speed: 16739.6 words/sec
+model loaded, features: 330263	labels: 39
+src/Tagger/LinearSequence.cpp:632	memory cost: 615M
+accuracy: 0	oracle: 0	seconds: 0.806569	speed: 13282.2 words/sec
+model loaded, features: 322664	labels: 11
+src/Tagger/LinearSequence.cpp:632	memory cost: 615M
+accuracy: 0	oracle: 0	seconds: 0.63045	speed: 16992.6 words/sec
+model loaded, features: 303510	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 615M
+accuracy: 0	oracle: 0	seconds: 0.6019	speed: 17798.6 words/sec
+model loaded, features: 364401	labels: 8
+src/Tagger/LinearSequence.cpp:632	memory cost: 615M
+accuracy: 0	oracle: 0	seconds: 0.633721	speed: 16904.9 words/sec
+model loaded, features: 50327	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 615M
+accuracy: 0	oracle: 0	seconds: 0.566595	speed: 18907.7 words/sec
+model loaded, features: 49192	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 615M
+accuracy: 0	oracle: 0	seconds: 0.567892	speed: 18864.5 words/sec
+model loaded, features: 173286	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 615M
+accuracy: 0	oracle: 0	seconds: 0.653999	speed: 16380.8 words/sec
+model loaded, features: 159068	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 615M
+accuracy: 0	oracle: 0	seconds: 0.587538	speed: 18233.7 words/sec
+model loaded, features: 231411	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 615M
+accuracy: 0	oracle: 0	seconds: 0.593193	speed: 18059.9 words/sec
+model loaded, features: 213984	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 615M
+accuracy: 0	oracle: 0	seconds: 0.600929	speed: 17827.4 words/sec
+model loaded, features: 163844	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 615M
+accuracy: 0	oracle: 0	seconds: 0.576047	speed: 18597.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.221571	speed: 48350.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.220014	speed: 48692.4 words/sec
+model loaded, features: 105103	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 615M
+accuracy: 0	oracle: 0	seconds: 0.585037	speed: 18311.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.218167	speed: 49104.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.216531	speed: 49475.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.217624	speed: 49227.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.218329	speed: 49068.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.21924	speed: 48864.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.217425	speed: 49272.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.218004	speed: 49141.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.233804	speed: 45820.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.216043	speed: 49587.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.21731	speed: 49298.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.218134	speed: 49112 words/sec
+accuracy: 1	oracle: 1	seconds: 0.218305	speed: 49073.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.225588	speed: 47489.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.223767	speed: 47875.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.223953	speed: 47835.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.224236	speed: 47775.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.219281	speed: 48855.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.217532	speed: 49247.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.21788	speed: 49169.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.218203	speed: 49096.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.222499	speed: 48148.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.215504	speed: 49711.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.216714	speed: 49433.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.216608	speed: 49458 words/sec
+accuracy: 1	oracle: 1	seconds: 0.219534	speed: 48798.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.219306	speed: 48849.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.215298	speed: 49758.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.217854	speed: 49175.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.220284	speed: 48632.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.219523	speed: 48801.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.217916	speed: 49161.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.217901	speed: 49164.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.220113	speed: 48670.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.229167	speed: 46747.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.22179	speed: 48302.4 words/sec
+accuracy: 0
+LANGUAGE = cs_cltt, PROJECTIVE = 1, THREAD = 10 INPUT =  /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-02-06-37/output
+task = test
+sync = 1
+max iter = 10
+is_dev = 1
+is_projective = 1
+singleRoot = 0
+eval_punc = 1
+mira_k = 10
+loss = 0
+thread_num = 10
+kbest = 1
+C = 0.01
+train_file = 
+model_file = /media/data/models/cs_cltt.dep.model
+test_file = /tmp/fbaml/2017-05-11-02-06-37/output/cs_cltt.tok.test
+result_file = /tmp/fbaml/2017-05-11-02-06-37/output/cs_cltt.dep.test
+template_file = 
+algorithm = 
+lang = cs_cltt
+train_lemma_file = 
+test_lemma_file = 
+train_upos_file = 
+test_upos_file = /tmp/fbaml/2017-05-11-02-06-37/output/cs_cltt.upos.test
+train_xpos_file = 
+test_xpos_file = /tmp/fbaml/2017-05-11-02-06-37/output/cs_cltt.xpos.test
+train_morph_file = 
+test_morph_file = /tmp/fbaml/2017-05-11-02-06-37/output/cs_cltt.morph.test
+max length = 150 ends at line 3485
+model loaded, feature number: 1090059
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx.x

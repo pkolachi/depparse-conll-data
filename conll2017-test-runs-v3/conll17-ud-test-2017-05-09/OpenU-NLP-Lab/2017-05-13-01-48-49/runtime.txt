@@ -1,0 +1,2 @@
+397712.37user 27533.86system 11:23:55elapsed 1036%CPU (0avgtext+0avgdata 10613656maxresident)k
+827368inputs+2134624outputs (94major+80862672minor)pagefaults 0swaps

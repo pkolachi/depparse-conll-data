@@ -1,0 +1,11 @@
+conll17-scripts/run.sh: line 4: /home/Stanford/.bashrc: No such file or directory
+Traceback (most recent call last):
+  File "conll17-scripts/run.py", line 149, in <module>
+    main(args)
+  File "conll17-scripts/run.py", line 132, in main
+    jobs = [pack_jobs(entry, args) for entry in metadata]
+  File "conll17-scripts/run.py", line 81, in pack_jobs
+    tb_name = treebank_name(lcode, tcode, args.model_dir)
+  File "conll17-scripts/run.py", line 64, in treebank_name
+    lang = lcode2lang[lcode]
+KeyError: u'bxr'

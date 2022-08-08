@@ -1,0 +1,4 @@
+./run.sh -i /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 -o /tmp/Mengest/2017-05-14-17-53-21/output 
+
+
+Using external embedding: None

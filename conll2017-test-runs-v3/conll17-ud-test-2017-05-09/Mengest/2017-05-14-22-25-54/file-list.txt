@@ -1,0 +1,4 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/Mengest/2017-05-14-22-25-54/output
+└── [1.3M]  en.conllu
+
+0 directories, 1 file

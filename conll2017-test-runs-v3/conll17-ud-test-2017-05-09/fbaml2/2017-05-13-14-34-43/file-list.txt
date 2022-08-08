@@ -1,0 +1,41 @@
+output/
+├── [1.3M]  dep.test
+├── [679K]  la.conllu
+├── [556K]  lv.conllu
+├── [1.9M]  morph.test
+├── [918K]  nl.conllu
+├── [388K]  nl_lassysmall.conllu
+├── [1.4M]  no_bokmaal.conllu
+├── [941K]  no_nynorsk.conllu
+├── [1.1M]  pl.conllu
+├── [811K]  pt.conllu
+├── [1.1M]  pt_br.conllu
+├── [1.8M]  pt_pud.conllu
+├── [1.3M]  rel.test
+├── [1007K]  ro.conllu
+├── [746K]  ru.conllu
+├── [1.2M]  ru_pud.conllu
+├── [6.9M]  ru_syntagrus.conllu
+├── [844K]  sk.conllu
+├── [850K]  sl.conllu
+├── [583K]  sl_sst.conllu
+├── [ 76K]  ss.test
+├── [1.3M]  sv.conllu
+├── [502K]  sv_lines.conllu
+├── [1.2M]  sv_pud.conllu
+├── [298K]  tok.test
+├── [3.8M]  tok.test.feat
+├── [4.2M]  tok.test.morph
+├── [4.3M]  tok.test.upos
+├── [4.3M]  tok.test.xpos
+├── [622K]  tr.conllu
+├── [1.0M]  tr_pud.conllu
+├── [377K]  ug.conllu
+├── [720K]  uk.conllu
+├── [ 63K]  upos.test
+├── [947K]  ur.conllu
+├── [415K]  vi.conllu
+├── [1.2M]  xpos.test
+└── [398K]  zh.conllu
+
+0 directories, 38 files

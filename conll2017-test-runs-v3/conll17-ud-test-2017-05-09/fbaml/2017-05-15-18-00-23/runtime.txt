@@ -1,0 +1,2 @@
+1693021.17user 187359.91system 67:46:49elapsed 770%CPU (0avgtext+0avgdata 17044324maxresident)k
+12096inputs+15073432outputs (31major+219918429minor)pagefaults 0swaps

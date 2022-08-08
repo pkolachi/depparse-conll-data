@@ -1,0 +1,199 @@
+java.lang.NullPointerException
+	at com.ibm.research.mlp.MultilingualParsing.exec(MultilingualParsing.java:87)
+	at com.ibm.research.mlp.RunMultilingualParsing.execFile(RunMultilingualParsing.java:149)
+	at com.ibm.research.mlp.RunMultilingualParsing.execOnTira(RunMultilingualParsing.java:198)
+	at com.ibm.research.mlp.RunMultilingualParsing.main(RunMultilingualParsing.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader.main(JarRsrcLoader.java:58)
+Warning: File not found: wrk/ar.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/ar.conllu ...
+Warning: File not found: wrk/bg.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bg.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/bg.conllu ...
+Warning: File not found: wrk/ru.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/bxr.conllu ...
+Warning: File not found: wrk/ca.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ca.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/ca.conllu ...
+Warning: File not found: wrk/cs.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cac.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/cs_cac.conllu ...
+Warning: File not found: wrk/cs.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cltt.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/cs_cltt.conllu ...
+java.lang.NullPointerException
+	at com.ibm.research.mlp.MultilingualParsing.exec(MultilingualParsing.java:87)
+	at com.ibm.research.mlp.RunMultilingualParsing.execFile(RunMultilingualParsing.java:149)
+	at com.ibm.research.mlp.RunMultilingualParsing.execOnTira(RunMultilingualParsing.java:198)
+	at com.ibm.research.mlp.RunMultilingualParsing.main(RunMultilingualParsing.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader.main(JarRsrcLoader.java:58)
+Warning: File not found: wrk/cs.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/cs.conllu ...
+Warning: File not found: wrk/cu.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cu.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/cu.conllu ...
+Warning: File not found: wrk/da.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/da.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/da.conllu ...
+java.lang.NullPointerException
+	at com.ibm.research.mlp.MultilingualParsing.exec(MultilingualParsing.java:87)
+	at com.ibm.research.mlp.RunMultilingualParsing.execFile(RunMultilingualParsing.java:149)
+	at com.ibm.research.mlp.RunMultilingualParsing.execOnTira(RunMultilingualParsing.java:198)
+	at com.ibm.research.mlp.RunMultilingualParsing.main(RunMultilingualParsing.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader.main(JarRsrcLoader.java:58)
+Warning: File not found: wrk/de.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/de.conllu ...
+Warning: File not found: wrk/el.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/el.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/el.conllu ...
+Warning: File not found: wrk/en.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_lines.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/en_lines.conllu ...
+Warning: File not found: wrk/en.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_partut.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/en_partut.conllu ...
+java.lang.NullPointerException
+	at com.ibm.research.mlp.MultilingualParsing.exec(MultilingualParsing.java:87)
+	at com.ibm.research.mlp.RunMultilingualParsing.execFile(RunMultilingualParsing.java:149)
+	at com.ibm.research.mlp.RunMultilingualParsing.execOnTira(RunMultilingualParsing.java:198)
+	at com.ibm.research.mlp.RunMultilingualParsing.main(RunMultilingualParsing.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader.main(JarRsrcLoader.java:58)
+Warning: File not found: wrk/en.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/en.conllu ...
+Warning: File not found: wrk/es.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_ancora.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/es_ancora.conllu ...
+java.lang.NullPointerException
+	at com.ibm.research.mlp.MultilingualParsing.exec(MultilingualParsing.java:87)
+	at com.ibm.research.mlp.RunMultilingualParsing.execFile(RunMultilingualParsing.java:149)
+	at com.ibm.research.mlp.RunMultilingualParsing.execOnTira(RunMultilingualParsing.java:198)
+	at com.ibm.research.mlp.RunMultilingualParsing.main(RunMultilingualParsing.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader.main(JarRsrcLoader.java:58)
+Warning: File not found: wrk/es.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/es.conllu ...
+Warning: File not found: wrk/et.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/et.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/et.conllu ...
+Warning: File not found: wrk/eu.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/eu.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/eu.conllu ...
+Warning: File not found: wrk/fa.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fa.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/fa.conllu ...
+Warning: File not found: wrk/fi.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_ftb.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/fi_ftb.conllu ...
+java.lang.NullPointerException
+	at com.ibm.research.mlp.MultilingualParsing.exec(MultilingualParsing.java:87)
+	at com.ibm.research.mlp.RunMultilingualParsing.execFile(RunMultilingualParsing.java:149)
+	at com.ibm.research.mlp.RunMultilingualParsing.execOnTira(RunMultilingualParsing.java:198)
+	at com.ibm.research.mlp.RunMultilingualParsing.main(RunMultilingualParsing.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader.main(JarRsrcLoader.java:58)
+Warning: File not found: wrk/fi.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/fi.conllu ...
+Warning: File not found: wrk/fr.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_partut.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/fr_partut.conllu ...
+java.lang.NullPointerException
+	at com.ibm.research.mlp.MultilingualParsing.exec(MultilingualParsing.java:87)
+	at com.ibm.research.mlp.RunMultilingualParsing.execFile(RunMultilingualParsing.java:149)
+	at com.ibm.research.mlp.RunMultilingualParsing.execOnTira(RunMultilingualParsing.java:198)
+	at com.ibm.research.mlp.RunMultilingualParsing.main(RunMultilingualParsing.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader.main(JarRsrcLoader.java:58)
+Warning: File not found: wrk/fr.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_sequoia.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/fr_sequoia.conllu ...
+Warning: File not found: wrk/fr.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/fr.conllu ...
+Warning: File not found: wrk/ga.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ga.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/ga.conllu ...
+Warning: File not found: wrk/gl.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl_treegal.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/gl_treegal.conllu ...
+Warning: File not found: wrk/gl.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/gl.conllu ...
+Warning: File not found: wrk/got.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/got.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/got.conllu ...
+Warning: File not found: wrk/grc.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc_proiel.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/grc_proiel.conllu ...
+Warning: File not found: wrk/grc.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/grc.conllu ...
+Warning: File not found: wrk/he.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/he.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/he.conllu ...
+java.lang.NullPointerException
+Warning: File not found: wrk/hi.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/hi.conllu ...
+Warning: File not found: wrk/hr.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hr.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/hr.conllu ...
+Warning: File not found: wrk/pl.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/hsb.conllu ...
+Warning: File not found: wrk/hu.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hu.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/hu.conllu ...
+Warning: File not found: wrk/id.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/id.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/id.conllu ...
+java.lang.NullPointerException
+Warning: File not found: wrk/it.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/it.conllu ...
+May 12, 2017 12:09:35 PM com.ibm.jsa.uima.JJSAAnnotator initialize(112)
+INFO: IUSJ0060I Trace entry: "JJSAAnnotator" "initialize"
+May 12, 2017 12:09:36 PM com.ibm.jsa.uima.JJSAAnnotator initialize(152)
+INFO: IUSJ1071I Configuration property jsa.dynamic.sahen.enable is set as true (previous value : not specified).
+May 12, 2017 12:09:36 PM com.ibm.jsa.uima.JJSAAnnotator initialize(168)
+INFO: IUSJ0031I The value of configuration parameter "CASHandlerClass" is set to "com.ibm.jsa.uima.JapaneseUDAnnotationHandler"
+May 12, 2017 12:09:37 PM com.ibm.jsa.uima.JJSAAnnotator initialize(218)
+INFO: IUSJ0061I Trace exit: "JJSAAnnotator" "initialize"
+java.lang.NullPointerException
+May 12, 2017 12:09:45 PM com.ibm.jsa.uima.JJSAAnnotator initialize(112)
+INFO: IUSJ0060I Trace entry: "JJSAAnnotator" "initialize"
+May 12, 2017 12:09:45 PM com.ibm.jsa.uima.JJSAAnnotator initialize(152)
+INFO: IUSJ1071I Configuration property jsa.dynamic.sahen.enable is set as true (previous value : not specified).
+May 12, 2017 12:09:45 PM com.ibm.jsa.uima.JJSAAnnotator initialize(168)
+INFO: IUSJ0031I The value of configuration parameter "CASHandlerClass" is set to "com.ibm.jsa.uima.JapaneseUDAnnotationHandler"
+May 12, 2017 12:09:45 PM com.ibm.jsa.uima.JJSAAnnotator initialize(218)
+INFO: IUSJ0061I Trace exit: "JJSAAnnotator" "initialize"
+Warning: File not found: wrk/ja.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/ja.conllu ...
+May 12, 2017 12:09:46 PM com.ibm.jsa.uima.JJSAAnnotator typeSystemInit(230)
+INFO: IUSJ0060I Trace entry: "JJSAAnnotator" "typeSystemInit"
+May 12, 2017 12:09:46 PM com.ibm.jsa.uima.JJSAAnnotator typeSystemInit(241)
+INFO: IUSJ0061I Trace exit: "JJSAAnnotator" "typeSystemInit"
+May 12, 2017 12:09:49 PM com.ibm.jsa.uima.JJSAAnnotator destroy(296)
+INFO: IUSJ0060I Trace entry: "JJSAAnnotator" "destroy"
+May 12, 2017 12:09:49 PM com.ibm.jsa.uima.JJSAAnnotator destroy(299)
+INFO: IUSJ0061I Trace exit: "JJSAAnnotator" "destory"
+Warning: File not found: wrk/kk.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kk.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/kk.conllu ...
+Warning: File not found: wrk/fa.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/kmr.conllu ...
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ko.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/ko.conllu ...
+Warning: File not found: wrk/la.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_ittb.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/la_ittb.conllu ...
+Warning: File not found: wrk/la.err
+Processing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_proiel.txt to generate /tmp/TRL/2017-05-12-12-01-52/output/la_proiel.conllu ...
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader.main(JarRsrcLoader.java:58)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at edu.jhu.pacaya.parse.dep.edmonds.Edmonds.getMaxBranching(Edmonds.java:97)
+	at com.ibm.research.mlp.parser.DistanceParser.setDependencies(DistanceParser.java:233)
+	at com.ibm.research.mlp.parser.DistanceParser.setDependencies(DistanceParser.java:75)
+	at com.ibm.research.mlp.Sentence.parse(Sentence.java:47)
+	at com.ibm.research.mlp.MultilingualParsing.processDoc(MultilingualParsing.java:214)
+	at com.ibm.research.mlp.MultilingualParsing.exec(MultilingualParsing.java:134)
+	at com.ibm.research.mlp.RunMultilingualParsing.execFile(RunMultilingualParsing.java:149)
+	at com.ibm.research.mlp.RunMultilingualParsing.execOnTira(RunMultilingualParsing.java:198)
+	at com.ibm.research.mlp.RunMultilingualParsing.main(RunMultilingualParsing.java:75)
+	... 5 more

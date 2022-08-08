@@ -1,0 +1,3 @@
+/home/Recurrent-Team/run_tira.py: 1: /home/Recurrent-Team/run_tira.py: import: not found
+/home/Recurrent-Team/run_tira.py: 2: /home/Recurrent-Team/run_tira.py: import: not found
+/home/Recurrent-Team/run_tira.py: 4: /home/Recurrent-Team/run_tira.py: Syntax error: "(" unexpected

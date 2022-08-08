@@ -1,0 +1,1810 @@
+./parseJson.sh -c /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 -o /tmp/fbaml/2017-05-11-22-29-43/output
+
+
+inputDataSet = /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09, outputDir = /tmp/fbaml/2017-05-11-22-29-43/output
+output = /tmp/fbaml/2017-05-11-22-29-43/output
+input = /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBESTar_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output ar_pud.conllu ar_pud.txt
+ ./PipelineTest.sh ar 10 1 1ar_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output ar_pud.conllu ar_pud.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBEST /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output ar.conllu ar.txt
+ ./PipelineTest.sh ar 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output ar.conllu ar.txt
+ ./PipelineTest.sh bg 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output bg.conllu bg.txt
+ ./PipelineTest.sh bxr 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output bxr.conllu bxr.txt
+ ./PipelineTest.sh ca 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output ca.conllu ca.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBEST /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output cs_cac.conllu cs_cac.txt
+ ./PipelineTest.sh cs_cac 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output cs_cac.conllu cs_cac.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBEST /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output cs_cltt.conllu cs_cltt.txt
+ ./PipelineTest.sh cs_cltt 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output cs_cltt.conllu cs_cltt.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBESTcs_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output cs_pud.conllu cs_pud.txt
+ ./PipelineTest.sh cs 10 1 1cs_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output cs_pud.conllu cs_pud.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBEST /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output cs.conllu cs.txt
+ ./PipelineTest.sh cs 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output cs.conllu cs.txt
+ ./PipelineTest.sh cu 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output cu.conllu cu.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBEST /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output da.conllu da.txt
+ ./PipelineTest.sh da 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output da.conllu da.txt
+ ./PipelineTest.sh de 10 1 3de_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output de_pud.conllu de_pud.txt
+ ./PipelineTest.sh de 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output de.conllu de.txt
+ ./PipelineTest.sh el 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output el.conllu el.txt
+ ./PipelineTest.sh en_lines 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output en_lines.conllu en_lines.txt
+ ./PipelineTest.sh en_partut 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output en_partut.conllu en_partut.txt
+ ./PipelineTest.sh en 10 1 3en_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output en_pud.conllu en_pud.txt
+ ./PipelineTest.sh en 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output en.conllu en.txt
+ ./PipelineTest.sh es_ancora 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output es_ancora.conllu es_ancora.txt
+ ./PipelineTest.sh es 10 1 1es_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output es_pud.conllu es_pud.txt
+ ./PipelineTest.sh es 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output es.conllu es.txt
+ ./PipelineTest.sh et 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output et.conllu et.txt
+ ./PipelineTest.sh eu 10 0 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output eu.conllu eu.txt
+ ./PipelineTest.sh fa 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output fa.conllu fa.txt
+ ./PipelineTest.sh fi_ftb 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output fi_ftb.conllu fi_ftb.txt
+ ./PipelineTest.sh fi 10 1 3fi_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output fi_pud.conllu fi_pud.txt
+ ./PipelineTest.sh fi 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output fi.conllu fi.txt
+ ./PipelineTest.sh fr_partut 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output fr_partut.conllu fr_partut.txt
+ ./PipelineTest.sh fr 10 1 1fr_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output fr_pud.conllu fr_pud.txt
+ ./PipelineTest.sh fr_sequoia 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output fr_sequoia.conllu fr_sequoia.txt
+ ./PipelineTest.sh fr 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output fr.conllu fr.txt
+ ./PipelineTest.sh ga 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output ga.conllu ga.txt
+ ./PipelineTest.sh gl_treegal 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output gl_treegal.conllu gl_treegal.txt
+ ./PipelineTest.sh gl 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output gl.conllu gl.txt
+ ./PipelineTest.sh got 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output got.conllu got.txt
+ ./PipelineTest.sh grc_proiel 10 0 2 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output grc_proiel.conllu grc_proiel.txt
+ ./PipelineTest.sh grc 10 0 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output grc.conllu grc.txt
+ ./PipelineTest.sh he 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output he.conllu he.txt
+ ./PipelineTest.sh hi 10 1 3hi_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output hi_pud.conllu hi_pud.txt
+ ./PipelineTest.sh hi 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output hi.conllu hi.txt
+ ./PipelineTest.sh hr 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output hr.conllu hr.txt
+ ./PipelineTest.sh hsb 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output hsb.conllu hsb.txt
+ ./PipelineTest.sh hu 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output hu.conllu hu.txt
+ ./PipelineTest.sh id 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output id.conllu id.txt
+ ./PipelineTest.sh it 10 1 3it_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output it_pud.conllu it_pud.txt
+ ./PipelineTest.sh it 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output it.conllu it.txt
+ ./PipelineTest.sh ja 10 1 1ja_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output ja_pud.conllu ja_pud.txt
+ ./PipelineTest.sh ja 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output ja.conllu ja.txt
+ ./PipelineTest.sh kk 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output kk.conllu kk.txt
+ ./PipelineTest.sh kmr 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output kmr.conllu kmr.txt
+ ./PipelineTest.sh ko 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output ko.conllu ko.txt
+ ./PipelineTest.sh la_ittb 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output la_ittb.conllu la_ittb.txt
+ ./PipelineTest.sh la_proiel 10 0 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output la_proiel.conllu la_proiel.txt
+ ./PipelineTest.sh la 10 0 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output la.conllu la.txt
+ ./PipelineTest.sh lv 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output lv.conllu lv.txt
+ ./PipelineTest.sh nl_lassysmall 10 0 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output nl_lassysmall.conllu nl_lassysmall.txt
+ ./PipelineTest.sh nl 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output nl.conllu nl.txt
+ ./PipelineTest.sh no_bokmaal 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output no_bokmaal.conllu no_bokmaal.txt
+ ./PipelineTest.sh no_nynorsk 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output no_nynorsk.conllu no_nynorsk.txt
+ ./PipelineTest.sh pl 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output pl.conllu pl.txt
+ ./PipelineTest.sh pt_br 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output pt_br.conllu pt_br.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBESTpt_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output pt_pud.conllu pt_pud.txt
+ ./PipelineTest.sh pt 10 1 1pt_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output pt_pud.conllu pt_pud.txt
+ #./PipelineTest.sh LANGUAGE 10 PROJECTIVE XPOS_NBEST /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output pt.conllu pt.txt
+ ./PipelineTest.sh pt 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output pt.conllu pt.txt
+ ./PipelineTest.sh ro 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output ro.conllu ro.txt
+ ./PipelineTest.sh ru 10 1 3ru_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output ru_pud.conllu ru_pud.txt
+ ./PipelineTest.sh ru_syntagrus 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output ru_syntagrus.conllu ru_syntagrus.txt
+ ./PipelineTest.sh ru 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output ru.conllu ru.txt
+ ./PipelineTest.sh sk 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output sk.conllu sk.txt
+ ./PipelineTest.sh sl_sst 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output sl_sst.conllu sl_sst.txt
+ ./PipelineTest.sh sl 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output sl.conllu sl.txt
+ ./PipelineTest.sh sme 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output sme.conllu sme.txt
+ ./PipelineTest.sh sv_lines 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output sv_lines.conllu sv_lines.txt
+ ./PipelineTest.sh sv 10 1 3sv_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output sv_pud.conllu sv_pud.txt
+ ./PipelineTest.sh sv 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output sv.conllu sv.txt
+ ./PipelineTest.sh tr 10 1 3tr_pud.txt
+ /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output tr_pud.conllu tr_pud.txt
+ ./PipelineTest.sh tr 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output tr.conllu tr.txt
+ ./PipelineTest.sh ug 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output ug.conllu ug.txt
+ ./PipelineTest.sh uk 10 1 1 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output uk.conllu uk.txt
+ ./PipelineTest.sh ur 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output ur.conllu ur.txt
+ ./PipelineTest.sh vi 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output vi.conllu vi.txt
+ ./PipelineTest.sh zh 10 1 3 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/fbaml/2017-05-11-22-29-43/output zh.conllu zh.txt
+***** PIPELINE TEST **** LANGUAGE = ar, THREAD = 10, PROJECTIVE = 1, XPOS_NBEST=1 INPUTPATH(no /)=/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT_PATH=/tmp/fbaml/2017-05-11-22-29-43/output OUTPUT_FILE = ar_pud.conllu RAWFILE = ar_pud.txt
+bin/SentenceSegmentor -m /media/data/models/ar.ss.model -T 6 -L ar -vtxt /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar_pud.txt -r /tmp/fbaml/2017-05-11-22-29-43/output/ar.ss.test
+rs size = 96812
+0K 1K 2K 3K 4K 5K 6K 7K 8K 9K 10K 11K 12K 13K 14K 15K 16K 17K 18K 19K 20K 21K 22K 23K 24K 25K 26K 27K 28K 29K 30K 31K 32K 33K 34K 35K 36K 37K 38K 39K 40K 41K 42K 43K 44K 45K 46K 47K 48K 49K 50K 51K 52K 53K 54K 55K 56K 57K 58K 59K 60K 61K 62K 63K 64K 65K 66K 67K 68K 69K 70K 71K 72K 73K 74K 75K 76K 77K 78K 79K 80K 81K 82K 83K 84K 85K 86K 87K 88K 89K 90K 91K 92K 93K 94K 95K 
+model loaded, features: 177298	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 339M
+accuracy: 0.979651	oracle: 1	seconds: 3.31196	speed: 29231 words/sec
+max sentence length = 259
+model loaded, features: 24464	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 339M
+accuracy: 0.158887	oracle: 0.158887	seconds: 0.51969	speed: 180569 words/sec
+max length = 52 ends at line 17211
+model loaded, features: 3258	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.999443	oracle: 0.999443	seconds: 0.698799	speed: 28269.9 words/sec
+model loaded, features: 30406	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.856036	oracle: 0.856036	seconds: 0.714081	speed: 27664.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.43969	speed: 44929.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.448583	speed: 44038.7 words/sec
+model loaded, features: 149567	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.91835	oracle: 0.91835	seconds: 0.732476	speed: 26970.2 words/sec
+model loaded, features: 670440	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.542546	oracle: 0.542546	seconds: 0.766914	speed: 25759.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.444676	speed: 44425.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.446571	speed: 44237.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.453559	speed: 43555.5 words/sec
+model loaded, features: 477669	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.613921	oracle: 0.613921	seconds: 0.761374	speed: 25946.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.501212	speed: 39414.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.435695	speed: 45341.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.423275	speed: 46671.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.429378	speed: 46008.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.420132	speed: 47020.9 words/sec
+model loaded, features: 55020	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.979904	oracle: 0.979904	seconds: 0.711332	speed: 27771.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.5043	speed: 39173.1 words/sec
+model loaded, features: 376512	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.773374	oracle: 0.773374	seconds: 0.735043	speed: 26876 words/sec
+accuracy: 1	oracle: 1	seconds: 0.436307	speed: 45277.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.439628	speed: 44935.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.434365	speed: 45480.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.435815	speed: 45328.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.437181	speed: 45187.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.439251	speed: 44974.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.440998	speed: 44796.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.434466	speed: 45469.6 words/sec
+model loaded, features: 103164	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.964515	oracle: 0.964515	seconds: 0.701763	speed: 28150.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.484159	speed: 40802.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.430952	speed: 45840.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.437325	speed: 45172.4 words/sec
+model loaded, features: 12634	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.979853	oracle: 0.979853	seconds: 0.688778	speed: 28681.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.476944	speed: 41420 words/sec
+model loaded, features: 5944	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.997823	oracle: 0.997823	seconds: 0.68642	speed: 28779.8 words/sec
+model loaded, features: 471378	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.456239	oracle: 0.456239	seconds: 0.745287	speed: 26506.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.443601	speed: 44533.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.433137	speed: 45609.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.477665	speed: 41357.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.454585	speed: 43457.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.424745	speed: 46510.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.42212	speed: 46799.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.432771	speed: 45647.7 words/sec
+model loaded, features: 155102	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.891015	oracle: 0.891015	seconds: 0.7066	speed: 27957.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.498734	speed: 39610.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.441458	speed: 44749.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.434076	speed: 45510.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.435426	speed: 45369.4 words/sec
+model loaded, features: 2184	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 1	oracle: 1	seconds: 0.679939	speed: 29054.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.439699	speed: 44928.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.438336	speed: 45068.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.443939	speed: 44499.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.435753	speed: 45335.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.452909	speed: 43618 words/sec
+accuracy: 1	oracle: 1	seconds: 0.438793	speed: 45021.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.444953	speed: 44397.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.436999	speed: 45206.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.442014	speed: 44693.2 words/sec
+model loaded, features: 25914	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.954847	oracle: 0.954847	seconds: 0.684688	speed: 28852.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.435481	speed: 45363.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.447679	speed: 44127.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.440605	speed: 44836.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.485379	speed: 40700.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.472319	speed: 41825.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.435944	speed: 45315.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.430679	speed: 45869.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.441197	speed: 44775.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.432854	speed: 45638.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.436535	speed: 45254.1 words/sec
+model loaded, features: 85754	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.963655	oracle: 0.963655	seconds: 0.747643	speed: 26423 words/sec
+accuracy: 1	oracle: 1	seconds: 0.429571	speed: 45987.7 words/sec
+model loaded, features: 158313	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 398M
+accuracy: 0.918299	oracle: 0.918299	seconds: 0.749183	speed: 26368.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.436981	speed: 45207.9 words/sec
+accuracy: 0.2612
+max length = 52 ends at line 17211
+max length = 52 ends at line 16079
+model loaded, features: 3937393	labels: 16
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.4631	speed: 13502.2 words/sec
+max length = 52 ends at line 17211
+max length = 52 ends at line 16079
+model loaded, features: 3934799	labels: 15
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.45853	speed: 13544.4 words/sec
+model loaded, features: 1635183	labels: 12
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.32015	speed: 14964.2 words/sec
+model loaded, features: 706935	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.18584	speed: 16659.1 words/sec
+model loaded, features: 1244075	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.24663	speed: 15846.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.479983	speed: 41157.7 words/sec
+model loaded, features: 1210486	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.227	speed: 16100.3 words/sec
+model loaded, features: 2897653	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.35929	speed: 14533.3 words/sec
+model loaded, features: 3425721	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.36694	speed: 14452 words/sec
+model loaded, features: 3982343	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.38504	speed: 14263.1 words/sec
+model loaded, features: 3380186	labels: 6
+src/Tagger/LinearSequence.cpp:632	memory cost: 553M
+accuracy: 0	oracle: 0	seconds: 1.38253	speed: 14289.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.436175	speed: 45291.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.440634	speed: 44833.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.434703	speed: 45444.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.434604	speed: 45455.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.435429	speed: 45369 words/sec
+accuracy: 1	oracle: 1	seconds: 0.437787	speed: 45124.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.437262	speed: 45178.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.435832	speed: 45327.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.433259	speed: 45596.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.433271	speed: 45595 words/sec
+accuracy: 1	oracle: 1	seconds: 0.480644	speed: 41101.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.421186	speed: 46903.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.438581	speed: 45043 words/sec
+accuracy: 1	oracle: 1	seconds: 0.437889	speed: 45114.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.433097	speed: 45613.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.428557	speed: 46096.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.429739	speed: 45969.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.42839	speed: 46114.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.429986	speed: 45943.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.433813	speed: 45538.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.430022	speed: 45939.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.42767	speed: 46192.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.428097	speed: 46146.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.430957	speed: 45839.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.432483	speed: 45678.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.431195	speed: 45814.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.425839	speed: 46390.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.426424	speed: 46327.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.419321	speed: 47111.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.432477	speed: 45678.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.433329	speed: 45588.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.433121	speed: 45610.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.430371	speed: 45902.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.43188	speed: 45741.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.433251	speed: 45597.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.434326	speed: 45484.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.43507	speed: 45406.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.437207	speed: 45184.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.431365	speed: 45796.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.433836	speed: 45535.6 words/sec
+accuracy: 0
+LANGUAGE = ar, PROJECTIVE = 1, THREAD = 10 INPUT =  /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-22-29-43/output
+task = test
+sync = 1
+max iter = 10
+is_dev = 1
+is_projective = 1
+singleRoot = 0
+eval_punc = 1
+mira_k = 10
+loss = 0
+thread_num = 10
+kbest = 1
+C = 0.01
+train_file = 
+model_file = /media/data/models/ar.dep.model
+test_file = /tmp/fbaml/2017-05-11-22-29-43/output/ar.tok.test
+result_file = /tmp/fbaml/2017-05-11-22-29-43/output/ar.dep.test
+template_file = 
+algorithm = 
+lang = ar
+train_lemma_file = 
+test_lemma_file = 
+train_upos_file = 
+test_upos_file = /tmp/fbaml/2017-05-11-22-29-43/output/ar.upos.test
+train_xpos_file = 
+test_xpos_file = /tmp/fbaml/2017-05-11-22-29-43/output/ar.xpos.test
+train_morph_file = 
+test_morph_file = /tmp/fbaml/2017-05-11-22-29-43/output/ar.morph.test
+max length = 52 ends at line 17211
+model loaded, feature number: 13685595
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx.xxxxxxxxxx.xx.xxxxxxx.xxxxxxx.xx.x.
+elapsed time: 869.225
+LANGUAGE = ar THREAD = 10 INPUT = /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-22-29-43/output
+max length = 52 ends at line 17211
+max length = 52 ends at line 16079
+model loaded, features: 10393204	labels: 80
+src/Labeler/LinearTree.cpp:609	memory cost: 1253M
+............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................max length = 57 ends at line 17211
+total 688
+drwxr-xr-x 6 fbaml sudo  4096 May 11 22:29 .
+drwxr-xr-x 5 fbaml sudo  4096 May 11 22:29 ..
+-rw-r--r-- 1 fbaml sudo 17891 May  9 17:59 1
+drwxr-xr-x 2 fbaml sudo  4096 May  9 18:12 bin
+-rwxr-x--x 1 fbaml sudo    57 May  8 23:00 clearALL.sh
+-rwxr-x--x 1 fbaml sudo    68 May 11 22:28 clearTMP.sh
+-rwxr-xr-x 1 fbaml sudo   350 May  9 14:43 copyPUD.sh
+-rwxr-x--x 1 fbaml sudo   510 May  8 23:00 crossValidateLemmatizer.sh
+-rwxr-x--x 1 fbaml sudo   424 May  8 23:00 crossValidateMorph.sh
+-rwxr-x--x 1 fbaml sudo   387 May  8 23:00 crossValidateUPOS.sh
+-rwxr-x--x 1 fbaml sudo   392 May  8 23:00 crossValidateXPOS.sh
+-rwxr-x--x 1 fbaml sudo  3575 May  8 23:00 debug.sh
+-rwxr-xr-x 1 fbaml sudo    63 May  8 23:47 do.sh
+-rwxr-x--x 1 fbaml sudo   130 May  8 23:00 EvalTest.sh
+-rwxr-x--x 1 fbaml sudo   103 May  8 23:00 EvalValidate.sh
+-rwxr-x--x 1 fbaml sudo   443 May  8 23:00 GroupXPOS.sh
+-rwxr-x--x 1 fbaml sudo   381 May  9 16:33 LabelerTest.sh
+-rwxr-x--x 1 fbaml sudo   291 May  8 23:00 LabelerTrain.sh
+-rwxr-x--x 1 fbaml sudo   321 May  8 23:00 LabelerValidate.sh
+-rwxr-x--x 1 fbaml sudo   262 May  8 23:00 LemmatizerTest.sh
+-rwxr-x--x 1 fbaml sudo   304 May  8 23:00 LemmatizerTrain.sh
+-rwxr-x--x 1 fbaml sudo   227 May  8 23:00 LemmatizerTry.sh
+-rwxr-x--x 1 fbaml sudo   262 May  8 23:00 LemmatizerValidate.sh
+-rwxr-x--x 1 fbaml sudo    69 May  8 23:00 LetterCollection.sh
+-rwxr-x--x 1 fbaml sudo   145 May 11 01:14 MergeResultTest.sh
+-rwxr-x--x 1 fbaml sudo   125 May  8 23:00 MergeResultValidate.sh
+-rwxr-x--- 1 fbaml sudo   700 May  9 18:02 metadata.json
+-rwxr-x--x 1 fbaml sudo   145 May  8 23:02 MorphTest.sh
+-rwxr-x--x 1 fbaml sudo   127 May  8 23:00 MorphTrain.sh
+-rwxr-x--x 1 fbaml sudo   107 May  8 23:00 MorphValidate.sh
+-rw------- 1 fbaml sudo 23343 May  8 23:14 nohup.out
+drwxr-xr-x 2 fbaml sudo  4096 May  9 18:09 output
+-rwxr-xr-x 1 fbaml sudo 42304 May 11 04:06 parseJson
+-rw-r--r-- 1 fbaml sudo  4413 May 11 04:04 parseJson.cpp
+-rwxr-xr-x 1 fbaml sudo   112 May  8 23:27 parseJson.sh
+-rwxr-x--x 1 fbaml sudo   409 May  9 16:33 ParserTest.sh
+-rwxr-x--x 1 fbaml sudo   728 May  8 23:00 ParserTrain.sh
+-rwxr-x--x 1 fbaml sudo   660 May  8 23:00 ParserValidate.sh
+-rwxr-x--x 1 fbaml sudo  1092 May 11 22:29 PipelineTest.sh
+-rwxr-x--x 1 fbaml sudo  2097 May  8 23:00 PipelineTrain.sh
+-rwxr-x--x 1 fbaml sudo   148 May  8 23:03 PostCombineTest.sh
+-rwxr-x--x 1 fbaml sudo   254 May  8 23:00 PostCombineTrain.sh
+-rwxr-x--x 1 fbaml sudo    99 May  8 23:00 PostCombineValidate.sh
+-rwxr-x--x 1 fbaml sudo   605 May  8 23:00 PrepareData.sh
+-rwxr-x--x 1 fbaml sudo   166 May  8 23:03 RerankerTest.sh
+-rwxr-x--x 1 fbaml sudo   943 May  8 23:00 RerankerTrain.sh
+-rwxr-x--x 1 fbaml sudo   130 May  8 23:00 RerankerValidate.sh
+-rwxr-x--x 1 fbaml sudo   232 May  9 14:48 runAR_PUD.sh
+-rwxr-x--x 1 fbaml sudo   232 May  8 23:00 runAR.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runBG.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:53 runBXR.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runCA.sh
+-rwxr-x--x 1 fbaml sudo   238 May  8 23:00 runCS_CAC.sh
+-rwxr-x--x 1 fbaml sudo   240 May  8 23:00 runCS_CLTT.sh
+-rwxr-x--x 1 fbaml sudo   230 May  9 14:43 runCS_PUD.sh
+-rwxr-x--x 1 fbaml sudo   230 May  8 23:00 runCS.sh
+-rwxr-x--x 1 fbaml sudo    82 May  8 23:00 runCU.sh
+-rwxr-x--x 1 fbaml sudo   229 May  8 23:00 runDA.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runDE_PUD.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runDE.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runEL.sh
+-rwxr-x--x 1 fbaml sudo    92 May  8 23:00 runEN_LINES.sh
+-rwxr-x--x 1 fbaml sudo    94 May  8 23:00 runEN_PARTUT.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runEN_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runEN.sh
+-rwxr-x--x 1 fbaml sudo   178 May  8 23:00 runES_ANCORA.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runES_PUD.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runES.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runET.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runEU.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runFA.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runFI_FTB.sh
+-rwxr-x--x 1 fbaml sudo    68 May  9 14:43 runFI_PUD.sh
+-rwxr-x--x 1 fbaml sudo    68 May  8 23:00 runFI.sh
+-rwxr-x--x 1 fbaml sudo    94 May  8 23:00 runFR_PARTUT.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runFR_PUD.sh
+-rwxr-x--x 1 fbaml sudo   179 May  8 23:00 runFR_SEQUOIA.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runFR.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runGA.sh
+-rwxr-x--x 1 fbaml sudo    79 May  8 23:00 runGL.sh
+-rwxr-x--x 1 fbaml sudo    96 May  8 23:00 runGL_TREEGAL.sh
+-rwxr-x--x 1 fbaml sudo    82 May  8 23:00 runGOT.sh
+-rwxr-x--x 1 fbaml sudo   180 May  8 23:00 runGRC_PROIEL.sh
+-rwxr-x--x 1 fbaml sudo    83 May  8 23:00 runGRC.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runHE.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runHI_PUD.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runHI.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runHR.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:56 runHSB.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runHU.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runID.sh
+-rwxr-x--x 1 fbaml sudo    96 May  8 23:00 runIT_PARTUT.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runIT_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runIT.sh
+-rwxr-x--x 1 fbaml sudo    81 May  9 14:43 runJA_PUD.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runJA.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runKK.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:54 runKMR.sh
+-rwxr-x--x 1 fbaml sudo   162 May  8 23:00 runKO.sh
+-rwxr-x--x 1 fbaml sudo   174 May  8 23:00 runLA_ITTB.sh
+-rwxr-x--x 1 fbaml sudo    94 May  8 23:00 runLA_PROIEL.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runLA.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runLV.sh
+-rwxr-x--x 1 fbaml sudo   102 May  8 23:00 runNL_LASSYSMALL.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runNL.sh
+-rwxr-x--x 1 fbaml sudo   179 May  8 23:00 runNO_BOKMAAL.sh
+-rwxr-x--x 1 fbaml sudo    96 May  9 14:22 runNO_NYNORSK.sh
+-rwxr-x--x 1 fbaml sudo   164 May  8 23:00 runPL.sh
+-rwxr-x--x 1 fbaml sudo   168 May  8 23:00 runPT_BR.sh
+-rwxr-x--x 1 fbaml sudo   231 May  9 14:43 runPT_PUD.sh
+-rwxr-x--x 1 fbaml sudo   231 May  8 23:00 runPT.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runRO.sh
+-rwxr-x--x 1 fbaml sudo    82 May  9 14:43 runRU_PUD.sh
+-rwxr-x--x 1 fbaml sudo    82 May  8 23:00 runRU.sh
+-rwxr-x--x 1 fbaml sudo   102 May  8 23:00 runRU_SYNTAGRUS.sh
+-rwxr-xr-x 1 fbaml sudo 15355 May 11 22:31 run.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runSK.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runSL.sh
+-rwxr-x--x 1 fbaml sudo    88 May  8 23:00 runSL_SST.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:56 runSME.sh
+-rwxr-x--x 1 fbaml sudo    92 May  8 23:00 runSV_LINES.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runSV_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runSV.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runTR_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runTR.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runUG.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runUK.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runUR.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runVI.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runZH.sh
+drwxr-xr-x 3 fbaml sudo  4096 May  8 23:41 script_del
+-rwxr-x--x 1 fbaml sudo   153 May  8 23:00 SentenceSegmentorTestDebug.sh
+-rwxr-x--x 1 fbaml sudo   266 May  9 17:59 SentenceSegmentorTest.sh
+-rwxr-x--x 1 fbaml sudo   171 May  8 23:00 SentenceSegmentorTrain.sh
+-rwxr-x--x 1 fbaml sudo   159 May  8 23:00 SentenceSegmentorValidate.sh
+-rwxr-x--x 1 fbaml sudo   188 May  8 23:00 SlicedCluster.sh
+drwxr-xr-x 2 fbaml sudo  4096 May  8 04:20 src
+-rwxr-x--x 1 fbaml sudo   154 May  8 23:01 TokenizerTest.sh
+-rwxr-x--x 1 fbaml sudo   134 May  8 23:00 TokenizerTrain.sh
+-rwxr-x--x 1 fbaml sudo   122 May  8 23:00 TokenizerValidateDebug.sh
+-rwxr-x--x 1 fbaml sudo   108 May  8 23:00 TokenizerValidate.sh
+-rwxr-x--x 1 fbaml sudo   169 May  9 16:33 UPOSTest.sh
+-rwxr-x--x 1 fbaml sudo   159 May  8 23:00 UPOSTrain.sh
+-rwxr-x--x 1 fbaml sudo   137 May  8 23:00 UPOSValidate.sh
+-rwxr-x--x 1 fbaml sudo  1086 May  8 23:00 WordClusterAll.sh
+-rwxr-x--x 1 fbaml sudo   271 May  8 23:00 WordCluster.sh
+-rwxr-x--x 1 fbaml sudo   184 May  9 16:33 XPOSTest.sh
+-rwxr-x--x 1 fbaml sudo   162 May  8 23:00 XPOSTrain.sh
+-rwxr-x--x 1 fbaml sudo   142 May  8 23:00 XPOSValidate.sh
+***** PIPELINE TEST **** LANGUAGE = ar, THREAD = 10, PROJECTIVE = 1, XPOS_NBEST=1 INPUTPATH(no /)=/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT_PATH=/tmp/fbaml/2017-05-11-22-29-43/output OUTPUT_FILE = ar.conllu RAWFILE = ar.txt
+bin/SentenceSegmentor -m /media/data/models/ar.ss.model -T 6 -L ar -vtxt /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar.txt -r /tmp/fbaml/2017-05-11-22-29-43/output/ar.ss.test
+rs size = 133094
+0K 1K 2K 3K 4K 5K 6K 7K 8K 9K 10K 11K 12K 13K 14K 15K 16K 17K 18K 19K 20K 21K 22K 23K 24K 25K 26K 27K 28K 29K 30K 31K 32K 33K 34K 35K 36K 37K 38K 39K 40K 41K 42K 43K 44K 45K 46K 47K 48K 49K 50K 51K 52K 53K 54K 55K 56K 57K 58K 59K 60K 61K 62K 63K 64K 65K 66K 67K 68K 69K 70K 71K 72K 73K 74K 75K 76K 77K 78K 79K 80K 81K 82K 83K 84K 85K 86K 87K 88K 89K 90K 91K 92K 93K 94K 95K 96K 97K 98K 99K 100K 101K 102K 103K 104K 105K 106K 107K 108K 109K 110K 111K 112K 113K 114K 115K 116K 117K 118K 119K 120K 121K 122K 123K 124K 125K 126K 127K 128K 129K 130K 131K 132K 
+model loaded, features: 177298	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 339M
+accuracy: 0.991329	oracle: 1	seconds: 4.65707	speed: 28578.9 words/sec
+max sentence length = 933
+model loaded, features: 24464	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 339M
+accuracy: 0.163838	oracle: 0.163838	seconds: 0.681766	speed: 192481 words/sec
+max length = 168 ends at line 25699
+model loaded, features: 3258	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.999891	oracle: 0.999891	seconds: 0.881584	speed: 31109.9 words/sec
+model loaded, features: 30406	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.844892	oracle: 0.844892	seconds: 0.949108	speed: 28896.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.613983	speed: 44669 words/sec
+accuracy: 1	oracle: 1	seconds: 0.615062	speed: 44590.6 words/sec
+model loaded, features: 149567	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.928389	oracle: 0.928389	seconds: 0.993749	speed: 27598.5 words/sec
+model loaded, features: 670440	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.477685	oracle: 0.477685	seconds: 0.944818	speed: 29027.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.683989	speed: 40097.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.615196	speed: 44580.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.620265	speed: 44216.6 words/sec
+model loaded, features: 477669	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.547583	oracle: 0.547583	seconds: 1.00916	speed: 27177 words/sec
+accuracy: 1	oracle: 1	seconds: 0.621084	speed: 44158.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.621386	speed: 44136.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.620142	speed: 44225.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.674983	speed: 40632.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.624141	speed: 43942 words/sec
+model loaded, features: 55020	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.991833	oracle: 0.991833	seconds: 0.969489	speed: 28289.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.665565	speed: 41207.1 words/sec
+model loaded, features: 376512	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.775614	oracle: 0.775614	seconds: 1.0271	speed: 26702.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.639141	speed: 42910.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.624023	speed: 43950.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.622297	speed: 44072.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.626758	speed: 43758.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.623022	speed: 44020.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.625499	speed: 43846.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.625142	speed: 43871.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.629162	speed: 43591.3 words/sec
+model loaded, features: 103164	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.969627	oracle: 0.969627	seconds: 0.976239	speed: 28093.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.630864	speed: 43473.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.62147	speed: 44130.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.620794	speed: 44178.9 words/sec
+model loaded, features: 12634	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.971596	oracle: 0.971596	seconds: 0.951359	speed: 28828.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.624622	speed: 43908.2 words/sec
+model loaded, features: 5944	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.99701	oracle: 0.99701	seconds: 0.936843	speed: 29274.9 words/sec
+model loaded, features: 471378	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.415555	oracle: 0.415555	seconds: 0.998826	speed: 27458.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.714846	speed: 38366.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.624664	speed: 43905.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.634221	speed: 43243.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.626913	speed: 43747.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.625463	speed: 43849.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.627184	speed: 43728.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.623777	speed: 43967.6 words/sec
+model loaded, features: 155102	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.897871	oracle: 0.897871	seconds: 0.979321	speed: 28005.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.71159	speed: 38541.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.630693	speed: 43485.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.624269	speed: 43933 words/sec
+accuracy: 1	oracle: 1	seconds: 0.624977	speed: 43883.2 words/sec
+model loaded, features: 2184	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 1	oracle: 1	seconds: 0.966407	speed: 28379.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.624724	speed: 43901 words/sec
+accuracy: 1	oracle: 1	seconds: 0.628191	speed: 43658.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.630478	speed: 43500.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.628573	speed: 43632.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.626598	speed: 43769.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.625796	speed: 43825.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.626663	speed: 43765.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.62542	speed: 43852.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.630399	speed: 43505.8 words/sec
+model loaded, features: 25914	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.953584	oracle: 0.953584	seconds: 1.0029	speed: 27346.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.635347	speed: 43167 words/sec
+accuracy: 1	oracle: 1	seconds: 0.63065	speed: 43488.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.625209	speed: 43866.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.642333	speed: 42697.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.624462	speed: 43919.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.626791	speed: 43756.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.637837	speed: 42998.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.626956	speed: 43744.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.638005	speed: 42987.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.625256	speed: 43863.6 words/sec
+model loaded, features: 85754	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.969263	oracle: 0.969263	seconds: 0.985771	speed: 27821.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.632081	speed: 43390 words/sec
+model loaded, features: 158313	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 377M
+accuracy: 0.927769	oracle: 0.927769	seconds: 1.04327	speed: 26288.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.624397	speed: 43924 words/sec
+accuracy: 0.221615
+max length = 168 ends at line 25699
+max length = 168 ends at line 23207
+model loaded, features: 3937393	labels: 16
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 2.03964	speed: 13446.5 words/sec
+max length = 168 ends at line 25699
+max length = 168 ends at line 23207
+model loaded, features: 3934799	labels: 15
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 2.00444	speed: 13682.6 words/sec
+model loaded, features: 1635183	labels: 12
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.88807	speed: 14526 words/sec
+model loaded, features: 706935	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.57533	speed: 17409.7 words/sec
+model loaded, features: 1244075	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.76269	speed: 15559.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.595481	speed: 46056.9 words/sec
+model loaded, features: 1210486	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.77469	speed: 15453.9 words/sec
+model loaded, features: 2897653	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.90578	speed: 14391 words/sec
+model loaded, features: 3425721	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.84995	speed: 14825.3 words/sec
+model loaded, features: 3982343	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.84977	speed: 14826.7 words/sec
+model loaded, features: 3380186	labels: 6
+src/Tagger/LinearSequence.cpp:632	memory cost: 645M
+accuracy: 0	oracle: 0	seconds: 1.85968	speed: 14747.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.597047	speed: 45936.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.595562	speed: 46050.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.598724	speed: 45807.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.591898	speed: 46335.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.588328	speed: 46616.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.587959	speed: 46646.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.587328	speed: 46696.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.599732	speed: 45730.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.598534	speed: 45822 words/sec
+accuracy: 1	oracle: 1	seconds: 0.596396	speed: 45986.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.599319	speed: 45761.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.595352	speed: 46066.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.590839	speed: 46418.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.587447	speed: 46686.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.590592	speed: 46438.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.610648	speed: 44912.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.712583	speed: 38488.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.646854	speed: 42399.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.595396	speed: 46063.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.588927	speed: 46569.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.587595	speed: 46675 words/sec
+accuracy: 1	oracle: 1	seconds: 0.586169	speed: 46788.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.587497	speed: 46682.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.594017	speed: 46170.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.593761	speed: 46190.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.590741	speed: 46426.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.595865	speed: 46027.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.587753	speed: 46662.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.588637	speed: 46592.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.594832	speed: 46107.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.591186	speed: 46391.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.590568	speed: 46440 words/sec
+accuracy: 1	oracle: 1	seconds: 0.589364	speed: 46534.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.591314	speed: 46381.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.593779	speed: 46188.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.60006	speed: 45705.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.587874	speed: 46652.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.591347	speed: 46378.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.589046	speed: 46560 words/sec
+accuracy: 1	oracle: 1	seconds: 0.591103	speed: 46398 words/sec
+accuracy: 0
+LANGUAGE = ar, PROJECTIVE = 1, THREAD = 10 INPUT =  /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-22-29-43/output
+task = test
+sync = 1
+max iter = 10
+is_dev = 1
+is_projective = 1
+singleRoot = 0
+eval_punc = 1
+mira_k = 10
+loss = 0
+thread_num = 10
+kbest = 1
+C = 0.01
+train_file = 
+model_file = /media/data/models/ar.dep.model
+test_file = /tmp/fbaml/2017-05-11-22-29-43/output/ar.tok.test
+result_file = /tmp/fbaml/2017-05-11-22-29-43/output/ar.dep.test
+template_file = 
+algorithm = 
+lang = ar
+train_lemma_file = 
+test_lemma_file = 
+train_upos_file = 
+test_upos_file = /tmp/fbaml/2017-05-11-22-29-43/output/ar.upos.test
+train_xpos_file = 
+test_xpos_file = /tmp/fbaml/2017-05-11-22-29-43/output/ar.xpos.test
+train_morph_file = 
+test_morph_file = /tmp/fbaml/2017-05-11-22-29-43/output/ar.morph.test
+max length = 168 ends at line 25699
+model loaded, feature number: 13685595
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxx.xxxxxxxx.
+elapsed time: 7801.23
+LANGUAGE = ar THREAD = 10 INPUT = /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-22-29-43/output
+max length = 168 ends at line 25699
+max length = 168 ends at line 23207
+model loaded, features: 10393204	labels: 80
+src/Labeler/LinearTree.cpp:609	memory cost: 1257M
+..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................max length = 185 ends at line 25699
+total 688
+drwxr-xr-x 6 fbaml sudo  4096 May 11 22:29 .
+drwxr-xr-x 5 fbaml sudo  4096 May 11 22:29 ..
+-rw-r--r-- 1 fbaml sudo 17891 May  9 17:59 1
+drwxr-xr-x 2 fbaml sudo  4096 May  9 18:12 bin
+-rwxr-x--x 1 fbaml sudo    57 May  8 23:00 clearALL.sh
+-rwxr-x--x 1 fbaml sudo    68 May 11 22:28 clearTMP.sh
+-rwxr-xr-x 1 fbaml sudo   350 May  9 14:43 copyPUD.sh
+-rwxr-x--x 1 fbaml sudo   510 May  8 23:00 crossValidateLemmatizer.sh
+-rwxr-x--x 1 fbaml sudo   424 May  8 23:00 crossValidateMorph.sh
+-rwxr-x--x 1 fbaml sudo   387 May  8 23:00 crossValidateUPOS.sh
+-rwxr-x--x 1 fbaml sudo   392 May  8 23:00 crossValidateXPOS.sh
+-rwxr-x--x 1 fbaml sudo  3575 May  8 23:00 debug.sh
+-rwxr-xr-x 1 fbaml sudo    63 May  8 23:47 do.sh
+-rwxr-x--x 1 fbaml sudo   130 May  8 23:00 EvalTest.sh
+-rwxr-x--x 1 fbaml sudo   103 May  8 23:00 EvalValidate.sh
+-rwxr-x--x 1 fbaml sudo   443 May  8 23:00 GroupXPOS.sh
+-rwxr-x--x 1 fbaml sudo   381 May  9 16:33 LabelerTest.sh
+-rwxr-x--x 1 fbaml sudo   291 May  8 23:00 LabelerTrain.sh
+-rwxr-x--x 1 fbaml sudo   321 May  8 23:00 LabelerValidate.sh
+-rwxr-x--x 1 fbaml sudo   262 May  8 23:00 LemmatizerTest.sh
+-rwxr-x--x 1 fbaml sudo   304 May  8 23:00 LemmatizerTrain.sh
+-rwxr-x--x 1 fbaml sudo   227 May  8 23:00 LemmatizerTry.sh
+-rwxr-x--x 1 fbaml sudo   262 May  8 23:00 LemmatizerValidate.sh
+-rwxr-x--x 1 fbaml sudo    69 May  8 23:00 LetterCollection.sh
+-rwxr-x--x 1 fbaml sudo   145 May 11 01:14 MergeResultTest.sh
+-rwxr-x--x 1 fbaml sudo   125 May  8 23:00 MergeResultValidate.sh
+-rwxr-x--- 1 fbaml sudo   700 May  9 18:02 metadata.json
+-rwxr-x--x 1 fbaml sudo   145 May  8 23:02 MorphTest.sh
+-rwxr-x--x 1 fbaml sudo   127 May  8 23:00 MorphTrain.sh
+-rwxr-x--x 1 fbaml sudo   107 May  8 23:00 MorphValidate.sh
+-rw------- 1 fbaml sudo 23343 May  8 23:14 nohup.out
+drwxr-xr-x 2 fbaml sudo  4096 May  9 18:09 output
+-rwxr-xr-x 1 fbaml sudo 42304 May 11 04:06 parseJson
+-rw-r--r-- 1 fbaml sudo  4413 May 11 04:04 parseJson.cpp
+-rwxr-xr-x 1 fbaml sudo   112 May  8 23:27 parseJson.sh
+-rwxr-x--x 1 fbaml sudo   409 May  9 16:33 ParserTest.sh
+-rwxr-x--x 1 fbaml sudo   728 May  8 23:00 ParserTrain.sh
+-rwxr-x--x 1 fbaml sudo   660 May  8 23:00 ParserValidate.sh
+-rwxr-x--x 1 fbaml sudo  1092 May 11 22:29 PipelineTest.sh
+-rwxr-x--x 1 fbaml sudo  2097 May  8 23:00 PipelineTrain.sh
+-rwxr-x--x 1 fbaml sudo   148 May  8 23:03 PostCombineTest.sh
+-rwxr-x--x 1 fbaml sudo   254 May  8 23:00 PostCombineTrain.sh
+-rwxr-x--x 1 fbaml sudo    99 May  8 23:00 PostCombineValidate.sh
+-rwxr-x--x 1 fbaml sudo   605 May  8 23:00 PrepareData.sh
+-rwxr-x--x 1 fbaml sudo   166 May  8 23:03 RerankerTest.sh
+-rwxr-x--x 1 fbaml sudo   943 May  8 23:00 RerankerTrain.sh
+-rwxr-x--x 1 fbaml sudo   130 May  8 23:00 RerankerValidate.sh
+-rwxr-x--x 1 fbaml sudo   232 May  9 14:48 runAR_PUD.sh
+-rwxr-x--x 1 fbaml sudo   232 May  8 23:00 runAR.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runBG.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:53 runBXR.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runCA.sh
+-rwxr-x--x 1 fbaml sudo   238 May  8 23:00 runCS_CAC.sh
+-rwxr-x--x 1 fbaml sudo   240 May  8 23:00 runCS_CLTT.sh
+-rwxr-x--x 1 fbaml sudo   230 May  9 14:43 runCS_PUD.sh
+-rwxr-x--x 1 fbaml sudo   230 May  8 23:00 runCS.sh
+-rwxr-x--x 1 fbaml sudo    82 May  8 23:00 runCU.sh
+-rwxr-x--x 1 fbaml sudo   229 May  8 23:00 runDA.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runDE_PUD.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runDE.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runEL.sh
+-rwxr-x--x 1 fbaml sudo    92 May  8 23:00 runEN_LINES.sh
+-rwxr-x--x 1 fbaml sudo    94 May  8 23:00 runEN_PARTUT.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runEN_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runEN.sh
+-rwxr-x--x 1 fbaml sudo   178 May  8 23:00 runES_ANCORA.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runES_PUD.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runES.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runET.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runEU.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runFA.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runFI_FTB.sh
+-rwxr-x--x 1 fbaml sudo    68 May  9 14:43 runFI_PUD.sh
+-rwxr-x--x 1 fbaml sudo    68 May  8 23:00 runFI.sh
+-rwxr-x--x 1 fbaml sudo    94 May  8 23:00 runFR_PARTUT.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runFR_PUD.sh
+-rwxr-x--x 1 fbaml sudo   179 May  8 23:00 runFR_SEQUOIA.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runFR.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runGA.sh
+-rwxr-x--x 1 fbaml sudo    79 May  8 23:00 runGL.sh
+-rwxr-x--x 1 fbaml sudo    96 May  8 23:00 runGL_TREEGAL.sh
+-rwxr-x--x 1 fbaml sudo    82 May  8 23:00 runGOT.sh
+-rwxr-x--x 1 fbaml sudo   180 May  8 23:00 runGRC_PROIEL.sh
+-rwxr-x--x 1 fbaml sudo    83 May  8 23:00 runGRC.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runHE.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runHI_PUD.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runHI.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runHR.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:56 runHSB.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runHU.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runID.sh
+-rwxr-x--x 1 fbaml sudo    96 May  8 23:00 runIT_PARTUT.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runIT_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runIT.sh
+-rwxr-x--x 1 fbaml sudo    81 May  9 14:43 runJA_PUD.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runJA.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runKK.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:54 runKMR.sh
+-rwxr-x--x 1 fbaml sudo   162 May  8 23:00 runKO.sh
+-rwxr-x--x 1 fbaml sudo   174 May  8 23:00 runLA_ITTB.sh
+-rwxr-x--x 1 fbaml sudo    94 May  8 23:00 runLA_PROIEL.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runLA.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runLV.sh
+-rwxr-x--x 1 fbaml sudo   102 May  8 23:00 runNL_LASSYSMALL.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runNL.sh
+-rwxr-x--x 1 fbaml sudo   179 May  8 23:00 runNO_BOKMAAL.sh
+-rwxr-x--x 1 fbaml sudo    96 May  9 14:22 runNO_NYNORSK.sh
+-rwxr-x--x 1 fbaml sudo   164 May  8 23:00 runPL.sh
+-rwxr-x--x 1 fbaml sudo   168 May  8 23:00 runPT_BR.sh
+-rwxr-x--x 1 fbaml sudo   231 May  9 14:43 runPT_PUD.sh
+-rwxr-x--x 1 fbaml sudo   231 May  8 23:00 runPT.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runRO.sh
+-rwxr-x--x 1 fbaml sudo    82 May  9 14:43 runRU_PUD.sh
+-rwxr-x--x 1 fbaml sudo    82 May  8 23:00 runRU.sh
+-rwxr-x--x 1 fbaml sudo   102 May  8 23:00 runRU_SYNTAGRUS.sh
+-rwxr-xr-x 1 fbaml sudo 15355 May 11 22:31 run.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runSK.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runSL.sh
+-rwxr-x--x 1 fbaml sudo    88 May  8 23:00 runSL_SST.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:56 runSME.sh
+-rwxr-x--x 1 fbaml sudo    92 May  8 23:00 runSV_LINES.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runSV_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runSV.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runTR_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runTR.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runUG.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runUK.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runUR.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runVI.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runZH.sh
+drwxr-xr-x 3 fbaml sudo  4096 May  8 23:41 script_del
+-rwxr-x--x 1 fbaml sudo   153 May  8 23:00 SentenceSegmentorTestDebug.sh
+-rwxr-x--x 1 fbaml sudo   266 May  9 17:59 SentenceSegmentorTest.sh
+-rwxr-x--x 1 fbaml sudo   171 May  8 23:00 SentenceSegmentorTrain.sh
+-rwxr-x--x 1 fbaml sudo   159 May  8 23:00 SentenceSegmentorValidate.sh
+-rwxr-x--x 1 fbaml sudo   188 May  8 23:00 SlicedCluster.sh
+drwxr-xr-x 2 fbaml sudo  4096 May  8 04:20 src
+-rwxr-x--x 1 fbaml sudo   154 May  8 23:01 TokenizerTest.sh
+-rwxr-x--x 1 fbaml sudo   134 May  8 23:00 TokenizerTrain.sh
+-rwxr-x--x 1 fbaml sudo   122 May  8 23:00 TokenizerValidateDebug.sh
+-rwxr-x--x 1 fbaml sudo   108 May  8 23:00 TokenizerValidate.sh
+-rwxr-x--x 1 fbaml sudo   169 May  9 16:33 UPOSTest.sh
+-rwxr-x--x 1 fbaml sudo   159 May  8 23:00 UPOSTrain.sh
+-rwxr-x--x 1 fbaml sudo   137 May  8 23:00 UPOSValidate.sh
+-rwxr-x--x 1 fbaml sudo  1086 May  8 23:00 WordClusterAll.sh
+-rwxr-x--x 1 fbaml sudo   271 May  8 23:00 WordCluster.sh
+-rwxr-x--x 1 fbaml sudo   184 May  9 16:33 XPOSTest.sh
+-rwxr-x--x 1 fbaml sudo   162 May  8 23:00 XPOSTrain.sh
+-rwxr-x--x 1 fbaml sudo   142 May  8 23:00 XPOSValidate.sh
+***** PIPELINE TEST **** LANGUAGE = bg, THREAD = 10, PROJECTIVE = 1, XPOS_NBEST=3 INPUTPATH(no /)=/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT_PATH=/tmp/fbaml/2017-05-11-22-29-43/output OUTPUT_FILE = bg.conllu RAWFILE = bg.txt
+bin/SentenceSegmentor -m /media/data/models/bg.ss.model -T 6 -L bg -vtxt /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bg.txt -r /tmp/fbaml/2017-05-11-22-29-43/output/bg.ss.test
+rs size = 86420
+0K 1K 2K 3K 4K 5K 6K 7K 8K 9K 10K 11K 12K 13K 14K 15K 16K 17K 18K 19K 20K 21K 22K 23K 24K 25K 26K 27K 28K 29K 30K 31K 32K 33K 34K 35K 36K 37K 38K 39K 40K 41K 42K 43K 44K 45K 46K 47K 48K 49K 50K 51K 52K 53K 54K 55K 56K 57K 58K 59K 60K 61K 62K 63K 64K 65K 66K 67K 68K 69K 70K 71K 72K 73K 74K 75K 76K 77K 78K 79K 80K 81K 82K 83K 84K 85K 
+model loaded, features: 467220	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 217M
+accuracy: 0.987595	oracle: 1	seconds: 3.07256	speed: 28126.4 words/sec
+max sentence length = 459
+model loaded, features: 19783	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 213M
+accuracy: 0.146546	oracle: 0.146546	seconds: 0.455471	speed: 187048 words/sec
+max length = 79 ends at line 13817
+accuracy: 1	oracle: 1	seconds: 0.344521	speed: 45657.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.344687	speed: 45635.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.346431	speed: 45405.9 words/sec
+model loaded, features: 942	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.999682	oracle: 0.999682	seconds: 0.574506	speed: 27380 words/sec
+model loaded, features: 157218	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.860712	oracle: 0.860712	seconds: 0.629819	speed: 24975.4 words/sec
+model loaded, features: 32355	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.936364	oracle: 0.936364	seconds: 0.588055	speed: 26749.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.360911	speed: 43584.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.354258	speed: 44402.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.356584	speed: 44113 words/sec
+model loaded, features: 226925	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.602034	oracle: 0.602034	seconds: 0.593689	speed: 26495.4 words/sec
+model loaded, features: 165252	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.888684	oracle: 0.888684	seconds: 0.591383	speed: 26598.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.401426	speed: 39185.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.354723	speed: 44344.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.357118	speed: 44047.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.353292	speed: 44524.1 words/sec
+model loaded, features: 292	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 1	oracle: 1	seconds: 0.555476	speed: 28318.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.413518	speed: 38039.5 words/sec
+model loaded, features: 307105	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.617864	oracle: 0.617864	seconds: 0.612721	speed: 25672.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.362118	speed: 43438.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.356486	speed: 44125.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.354315	speed: 44395.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.3567	speed: 44098.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.360509	speed: 43632.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.360018	speed: 43692.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.362136	speed: 43436.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.36166	speed: 43493.9 words/sec
+model loaded, features: 97442	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.883408	oracle: 0.883408	seconds: 0.589266	speed: 26694.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.400302	speed: 39295.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.367672	speed: 42782.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.36247	speed: 43396.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.365337	speed: 43056.1 words/sec
+model loaded, features: 22837	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.976414	oracle: 0.976414	seconds: 0.578574	speed: 27187.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.359541	speed: 43750.2 words/sec
+model loaded, features: 229086	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.431596	oracle: 0.431596	seconds: 0.615449	speed: 25558.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.39344	speed: 39980.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.356913	speed: 44072.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.356459	speed: 44128.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.369192	speed: 42606.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.356366	speed: 44140 words/sec
+accuracy: 1	oracle: 1	seconds: 0.376656	speed: 41762.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.363231	speed: 43305.8 words/sec
+model loaded, features: 114168	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.856961	oracle: 0.856961	seconds: 0.621637	speed: 25304.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.40361	speed: 38973.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.361239	speed: 43544.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.364903	speed: 43107.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.357244	speed: 44031.5 words/sec
+model loaded, features: 1416	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.990909	oracle: 0.990909	seconds: 0.606669	speed: 25928.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.357417	speed: 44010.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.369751	speed: 42542.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.365456	speed: 43042.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.366581	speed: 42910 words/sec
+accuracy: 1	oracle: 1	seconds: 0.387932	speed: 40548.3 words/sec
+model loaded, features: 18074	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.987222	oracle: 0.987222	seconds: 0.580818	speed: 27082.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.361495	speed: 43513.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.365667	speed: 43017.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.364141	speed: 43197.6 words/sec
+model loaded, features: 31290	labels: 8
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.912397	oracle: 0.912397	seconds: 0.587073	speed: 26793.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.36683	speed: 42880.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.367068	speed: 42853.1 words/sec
+model loaded, features: 3198	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.975461	oracle: 0.975461	seconds: 0.573087	speed: 27447.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.37764	speed: 41653.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.368493	speed: 42687.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.403203	speed: 39012.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.361499	speed: 43513.3 words/sec
+model loaded, features: 131782	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.876097	oracle: 0.876097	seconds: 0.614558	speed: 25595.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.366255	speed: 42948.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.365525	speed: 43034 words/sec
+model loaded, features: 134395	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.860776	oracle: 0.860776	seconds: 0.663117	speed: 23721.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.368106	speed: 42732.3 words/sec
+model loaded, features: 131785	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 222M
+accuracy: 0.862174	oracle: 0.862174	seconds: 0.674748	speed: 23312.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.357813	speed: 43961.5 words/sec
+accuracy: 0.358423
+max length = 79 ends at line 13817
+max length = 79 ends at line 13817
+model loaded, features: 2085676	labels: 16
+src/Tagger/LinearSequence.cpp:632	memory cost: 382M
+accuracy: 0	oracle: 0	seconds: 1.19939	speed: 13115 words/sec
+max length = 79 ends at line 13817
+max length = 79 ends at line 13817
+model loaded, features: 3087253	labels: 218
+src/Tagger/LinearSequence.cpp:632	memory cost: 382M
+accuracy: 0	oracle: 0	seconds: 8.4023	speed: 1872.11 words/sec
+accuracy: 1	oracle: 1	seconds: 0.355291	speed: 44273.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.357649	speed: 43981.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.349047	speed: 45065.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.363942	speed: 43221.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.350497	speed: 44879.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.349109	speed: 45057.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.359911	speed: 43705.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.350575	speed: 44869.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.352442	speed: 44631.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.354349	speed: 44391.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.350802	speed: 44840.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.351217	speed: 44787.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.354204	speed: 44409.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.357272	speed: 44028.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.37047	speed: 42459.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.351102	speed: 44801.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.361385	speed: 43527 words/sec
+accuracy: 1	oracle: 1	seconds: 0.371079	speed: 42389.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.353504	speed: 44497.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.360269	speed: 43661.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.356652	speed: 44104.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.349272	speed: 45036.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.359862	speed: 43711.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.362557	speed: 43386.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.359159	speed: 43796.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.353323	speed: 44520.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.365395	speed: 43049.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.366198	speed: 42954.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.368696	speed: 42663.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.354813	speed: 44333.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.356962	speed: 44066.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.368705	speed: 42662.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.357501	speed: 43999.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.356262	speed: 44152.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.424654	speed: 37041.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.400748	speed: 39251.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.363915	speed: 43224.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.355058	speed: 44302.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.356682	speed: 44100.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.367135	speed: 42845.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.355845	speed: 44204.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.359781	speed: 43721 words/sec
+accuracy: 1	oracle: 1	seconds: 0.366184	speed: 42956.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.354513	speed: 44370.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.367385	speed: 42816.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.368219	speed: 42719.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.354696	speed: 44347.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.366318	speed: 42940.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.383169	speed: 41052.4 words/sec
+accuracy: 0
+LANGUAGE = bg, PROJECTIVE = 1, THREAD = 10 INPUT =  /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-22-29-43/output
+task = test
+sync = 1
+max iter = 10
+is_dev = 1
+is_projective = 1
+singleRoot = 0
+eval_punc = 1
+mira_k = 10
+loss = 0
+thread_num = 10
+kbest = 1
+C = 0.01
+train_file = 
+model_file = /media/data/models/bg.dep.model
+test_file = /tmp/fbaml/2017-05-11-22-29-43/output/bg.tok.test
+result_file = /tmp/fbaml/2017-05-11-22-29-43/output/bg.dep.test
+template_file = 
+algorithm = 
+lang = bg
+train_lemma_file = 
+test_lemma_file = 
+train_upos_file = 
+test_upos_file = /tmp/fbaml/2017-05-11-22-29-43/output/bg.upos.test
+train_xpos_file = 
+test_xpos_file = /tmp/fbaml/2017-05-11-22-29-43/output/bg.xpos.test
+train_morph_file = 
+test_morph_file = /tmp/fbaml/2017-05-11-22-29-43/output/bg.morph.test
+max length = 79 ends at line 13817
+model loaded, feature number: 6323787
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx.xx.xxxxx.xxxxxx.xxxxxxx.x.xxxxxxxxxxxxxx.
+elapsed time: 501.995
+LANGUAGE = bg THREAD = 10 INPUT = /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-22-29-43/output
+max length = 79 ends at line 13817
+max length = 79 ends at line 13817
+model loaded, features: 3985298	labels: 69
+src/Labeler/LinearTree.cpp:609	memory cost: 425M
+................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................max length = 79 ends at line 13817
+total 688
+drwxr-xr-x 6 fbaml sudo  4096 May 11 22:29 .
+drwxr-xr-x 5 fbaml sudo  4096 May 11 22:29 ..
+-rw-r--r-- 1 fbaml sudo 17891 May  9 17:59 1
+drwxr-xr-x 2 fbaml sudo  4096 May  9 18:12 bin
+-rwxr-x--x 1 fbaml sudo    57 May  8 23:00 clearALL.sh
+-rwxr-x--x 1 fbaml sudo    68 May 11 22:28 clearTMP.sh
+-rwxr-xr-x 1 fbaml sudo   350 May  9 14:43 copyPUD.sh
+-rwxr-x--x 1 fbaml sudo   510 May  8 23:00 crossValidateLemmatizer.sh
+-rwxr-x--x 1 fbaml sudo   424 May  8 23:00 crossValidateMorph.sh
+-rwxr-x--x 1 fbaml sudo   387 May  8 23:00 crossValidateUPOS.sh
+-rwxr-x--x 1 fbaml sudo   392 May  8 23:00 crossValidateXPOS.sh
+-rwxr-x--x 1 fbaml sudo  3575 May  8 23:00 debug.sh
+-rwxr-xr-x 1 fbaml sudo    63 May  8 23:47 do.sh
+-rwxr-x--x 1 fbaml sudo   130 May  8 23:00 EvalTest.sh
+-rwxr-x--x 1 fbaml sudo   103 May  8 23:00 EvalValidate.sh
+-rwxr-x--x 1 fbaml sudo   443 May  8 23:00 GroupXPOS.sh
+-rwxr-x--x 1 fbaml sudo   381 May  9 16:33 LabelerTest.sh
+-rwxr-x--x 1 fbaml sudo   291 May  8 23:00 LabelerTrain.sh
+-rwxr-x--x 1 fbaml sudo   321 May  8 23:00 LabelerValidate.sh
+-rwxr-x--x 1 fbaml sudo   262 May  8 23:00 LemmatizerTest.sh
+-rwxr-x--x 1 fbaml sudo   304 May  8 23:00 LemmatizerTrain.sh
+-rwxr-x--x 1 fbaml sudo   227 May  8 23:00 LemmatizerTry.sh
+-rwxr-x--x 1 fbaml sudo   262 May  8 23:00 LemmatizerValidate.sh
+-rwxr-x--x 1 fbaml sudo    69 May  8 23:00 LetterCollection.sh
+-rwxr-x--x 1 fbaml sudo   145 May 11 01:14 MergeResultTest.sh
+-rwxr-x--x 1 fbaml sudo   125 May  8 23:00 MergeResultValidate.sh
+-rwxr-x--- 1 fbaml sudo   700 May  9 18:02 metadata.json
+-rwxr-x--x 1 fbaml sudo   145 May  8 23:02 MorphTest.sh
+-rwxr-x--x 1 fbaml sudo   127 May  8 23:00 MorphTrain.sh
+-rwxr-x--x 1 fbaml sudo   107 May  8 23:00 MorphValidate.sh
+-rw------- 1 fbaml sudo 23343 May  8 23:14 nohup.out
+drwxr-xr-x 2 fbaml sudo  4096 May  9 18:09 output
+-rwxr-xr-x 1 fbaml sudo 42304 May 11 04:06 parseJson
+-rw-r--r-- 1 fbaml sudo  4413 May 11 04:04 parseJson.cpp
+-rwxr-xr-x 1 fbaml sudo   112 May  8 23:27 parseJson.sh
+-rwxr-x--x 1 fbaml sudo   409 May  9 16:33 ParserTest.sh
+-rwxr-x--x 1 fbaml sudo   728 May  8 23:00 ParserTrain.sh
+-rwxr-x--x 1 fbaml sudo   660 May  8 23:00 ParserValidate.sh
+-rwxr-x--x 1 fbaml sudo  1092 May 11 22:29 PipelineTest.sh
+-rwxr-x--x 1 fbaml sudo  2097 May  8 23:00 PipelineTrain.sh
+-rwxr-x--x 1 fbaml sudo   148 May  8 23:03 PostCombineTest.sh
+-rwxr-x--x 1 fbaml sudo   254 May  8 23:00 PostCombineTrain.sh
+-rwxr-x--x 1 fbaml sudo    99 May  8 23:00 PostCombineValidate.sh
+-rwxr-x--x 1 fbaml sudo   605 May  8 23:00 PrepareData.sh
+-rwxr-x--x 1 fbaml sudo   166 May  8 23:03 RerankerTest.sh
+-rwxr-x--x 1 fbaml sudo   943 May  8 23:00 RerankerTrain.sh
+-rwxr-x--x 1 fbaml sudo   130 May  8 23:00 RerankerValidate.sh
+-rwxr-x--x 1 fbaml sudo   232 May  9 14:48 runAR_PUD.sh
+-rwxr-x--x 1 fbaml sudo   232 May  8 23:00 runAR.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runBG.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:53 runBXR.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runCA.sh
+-rwxr-x--x 1 fbaml sudo   238 May  8 23:00 runCS_CAC.sh
+-rwxr-x--x 1 fbaml sudo   240 May  8 23:00 runCS_CLTT.sh
+-rwxr-x--x 1 fbaml sudo   230 May  9 14:43 runCS_PUD.sh
+-rwxr-x--x 1 fbaml sudo   230 May  8 23:00 runCS.sh
+-rwxr-x--x 1 fbaml sudo    82 May  8 23:00 runCU.sh
+-rwxr-x--x 1 fbaml sudo   229 May  8 23:00 runDA.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runDE_PUD.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runDE.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runEL.sh
+-rwxr-x--x 1 fbaml sudo    92 May  8 23:00 runEN_LINES.sh
+-rwxr-x--x 1 fbaml sudo    94 May  8 23:00 runEN_PARTUT.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runEN_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runEN.sh
+-rwxr-x--x 1 fbaml sudo   178 May  8 23:00 runES_ANCORA.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runES_PUD.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runES.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runET.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runEU.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runFA.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runFI_FTB.sh
+-rwxr-x--x 1 fbaml sudo    68 May  9 14:43 runFI_PUD.sh
+-rwxr-x--x 1 fbaml sudo    68 May  8 23:00 runFI.sh
+-rwxr-x--x 1 fbaml sudo    94 May  8 23:00 runFR_PARTUT.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runFR_PUD.sh
+-rwxr-x--x 1 fbaml sudo   179 May  8 23:00 runFR_SEQUOIA.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runFR.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runGA.sh
+-rwxr-x--x 1 fbaml sudo    79 May  8 23:00 runGL.sh
+-rwxr-x--x 1 fbaml sudo    96 May  8 23:00 runGL_TREEGAL.sh
+-rwxr-x--x 1 fbaml sudo    82 May  8 23:00 runGOT.sh
+-rwxr-x--x 1 fbaml sudo   180 May  8 23:00 runGRC_PROIEL.sh
+-rwxr-x--x 1 fbaml sudo    83 May  8 23:00 runGRC.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runHE.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runHI_PUD.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runHI.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runHR.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:56 runHSB.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runHU.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runID.sh
+-rwxr-x--x 1 fbaml sudo    96 May  8 23:00 runIT_PARTUT.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runIT_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runIT.sh
+-rwxr-x--x 1 fbaml sudo    81 May  9 14:43 runJA_PUD.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runJA.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runKK.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:54 runKMR.sh
+-rwxr-x--x 1 fbaml sudo   162 May  8 23:00 runKO.sh
+-rwxr-x--x 1 fbaml sudo   174 May  8 23:00 runLA_ITTB.sh
+-rwxr-x--x 1 fbaml sudo    94 May  8 23:00 runLA_PROIEL.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runLA.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runLV.sh
+-rwxr-x--x 1 fbaml sudo   102 May  8 23:00 runNL_LASSYSMALL.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runNL.sh
+-rwxr-x--x 1 fbaml sudo   179 May  8 23:00 runNO_BOKMAAL.sh
+-rwxr-x--x 1 fbaml sudo    96 May  9 14:22 runNO_NYNORSK.sh
+-rwxr-x--x 1 fbaml sudo   164 May  8 23:00 runPL.sh
+-rwxr-x--x 1 fbaml sudo   168 May  8 23:00 runPT_BR.sh
+-rwxr-x--x 1 fbaml sudo   231 May  9 14:43 runPT_PUD.sh
+-rwxr-x--x 1 fbaml sudo   231 May  8 23:00 runPT.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runRO.sh
+-rwxr-x--x 1 fbaml sudo    82 May  9 14:43 runRU_PUD.sh
+-rwxr-x--x 1 fbaml sudo    82 May  8 23:00 runRU.sh
+-rwxr-x--x 1 fbaml sudo   102 May  8 23:00 runRU_SYNTAGRUS.sh
+-rwxr-xr-x 1 fbaml sudo 15355 May 11 22:31 run.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runSK.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runSL.sh
+-rwxr-x--x 1 fbaml sudo    88 May  8 23:00 runSL_SST.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:56 runSME.sh
+-rwxr-x--x 1 fbaml sudo    92 May  8 23:00 runSV_LINES.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runSV_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runSV.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runTR_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runTR.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runUG.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runUK.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runUR.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runVI.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runZH.sh
+drwxr-xr-x 3 fbaml sudo  4096 May  8 23:41 script_del
+-rwxr-x--x 1 fbaml sudo   153 May  8 23:00 SentenceSegmentorTestDebug.sh
+-rwxr-x--x 1 fbaml sudo   266 May  9 17:59 SentenceSegmentorTest.sh
+-rwxr-x--x 1 fbaml sudo   171 May  8 23:00 SentenceSegmentorTrain.sh
+-rwxr-x--x 1 fbaml sudo   159 May  8 23:00 SentenceSegmentorValidate.sh
+-rwxr-x--x 1 fbaml sudo   188 May  8 23:00 SlicedCluster.sh
+drwxr-xr-x 2 fbaml sudo  4096 May  8 04:20 src
+-rwxr-x--x 1 fbaml sudo   154 May  8 23:01 TokenizerTest.sh
+-rwxr-x--x 1 fbaml sudo   134 May  8 23:00 TokenizerTrain.sh
+-rwxr-x--x 1 fbaml sudo   122 May  8 23:00 TokenizerValidateDebug.sh
+-rwxr-x--x 1 fbaml sudo   108 May  8 23:00 TokenizerValidate.sh
+-rwxr-x--x 1 fbaml sudo   169 May  9 16:33 UPOSTest.sh
+-rwxr-x--x 1 fbaml sudo   159 May  8 23:00 UPOSTrain.sh
+-rwxr-x--x 1 fbaml sudo   137 May  8 23:00 UPOSValidate.sh
+-rwxr-x--x 1 fbaml sudo  1086 May  8 23:00 WordClusterAll.sh
+-rwxr-x--x 1 fbaml sudo   271 May  8 23:00 WordCluster.sh
+-rwxr-x--x 1 fbaml sudo   184 May  9 16:33 XPOSTest.sh
+-rwxr-x--x 1 fbaml sudo   162 May  8 23:00 XPOSTrain.sh
+-rwxr-x--x 1 fbaml sudo   142 May  8 23:00 XPOSValidate.sh
+***** PIPELINE TEST **** LANGUAGE = bxr, THREAD = 10, PROJECTIVE = 1, XPOS_NBEST=3 INPUTPATH(no /)=/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT_PATH=/tmp/fbaml/2017-05-11-22-29-43/output OUTPUT_FILE = bxr.conllu RAWFILE = bxr.txt
+bin/SentenceSegmentor -m /media/data/models/bxr.ss.model -T 6 -L bxr -vtxt /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr.txt -r /tmp/fbaml/2017-05-11-22-29-43/output/bxr.ss.test
+rs size = 63983
+0K 1K 2K 3K 4K 5K 6K 7K 8K 9K 10K 11K 12K 13K 14K 15K 16K 17K 18K 19K 20K 21K 22K 23K 24K 25K 26K 27K 28K 29K 30K 31K 32K 33K 34K 35K 36K 37K 38K 39K 40K 41K 42K 43K 44K 45K 46K 47K 48K 49K 50K 51K 52K 53K 54K 55K 56K 57K 58K 59K 60K 61K 62K 
+model loaded, features: 567150	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 54M
+accuracy: 0.9867	oracle: 1	seconds: 2.44187	speed: 26202.4 words/sec
+max sentence length = 392
+model loaded, features: 61461	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 50M
+accuracy: 0.117583	oracle: 0.117583	seconds: 0.377811	speed: 167094 words/sec
+max length = 65 ends at line 9803
+accuracy: 1	oracle: 1	seconds: 0.268666	speed: 37053.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.271244	speed: 36701.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.267729	speed: 37183.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.270761	speed: 36766.7 words/sec
+model loaded, features: 604	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 51M
+accuracy: 0.999799	oracle: 0.999799	seconds: 0.402919	speed: 24707.2 words/sec
+model loaded, features: 2192	labels: 6
+src/Tagger/LinearSequence.cpp:632	memory cost: 51M
+accuracy: 0.710799	oracle: 0.710799	seconds: 0.406555	speed: 24486.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.27025	speed: 36836.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.273939	speed: 36340.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.270353	speed: 36822.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.276346	speed: 36023.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.271657	speed: 36645.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.274874	speed: 36216.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.277066	speed: 35930.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.279774	speed: 35582.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.282208	speed: 35275.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.283697	speed: 35090.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.279246	speed: 35649.6 words/sec
+model loaded, features: 471	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 51M
+accuracy: 1	oracle: 1	seconds: 0.40324	speed: 24687.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.277549	speed: 35867.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.278423	speed: 35754.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.280102	speed: 35540.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.269944	speed: 36878 words/sec
+accuracy: 1	oracle: 1	seconds: 0.271792	speed: 36627.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.270003	speed: 36870 words/sec
+accuracy: 1	oracle: 1	seconds: 0.273636	speed: 36380.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.277378	speed: 35889.7 words/sec
+model loaded, features: 1028	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 51M
+accuracy: 0.91783	oracle: 0.91783	seconds: 0.39928	speed: 24932.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.26886	speed: 37026.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.278032	speed: 35805.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.273962	speed: 36337.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.276589	speed: 35992 words/sec
+accuracy: 1	oracle: 1	seconds: 0.274596	speed: 36253.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.274845	speed: 36220.4 words/sec
+model loaded, features: 978	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 51M
+accuracy: 0.981617	oracle: 0.981617	seconds: 0.406074	speed: 24515.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.277631	speed: 35856.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.272142	speed: 36580.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.342963	speed: 29026.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.270012	speed: 36868.7 words/sec
+model loaded, features: 394	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 51M
+accuracy: 1	oracle: 1	seconds: 0.406291	speed: 24502.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.268822	speed: 37031.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.270983	speed: 36736.6 words/sec
+model loaded, features: 1124	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 51M
+accuracy: 0.991562	oracle: 0.991562	seconds: 0.388389	speed: 25631.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.283872	speed: 35068.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.270753	speed: 36767.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.273646	speed: 36379.1 words/sec
+model loaded, features: 246	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 51M
+accuracy: 0.9999	oracle: 0.9999	seconds: 0.400386	speed: 24863.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.273412	speed: 36410.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.269641	speed: 36919.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.280068	speed: 35544.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.271353	speed: 36686.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.274673	speed: 36243.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.270615	speed: 36786.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.269157	speed: 36985.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.268634	speed: 37057.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.268976	speed: 37010.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.266761	speed: 37318 words/sec
+model loaded, features: 542	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 51M
+accuracy: 0.994676	oracle: 0.994676	seconds: 0.407726	speed: 24415.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.268667	speed: 37053.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.279768	speed: 35583.1 words/sec
+model loaded, features: 592	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 51M
+accuracy: 1	oracle: 1	seconds: 0.397535	speed: 25041.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.268684	speed: 37051 words/sec
+accuracy: 1	oracle: 1	seconds: 0.268359	speed: 37095.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.270176	speed: 36846.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.269999	speed: 36870.5 words/sec
+model loaded, features: 867	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 51M
+accuracy: 0.992868	oracle: 0.992868	seconds: 0.40276	speed: 24717 words/sec
+accuracy: 1	oracle: 1	seconds: 0.268309	speed: 37102.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.268187	speed: 37119.6 words/sec
+model loaded, features: 1604	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 51M
+accuracy: 0.908388	oracle: 0.908388	seconds: 0.395796	speed: 25151.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.268646	speed: 37056.2 words/sec
+accuracy: 1	oracle: 1	seconds: 0.267688	speed: 37188.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.267997	speed: 37145.9 words/sec
+accuracy: 0.609141
+max length = 65 ends at line 9803
+max length = 65 ends at line 9803
+model loaded, features: 15051	labels: 11
+src/Tagger/LinearSequence.cpp:632	memory cost: 136M
+accuracy: 0	oracle: 0	seconds: 0.569855	speed: 17469.4 words/sec
+max length = 65 ends at line 9803
+max length = 65 ends at line 9803
+accuracy: 1	oracle: 1	seconds: 0.270142	speed: 36851 words/sec
+accuracy: 1	oracle: 1	seconds: 0.275457	speed: 36139.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.280925	speed: 35436.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.317034	speed: 31400.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.277733	speed: 35843.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.274096	speed: 36319.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.283311	speed: 35138.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.273516	speed: 36396.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.280819	speed: 35449.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.278629	speed: 35728.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.268367	speed: 37094.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.275362	speed: 36152.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.272435	speed: 36540.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.274678	speed: 36242.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.272124	speed: 36582.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.329697	speed: 30194.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.273001	speed: 36465.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.268102	speed: 37131.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.333471	speed: 29852.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.313676	speed: 31736.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.302017	speed: 32961.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.28868	speed: 34484.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.290463	speed: 34272.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.335711	speed: 29653.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.293822	speed: 33881.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.289419	speed: 34396.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.288043	speed: 34560.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.290673	speed: 34248.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.290594	speed: 34257.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.288827	speed: 34467 words/sec
+accuracy: 1	oracle: 1	seconds: 0.28796	speed: 34570.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.286532	speed: 34743.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.287232	speed: 34658.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.286815	speed: 34708.8 words/sec
+accuracy: 1	oracle: 1	seconds: 0.286168	speed: 34787.3 words/sec
+accuracy: 1	oracle: 1	seconds: 0.287298	speed: 34650.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.29133	speed: 34170.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.298403	speed: 33360.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.292274	speed: 34060.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.286962	speed: 34691 words/sec
+accuracy: 1	oracle: 1	seconds: 0.298745	speed: 33322.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.288872	speed: 34461.6 words/sec
+accuracy: 1	oracle: 1	seconds: 0.288464	speed: 34510.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.28676	speed: 34715.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.28692	speed: 34696.1 words/sec
+accuracy: 1	oracle: 1	seconds: 0.287969	speed: 34569.7 words/sec
+accuracy: 1	oracle: 1	seconds: 0.286913	speed: 34696.9 words/sec
+accuracy: 1	oracle: 1	seconds: 0.288071	speed: 34557.5 words/sec
+accuracy: 1	oracle: 1	seconds: 0.287456	speed: 34631.4 words/sec
+accuracy: 1	oracle: 1	seconds: 0.290058	speed: 34320.7 words/sec
+accuracy: 1
+LANGUAGE = bxr, PROJECTIVE = 1, THREAD = 10 INPUT =  /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-22-29-43/output
+task = test
+sync = 1
+max iter = 10
+is_dev = 1
+is_projective = 1
+singleRoot = 0
+eval_punc = 1
+mira_k = 10
+loss = 0
+thread_num = 10
+kbest = 1
+C = 0.01
+train_file = 
+model_file = /media/data/models/bxr.dep.model
+test_file = /tmp/fbaml/2017-05-11-22-29-43/output/bxr.tok.test
+result_file = /tmp/fbaml/2017-05-11-22-29-43/output/bxr.dep.test
+template_file = 
+algorithm = 
+lang = bxr
+train_lemma_file = 
+test_lemma_file = 
+train_upos_file = 
+test_upos_file = /tmp/fbaml/2017-05-11-22-29-43/output/bxr.upos.test
+train_xpos_file = 
+test_xpos_file = /tmp/fbaml/2017-05-11-22-29-43/output/bxr.xpos.test
+train_morph_file = 
+test_morph_file = /tmp/fbaml/2017-05-11-22-29-43/output/bxr.morph.test
+max length = 65 ends at line 9803
+model loaded, feature number: 18555
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx.xxxxxxxxxxx.xxxxxxx.xxxxxxxxx.xxxxxxx.xxxx.xxxxxxx.
+elapsed time: 207.863
+LANGUAGE = bxr THREAD = 10 INPUT = /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-22-29-43/output
+max length = 65 ends at line 9803
+max length = 65 ends at line 9803
+model loaded, features: 25524	labels: 31
+src/Labeler/LinearTree.cpp:609	memory cost: 136M
+...................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................max length = 65 ends at line 9803
+total 688
+drwxr-xr-x 6 fbaml sudo  4096 May 11 22:29 .
+drwxr-xr-x 5 fbaml sudo  4096 May 11 22:29 ..
+-rw-r--r-- 1 fbaml sudo 17891 May  9 17:59 1
+drwxr-xr-x 2 fbaml sudo  4096 May  9 18:12 bin
+-rwxr-x--x 1 fbaml sudo    57 May  8 23:00 clearALL.sh
+-rwxr-x--x 1 fbaml sudo    68 May 11 22:28 clearTMP.sh
+-rwxr-xr-x 1 fbaml sudo   350 May  9 14:43 copyPUD.sh
+-rwxr-x--x 1 fbaml sudo   510 May  8 23:00 crossValidateLemmatizer.sh
+-rwxr-x--x 1 fbaml sudo   424 May  8 23:00 crossValidateMorph.sh
+-rwxr-x--x 1 fbaml sudo   387 May  8 23:00 crossValidateUPOS.sh
+-rwxr-x--x 1 fbaml sudo   392 May  8 23:00 crossValidateXPOS.sh
+-rwxr-x--x 1 fbaml sudo  3575 May  8 23:00 debug.sh
+-rwxr-xr-x 1 fbaml sudo    63 May  8 23:47 do.sh
+-rwxr-x--x 1 fbaml sudo   130 May  8 23:00 EvalTest.sh
+-rwxr-x--x 1 fbaml sudo   103 May  8 23:00 EvalValidate.sh
+-rwxr-x--x 1 fbaml sudo   443 May  8 23:00 GroupXPOS.sh
+-rwxr-x--x 1 fbaml sudo   381 May  9 16:33 LabelerTest.sh
+-rwxr-x--x 1 fbaml sudo   291 May  8 23:00 LabelerTrain.sh
+-rwxr-x--x 1 fbaml sudo   321 May  8 23:00 LabelerValidate.sh
+-rwxr-x--x 1 fbaml sudo   262 May  8 23:00 LemmatizerTest.sh
+-rwxr-x--x 1 fbaml sudo   304 May  8 23:00 LemmatizerTrain.sh
+-rwxr-x--x 1 fbaml sudo   227 May  8 23:00 LemmatizerTry.sh
+-rwxr-x--x 1 fbaml sudo   262 May  8 23:00 LemmatizerValidate.sh
+-rwxr-x--x 1 fbaml sudo    69 May  8 23:00 LetterCollection.sh
+-rwxr-x--x 1 fbaml sudo   145 May 11 01:14 MergeResultTest.sh
+-rwxr-x--x 1 fbaml sudo   125 May  8 23:00 MergeResultValidate.sh
+-rwxr-x--- 1 fbaml sudo   700 May  9 18:02 metadata.json
+-rwxr-x--x 1 fbaml sudo   145 May  8 23:02 MorphTest.sh
+-rwxr-x--x 1 fbaml sudo   127 May  8 23:00 MorphTrain.sh
+-rwxr-x--x 1 fbaml sudo   107 May  8 23:00 MorphValidate.sh
+-rw------- 1 fbaml sudo 23343 May  8 23:14 nohup.out
+drwxr-xr-x 2 fbaml sudo  4096 May  9 18:09 output
+-rwxr-xr-x 1 fbaml sudo 42304 May 11 04:06 parseJson
+-rw-r--r-- 1 fbaml sudo  4413 May 11 04:04 parseJson.cpp
+-rwxr-xr-x 1 fbaml sudo   112 May  8 23:27 parseJson.sh
+-rwxr-x--x 1 fbaml sudo   409 May  9 16:33 ParserTest.sh
+-rwxr-x--x 1 fbaml sudo   728 May  8 23:00 ParserTrain.sh
+-rwxr-x--x 1 fbaml sudo   660 May  8 23:00 ParserValidate.sh
+-rwxr-x--x 1 fbaml sudo  1092 May 11 22:29 PipelineTest.sh
+-rwxr-x--x 1 fbaml sudo  2097 May  8 23:00 PipelineTrain.sh
+-rwxr-x--x 1 fbaml sudo   148 May  8 23:03 PostCombineTest.sh
+-rwxr-x--x 1 fbaml sudo   254 May  8 23:00 PostCombineTrain.sh
+-rwxr-x--x 1 fbaml sudo    99 May  8 23:00 PostCombineValidate.sh
+-rwxr-x--x 1 fbaml sudo   605 May  8 23:00 PrepareData.sh
+-rwxr-x--x 1 fbaml sudo   166 May  8 23:03 RerankerTest.sh
+-rwxr-x--x 1 fbaml sudo   943 May  8 23:00 RerankerTrain.sh
+-rwxr-x--x 1 fbaml sudo   130 May  8 23:00 RerankerValidate.sh
+-rwxr-x--x 1 fbaml sudo   232 May  9 14:48 runAR_PUD.sh
+-rwxr-x--x 1 fbaml sudo   232 May  8 23:00 runAR.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runBG.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:53 runBXR.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runCA.sh
+-rwxr-x--x 1 fbaml sudo   238 May  8 23:00 runCS_CAC.sh
+-rwxr-x--x 1 fbaml sudo   240 May  8 23:00 runCS_CLTT.sh
+-rwxr-x--x 1 fbaml sudo   230 May  9 14:43 runCS_PUD.sh
+-rwxr-x--x 1 fbaml sudo   230 May  8 23:00 runCS.sh
+-rwxr-x--x 1 fbaml sudo    82 May  8 23:00 runCU.sh
+-rwxr-x--x 1 fbaml sudo   229 May  8 23:00 runDA.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runDE_PUD.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runDE.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runEL.sh
+-rwxr-x--x 1 fbaml sudo    92 May  8 23:00 runEN_LINES.sh
+-rwxr-x--x 1 fbaml sudo    94 May  8 23:00 runEN_PARTUT.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runEN_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runEN.sh
+-rwxr-x--x 1 fbaml sudo   178 May  8 23:00 runES_ANCORA.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runES_PUD.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runES.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runET.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runEU.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runFA.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runFI_FTB.sh
+-rwxr-x--x 1 fbaml sudo    68 May  9 14:43 runFI_PUD.sh
+-rwxr-x--x 1 fbaml sudo    68 May  8 23:00 runFI.sh
+-rwxr-x--x 1 fbaml sudo    94 May  8 23:00 runFR_PARTUT.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runFR_PUD.sh
+-rwxr-x--x 1 fbaml sudo   179 May  8 23:00 runFR_SEQUOIA.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runFR.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runGA.sh
+-rwxr-x--x 1 fbaml sudo    79 May  8 23:00 runGL.sh
+-rwxr-x--x 1 fbaml sudo    96 May  8 23:00 runGL_TREEGAL.sh
+-rwxr-x--x 1 fbaml sudo    82 May  8 23:00 runGOT.sh
+-rwxr-x--x 1 fbaml sudo   180 May  8 23:00 runGRC_PROIEL.sh
+-rwxr-x--x 1 fbaml sudo    83 May  8 23:00 runGRC.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runHE.sh
+-rwxr-x--x 1 fbaml sudo   163 May  9 14:43 runHI_PUD.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runHI.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runHR.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:56 runHSB.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runHU.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runID.sh
+-rwxr-x--x 1 fbaml sudo    96 May  8 23:00 runIT_PARTUT.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runIT_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runIT.sh
+-rwxr-x--x 1 fbaml sudo    81 May  9 14:43 runJA_PUD.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runJA.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runKK.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:54 runKMR.sh
+-rwxr-x--x 1 fbaml sudo   162 May  8 23:00 runKO.sh
+-rwxr-x--x 1 fbaml sudo   174 May  8 23:00 runLA_ITTB.sh
+-rwxr-x--x 1 fbaml sudo    94 May  8 23:00 runLA_PROIEL.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runLA.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runLV.sh
+-rwxr-x--x 1 fbaml sudo   102 May  8 23:00 runNL_LASSYSMALL.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runNL.sh
+-rwxr-x--x 1 fbaml sudo   179 May  8 23:00 runNO_BOKMAAL.sh
+-rwxr-x--x 1 fbaml sudo    96 May  9 14:22 runNO_NYNORSK.sh
+-rwxr-x--x 1 fbaml sudo   164 May  8 23:00 runPL.sh
+-rwxr-x--x 1 fbaml sudo   168 May  8 23:00 runPT_BR.sh
+-rwxr-x--x 1 fbaml sudo   231 May  9 14:43 runPT_PUD.sh
+-rwxr-x--x 1 fbaml sudo   231 May  8 23:00 runPT.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runRO.sh
+-rwxr-x--x 1 fbaml sudo    82 May  9 14:43 runRU_PUD.sh
+-rwxr-x--x 1 fbaml sudo    82 May  8 23:00 runRU.sh
+-rwxr-x--x 1 fbaml sudo   102 May  8 23:00 runRU_SYNTAGRUS.sh
+-rwxr-xr-x 1 fbaml sudo 15355 May 11 22:31 run.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runSK.sh
+-rwxr-x--x 1 fbaml sudo    81 May  8 23:00 runSL.sh
+-rwxr-x--x 1 fbaml sudo    88 May  8 23:00 runSL_SST.sh
+-rwxr-x--x 1 fbaml sudo    83 May 11 03:56 runSME.sh
+-rwxr-x--x 1 fbaml sudo    92 May  8 23:00 runSV_LINES.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runSV_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runSV.sh
+-rwxr-x--x 1 fbaml sudo    80 May  9 14:43 runTR_PUD.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runTR.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runUG.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runUK.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runUR.sh
+-rwxr-x--x 1 fbaml sudo   163 May  8 23:00 runVI.sh
+-rwxr-x--x 1 fbaml sudo    80 May  8 23:00 runZH.sh
+drwxr-xr-x 3 fbaml sudo  4096 May  8 23:41 script_del
+-rwxr-x--x 1 fbaml sudo   153 May  8 23:00 SentenceSegmentorTestDebug.sh
+-rwxr-x--x 1 fbaml sudo   266 May  9 17:59 SentenceSegmentorTest.sh
+-rwxr-x--x 1 fbaml sudo   171 May  8 23:00 SentenceSegmentorTrain.sh
+-rwxr-x--x 1 fbaml sudo   159 May  8 23:00 SentenceSegmentorValidate.sh
+-rwxr-x--x 1 fbaml sudo   188 May  8 23:00 SlicedCluster.sh
+drwxr-xr-x 2 fbaml sudo  4096 May  8 04:20 src
+-rwxr-x--x 1 fbaml sudo   154 May  8 23:01 TokenizerTest.sh
+-rwxr-x--x 1 fbaml sudo   134 May  8 23:00 TokenizerTrain.sh
+-rwxr-x--x 1 fbaml sudo   122 May  8 23:00 TokenizerValidateDebug.sh
+-rwxr-x--x 1 fbaml sudo   108 May  8 23:00 TokenizerValidate.sh
+-rwxr-x--x 1 fbaml sudo   169 May  9 16:33 UPOSTest.sh
+-rwxr-x--x 1 fbaml sudo   159 May  8 23:00 UPOSTrain.sh
+-rwxr-x--x 1 fbaml sudo   137 May  8 23:00 UPOSValidate.sh
+-rwxr-x--x 1 fbaml sudo  1086 May  8 23:00 WordClusterAll.sh
+-rwxr-x--x 1 fbaml sudo   271 May  8 23:00 WordCluster.sh
+-rwxr-x--x 1 fbaml sudo   184 May  9 16:33 XPOSTest.sh
+-rwxr-x--x 1 fbaml sudo   162 May  8 23:00 XPOSTrain.sh
+-rwxr-x--x 1 fbaml sudo   142 May  8 23:00 XPOSValidate.sh
+***** PIPELINE TEST **** LANGUAGE = ca, THREAD = 10, PROJECTIVE = 1, XPOS_NBEST=3 INPUTPATH(no /)=/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT_PATH=/tmp/fbaml/2017-05-11-22-29-43/output OUTPUT_FILE = ca.conllu RAWFILE = ca.txt
+bin/SentenceSegmentor -m /media/data/models/ca.ss.model -T 6 -L ca -vtxt /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ca.txt -r /tmp/fbaml/2017-05-11-22-29-43/output/ca.ss.test
+rs size = 298623
+0K 1K 2K 3K 4K 5K 6K 7K 8K 9K 10K 11K 12K 13K 14K 15K 16K 17K 18K 19K 20K 21K 22K 23K 24K 25K 26K 27K 28K 29K 30K 31K 32K 33K 34K 35K 36K 37K 38K 39K 40K 41K 42K 43K 44K 45K 46K 47K 48K 49K 50K 51K 52K 53K 54K 55K 56K 57K 58K 59K 60K 61K 62K 63K 64K 65K 66K 67K 68K 69K 70K 71K 72K 73K 74K 75K 76K 77K 78K 79K 80K 81K 82K 83K 84K 85K 86K 87K 88K 89K 90K 91K 92K 93K 94K 95K 96K 97K 98K 99K 100K 101K 102K 103K 104K 105K 106K 107K 108K 109K 110K 111K 112K 113K 114K 115K 116K 117K 118K 119K 120K 121K 122K 123K 124K 125K 126K 127K 128K 129K 130K 131K 132K 133K 134K 135K 136K 137K 138K 139K 140K 141K 142K 143K 144K 145K 146K 147K 148K 149K 150K 151K 152K 153K 154K 155K 156K 157K 158K 159K 160K 161K 162K 163K 164K 165K 166K 167K 168K 169K 170K 171K 172K 173K 174K 175K 176K 177K 178K 179K 180K 181K 182K 183K 184K 185K 186K 187K 188K 189K 190K 191K 192K 193K 194K 195K 196K 197K 198K 199K 200K 201K 202K 203K 204K 205K 206K 207K 208K 209K 210K 211K 212K 213K 214K 215K 216K 217K 218K 219K 220K 221K 222K 223K 224K 225K 226K 227K 228K 229K 230K 231K 232K 233K 234K 235K 236K 237K 238K 239K 240K 241K 242K 243K 244K 245K 246K 247K 248K 249K 250K 251K 252K 253K 254K 255K 256K 257K 258K 259K 260K 261K 262K 263K 264K 265K 266K 267K 268K 269K 270K 271K 272K 273K 274K 275K 276K 277K 278K 279K 280K 281K 282K 283K 284K 285K 286K 287K 288K 289K 290K 291K 292K 293K 294K 295K 296K 297K 
+model loaded, features: 69154	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 252M
+accuracy: 0.993795	oracle: 1	seconds: 9.81689	speed: 30419.3 words/sec
+max sentence length = 805
+model loaded, features: 18237	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 254M
+accuracy: 0.159751	oracle: 0.159751	seconds: 1.49254	speed: 198835 words/sec
+max length = 150 ends at line 47495
+accuracy: 1	oracle: 1	seconds: 1.20596	speed: 47958.7 words/sec
+model loaded, features: 22780	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.833011	oracle: 0.833011	seconds: 1.88618	speed: 30663 words/sec
+model loaded, features: 15202	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.996698	oracle: 0.996698	seconds: 1.88123	speed: 30743.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.23749	speed: 46736.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.18835	speed: 48669.2 words/sec
+model loaded, features: 19001	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.998928	oracle: 0.998928	seconds: 1.85998	speed: 31094.9 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19306	speed: 48476.9 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19265	speed: 48493.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.23848	speed: 46699.2 words/sec
+model loaded, features: 48156	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.903659	oracle: 0.903659	seconds: 1.90277	speed: 30395.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.26157	speed: 45844.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19689	speed: 48321.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.2454	speed: 46439.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.24271	speed: 46540.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21404	speed: 47639.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20714	speed: 47911.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19603	speed: 48356.8 words/sec
+model loaded, features: 299094	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.637198	oracle: 0.637198	seconds: 2.00778	speed: 28805.9 words/sec
+accuracy: 1	oracle: 1	seconds: 1.24726	speed: 46370.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20319	speed: 48068.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20168	speed: 48129.4 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19825	speed: 48266.9 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20198	speed: 48117.4 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22046	speed: 47388.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20124	speed: 48147.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19961	speed: 48212.3 words/sec
+model loaded, features: 85313	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.931479	oracle: 0.931479	seconds: 1.93447	speed: 29897.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.2615	speed: 45847.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19815	speed: 48271.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19646	speed: 48339.2 words/sec
+model loaded, features: 15518	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.984923	oracle: 0.984923	seconds: 1.92458	speed: 30051.2 words/sec
+model loaded, features: 40263	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.98641	oracle: 0.98641	seconds: 1.89941	speed: 30449.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22969	speed: 47033 words/sec
+model loaded, features: 268506	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.512155	oracle: 0.512155	seconds: 2.02604	speed: 28546.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20823	speed: 47868.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22325	speed: 47280.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.27395	speed: 45398.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20902	speed: 47837.1 words/sec
+model loaded, features: 2274	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.99955	oracle: 0.99955	seconds: 1.91254	speed: 30240.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21767	speed: 47497.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22738	speed: 47121.6 words/sec
+model loaded, features: 138735	labels: 4
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.915745	oracle: 0.915745	seconds: 1.97018	speed: 29355.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22563	speed: 47188.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22701	speed: 47135.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21984	speed: 47412.9 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21846	speed: 47466.6 words/sec
+model loaded, features: 2814	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.994986	oracle: 0.994986	seconds: 1.95706	speed: 29552.5 words/sec
+model loaded, features: 1492	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 1	oracle: 1	seconds: 1.90669	speed: 30333.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.26906	speed: 45573.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20732	speed: 47904.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21183	speed: 47726.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22264	speed: 47304.3 words/sec
+model loaded, features: 3054	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.994242	oracle: 0.994242	seconds: 1.89803	speed: 30471.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21963	speed: 47420.8 words/sec
+model loaded, features: 708	labels: 2
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 1	oracle: 1	seconds: 1.89473	speed: 30524.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21986	speed: 47411.8 words/sec
+model loaded, features: 119471	labels: 8
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.8318	oracle: 0.8318	seconds: 1.98095	speed: 29196.1 words/sec
+model loaded, features: 2491	labels: 3
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.993378	oracle: 0.993378	seconds: 1.97216	speed: 29326.3 words/sec
+model loaded, features: 13262	labels: 10
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.899059	oracle: 0.899059	seconds: 1.96432	speed: 29443.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22182	speed: 47336.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.26739	speed: 45634.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.24169	speed: 46578.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22582	speed: 47181.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22384	speed: 47257.7 words/sec
+model loaded, features: 108467	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.919877	oracle: 0.919877	seconds: 1.98901	speed: 29077.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22698	speed: 47136.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.25547	speed: 46067.2 words/sec
+model loaded, features: 144587	labels: 5
+src/Tagger/LinearSequence.cpp:632	memory cost: 360M
+accuracy: 0.875804	oracle: 0.875804	seconds: 2.05806	speed: 28102.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.23532	speed: 46818.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22451	speed: 47232.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22374	speed: 47261.8 words/sec
+accuracy: 0.190833
+max length = 150 ends at line 47495
+max length = 150 ends at line 47466
+model loaded, features: 3923008	labels: 17
+src/Tagger/LinearSequence.cpp:632	memory cost: 949M
+accuracy: 0	oracle: 0	seconds: 4.29134	speed: 13477.4 words/sec
+max length = 150 ends at line 47495
+max length = 150 ends at line 47466
+model loaded, features: 3923008	labels: 17
+src/Tagger/LinearSequence.cpp:632	memory cost: 949M
+accuracy: 0	oracle: 0	seconds: 4.29728	speed: 13458.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.23973	speed: 46652.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.18057	speed: 48989.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.18629	speed: 48753.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20201	speed: 48116 words/sec
+accuracy: 1	oracle: 1	seconds: 1.26458	speed: 45735.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20948	speed: 47819 words/sec
+accuracy: 1	oracle: 1	seconds: 1.20964	speed: 47812.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19411	speed: 48434.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21369	speed: 47653 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21315	speed: 47674.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21197	speed: 47720.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.19926	speed: 48226.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21863	speed: 47460 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21329	speed: 47668.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21769	speed: 47496.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22601	speed: 47174.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.2739	speed: 45400.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.23391	speed: 46872.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.2136	speed: 47656.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.2155	speed: 47582.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22204	speed: 47327.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.2225	speed: 47309.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22465	speed: 47226.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21984	speed: 47412.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22756	speed: 47114.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21777	speed: 47493.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.2214	speed: 47352.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22499	speed: 47213.5 words/sec
+accuracy: 1	oracle: 1	seconds: 1.23106	speed: 46980.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22071	speed: 47379 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22686	speed: 47141.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22313	speed: 47285.2 words/sec
+accuracy: 1	oracle: 1	seconds: 1.2259	speed: 47178.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22007	speed: 47403.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.21121	speed: 47750.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22451	speed: 47232.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22493	speed: 47216 words/sec
+accuracy: 1	oracle: 1	seconds: 1.23148	speed: 46964.7 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22457	speed: 47229.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22671	speed: 47147.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22456	speed: 47230.1 words/sec
+accuracy: 1	oracle: 1	seconds: 1.23657	speed: 46771.4 words/sec
+accuracy: 1	oracle: 1	seconds: 1.29989	speed: 44492.9 words/sec
+accuracy: 1	oracle: 1	seconds: 1.27424	speed: 45388.6 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22328	speed: 47279.3 words/sec
+accuracy: 1	oracle: 1	seconds: 1.23048	speed: 47002.9 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22949	speed: 47040.8 words/sec
+accuracy: 1	oracle: 1	seconds: 1.23675	speed: 46764.4 words/sec
+accuracy: 1	oracle: 1	seconds: 1.22986	speed: 47026.5 words/sec
+accuracy: 0
+LANGUAGE = ca, PROJECTIVE = 1, THREAD = 10 INPUT =  /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 OUTPUT = /tmp/fbaml/2017-05-11-22-29-43/output
+task = test
+sync = 1
+max iter = 10
+is_dev = 1
+is_projective = 1
+singleRoot = 0
+eval_punc = 1
+mira_k = 10
+loss = 0
+thread_num = 10
+kbest = 1
+C = 0.01
+train_file = 
+model_file = /media/data/models/ca.dep.model
+test_file = /tmp/fbaml/2017-05-11-22-29-43/output/ca.tok.test
+result_file = /tmp/fbaml/2017-05-11-22-29-43/output/ca.dep.test
+template_file = 
+algorithm = 
+lang = ca
+train_lemma_file = 
+test_lemma_file = 
+train_upos_file = 
+test_upos_file = /tmp/fbaml/2017-05-11-22-29-43/output/ca.upos.test
+train_xpos_file = 
+test_xpos_file = /tmp/fbaml/2017-05-11-22-29-43/output/ca.xpos.test
+train_morph_file = 
+test_morph_file = /tmp/fbaml/2017-05-11-22-29-43/output/ca.morph.test
+max length = 150 ends at line 47495
+model loaded, feature number: 18796545
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

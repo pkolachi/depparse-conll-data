@@ -1,0 +1,676 @@
+/home/UT/system/run.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/UT/2017-05-14-17-15-26/output
+
+
+Language: ar-pud
+Model: UD_Arabic
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 35.7064011097 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Arabic/embedding/wiki.ar.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1000 sentences read.
+Finished predicting test 55.1607279778
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/ar_pud.conllu.voting
+double root 1 13
+# newpar
+double root 1 17
+# newpar
+double root 1 7
+# newpar
+double root 1 12
+# newpar
+double root 1 4
+# newpar
+double root 1 2
+# newpar
+double root 3 20
+# newpar
+double root 1 2
+# newpar
+double root 1 14
+# newpar
+double root 1 13
+# newpar
+double root 3 4
+# newpar
+double root 5 6
+# newpar
+double root 3 16
+# newpar
+double root 1 2
+# newpar
+double root 1 7
+# newpar
+double root 3 6
+# newpar
+double root 1 3
+# newpar
+double root 5 17
+# newpar
+double root 1 13
+# newpar
+double root 3 12
+# newpar
+double root 1 2
+double root 1 4
+# newpar
+double root 2 12
+# newpar
+double root 2 15
+# newpar
+double root 2 11
+# newpar
+double root 1 5
+# newpar
+double root 4 10
+# newpar
+double root 2 6
+# newpar
+double root 1 5
+# newpar
+double root 2 3
+# newpar
+double root 1 2
+# newpar
+double root 1 4
+# newpar
+double root 1 13
+# newpar
+double root 1 6
+double root 1 13
+# newpar
+double root 1 4
+# newpar
+double root 1 2
+# newpar
+double root 3 11
+# newpar
+double root 1 2
+# newpar
+double root 1 5
+# newpar
+double root 1 3
+# newpar
+double root 4 5
+# newpar
+double root 1 12
+# newpar
+double root 1 11
+# newpar
+double root 1 10
+# newpar
+double root 1 6
+# newpar
+double root 1 8
+# newpar
+double root 2 9
+# newpar
+double root 4 32
+# newpar
+double root 3 13
+# newpar
+double root 1 4
+# newpar
+double root 2 6
+# newpar
+double root 1 2
+# newpar
+double root 1 5
+# newpar
+double root 1 6
+# newpar
+double root 2 6
+# newpar
+double root 1 5
+# newpar
+double root 3 20
+# newpar
+double root 2 4
+# newpar
+double root 2 13
+# newpar
+double root 1 3
+# newpar
+double root 2 6
+# newpar
+double root 9 12
+# newpar
+double root 1 2
+# newpar
+double root 4 19
+# newpar
+double root 2 4
+# newpar
+double root 5 17
+# newpar
+double root 1 2
+# newpar
+double root 2 12
+# newpar
+double root 1 13
+# newpar
+double root 2 4
+# newpar
+double root 12 22
+# newpar
+double root 1 5
+# newpar
+double root 1 14
+# newpar
+double root 1 5
+# newpar
+double root 1 2
+# newpar
+double root 2 14
+# newpar
+double root 1 6
+double root 1 14
+# newpar
+double root 2 12
+# newpar
+double root 1 3
+# newpar
+double root 4 14
+# newpar
+Multiple roots removed
+Language: ar-0
+Model: UD_Arabic
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 111.409193993 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Arabic/embedding/wiki.ar.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+597 sentences read.
+Finished predicting test 72.5673940182
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/ar.conllu.voting
+double root 1 4
+# newpar
+double root 1 19
+# newpar
+double root 3 22
+# newpar
+double root 2 102
+# newpar
+double root 1 2
+# newpar
+double root 1 4
+# newpar
+double root 6 10
+# newpar
+double root 1 2
+# newpar
+double root 1 2
+# newpar
+double root 1 2
+# newpar
+double root 4 11
+# newpar
+double root 5 16
+# newpar
+double root 1 2
+# newpar
+double root 1 22
+# newpar
+double root 1 8
+# newpar
+double root 1 5
+# newpar
+double root 1 4
+# newpar
+double root 1 8
+# newpar
+double root 1 2
+# newpar
+double root 1 7
+# newpar
+double root 1 2
+# newpar
+Multiple roots removed
+Language: bg-0
+Model: UD_Bulgarian
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 23.5827209949 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Bulgarian/embedding/wiki.bg.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1088 sentences read.
+Finished predicting test 43.0155291557
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/bg.conllu.voting
+double root 1 3
+# sent_id = 27
+double root 1 4
+# sent_id = 56
+double root 3 4
+# sent_id = 71
+double root 1 8
+# sent_id = 114
+double root 2 12
+# sent_id = 156
+double root 1 3
+# sent_id = 183
+double root 2 10
+# sent_id = 276
+double root 6 9
+# sent_id = 288
+double root 4 8
+# sent_id = 428
+double root 3 7
+# sent_id = 479
+double root 2 5
+# sent_id = 526
+double root 2 3
+double root 2 15
+# sent_id = 630
+double root 2 13
+# sent_id = 643
+double root 4 8
+# sent_id = 657
+double root 7 15
+# sent_id = 661
+double root 4 17
+# sent_id = 724
+double root 3 21
+double root 3 22
+# sent_id = 730
+double root 2 5
+# sent_id = 750
+double root 1 22
+# sent_id = 799
+double root 5 20
+# sent_id = 828
+double root 1 4
+# sent_id = 861
+double root 11 17
+# sent_id = 878
+double root 1 4
+# sent_id = 948
+double root 4 8
+# newpar
+double root 1 24
+# sent_id = 984
+double root 9 23
+# newpar
+double root 10 15
+# sent_id = 1046
+double root 3 8
+# sent_id = 1062
+Multiple roots removed
+Language: bxr-0
+Model: UD_Buryat
+start surprise language script
+Surprise language script done
+Language: ca-0
+Model: UD_Catalan
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 141.05414319 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Catalan/embedding/wiki.ca.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1851 sentences read.
+Finished predicting test 157.581810951
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/ca.conllu.voting
+double root 9 15
+# sent_id = 24
+double root 5 19
+# sent_id = 80
+double root 13 19
+# sent_id = 356
+double root 9 16
+# sent_id = 363
+double root 3 7
+# sent_id = 365
+double root 16 28
+# sent_id = 427
+double root 5 28
+double root 5 42
+# sent_id = 432
+double root 1 33
+# sent_id = 435
+double root 2 5
+# sent_id = 450
+double root 17 20
+# sent_id = 465
+double root 19 22
+# sent_id = 495
+double root 5 14
+# sent_id = 499
+double root 2 36
+# sent_id = 503
+double root 5 8
+# sent_id = 506
+double root 1 8
+# sent_id = 538
+double root 2 13
+# sent_id = 614
+double root 8 43
+# sent_id = 636
+double root 3 24
+# sent_id = 659
+double root 4 7
+# sent_id = 660
+double root 21 29
+# sent_id = 673
+double root 17 32
+# sent_id = 725
+double root 5 15
+# sent_id = 766
+double root 13 21
+# sent_id = 780
+double root 16 38
+# sent_id = 782
+double root 2 23
+# sent_id = 793
+double root 3 38
+double root 3 40
+# sent_id = 843
+double root 1 2
+# sent_id = 856
+double root 22 50
+# sent_id = 993
+double root 1 7
+# sent_id = 1025
+double root 5 21
+# sent_id = 1102
+double root 2 18
+# sent_id = 1117
+double root 9 20
+# sent_id = 1139
+double root 1 7
+# sent_id = 1146
+double root 2 21
+# sent_id = 1156
+double root 1 55
+double root 1 59
+# sent_id = 1161
+double root 4 55
+# sent_id = 1184
+double root 3 24
+# sent_id = 1216
+double root 3 24
+# sent_id = 1222
+double root 21 28
+# sent_id = 1226
+double root 3 11
+double root 3 56
+# sent_id = 1231
+double root 13 17
+# sent_id = 1303
+double root 2 29
+# sent_id = 1312
+double root 3 9
+# sent_id = 1342
+double root 4 9
+# sent_id = 1380
+double root 4 25
+# sent_id = 1390
+double root 1 3
+# sent_id = 1394
+double root 3 26
+# sent_id = 1440
+double root 4 9
+# sent_id = 1495
+double root 4 6
+double root 4 7
+# sent_id = 1541
+double root 3 13
+# sent_id = 1597
+double root 2 5
+# sent_id = 1752
+double root 2 6
+# sent_id = 1756
+double root 7 27
+# sent_id = 1793
+double root 2 7
+# sent_id = 1794
+double root 30 74
+# sent_id = 1801
+double root 7 29
+# sent_id = 1811
+double root 21 28
+# sent_id = 1847
+double root 2 7
+# sent_id = 1849
+Multiple roots removed
+Language: cs-cac
+Model: UD_Czech
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 18.1433391571 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Czech/embedding/wiki.cs.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+628 sentences read.
+Finished predicting test 31.4916269779
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/cs_cac.conllu.voting
+double root 6 9
+1	Jen	_	PART	_	_	3	advmod:emph	_	_
+double root 1 2
+1	Thé	_	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	0	root	_	_
+double root 3 15
+1	Při	_	ADP	_	AdpType=Prep|Case=Loc	3	case	_	_
+double root 13 17
+double root 13 18
+1	Zdařile	_	ADV	_	Degree=Pos|Polarity=Pos	2	advmod	_	_
+double root 1 2
+1	Vážená	_	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
+double root 2 22
+1	A	_	CCONJ	_	_	22	cc	_	_
+double root 1 16
+1	Být	_	VERB	_	Polarity=Pos|VerbForm=Inf	0	root	_	_
+double root 3 6
+1	V	_	ADP	_	AdpType=Prep|Case=Loc	3	case	_	_
+double root 2 6
+1	Samotný	_	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	2	amod	_	_
+double root 2 12
+1	Za	_	ADP	_	AdpType=Prep|Case=Acc	3	case	_	_
+double root 1 7
+1	Rozloučili	_	VERB	_	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+double root 1 7
+1	Lidi	_	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	0	root	_	_
+double root 5 29
+double root 5 33
+double root 5 35
+1	I	_	CCONJ	_	_	3	advmod:emph	_	_
+double root 19 20
+1	Bagatelizace	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	20	nsubj	_	_
+double root 12 16
+1	Chceme	_	VERB	_	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
+double root 3 7
+1	Ve	_	ADP	_	AdpType=Voc|Case=Loc	4	case	_	_
+double root 13 22
+double root 13 23
+double root 13 24
+1	Aniž	_	SCONJ	_	_	3	mark	_	_
+Multiple roots removed
+Language: cs-cltt
+Model: UD_Czech
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 41.796077013 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Czech/embedding/wiki.cs.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+316 sentences read.
+Finished predicting test 33.3080441952
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/cs_cltt.conllu.voting
+Multiple roots removed
+Language: cs-pud
+Model: UD_Czech
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)
+Using external embedding: None
+Initializing lstm mstparser:
+Finished predicting test. 31.1054430008 seconds.
+BIST (graph-based) done
+Start BIST (transition-based)
+Using external embedding: /media/data/UD_Czech/embedding/wiki.cs.vec
+Load external embedding. Vector dimensions 300
+0 dropped non-projective sentences.
+1016 sentences read.
+Finished predicting test 54.8057920933
+BIST (transition-based) done
+Start voting
+Voting done
+Remove multiple roots
+/home/UT/system/temp/cs_pud.conllu.voting
+double root 12 18
+# sent_id = 4
+double root 19 22
+# newpar
+double root 3 12
+# sent_id = 66
+double root 4 23
+# newpar
+double root 2 11
+# sent_id = 93
+double root 1 11
+# newpar
+double root 30 34
+# newpar
+double root 1 6
+# newpar
+double root 5 12
+double root 5 14
+double root 5 18
+# sent_id = 206
+double root 8 14
+# newpar
+double root 2 4
+# sent_id = 258
+double root 1 3
+# sent_id = 320
+double root 19 22
+# newpar
+double root 5 23
+# sent_id = 349
+double root 12 15
+# sent_id = 353
+double root 6 11
+# sent_id = 363
+double root 2 4
+# newpar
+double root 1 9
+# sent_id = 389
+double root 2 7
+# sent_id = 393
+double root 17 23
+# newpar
+double root 2 7
+# sent_id = 481
+double root 2 5
+# sent_id = 494
+double root 2 8
+# newpar
+double root 2 17
+# sent_id = 575
+double root 9 23
+# newpar
+double root 4 9
+# sent_id = 616
+double root 1 6
+# newpar
+double root 1 5
+# newpar
+double root 3 9
+# newpar
+double root 1 3
+# newpar
+double root 2 5
+# newpar
+double root 2 6
+# sent_id = 890
+double root 7 16
+# newpar
+double root 2 14
+# newpar
+double root 1 8
+# sent_id = 956
+double root 8 15
+# newpar
+double root 1 5
+# sent_id = 984
+double root 4 9
+# sent_id = 997
+double root 1 2
+# sent_id = 1004
+Multiple roots removed
+Language: cs-0
+Model: UD_Czech
+Start udpipe
+UDPipe done
+Start MarMoT
+MarMoT done
+Start BIST (graph-based)

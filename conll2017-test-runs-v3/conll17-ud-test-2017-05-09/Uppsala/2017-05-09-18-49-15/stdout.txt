@@ -1,0 +1,4 @@
+sh /home/Uppsala/bash_script.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/Uppsala/2017-05-09-18-49-15/output
+
+
+Using external embedding: None

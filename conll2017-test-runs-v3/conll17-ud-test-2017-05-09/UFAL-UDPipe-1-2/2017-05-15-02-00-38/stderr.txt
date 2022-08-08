@@ -1,0 +1,409 @@
+Loading UDPipe model: done.
+
+real	0m36.065s
+user	0m35.120s
+sys	0m0.504s
+Loading UDPipe model: done.
+
+real	0m49.536s
+user	0m48.936s
+sys	0m0.396s
+Loading UDPipe model: done.
+
+real	0m34.837s
+user	0m34.284s
+sys	0m0.320s
+Loading UDPipe model: done.
+An error occurred during UDPipe execution: Cannot parse beam_search int value '': empty string.
+
+real	0m0.350s
+user	0m0.216s
+sys	0m0.068s
+Loading UDPipe model: done.
+
+real	1m32.189s
+user	1m31.200s
+sys	0m0.576s
+Loading UDPipe model: done.
+
+real	0m16.665s
+user	0m16.108s
+sys	0m0.260s
+Loading UDPipe model: done.
+
+real	0m31.146s
+user	0m30.768s
+sys	0m0.200s
+Loading UDPipe model: done.
+
+real	1m3.519s
+user	1m2.288s
+sys	0m0.688s
+Loading UDPipe model: done.
+
+real	9m3.142s
+user	8m59.196s
+sys	0m2.576s
+Loading UDPipe model: done.
+
+real	0m14.352s
+user	0m13.952s
+sys	0m0.148s
+Loading UDPipe model: done.
+
+real	0m21.411s
+user	0m21.044s
+sys	0m0.172s
+Loading UDPipe model: done.
+
+real	1m1.248s
+user	1m0.504s
+sys	0m0.384s
+Loading UDPipe model: done.
+
+real	0m46.273s
+user	0m45.784s
+sys	0m0.308s
+Loading UDPipe model: done.
+
+real	0m22.900s
+user	0m22.532s
+sys	0m0.196s
+Loading UDPipe model: done.
+
+real	0m23.767s
+user	0m23.408s
+sys	0m0.172s
+Loading UDPipe model: done.
+
+real	0m32.211s
+user	0m31.828s
+sys	0m0.216s
+Loading UDPipe model: done.
+
+real	1m3.803s
+user	1m3.104s
+sys	0m0.384s
+Loading UDPipe model: done.
+
+real	1m8.359s
+user	1m7.808s
+sys	0m0.356s
+Loading UDPipe model: done.
+
+real	2m29.684s
+user	2m28.416s
+sys	0m0.672s
+Loading UDPipe model: done.
+
+real	1m5.386s
+user	1m4.596s
+sys	0m0.424s
+Loading UDPipe model: done.
+
+real	0m35.993s
+user	0m35.572s
+sys	0m0.292s
+Loading UDPipe model: done.
+
+real	0m34.575s
+user	0m34.184s
+sys	0m0.248s
+Loading UDPipe model: done.
+
+real	1m16.064s
+user	1m15.272s
+sys	0m0.464s
+Loading UDPipe model: done.
+
+real	0m44.435s
+user	0m44.000s
+sys	0m0.204s
+Loading UDPipe model: done.
+
+real	0m28.241s
+user	0m27.684s
+sys	0m0.308s
+Loading UDPipe model: done.
+
+real	0m52.713s
+user	0m52.048s
+sys	0m0.304s
+Loading UDPipe model: done.
+
+real	1m7.682s
+user	1m7.092s
+sys	0m0.340s
+Loading UDPipe model: done.
+
+real	0m25.690s
+user	0m25.372s
+sys	0m0.168s
+Loading UDPipe model: done.
+
+real	0m42.054s
+user	0m41.508s
+sys	0m0.284s
+Loading UDPipe model: done.
+
+real	0m25.736s
+user	0m25.392s
+sys	0m0.212s
+Loading UDPipe model: done.
+
+real	0m17.874s
+user	0m17.672s
+sys	0m0.136s
+Loading UDPipe model: done.
+
+real	0m12.273s
+user	0m12.016s
+sys	0m0.172s
+Loading UDPipe model: done.
+
+real	0m26.351s
+user	0m26.032s
+sys	0m0.188s
+Loading UDPipe model: done.
+
+real	0m40.844s
+user	0m40.392s
+sys	0m0.228s
+Loading UDPipe model: done.
+
+real	0m28.090s
+user	0m27.696s
+sys	0m0.252s
+Loading UDPipe model: done.
+
+real	0m19.076s
+user	0m18.628s
+sys	0m0.180s
+Loading UDPipe model: done.
+
+real	0m55.716s
+user	0m54.988s
+sys	0m0.364s
+Loading UDPipe model: done.
+
+real	0m33.979s
+user	0m33.528s
+sys	0m0.268s
+Loading UDPipe model: done.
+
+real	1m25.436s
+user	1m24.496s
+sys	0m0.496s
+Loading UDPipe model: done.
+
+real	2m7.267s
+user	2m6.376s
+sys	0m0.532s
+Loading UDPipe model: done.
+
+real	0m43.513s
+user	0m42.664s
+sys	0m0.508s
+Loading UDPipe model: done.
+An error occurred during UDPipe execution: Cannot parse beam_search int value '': empty string.
+
+real	0m4.478s
+user	0m3.912s
+sys	0m0.272s
+Loading UDPipe model: done.
+
+real	0m35.825s
+user	0m35.448s
+sys	0m0.212s
+Loading UDPipe model: done.
+
+real	0m31.989s
+user	0m31.664s
+sys	0m0.184s
+Loading UDPipe model: done.
+
+real	0m26.706s
+user	0m26.228s
+sys	0m0.200s
+Loading UDPipe model: done.
+
+real	0m12.092s
+user	0m11.900s
+sys	0m0.128s
+Loading UDPipe model: done.
+
+real	1m6.172s
+user	1m5.044s
+sys	0m0.304s
+Loading UDPipe model: done.
+
+real	0m31.172s
+user	0m30.928s
+sys	0m0.156s
+Loading UDPipe model: done.
+
+real	0m5.076s
+user	0m4.992s
+sys	0m0.052s
+Loading UDPipe model: done.
+An error occurred during UDPipe execution: Cannot parse beam_search int value '': empty string.
+
+real	0m1.266s
+user	0m1.088s
+sys	0m0.092s
+Loading UDPipe model: done.
+
+real	0m12.287s
+user	0m12.048s
+sys	0m0.116s
+Loading UDPipe model: done.
+
+real	0m14.609s
+user	0m14.228s
+sys	0m0.228s
+Loading UDPipe model: done.
+
+real	0m33.333s
+user	0m32.844s
+sys	0m0.268s
+Loading UDPipe model: done.
+
+real	0m11.662s
+user	0m11.432s
+sys	0m0.144s
+Loading UDPipe model: done.
+
+real	0m28.534s
+user	0m28.100s
+sys	0m0.252s
+Loading UDPipe model: done.
+
+real	0m27.777s
+user	0m27.460s
+sys	0m0.176s
+Loading UDPipe model: done.
+
+real	0m37.536s
+user	0m37.028s
+sys	0m0.224s
+Loading UDPipe model: done.
+
+real	0m46.773s
+user	0m46.108s
+sys	0m0.380s
+Loading UDPipe model: done.
+
+real	1m5.726s
+user	1m4.976s
+sys	0m0.360s
+Loading UDPipe model: done.
+
+real	0m12.233s
+user	0m11.844s
+sys	0m0.200s
+Loading UDPipe model: done.
+
+real	1m26.935s
+user	1m26.268s
+sys	0m0.352s
+Loading UDPipe model: done.
+
+real	1m16.200s
+user	1m15.448s
+sys	0m0.392s
+Loading UDPipe model: done.
+
+real	0m33.498s
+user	0m33.112s
+sys	0m0.188s
+Loading UDPipe model: done.
+
+real	0m30.241s
+user	0m29.576s
+sys	0m0.388s
+Loading UDPipe model: done.
+
+real	0m35.698s
+user	0m35.136s
+sys	0m0.356s
+Loading UDPipe model: done.
+
+real	5m51.576s
+user	5m48.760s
+sys	0m1.640s
+Loading UDPipe model: done.
+
+real	0m21.990s
+user	0m21.704s
+sys	0m0.168s
+Loading UDPipe model: done.
+
+real	0m25.255s
+user	0m24.812s
+sys	0m0.204s
+Loading UDPipe model: done.
+
+real	0m25.679s
+user	0m25.384s
+sys	0m0.132s
+Loading UDPipe model: done.
+
+real	0m41.451s
+user	0m40.924s
+sys	0m0.268s
+Loading UDPipe model: done.
+An error occurred during UDPipe execution: Cannot parse beam_search int value '': empty string.
+
+real	0m2.309s
+user	0m2.036s
+sys	0m0.108s
+Loading UDPipe model: done.
+
+real	0m37.181s
+user	0m36.880s
+sys	0m0.156s
+Loading UDPipe model: done.
+
+real	0m56.155s
+user	0m55.680s
+sys	0m0.216s
+Loading UDPipe model: done.
+
+real	0m53.337s
+user	0m53.004s
+sys	0m0.196s
+Loading UDPipe model: done.
+
+real	0m55.112s
+user	0m54.672s
+sys	0m0.200s
+Loading UDPipe model: done.
+
+real	0m27.532s
+user	0m27.260s
+sys	0m0.168s
+Loading UDPipe model: done.
+
+real	0m12.771s
+user	0m12.532s
+sys	0m0.116s
+Loading UDPipe model: done.
+
+real	0m13.671s
+user	0m13.416s
+sys	0m0.172s
+Loading UDPipe model: done.
+
+real	0m41.376s
+user	0m40.864s
+sys	0m0.280s
+Loading UDPipe model: done.
+
+real	0m25.888s
+user	0m25.444s
+sys	0m0.232s
+Loading UDPipe model: done.
+
+real	0m24.603s
+user	0m24.228s
+sys	0m0.200s

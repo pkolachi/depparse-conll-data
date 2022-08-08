@@ -1,0 +1,30 @@
+./run.sh -i /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 -o /tmp/Mengest/2017-05-27-12-15-27/output 
+
+
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1088 sentences read.
+Finished predicting test 22.1949470043
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1851 sentences read.
+Finished predicting test 76.4932851791
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1698 sentences read.
+Finished predicting test 33.8734788895
+/media/data/no_rl/Bulgarian
+/media/data/no_rl/Catalan
+/media/data/no_rl/English

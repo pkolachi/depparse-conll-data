@@ -1,0 +1,3 @@
+./run_all_parsing.sh: line 20:  1446 Segmentation fault      (core dumped) "$@"
+/home/CLCL2/DINN_merged_data_10_05/data/kk/kk-ud-dev.proj.conllu: No such file or directory
+Error: testing file not found

@@ -1,0 +1,4291 @@
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_ar/ar.model_emb.utag.vectors float size= 4
+values 5
+unknown index 254
+Writing to tmpdata_ar/ar.model_emb.feats.vectors float size= 4
+values 3
+unknown index 319
+Writing to tmpdata_ar/ar.model_emb.tag.vectors float size= 4
+values 0
+unknown index 33222
+Writing to tmpdata_ar/ar.model_emb.form.vectors float size= 4
+values 7
+unknown index 32
+Writing to tmpdata_ar/ar.model_emb.deprel.vectors float size= 4
+No vector for word '
+No vector for word keir
+No vector for word kier
+No vector for word gif
+Original vector model: 97176 100
+New vector model: (8098, 100)
+Batch 0 / 9
+Batch 1 / 9
+Batch 2 / 9
+Batch 3 / 9
+Batch 4 / 9
+Batch 5 / 9
+Batch 6 / 9
+Batch 7 / 9
+Batch 8 / 9
+(1, 100)
+(8098, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_ar/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_ar/ar.model_emb.utag.vectors float size= 4
+values 5
+unknown index 254
+Writing to tmpdata_ar/ar.model_emb.feats.vectors float size= 4
+values 3
+unknown index 319
+Writing to tmpdata_ar/ar.model_emb.tag.vectors float size= 4
+values 0
+unknown index 33222
+Writing to tmpdata_ar/ar.model_emb.form.vectors float size= 4
+values 7
+unknown index 32
+Writing to tmpdata_ar/ar.model_emb.deprel.vectors float size= 4
+No vector for word new
+No vector for word ❊
+Original vector model: 97176 100
+New vector model: (8578, 100)
+Batch 0 / 9
+Batch 1 / 9
+Batch 2 / 9
+Batch 3 / 9
+Batch 4 / 9
+Batch 5 / 9
+Batch 6 / 9
+Batch 7 / 9
+Batch 8 / 9
+(1, 100)
+(8578, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_ar/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_bg/bg.model_emb.utag.vectors float size= 4
+values 5
+unknown index 306
+Writing to tmpdata_bg/bg.model_emb.feats.vectors float size= 4
+values 3
+unknown index 432
+Writing to tmpdata_bg/bg.model_emb.tag.vectors float size= 4
+values 0
+unknown index 23012
+Writing to tmpdata_bg/bg.model_emb.form.vectors float size= 4
+values 7
+unknown index 35
+Writing to tmpdata_bg/bg.model_emb.deprel.vectors float size= 4
+No vector for word ]
+No vector for word [
+Original vector model: 86836 100
+New vector model: (5975, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5975, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_bg/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_kk/empty100.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_ca/ca.model_emb.utag.vectors float size= 4
+values 5
+unknown index 162
+Writing to tmpdata_ca/ca.model_emb.feats.vectors float size= 4
+values 3
+unknown index 266
+Writing to tmpdata_ca/ca.model_emb.tag.vectors float size= 4
+values 0
+unknown index 29101
+Writing to tmpdata_ca/ca.model_emb.form.vectors float size= 4
+values 7
+unknown index 33
+Writing to tmpdata_ca/ca.model_emb.deprel.vectors float size= 4
+Original vector model: 110432 100
+New vector model: (9250, 100)
+Batch 0 / 10
+Batch 1 / 10
+Batch 2 / 10
+Batch 3 / 10
+Batch 4 / 10
+Batch 5 / 10
+Batch 6 / 10
+Batch 7 / 10
+Batch 8 / 10
+Batch 9 / 10
+(1, 100)
+(9250, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_ca/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_cs_cac/cs_cac.model_emb.utag.vectors float size= 4
+values 5
+unknown index 1276
+Writing to tmpdata_cs_cac/cs_cac.model_emb.feats.vectors float size= 4
+values 3
+unknown index 1712
+Writing to tmpdata_cs_cac/cs_cac.model_emb.tag.vectors float size= 4
+values 0
+unknown index 60501
+Writing to tmpdata_cs_cac/cs_cac.model_emb.form.vectors float size= 4
+values 7
+unknown index 41
+Writing to tmpdata_cs_cac/cs_cac.model_emb.deprel.vectors float size= 4
+Original vector model: 197263 100
+New vector model: (4285, 100)
+Batch 0 / 5
+Batch 1 / 5
+Batch 2 / 5
+Batch 3 / 5
+Batch 4 / 5
+(1, 100)
+(4285, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_cs_cac/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 15
+Writing to tmpdata_cs_cltt/cs_cltt.model_emb.utag.vectors float size= 4
+values 5
+unknown index 251
+Writing to tmpdata_cs_cltt/cs_cltt.model_emb.feats.vectors float size= 4
+values 3
+unknown index 360
+Writing to tmpdata_cs_cltt/cs_cltt.model_emb.tag.vectors float size= 4
+values 0
+unknown index 2628
+Writing to tmpdata_cs_cltt/cs_cltt.model_emb.form.vectors float size= 4
+values 7
+unknown index 35
+Writing to tmpdata_cs_cltt/cs_cltt.model_emb.deprel.vectors float size= 4
+No vector for word *
+Original vector model: 16357 100
+New vector model: (2067, 100)
+Batch 0 / 3
+Batch 1 / 3
+Batch 2 / 3
+(1, 100)
+(2067, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_cs_cltt/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_cs/cs.model_emb.utag.vectors float size= 4
+values 5
+unknown index 1921
+Writing to tmpdata_cs/cs.model_emb.feats.vectors float size= 4
+values 3
+unknown index 2593
+Writing to tmpdata_cs/cs.model_emb.tag.vectors float size= 4
+values 0
+unknown index 111242
+Writing to tmpdata_cs/cs.model_emb.form.vectors float size= 4
+values 7
+unknown index 41
+Writing to tmpdata_cs/cs.model_emb.deprel.vectors float size= 4
+No vector for word „
+No vector for word “
+No vector for word –
+No vector for word …
+No vector for word —
+Original vector model: 340694 100
+New vector model: (7597, 100)
+Batch 0 / 8
+Batch 1 / 8
+Batch 2 / 8
+Batch 3 / 8
+Batch 4 / 8
+Batch 5 / 8
+Batch 6 / 8
+Batch 7 / 8
+(1, 100)
+(7597, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_cs/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_cs/cs.model_emb.utag.vectors float size= 4
+values 5
+unknown index 1921
+Writing to tmpdata_cs/cs.model_emb.feats.vectors float size= 4
+values 3
+unknown index 2593
+Writing to tmpdata_cs/cs.model_emb.tag.vectors float size= 4
+values 0
+unknown index 111242
+Writing to tmpdata_cs/cs.model_emb.form.vectors float size= 4
+values 7
+unknown index 41
+Writing to tmpdata_cs/cs.model_emb.deprel.vectors float size= 4
+No vector for word φ
+No vector for word >
+No vector for word <
+Original vector model: 340694 100
+New vector model: (34932, 100)
+Batch 0 / 35
+Batch 1 / 35
+Batch 2 / 35
+Batch 3 / 35
+Batch 4 / 35
+Batch 5 / 35
+Batch 6 / 35
+Batch 7 / 35
+Batch 8 / 35
+Batch 9 / 35
+Batch 10 / 35
+Batch 11 / 35
+Batch 12 / 35
+Batch 13 / 35
+Batch 14 / 35
+Batch 15 / 35
+Batch 16 / 35
+Batch 17 / 35
+Batch 18 / 35
+Batch 19 / 35
+Batch 20 / 35
+Batch 21 / 35
+Batch 22 / 35
+Batch 23 / 35
+Batch 24 / 35
+Batch 25 / 35
+Batch 26 / 35
+Batch 27 / 35
+Batch 28 / 35
+Batch 29 / 35
+Batch 30 / 35
+Batch 31 / 35
+Batch 32 / 35
+Batch 33 / 35
+Batch 34 / 35
+(1, 100)
+(34932, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_cs/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 14
+Writing to tmpdata_cu/cu.model_emb.utag.vectors float size= 4
+values 5
+unknown index 527
+Writing to tmpdata_cu/cu.model_emb.feats.vectors float size= 4
+values 3
+unknown index 859
+Writing to tmpdata_cu/cu.model_emb.tag.vectors float size= 4
+values 0
+unknown index 7593
+Writing to tmpdata_cu/cu.model_emb.form.vectors float size= 4
+values 7
+unknown index 31
+Writing to tmpdata_cu/cu.model_emb.deprel.vectors float size= 4
+Original vector model: 33305 100
+New vector model: (3243, 100)
+Batch 0 / 4
+Batch 1 / 4
+Batch 2 / 4
+Batch 3 / 4
+(1, 100)
+(3243, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_cu/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_da/da.model_emb.utag.vectors float size= 4
+values 5
+unknown index 114
+Writing to tmpdata_da/da.model_emb.feats.vectors float size= 4
+values 3
+unknown index 157
+Writing to tmpdata_da/da.model_emb.tag.vectors float size= 4
+values 0
+unknown index 15311
+Writing to tmpdata_da/da.model_emb.form.vectors float size= 4
+values 7
+unknown index 36
+Writing to tmpdata_da/da.model_emb.deprel.vectors float size= 4
+Original vector model: 63194 100
+New vector model: (3267, 100)
+Batch 0 / 4
+Batch 1 / 4
+Batch 2 / 4
+Batch 3 / 4
+(1, 100)
+(3267, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_da/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 15
+Writing to tmpdata_de/de.model_emb.utag.vectors float size= 4
+values 5
+unknown index 432
+Writing to tmpdata_de/de.model_emb.feats.vectors float size= 4
+values 3
+unknown index 681
+Writing to tmpdata_de/de.model_emb.tag.vectors float size= 4
+values 0
+unknown index 47713
+Writing to tmpdata_de/de.model_emb.form.vectors float size= 4
+values 7
+unknown index 35
+Writing to tmpdata_de/de.model_emb.deprel.vectors float size= 4
+No vector for word „
+No vector for word “
+No vector for word –
+No vector for word …
+Original vector model: 162401 100
+New vector model: (6433, 100)
+Batch 0 / 7
+Batch 1 / 7
+Batch 2 / 7
+Batch 3 / 7
+Batch 4 / 7
+Batch 5 / 7
+Batch 6 / 7
+(1, 100)
+(6433, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_de/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 15
+Writing to tmpdata_de/de.model_emb.utag.vectors float size= 4
+values 5
+unknown index 432
+Writing to tmpdata_de/de.model_emb.feats.vectors float size= 4
+values 3
+unknown index 681
+Writing to tmpdata_de/de.model_emb.tag.vectors float size= 4
+values 0
+unknown index 47713
+Writing to tmpdata_de/de.model_emb.form.vectors float size= 4
+values 7
+unknown index 35
+Writing to tmpdata_de/de.model_emb.deprel.vectors float size= 4
+Original vector model: 162401 100
+New vector model: (5175, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5175, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_de/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_el/el.model_emb.utag.vectors float size= 4
+values 5
+unknown index 248
+Writing to tmpdata_el/el.model_emb.feats.vectors float size= 4
+values 3
+unknown index 346
+Writing to tmpdata_el/el.model_emb.tag.vectors float size= 4
+values 0
+unknown index 8528
+Writing to tmpdata_el/el.model_emb.form.vectors float size= 4
+values 7
+unknown index 32
+Writing to tmpdata_el/el.model_emb.deprel.vectors float size= 4
+Original vector model: 46553 100
+New vector model: (3369, 100)
+Batch 0 / 4
+Batch 1 / 4
+Batch 2 / 4
+Batch 3 / 4
+(1, 100)
+(3369, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_el/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_en_lines/en_lines.model_emb.utag.vectors float size= 4
+values 5
+unknown index 1
+Writing to tmpdata_en_lines/en_lines.model_emb.feats.vectors float size= 4
+values 3
+unknown index 17
+Writing to tmpdata_en_lines/en_lines.model_emb.tag.vectors float size= 4
+values 0
+unknown index 6924
+Writing to tmpdata_en_lines/en_lines.model_emb.form.vectors float size= 4
+values 7
+unknown index 37
+Writing to tmpdata_en_lines/en_lines.model_emb.deprel.vectors float size= 4
+No vector for word [
+No vector for word ]
+Original vector model: 32360 100
+New vector model: (3307, 100)
+Batch 0 / 4
+Batch 1 / 4
+Batch 2 / 4
+Batch 3 / 4
+(1, 100)
+(3307, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_en_lines/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_en_partut/en_partut.model_emb.utag.vectors float size= 4
+values 5
+unknown index 66
+Writing to tmpdata_en_partut/en_partut.model_emb.feats.vectors float size= 4
+values 3
+unknown index 116
+Writing to tmpdata_en_partut/en_partut.model_emb.tag.vectors float size= 4
+values 0
+unknown index 5150
+Writing to tmpdata_en_partut/en_partut.model_emb.form.vectors float size= 4
+values 7
+unknown index 44
+Writing to tmpdata_en_partut/en_partut.model_emb.deprel.vectors float size= 4
+No vector for word ‘
+No vector for word !
+Original vector model: 25235 100
+New vector model: (2658, 100)
+Batch 0 / 3
+Batch 1 / 3
+Batch 2 / 3
+(1, 100)
+(2658, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_en_partut/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_en/en.model_emb.utag.vectors float size= 4
+values 5
+unknown index 66
+Writing to tmpdata_en/en.model_emb.feats.vectors float size= 4
+values 3
+unknown index 116
+Writing to tmpdata_en/en.model_emb.tag.vectors float size= 4
+values 0
+unknown index 16651
+Writing to tmpdata_en/en.model_emb.form.vectors float size= 4
+values 7
+unknown index 49
+Writing to tmpdata_en/en.model_emb.deprel.vectors float size= 4
+No vector for word £
+No vector for word €
+Original vector model: 76157 100
+New vector model: (5383, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5383, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_en/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_en/en.model_emb.utag.vectors float size= 4
+values 5
+unknown index 66
+Writing to tmpdata_en/en.model_emb.feats.vectors float size= 4
+values 3
+unknown index 116
+Writing to tmpdata_en/en.model_emb.tag.vectors float size= 4
+values 0
+unknown index 16651
+Writing to tmpdata_en/en.model_emb.form.vectors float size= 4
+values 7
+unknown index 49
+Writing to tmpdata_en/en.model_emb.deprel.vectors float size= 4
+Original vector model: 76157 100
+New vector model: (5001, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5001, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_en/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_es_ancora/es_ancora.model_emb.utag.vectors float size= 4
+values 5
+unknown index 180
+Writing to tmpdata_es_ancora/es_ancora.model_emb.feats.vectors float size= 4
+values 3
+unknown index 294
+Writing to tmpdata_es_ancora/es_ancora.model_emb.tag.vectors float size= 4
+values 0
+unknown index 35599
+Writing to tmpdata_es_ancora/es_ancora.model_emb.form.vectors float size= 4
+values 7
+unknown index 32
+Writing to tmpdata_es_ancora/es_ancora.model_emb.deprel.vectors float size= 4
+Original vector model: 126849 100
+New vector model: (10009, 100)
+Batch 0 / 11
+Batch 1 / 11
+Batch 2 / 11
+Batch 3 / 11
+Batch 4 / 11
+Batch 5 / 11
+Batch 6 / 11
+Batch 7 / 11
+Batch 8 / 11
+Batch 9 / 11
+Batch 10 / 11
+(1, 100)
+(10009, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_es_ancora/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_es/es.model_emb.utag.vectors float size= 4
+values 5
+unknown index 198
+Writing to tmpdata_es/es.model_emb.feats.vectors float size= 4
+values 3
+unknown index 393
+Writing to tmpdata_es/es.model_emb.tag.vectors float size= 4
+values 0
+unknown index 43050
+Writing to tmpdata_es/es.model_emb.form.vectors float size= 4
+values 7
+unknown index 32
+Writing to tmpdata_es/es.model_emb.deprel.vectors float size= 4
+No vector for word …
+No vector for word —
+Original vector model: 139284 100
+New vector model: (5994, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5994, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_es/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_es/es.model_emb.utag.vectors float size= 4
+values 5
+unknown index 198
+Writing to tmpdata_es/es.model_emb.feats.vectors float size= 4
+values 3
+unknown index 393
+Writing to tmpdata_es/es.model_emb.tag.vectors float size= 4
+values 0
+unknown index 43050
+Writing to tmpdata_es/es.model_emb.form.vectors float size= 4
+values 7
+unknown index 32
+Writing to tmpdata_es/es.model_emb.deprel.vectors float size= 4
+No vector for word ¨
+Original vector model: 139284 100
+New vector model: (3871, 100)
+Batch 0 / 4
+Batch 1 / 4
+Batch 2 / 4
+Batch 3 / 4
+(1, 100)
+(3871, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_es/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_et/et.model_emb.utag.vectors float size= 4
+values 5
+unknown index 268
+Writing to tmpdata_et/et.model_emb.feats.vectors float size= 4
+values 3
+unknown index 482
+Writing to tmpdata_et/et.model_emb.tag.vectors float size= 4
+values 0
+unknown index 7786
+Writing to tmpdata_et/et.model_emb.form.vectors float size= 4
+values 7
+unknown index 35
+Writing to tmpdata_et/et.model_emb.deprel.vectors float size= 4
+No vector for word —
+No vector for word ;
+No vector for word x
+No vector for word %
+No vector for word =
+Original vector model: 31736 100
+New vector model: (4796, 100)
+Batch 0 / 5
+Batch 1 / 5
+Batch 2 / 5
+Batch 3 / 5
+Batch 4 / 5
+(1, 100)
+(4796, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_et/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_eu/eu.model_emb.utag.vectors float size= 4
+values 5
+unknown index 388
+Writing to tmpdata_eu/eu.model_emb.feats.vectors float size= 4
+values 3
+unknown index 860
+Writing to tmpdata_eu/eu.model_emb.tag.vectors float size= 4
+values 0
+unknown index 17566
+Writing to tmpdata_eu/eu.model_emb.form.vectors float size= 4
+values 7
+unknown index 30
+Writing to tmpdata_eu/eu.model_emb.deprel.vectors float size= 4
+Original vector model: 62943 100
+New vector model: (8356, 100)
+Batch 0 / 9
+Batch 1 / 9
+Batch 2 / 9
+Batch 3 / 9
+Batch 4 / 9
+Batch 5 / 9
+Batch 6 / 9
+Batch 7 / 9
+Batch 8 / 9
+(1, 100)
+(8356, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_eu/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 15
+Writing to tmpdata_fa/fa.model_emb.utag.vectors float size= 4
+values 5
+unknown index 99
+Writing to tmpdata_fa/fa.model_emb.feats.vectors float size= 4
+values 3
+unknown index 159
+Writing to tmpdata_fa/fa.model_emb.tag.vectors float size= 4
+values 0
+unknown index 13855
+Writing to tmpdata_fa/fa.model_emb.form.vectors float size= 4
+values 7
+unknown index 37
+Writing to tmpdata_fa/fa.model_emb.deprel.vectors float size= 4
+Original vector model: 57887 100
+New vector model: (3936, 100)
+Batch 0 / 4
+Batch 1 / 4
+Batch 2 / 4
+Batch 3 / 4
+(1, 100)
+(3936, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_fa/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_fi_ftb/fi_ftb.model_emb.utag.vectors float size= 4
+values 5
+unknown index 954
+Writing to tmpdata_fi_ftb/fi_ftb.model_emb.feats.vectors float size= 4
+values 3
+unknown index 1761
+Writing to tmpdata_fi_ftb/fi_ftb.model_emb.tag.vectors float size= 4
+values 0
+unknown index 37344
+Writing to tmpdata_fi_ftb/fi_ftb.model_emb.form.vectors float size= 4
+values 7
+unknown index 38
+Writing to tmpdata_fi_ftb/fi_ftb.model_emb.deprel.vectors float size= 4
+No vector for word +
+Original vector model: 117706 100
+New vector model: (7679, 100)
+Batch 0 / 8
+Batch 1 / 8
+Batch 2 / 8
+Batch 3 / 8
+Batch 4 / 8
+Batch 5 / 8
+Batch 6 / 8
+Batch 7 / 8
+(1, 100)
+(7679, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_fi_ftb/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 15
+Writing to tmpdata_fi/fi.model_emb.utag.vectors float size= 4
+values 5
+unknown index 934
+Writing to tmpdata_fi/fi.model_emb.feats.vectors float size= 4
+values 3
+unknown index 1669
+Writing to tmpdata_fi/fi.model_emb.tag.vectors float size= 4
+values 0
+unknown index 46323
+Writing to tmpdata_fi/fi.model_emb.form.vectors float size= 4
+values 7
+unknown index 45
+Writing to tmpdata_fi/fi.model_emb.deprel.vectors float size= 4
+Replacing token 10 000 with 10 000
+Replacing token 15 001-19 999 with 15 001-19 999
+Replacing token 168 000 with 168 000
+Replacing token 35 000 with 35 000
+Replacing token 12 000 with 12 000
+Replacing token 100 000 with 100 000
+Replacing token 330 000 with 330 000
+Replacing token 15 000 with 15 000
+Replacing token 600 000 with 600 000
+Replacing token 16 500 with 16 500
+Replacing token 25 000 with 25 000
+Original vector model: 146793 100
+New vector model: (7571, 100)
+Batch 0 / 8
+Batch 1 / 8
+Batch 2 / 8
+Batch 3 / 8
+Batch 4 / 8
+Batch 5 / 8
+Batch 6 / 8
+Batch 7 / 8
+(1, 100)
+(7571, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_fi/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 15
+Writing to tmpdata_fi/fi.model_emb.utag.vectors float size= 4
+values 5
+unknown index 934
+Writing to tmpdata_fi/fi.model_emb.feats.vectors float size= 4
+values 3
+unknown index 1669
+Writing to tmpdata_fi/fi.model_emb.tag.vectors float size= 4
+values 0
+unknown index 46323
+Writing to tmpdata_fi/fi.model_emb.form.vectors float size= 4
+values 7
+unknown index 45
+Writing to tmpdata_fi/fi.model_emb.deprel.vectors float size= 4
+Replacing token 800 000 with 800 000
+Replacing token 200 000 with 200 000
+Replacing token 170 000 with 170 000
+Replacing token 135 000 with 135 000
+Replacing token 1 200 with 1 200
+Replacing token 14 900 with 14 900
+Replacing token : ) with : )
+Replacing token 180 000 with 180 000
+Replacing token 340 000 with 340 000
+Replacing token 266 000 with 266 000
+Replacing token 5 000 with 5 000
+Replacing token 224 000 with 224 000
+Replacing token 50 000 with 50 000
+Replacing token 2002 400 with 2002 400
+No vector for word =
+Original vector model: 146793 100
+New vector model: (8717, 100)
+Batch 0 / 9
+Batch 1 / 9
+Batch 2 / 9
+Batch 3 / 9
+Batch 4 / 9
+Batch 5 / 9
+Batch 6 / 9
+Batch 7 / 9
+Batch 8 / 9
+(1, 100)
+(8717, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_fi/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_fr_partut/fr_partut.model_emb.utag.vectors float size= 4
+values 5
+unknown index 121
+Writing to tmpdata_fr_partut/fr_partut.model_emb.feats.vectors float size= 4
+values 3
+unknown index 178
+Writing to tmpdata_fr_partut/fr_partut.model_emb.tag.vectors float size= 4
+values 0
+unknown index 3233
+Writing to tmpdata_fr_partut/fr_partut.model_emb.form.vectors float size= 4
+values 7
+unknown index 41
+Writing to tmpdata_fr_partut/fr_partut.model_emb.deprel.vectors float size= 4
+Original vector model: 17796 100
+New vector model: (2353, 100)
+Batch 0 / 3
+Batch 1 / 3
+Batch 2 / 3
+(1, 100)
+(2353, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_fr_partut/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_fr/fr.model_emb.utag.vectors float size= 4
+values 5
+unknown index 112
+Writing to tmpdata_fr/fr.model_emb.feats.vectors float size= 4
+values 3
+unknown index 220
+Writing to tmpdata_fr/fr.model_emb.tag.vectors float size= 4
+values 0
+unknown index 39603
+Writing to tmpdata_fr/fr.model_emb.form.vectors float size= 4
+values 7
+unknown index 40
+Writing to tmpdata_fr/fr.model_emb.deprel.vectors float size= 4
+Replacing token 600 000 with 600 000
+Replacing token 168 000 with 168 000
+Replacing token 35 000 with 35 000
+Replacing token 10 000 with 10 000
+Replacing token 330 000 with 330 000
+Replacing token 100 000 with 100 000
+Replacing token £10 000 with £10 000
+Replacing token 15 000 with 15 000
+Replacing token 5 000 with 5 000
+Replacing token £12 000 with £12 000
+Replacing token 16 500 with 16 500
+Replacing token 25 000 with 25 000
+No vector for word …
+Original vector model: 137333 100
+New vector model: (6034, 100)
+Batch 0 / 7
+Batch 1 / 7
+Batch 2 / 7
+Batch 3 / 7
+Batch 4 / 7
+Batch 5 / 7
+Batch 6 / 7
+(1, 100)
+(6034, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_fr/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_fr_sequoia/fr_sequoia.model_emb.utag.vectors float size= 4
+values 5
+unknown index 121
+Writing to tmpdata_fr_sequoia/fr_sequoia.model_emb.feats.vectors float size= 4
+values 3
+unknown index 206
+Writing to tmpdata_fr_sequoia/fr_sequoia.model_emb.tag.vectors float size= 4
+values 0
+unknown index 7903
+Writing to tmpdata_fr_sequoia/fr_sequoia.model_emb.form.vectors float size= 4
+values 7
+unknown index 36
+Writing to tmpdata_fr_sequoia/fr_sequoia.model_emb.deprel.vectors float size= 4
+Replacing token 3 092 with 3 092
+Replacing token 3 862 with 3 862
+Replacing token 80 000 with 80 000
+Replacing token 50 000 with 50 000
+Replacing token 100 000 with 100 000
+Replacing token 2 000 with 2 000
+Replacing token 15 000 with 15 000
+Replacing token 190 500 with 190 500
+Replacing token 7 736 with 7 736
+Replacing token 3 852 with 3 852
+Replacing token 67 025 with 67 025
+Replacing token 500 000 with 500 000
+Replacing token 800 000 with 800 000
+Original vector model: 37751 100
+New vector model: (2861, 100)
+Batch 0 / 3
+Batch 1 / 3
+Batch 2 / 3
+(1, 100)
+(2861, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_fr_sequoia/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_fr/fr.model_emb.utag.vectors float size= 4
+values 5
+unknown index 112
+Writing to tmpdata_fr/fr.model_emb.feats.vectors float size= 4
+values 3
+unknown index 220
+Writing to tmpdata_fr/fr.model_emb.tag.vectors float size= 4
+values 0
+unknown index 39603
+Writing to tmpdata_fr/fr.model_emb.form.vectors float size= 4
+values 7
+unknown index 40
+Writing to tmpdata_fr/fr.model_emb.deprel.vectors float size= 4
+Replacing token 1 000 with 1 000
+Original vector model: 137333 100
+New vector model: (3130, 100)
+Batch 0 / 4
+Batch 1 / 4
+Batch 2 / 4
+Batch 3 / 4
+(1, 100)
+(3130, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_fr/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_ga/ga.model_emb.utag.vectors float size= 4
+values 5
+unknown index 208
+Writing to tmpdata_ga/ga.model_emb.feats.vectors float size= 4
+values 3
+unknown index 360
+Writing to tmpdata_ga/ga.model_emb.tag.vectors float size= 4
+values 0
+unknown index 3852
+Writing to tmpdata_ga/ga.model_emb.form.vectors float size= 4
+values 7
+unknown index 36
+Writing to tmpdata_ga/ga.model_emb.deprel.vectors float size= 4
+No vector for word [
+No vector for word ]
+No vector for word %
+Original vector model: 16243 100
+New vector model: (3053, 100)
+Batch 0 / 4
+Batch 1 / 4
+Batch 2 / 4
+Batch 3 / 4
+(1, 100)
+(3053, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_ga/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_gl_treegal/gl_treegal.model_emb.utag.vectors float size= 4
+values 5
+unknown index 140
+Writing to tmpdata_gl_treegal/gl_treegal.model_emb.feats.vectors float size= 4
+values 3
+unknown index 212
+Writing to tmpdata_gl_treegal/gl_treegal.model_emb.tag.vectors float size= 4
+values 0
+unknown index 4089
+Writing to tmpdata_gl_treegal/gl_treegal.model_emb.form.vectors float size= 4
+values 7
+unknown index 37
+Writing to tmpdata_gl_treegal/gl_treegal.model_emb.deprel.vectors float size= 4
+No vector for word [
+No vector for word ]
+Original vector model: 18355 100
+New vector model: (3010, 100)
+Batch 0 / 4
+Batch 1 / 4
+Batch 2 / 4
+Batch 3 / 4
+(1, 100)
+(3010, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_gl_treegal/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_gl/gl.model_emb.utag.vectors float size= 4
+values 5
+unknown index 3
+Writing to tmpdata_gl/gl.model_emb.feats.vectors float size= 4
+values 3
+unknown index 26
+Writing to tmpdata_gl/gl.model_emb.tag.vectors float size= 4
+values 0
+unknown index 11655
+Writing to tmpdata_gl/gl.model_emb.form.vectors float size= 4
+values 7
+unknown index 20
+Writing to tmpdata_gl/gl.model_emb.deprel.vectors float size= 4
+No vector for word +
+No vector for word ~
+Original vector model: 45566 100
+New vector model: (6396, 100)
+Batch 0 / 7
+Batch 1 / 7
+Batch 2 / 7
+Batch 3 / 7
+Batch 4 / 7
+Batch 5 / 7
+Batch 6 / 7
+(1, 100)
+(6396, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_gl/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 14
+Writing to tmpdata_got/got.model_emb.utag.vectors float size= 4
+values 5
+unknown index 407
+Writing to tmpdata_got/got.model_emb.feats.vectors float size= 4
+values 3
+unknown index 623
+Writing to tmpdata_got/got.model_emb.tag.vectors float size= 4
+values 0
+unknown index 6740
+Writing to tmpdata_got/got.model_emb.form.vectors float size= 4
+values 7
+unknown index 31
+Writing to tmpdata_got/got.model_emb.deprel.vectors float size= 4
+Original vector model: 28017 100
+New vector model: (2816, 100)
+Batch 0 / 3
+Batch 1 / 3
+Batch 2 / 3
+(1, 100)
+(2816, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_got/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 14
+Writing to tmpdata_grc_proiel/grc_proiel.model_emb.utag.vectors float size= 4
+values 5
+unknown index 703
+Writing to tmpdata_grc_proiel/grc_proiel.model_emb.feats.vectors float size= 4
+values 3
+unknown index 1025
+Writing to tmpdata_grc_proiel/grc_proiel.model_emb.tag.vectors float size= 4
+values 0
+unknown index 29601
+Writing to tmpdata_grc_proiel/grc_proiel.model_emb.form.vectors float size= 4
+values 7
+unknown index 33
+Writing to tmpdata_grc_proiel/grc_proiel.model_emb.deprel.vectors float size= 4
+Original vector model: 129214 100
+New vector model: (4495, 100)
+Batch 0 / 5
+Batch 1 / 5
+Batch 2 / 5
+Batch 3 / 5
+Batch 4 / 5
+(1, 100)
+(4495, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_grc_proiel/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 14
+Writing to tmpdata_grc/grc.model_emb.utag.vectors float size= 4
+values 5
+unknown index 518
+Writing to tmpdata_grc/grc.model_emb.feats.vectors float size= 4
+values 3
+unknown index 774
+Writing to tmpdata_grc/grc.model_emb.tag.vectors float size= 4
+values 0
+unknown index 33075
+Writing to tmpdata_grc/grc.model_emb.form.vectors float size= 4
+values 7
+unknown index 25
+Writing to tmpdata_grc/grc.model_emb.deprel.vectors float size= 4
+Original vector model: 138646 100
+New vector model: (7312, 100)
+Batch 0 / 8
+Batch 1 / 8
+Batch 2 / 8
+Batch 3 / 8
+Batch 4 / 8
+Batch 5 / 8
+Batch 6 / 8
+Batch 7 / 8
+(1, 100)
+(7312, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_grc/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_he/he.model_emb.utag.vectors float size= 4
+values 5
+unknown index 343
+Writing to tmpdata_he/he.model_emb.feats.vectors float size= 4
+values 3
+unknown index 473
+Writing to tmpdata_he/he.model_emb.tag.vectors float size= 4
+values 0
+unknown index 29638
+Writing to tmpdata_he/he.model_emb.form.vectors float size= 4
+values 7
+unknown index 43
+Writing to tmpdata_he/he.model_emb.deprel.vectors float size= 4
+Original vector model: 67607 100
+New vector model: (4758, 100)
+Batch 0 / 5
+Batch 1 / 5
+Batch 2 / 5
+Batch 3 / 5
+Batch 4 / 5
+(1, 100)
+(4758, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_he/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_hi/hi.model_emb.utag.vectors float size= 4
+values 5
+unknown index 514
+Writing to tmpdata_hi/hi.model_emb.feats.vectors float size= 4
+values 3
+unknown index 939
+Writing to tmpdata_hi/hi.model_emb.tag.vectors float size= 4
+values 0
+unknown index 16974
+Writing to tmpdata_hi/hi.model_emb.form.vectors float size= 4
+values 7
+unknown index 27
+Writing to tmpdata_hi/hi.model_emb.deprel.vectors float size= 4
+No vector for word ;
+No vector for word ”
+No vector for word –
+No vector for word %
+No vector for word —
+No vector for word iii
+No vector for word vw
+No vector for word vulcanology
+No vector for word exxonmobil
+No vector for word air
+No vector for word irena
+No vector for word luiss
+No vector for word hfcs
+No vector for word emicro
+No vector for word hariri
+No vector for word mass
+No vector for word gop
+No vector for word gema
+No vector for word reco
+No vector for word noma
+No vector for word aoun
+No vector for word intelligence
+No vector for word huawei
+No vector for word nascar
+No vector for word volcanology
+No vector for word vi
+No vector for word spiegel
+No vector for word nato
+No vector for word solstices
+No vector for word …
+No vector for word “
+No vector for word equinoxes
+Original vector model: 84530 100
+New vector model: (5205, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5205, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_hi/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_hi/hi.model_emb.utag.vectors float size= 4
+values 5
+unknown index 514
+Writing to tmpdata_hi/hi.model_emb.feats.vectors float size= 4
+values 3
+unknown index 939
+Writing to tmpdata_hi/hi.model_emb.tag.vectors float size= 4
+values 0
+unknown index 16974
+Writing to tmpdata_hi/hi.model_emb.form.vectors float size= 4
+values 7
+unknown index 27
+Writing to tmpdata_hi/hi.model_emb.deprel.vectors float size= 4
+Original vector model: 84530 100
+New vector model: (5335, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5335, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_hi/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_hr/hr.model_emb.utag.vectors float size= 4
+values 5
+unknown index 845
+Writing to tmpdata_hr/hr.model_emb.feats.vectors float size= 4
+values 3
+unknown index 1105
+Writing to tmpdata_hr/hr.model_emb.tag.vectors float size= 4
+values 0
+unknown index 32404
+Writing to tmpdata_hr/hr.model_emb.form.vectors float size= 4
+values 7
+unknown index 41
+Writing to tmpdata_hr/hr.model_emb.deprel.vectors float size= 4
+Original vector model: 105868 100
+New vector model: (5283, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5283, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_hr/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_sl/empty100.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_hu/hu.model_emb.utag.vectors float size= 4
+values 5
+unknown index 347
+Writing to tmpdata_hu/hu.model_emb.feats.vectors float size= 4
+values 3
+unknown index 580
+Writing to tmpdata_hu/hu.model_emb.tag.vectors float size= 4
+values 0
+unknown index 7540
+Writing to tmpdata_hu/hu.model_emb.form.vectors float size= 4
+values 7
+unknown index 54
+Writing to tmpdata_hu/hu.model_emb.deprel.vectors float size= 4
+Original vector model: 36697 100
+New vector model: (4441, 100)
+Batch 0 / 5
+Batch 1 / 5
+Batch 2 / 5
+Batch 3 / 5
+Batch 4 / 5
+(1, 100)
+(4441, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_hu/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_id/id.model_emb.utag.vectors float size= 4
+values 5
+unknown index 3
+Writing to tmpdata_id/id.model_emb.feats.vectors float size= 4
+values 3
+unknown index 21
+Writing to tmpdata_id/id.model_emb.tag.vectors float size= 4
+values 0
+unknown index 17206
+Writing to tmpdata_id/id.model_emb.form.vectors float size= 4
+values 7
+unknown index 31
+Writing to tmpdata_id/id.model_emb.deprel.vectors float size= 4
+No vector for word ヒ
+No vector for word 뭘봐
+No vector for word 汉
+No vector for word 王
+No vector for word ȝ
+No vector for word ひ
+No vector for word 尹
+No vector for word （
+No vector for word ）
+No vector for word 伊
+No vector for word 东
+No vector for word 形聲
+Original vector model: 66963 100
+New vector model: (4015, 100)
+Batch 0 / 5
+Batch 1 / 5
+Batch 2 / 5
+Batch 3 / 5
+Batch 4 / 5
+(1, 100)
+(4015, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_id/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_it/it.model_emb.utag.vectors float size= 4
+values 5
+unknown index 152
+Writing to tmpdata_it/it.model_emb.feats.vectors float size= 4
+values 3
+unknown index 271
+Writing to tmpdata_it/it.model_emb.tag.vectors float size= 4
+values 0
+unknown index 26860
+Writing to tmpdata_it/it.model_emb.form.vectors float size= 4
+values 7
+unknown index 44
+Writing to tmpdata_it/it.model_emb.deprel.vectors float size= 4
+Original vector model: 90912 100
+New vector model: (6216, 100)
+Batch 0 / 7
+Batch 1 / 7
+Batch 2 / 7
+Batch 3 / 7
+Batch 4 / 7
+Batch 5 / 7
+Batch 6 / 7
+(1, 100)
+(6216, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_it/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_it/it.model_emb.utag.vectors float size= 4
+values 5
+unknown index 152
+Writing to tmpdata_it/it.model_emb.feats.vectors float size= 4
+values 3
+unknown index 271
+Writing to tmpdata_it/it.model_emb.tag.vectors float size= 4
+values 0
+unknown index 26860
+Writing to tmpdata_it/it.model_emb.form.vectors float size= 4
+values 7
+unknown index 44
+Writing to tmpdata_it/it.model_emb.deprel.vectors float size= 4
+No vector for word ノ
+No vector for word の
+No vector for word ″
+Original vector model: 90912 100
+New vector model: (3384, 100)
+Batch 0 / 4
+Batch 1 / 4
+Batch 2 / 4
+Batch 3 / 4
+(1, 100)
+(3384, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_it/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 14
+Writing to tmpdata_ja/ja.model_emb.utag.vectors float size= 4
+values 5
+unknown index 2
+Writing to tmpdata_ja/ja.model_emb.feats.vectors float size= 4
+values 3
+unknown index 14
+Writing to tmpdata_ja/ja.model_emb.tag.vectors float size= 4
+values 0
+unknown index 22126
+Writing to tmpdata_ja/ja.model_emb.form.vectors float size= 4
+values 7
+unknown index 21
+Writing to tmpdata_ja/ja.model_emb.deprel.vectors float size= 4
+No vector for word （
+No vector for word ）
+No vector for word ％
+No vector for word ？
+No vector for word (
+No vector for word ＝
+No vector for word 嵐
+No vector for word 稀
+No vector for word １
+No vector for word ２
+No vector for word 瘍
+No vector for word 躇
+No vector for word 躊
+No vector for word 机
+No vector for word 閏
+No vector for word 誼
+No vector for word 灌
+No vector for word 灼
+No vector for word ℃
+No vector for word 烙
+No vector for word ぜ撤
+No vector for word 苛
+No vector for word 愍
+No vector for word 叶
+No vector for word 咎
+No vector for word Ⅲ
+No vector for word 卸
+No vector for word 姻戚
+No vector for word £
+No vector for word 饗
+No vector for word 胱
+No vector for word 胴
+No vector for word 溺
+No vector for word 繭
+No vector for word 飢饉
+No vector for word 蜂
+No vector for word ６
+No vector for word ＆
+No vector for word ／
+No vector for word 賑
+No vector for word 漑
+No vector for word 諡
+No vector for word 諜
+No vector for word 站
+No vector for word 厩
+No vector for word 浚渫
+No vector for word –
+No vector for word ’
+No vector for word 姦
+No vector for word 撼
+No vector for word 奨
+No vector for word 脆
+No vector for word 凡
+No vector for word 酬
+No vector for word 膀
+No vector for word 蛹
+No vector for word 矮
+No vector for word 猿
+No vector for word 贔
+No vector for word -£
+Original vector model: 58994 100
+New vector model: (5776, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5776, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_ja/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 14
+Writing to tmpdata_ja/ja.model_emb.utag.vectors float size= 4
+values 5
+unknown index 2
+Writing to tmpdata_ja/ja.model_emb.feats.vectors float size= 4
+values 3
+unknown index 14
+Writing to tmpdata_ja/ja.model_emb.tag.vectors float size= 4
+values 0
+unknown index 22126
+Writing to tmpdata_ja/ja.model_emb.form.vectors float size= 4
+values 7
+unknown index 21
+Writing to tmpdata_ja/ja.model_emb.deprel.vectors float size= 4
+No vector for word 棚
+No vector for word 怯
+No vector for word ぉ
+No vector for word 糀
+No vector for word 某
+No vector for word 遥
+No vector for word 掩
+No vector for word 蔽
+No vector for word 缶
+No vector for word 兎
+No vector for word 朽
+No vector for word れ半軟
+No vector for word 睨
+No vector for word 徽
+No vector for word 湘
+No vector for word 勿
+No vector for word 稀
+No vector for word 冥
+No vector for word 弧
+No vector for word 】
+No vector for word 袖
+No vector for word ぅ
+No vector for word 【
+No vector for word 穀粒
+Original vector model: 58994 100
+New vector model: (3816, 100)
+Batch 0 / 4
+Batch 1 / 4
+Batch 2 / 4
+Batch 3 / 4
+(1, 100)
+(3816, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_ja/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 15
+Writing to tmpdata_kk/kk.model_emb.utag.vectors float size= 4
+values 5
+unknown index 41
+Writing to tmpdata_kk/kk.model_emb.feats.vectors float size= 4
+values 3
+unknown index 84
+Writing to tmpdata_kk/kk.model_emb.tag.vectors float size= 4
+values 0
+unknown index 333
+Writing to tmpdata_kk/kk.model_emb.form.vectors float size= 4
+values 7
+unknown index 28
+Writing to tmpdata_kk/kk.model_emb.deprel.vectors float size= 4
+Replacing token Ешкім де with Ешкім де
+Replacing token басқа да with басқа да
+Replacing token 19 ғасырдың with 19 ғасырдың
+Replacing token 20 ғасырдың with 20 ғасырдың
+Replacing token бола ма with бола ма
+Replacing token тағы да with тағы да
+Replacing token 18 ғасырларда with 18 ғасырларда
+Replacing token Сондықтан да with Сондықтан да
+Replacing token 19 ғасырларда with 19 ғасырларда
+Replacing token мен қағидаларына with мен қағидаларына
+Replacing token тақырыбын қозғады with тақырыбын қозғады
+Replacing token Жұмыссыздық 12 with Жұмыссыздық 12
+Replacing token көрдің бе with көрдің бе
+Replacing token мен 13 with мен 13
+Replacing token Сонда да with Сонда да
+Replacing token әлемде де with әлемде де
+Replacing token 20 ғасырда with 20 ғасырда
+Replacing token салсаң да with салсаң да
+Replacing token соң ғараб with соң ғараб
+Replacing token блогынан шығып with блогынан шығып
+Replacing token 10 ғасырларда with 10 ғасырларда
+Replacing token алды да with алды да
+Replacing token 11 ғасырда with 11 ғасырда
+Replacing token ықыласын қойғаны with ықыласын қойғаны
+Replacing token халықтың да with халықтың да
+Replacing token мен 1 with мен 1
+Replacing token қашан шығады with қашан шығады
+Replacing token Президент ғылым with Президент ғылым
+Replacing token экономикалық дағдарыс with экономикалық дағдарыс
+Replacing token Сүйсем де with Сүйсем де
+Replacing token Қожа да with Қожа да
+Replacing token жинағын шығарды with жинағын шығарды
+Replacing token олжа қылған with олжа қылған
+Replacing token Әлі де with Әлі де
+Replacing token ғылым да with ғылым да
+Replacing token есі шығады with есі шығады
+Replacing token хикмет те with хикмет те
+Replacing token орыс ғылымын with орыс ғылымын
+Replacing token Бекболат шошып with Бекболат шошып
+Replacing token сонда ғана with сонда ғана
+Replacing token қашан шығарасыз with қашан шығарасыз
+Replacing token Қазақстан да with Қазақстан да
+Replacing token xx ғасырда with xx ғасырда
+Replacing token 7 ғасырдың with 7 ғасырдың
+Replacing token 10 ғасырда with 10 ғасырда
+Replacing token ол да with ол да
+Replacing token 2010 ән with 2010 ән
+Replacing token - Же with - Же
+Replacing token діни ғұрып with діни ғұрып
+Replacing token Азамат шығар with Азамат шығар
+Replacing token іс қозғалды with іс қозғалды
+Replacing token Оман шығанақтары with Оман шығанақтары
+Replacing token басшылары да with басшылары да
+Replacing token білсе де with білсе де
+Replacing token Және де with Және де
+Replacing token болғанда ғана with болғанда ғана
+Replacing token 17 ғасырларда with 17 ғасырларда
+Replacing token жаһандық дағдарыс with жаһандық дағдарыс
+Replacing token аң да with аң да
+Replacing token қашан шығара with қашан шығара
+Replacing token бөлімде ғана with бөлімде ғана
+Replacing token Орыстың ғылымы with Орыстың ғылымы
+Replacing token күйеуім ше with күйеуім ше
+Replacing token құс та with құс та
+Replacing token финалға шығады with финалға шығады
+Replacing token бақылаудан шығып with бақылаудан шығып
+Replacing token мұнайын шығаруға with мұнайын шығаруға
+Replacing token 2 ғасырдың with 2 ғасырдың
+Replacing token мен ғылыми with мен ғылыми
+Replacing token сайын 2 with сайын 2
+Replacing token жасаққа шығамын with жасаққа шығамын
+Replacing token 8 ғасырда with 8 ғасырда
+Replacing token күл шығарады with күл шығарады
+Replacing token 9 ғасырдан with 9 ғасырдан
+Replacing token басын да with басын да
+Replacing token ортасы да with ортасы да
+Replacing token қылса да with қылса да
+Replacing token 7 ғасырлар with 7 ғасырлар
+Replacing token сайын 1 with сайын 1
+Replacing token оқытқан да with оқытқан да
+Replacing token артынан шығып with артынан шығып
+Replacing token Соған шығып with Соған шығып
+Replacing token түрде ғана with түрде ғана
+Replacing token медицина ғылымдарының with медицина ғылымдарының
+Replacing token тауарлары шығарылады with тауарлары шығарылады
+Replacing token Заң шығарушылық with Заң шығарушылық
+Replacing token ешкім де with ешкім де
+Replacing token жалғыз ғана with жалғыз ғана
+Replacing token тамақ іш with тамақ іш
+Replacing token 2000 мм with 2000 мм
+Replacing token біз де with біз де
+Replacing token xxi ғасырда with xxi ғасырда
+Replacing token әскерімен де with әскерімен де
+Replacing token мал да with мал да
+Replacing token балалары да with балалары да
+Replacing token ұлы да with ұлы да
+No vector for word "
+No vector for word 6
+No vector for word %
+No vector for word 4
+No vector for word ,3
+No vector for word 3
+No vector for word ”
+No vector for word “
+No vector for word /
+No vector for word 0
+No vector for word ,2
+No vector for word 8
+No vector for word 9
+No vector for word 90
+No vector for word 50
+No vector for word 7
+No vector for word 79
+No vector for word 32
+No vector for word 30
+No vector for word 550
+No vector for word Иә
+No vector for word 500
+No vector for word 800
+No vector for word 33
+No vector for word 58
+No vector for word 51
+No vector for word 53
+No vector for word 52
+No vector for word 531
+No vector for word 56
+No vector for word 83
+No vector for word 60
+No vector for word 68
+No vector for word 488
+No vector for word 487
+No vector for word 852
+No vector for word 93
+No vector for word 63
+No vector for word 330
+No vector for word 300
+No vector for word 70
+No vector for word ;
+No vector for word 940
+No vector for word 9200
+No vector for word 700
+No vector for word 350
+No vector for word 48
+No vector for word 40
+Original vector model: 1608 100
+New vector model: (4472, 100)
+Batch 0 / 5
+Batch 1 / 5
+Batch 2 / 5
+Batch 3 / 5
+Batch 4 / 5
+(1, 100)
+(4472, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_kk/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_gl_treegal/empty100.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 11
+Writing to tmpdata_ko/ko.model_emb.utag.vectors float size= 4
+values 5
+unknown index 2
+Writing to tmpdata_ko/ko.model_emb.feats.vectors float size= 4
+values 3
+unknown index 11
+Writing to tmpdata_ko/ko.model_emb.tag.vectors float size= 4
+values 0
+unknown index 27691
+Writing to tmpdata_ko/ko.model_emb.form.vectors float size= 4
+values 7
+unknown index 24
+Writing to tmpdata_ko/ko.model_emb.deprel.vectors float size= 4
+No vector for word 펌
+No vector for word 뮌헨
+No vector for word 롭
+No vector for word 쿡
+No vector for word 쏙
+Original vector model: 55981 100
+New vector model: (7055, 100)
+Batch 0 / 8
+Batch 1 / 8
+Batch 2 / 8
+Batch 3 / 8
+Batch 4 / 8
+Batch 5 / 8
+Batch 6 / 8
+Batch 7 / 8
+(1, 100)
+(7055, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_ko/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 15
+Writing to tmpdata_la_ittb/la_ittb.model_emb.utag.vectors float size= 4
+values 5
+unknown index 649
+Writing to tmpdata_la_ittb/la_ittb.model_emb.feats.vectors float size= 4
+values 3
+unknown index 985
+Writing to tmpdata_la_ittb/la_ittb.model_emb.tag.vectors float size= 4
+values 0
+unknown index 12526
+Writing to tmpdata_la_ittb/la_ittb.model_emb.form.vectors float size= 4
+values 7
+unknown index 34
+Writing to tmpdata_la_ittb/la_ittb.model_emb.deprel.vectors float size= 4
+Original vector model: 42708 100
+New vector model: (1643, 100)
+Batch 0 / 2
+Batch 1 / 2
+(1, 100)
+(1643, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_la_ittb/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 14
+Writing to tmpdata_la_proiel/la_proiel.model_emb.utag.vectors float size= 4
+values 5
+unknown index 659
+Writing to tmpdata_la_proiel/la_proiel.model_emb.feats.vectors float size= 4
+values 3
+unknown index 993
+Writing to tmpdata_la_proiel/la_proiel.model_emb.tag.vectors float size= 4
+values 0
+unknown index 21872
+Writing to tmpdata_la_proiel/la_proiel.model_emb.form.vectors float size= 4
+values 7
+unknown index 34
+Writing to tmpdata_la_proiel/la_proiel.model_emb.deprel.vectors float size= 4
+Original vector model: 70462 100
+New vector model: (4268, 100)
+Batch 0 / 5
+Batch 1 / 5
+Batch 2 / 5
+Batch 3 / 5
+Batch 4 / 5
+(1, 100)
+(4268, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_la_proiel/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 12
+Writing to tmpdata_la/la.model_emb.utag.vectors float size= 4
+values 5
+unknown index 226
+Writing to tmpdata_la/la.model_emb.feats.vectors float size= 4
+values 3
+unknown index 418
+Writing to tmpdata_la/la.model_emb.tag.vectors float size= 4
+values 0
+unknown index 6713
+Writing to tmpdata_la/la.model_emb.form.vectors float size= 4
+values 7
+unknown index 24
+Writing to tmpdata_la/la.model_emb.deprel.vectors float size= 4
+No vector for word —
+Original vector model: 25444 100
+New vector model: (4734, 100)
+Batch 0 / 5
+Batch 1 / 5
+Batch 2 / 5
+Batch 3 / 5
+Batch 4 / 5
+(1, 100)
+(4734, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_la/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_lv/lv.model_emb.utag.vectors float size= 4
+values 5
+unknown index 423
+Writing to tmpdata_lv/lv.model_emb.feats.vectors float size= 4
+values 3
+unknown index 640
+Writing to tmpdata_lv/lv.model_emb.tag.vectors float size= 4
+values 0
+unknown index 9805
+Writing to tmpdata_lv/lv.model_emb.form.vectors float size= 4
+values 7
+unknown index 36
+Writing to tmpdata_lv/lv.model_emb.deprel.vectors float size= 4
+Replacing token 200 000 with 200 000
+Replacing token 50 000 with 50 000
+Replacing token 34 000 with 34 000
+No vector for word '
+Original vector model: 42173 100
+New vector model: (3707, 100)
+Batch 0 / 4
+Batch 1 / 4
+Batch 2 / 4
+Batch 3 / 4
+(1, 100)
+(3707, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_lv/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_nl_lassysmall/nl_lassysmall.model_emb.utag.vectors float size= 4
+values 5
+unknown index 36
+Writing to tmpdata_nl_lassysmall/nl_lassysmall.model_emb.feats.vectors float size= 4
+values 3
+unknown index 58
+Writing to tmpdata_nl_lassysmall/nl_lassysmall.model_emb.tag.vectors float size= 4
+values 0
+unknown index 13585
+Writing to tmpdata_nl_lassysmall/nl_lassysmall.model_emb.form.vectors float size= 4
+values 7
+unknown index 31
+Writing to tmpdata_nl_lassysmall/nl_lassysmall.model_emb.deprel.vectors float size= 4
+Original vector model: 62384 100
+New vector model: (3378, 100)
+Batch 0 / 4
+Batch 1 / 4
+Batch 2 / 4
+Batch 3 / 4
+(1, 100)
+(3378, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_nl_lassysmall/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_nl/nl.model_emb.utag.vectors float size= 4
+values 5
+unknown index 249
+Writing to tmpdata_nl/nl.model_emb.feats.vectors float size= 4
+values 3
+unknown index 331
+Writing to tmpdata_nl/nl.model_emb.tag.vectors float size= 4
+values 0
+unknown index 25149
+Writing to tmpdata_nl/nl.model_emb.form.vectors float size= 4
+values 7
+unknown index 32
+Writing to tmpdata_nl/nl.model_emb.deprel.vectors float size= 4
+No vector for word =
+No vector for word *
+No vector for word ­
+No vector for word ]
+No vector for word **
+Original vector model: 99289 100
+New vector model: (2926, 100)
+Batch 0 / 3
+Batch 1 / 3
+Batch 2 / 3
+(1, 100)
+(2926, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_nl/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_no_bokmaal/no_bokmaal.model_emb.utag.vectors float size= 4
+values 5
+unknown index 155
+Writing to tmpdata_no_bokmaal/no_bokmaal.model_emb.feats.vectors float size= 4
+values 3
+unknown index 203
+Writing to tmpdata_no_bokmaal/no_bokmaal.model_emb.tag.vectors float size= 4
+values 0
+unknown index 27755
+Writing to tmpdata_no_bokmaal/no_bokmaal.model_emb.form.vectors float size= 4
+values 7
+unknown index 37
+Writing to tmpdata_no_bokmaal/no_bokmaal.model_emb.deprel.vectors float size= 4
+No vector for word >
+Original vector model: 109426 100
+New vector model: (6281, 100)
+Batch 0 / 7
+Batch 1 / 7
+Batch 2 / 7
+Batch 3 / 7
+Batch 4 / 7
+Batch 5 / 7
+Batch 6 / 7
+(1, 100)
+(6281, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_no_bokmaal/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_no_nynorsk/no_nynorsk.model_emb.utag.vectors float size= 4
+values 5
+unknown index 142
+Writing to tmpdata_no_nynorsk/no_nynorsk.model_emb.feats.vectors float size= 4
+values 3
+unknown index 184
+Writing to tmpdata_no_nynorsk/no_nynorsk.model_emb.tag.vectors float size= 4
+values 0
+unknown index 26942
+Writing to tmpdata_no_nynorsk/no_nynorsk.model_emb.form.vectors float size= 4
+values 7
+unknown index 37
+Writing to tmpdata_no_nynorsk/no_nynorsk.model_emb.deprel.vectors float size= 4
+No vector for word ½
+Original vector model: 108449 100
+New vector model: (5621, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5621, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_no_nynorsk/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 15
+Writing to tmpdata_pl/pl.model_emb.utag.vectors float size= 4
+values 5
+unknown index 625
+Writing to tmpdata_pl/pl.model_emb.feats.vectors float size= 4
+values 3
+unknown index 990
+Writing to tmpdata_pl/pl.model_emb.tag.vectors float size= 4
+values 0
+unknown index 19565
+Writing to tmpdata_pl/pl.model_emb.form.vectors float size= 4
+values 7
+unknown index 30
+Writing to tmpdata_pl/pl.model_emb.deprel.vectors float size= 4
+Original vector model: 70321 100
+New vector model: (4836, 100)
+Batch 0 / 5
+Batch 1 / 5
+Batch 2 / 5
+Batch 3 / 5
+Batch 4 / 5
+(1, 100)
+(4836, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_pl/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 14
+Writing to tmpdata_pt_br/pt_br.model_emb.utag.vectors float size= 4
+values 5
+unknown index 7
+Writing to tmpdata_pt_br/pt_br.model_emb.feats.vectors float size= 4
+values 3
+unknown index 16
+Writing to tmpdata_pt_br/pt_br.model_emb.tag.vectors float size= 4
+values 0
+unknown index 27171
+Writing to tmpdata_pt_br/pt_br.model_emb.form.vectors float size= 4
+values 7
+unknown index 34
+Writing to tmpdata_pt_br/pt_br.model_emb.deprel.vectors float size= 4
+Original vector model: 95087 100
+New vector model: (7481, 100)
+Batch 0 / 8
+Batch 1 / 8
+Batch 2 / 8
+Batch 3 / 8
+Batch 4 / 8
+Batch 5 / 8
+Batch 6 / 8
+Batch 7 / 8
+(1, 100)
+(7481, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_pt_br/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_pt/pt.model_emb.utag.vectors float size= 4
+values 5
+unknown index 188
+Writing to tmpdata_pt/pt.model_emb.feats.vectors float size= 4
+values 3
+unknown index 355
+Writing to tmpdata_pt/pt.model_emb.tag.vectors float size= 4
+values 0
+unknown index 24948
+Writing to tmpdata_pt/pt.model_emb.form.vectors float size= 4
+values 7
+unknown index 42
+Writing to tmpdata_pt/pt.model_emb.deprel.vectors float size= 4
+No vector for word "
+No vector for word £
+No vector for word –
+No vector for word “
+Original vector model: 91202 100
+New vector model: (5990, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5990, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_pt/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_pt/pt.model_emb.utag.vectors float size= 4
+values 5
+unknown index 188
+Writing to tmpdata_pt/pt.model_emb.feats.vectors float size= 4
+values 3
+unknown index 355
+Writing to tmpdata_pt/pt.model_emb.tag.vectors float size= 4
+values 0
+unknown index 24948
+Writing to tmpdata_pt/pt.model_emb.form.vectors float size= 4
+values 7
+unknown index 42
+Writing to tmpdata_pt/pt.model_emb.deprel.vectors float size= 4
+Original vector model: 91202 100
+New vector model: (3227, 100)
+Batch 0 / 4
+Batch 1 / 4
+Batch 2 / 4
+Batch 3 / 4
+(1, 100)
+(3227, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_pt/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_ro/ro.model_emb.utag.vectors float size= 4
+values 5
+unknown index 320
+Writing to tmpdata_ro/ro.model_emb.feats.vectors float size= 4
+values 3
+unknown index 451
+Writing to tmpdata_ro/ro.model_emb.tag.vectors float size= 4
+values 0
+unknown index 28610
+Writing to tmpdata_ro/ro.model_emb.form.vectors float size= 4
+values 7
+unknown index 49
+Writing to tmpdata_ro/ro.model_emb.deprel.vectors float size= 4
+No vector for word >
+Original vector model: 100148 100
+New vector model: (5506, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5506, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_ro/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_ru/ru.model_emb.utag.vectors float size= 4
+values 5
+unknown index 399
+Writing to tmpdata_ru/ru.model_emb.feats.vectors float size= 4
+values 3
+unknown index 715
+Writing to tmpdata_ru/ru.model_emb.tag.vectors float size= 4
+values 0
+unknown index 24469
+Writing to tmpdata_ru/ru.model_emb.form.vectors float size= 4
+values 7
+unknown index 40
+Writing to tmpdata_ru/ru.model_emb.deprel.vectors float size= 4
+No vector for word —
+No vector for word –
+No vector for word …
+No vector for word №
+No vector for word „
+Original vector model: 83921 100
+New vector model: (8070, 100)
+Batch 0 / 9
+Batch 1 / 9
+Batch 2 / 9
+Batch 3 / 9
+Batch 4 / 9
+Batch 5 / 9
+Batch 6 / 9
+Batch 7 / 9
+Batch 8 / 9
+(1, 100)
+(8070, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_ru/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_ru_syntagrus/ru_syntagrus.model_emb.utag.vectors float size= 4
+values 5
+unknown index 541
+Writing to tmpdata_ru_syntagrus/ru_syntagrus.model_emb.feats.vectors float size= 4
+values 3
+unknown index 708
+Writing to tmpdata_ru_syntagrus/ru_syntagrus.model_emb.tag.vectors float size= 4
+values 0
+unknown index 99272
+Writing to tmpdata_ru_syntagrus/ru_syntagrus.model_emb.form.vectors float size= 4
+values 7
+unknown index 38
+Writing to tmpdata_ru_syntagrus/ru_syntagrus.model_emb.deprel.vectors float size= 4
+Original vector model: 274499 100
+New vector model: (29116, 100)
+Batch 0 / 30
+Batch 1 / 30
+Batch 2 / 30
+Batch 3 / 30
+Batch 4 / 30
+Batch 5 / 30
+Batch 6 / 30
+Batch 7 / 30
+Batch 8 / 30
+Batch 9 / 30
+Batch 10 / 30
+Batch 11 / 30
+Batch 12 / 30
+Batch 13 / 30
+Batch 14 / 30
+Batch 15 / 30
+Batch 16 / 30
+Batch 17 / 30
+Batch 18 / 30
+Batch 19 / 30
+Batch 20 / 30
+Batch 21 / 30
+Batch 22 / 30
+Batch 23 / 30
+Batch 24 / 30
+Batch 25 / 30
+Batch 26 / 30
+Batch 27 / 30
+Batch 28 / 30
+Batch 29 / 30
+(1, 100)
+(29116, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_ru_syntagrus/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_ru/ru.model_emb.utag.vectors float size= 4
+values 5
+unknown index 399
+Writing to tmpdata_ru/ru.model_emb.feats.vectors float size= 4
+values 3
+unknown index 715
+Writing to tmpdata_ru/ru.model_emb.tag.vectors float size= 4
+values 0
+unknown index 24469
+Writing to tmpdata_ru/ru.model_emb.form.vectors float size= 4
+values 7
+unknown index 40
+Writing to tmpdata_ru/ru.model_emb.deprel.vectors float size= 4
+No vector for word Ա
+No vector for word Գնչուներ
+No vector for word ア
+No vector for word کولی
+No vector for word .(
+No vector for word τσιγγάνοι
+No vector for word צוענים
+No vector for word خدا
+No vector for word ბოშები
+Original vector model: 83921 100
+New vector model: (5707, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5707, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_ru/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_sk/sk.model_emb.utag.vectors float size= 4
+values 5
+unknown index 774
+Writing to tmpdata_sk/sk.model_emb.feats.vectors float size= 4
+values 3
+unknown index 1186
+Writing to tmpdata_sk/sk.model_emb.tag.vectors float size= 4
+values 0
+unknown index 19207
+Writing to tmpdata_sk/sk.model_emb.form.vectors float size= 4
+values 7
+unknown index 39
+Writing to tmpdata_sk/sk.model_emb.deprel.vectors float size= 4
+No vector for word %
+No vector for word +
+No vector for word °
+No vector for word −
+No vector for word ]
+No vector for word защита
+No vector for word аварийная
+No vector for word [
+No vector for word =
+Original vector model: 77931 100
+New vector model: (5764, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5764, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_sk/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_sl_sst/sl_sst.model_emb.utag.vectors float size= 4
+values 5
+unknown index 402
+Writing to tmpdata_sl_sst/sl_sst.model_emb.feats.vectors float size= 4
+values 3
+unknown index 642
+Writing to tmpdata_sl_sst/sl_sst.model_emb.tag.vectors float size= 4
+values 0
+unknown index 4533
+Writing to tmpdata_sl_sst/sl_sst.model_emb.form.vectors float size= 4
+values 7
+unknown index 40
+Writing to tmpdata_sl_sst/sl_sst.model_emb.deprel.vectors float size= 4
+Original vector model: 19249 100
+New vector model: (2811, 100)
+Batch 0 / 3
+Batch 1 / 3
+Batch 2 / 3
+(1, 100)
+(2811, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_sl_sst/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_sl/sl.model_emb.utag.vectors float size= 4
+values 5
+unknown index 812
+Writing to tmpdata_sl/sl.model_emb.feats.vectors float size= 4
+values 3
+unknown index 1101
+Writing to tmpdata_sl/sl.model_emb.tag.vectors float size= 4
+values 0
+unknown index 26928
+Writing to tmpdata_sl/sl.model_emb.form.vectors float size= 4
+values 7
+unknown index 32
+Writing to tmpdata_sl/sl.model_emb.deprel.vectors float size= 4
+Original vector model: 86637 100
+New vector model: (5614, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5614, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_sl/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_pt/empty100.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_sv_lines/sv_lines.model_emb.utag.vectors float size= 4
+values 5
+unknown index 1
+Writing to tmpdata_sv_lines/sv_lines.model_emb.feats.vectors float size= 4
+values 3
+unknown index 17
+Writing to tmpdata_sv_lines/sv_lines.model_emb.tag.vectors float size= 4
+values 0
+unknown index 9211
+Writing to tmpdata_sv_lines/sv_lines.model_emb.form.vectors float size= 4
+values 7
+unknown index 40
+Writing to tmpdata_sv_lines/sv_lines.model_emb.deprel.vectors float size= 4
+Original vector model: 40965 100
+New vector model: (3949, 100)
+Batch 0 / 4
+Batch 1 / 4
+Batch 2 / 4
+Batch 3 / 4
+(1, 100)
+(3949, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_sv_lines/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_sv/sv.model_emb.utag.vectors float size= 4
+values 5
+unknown index 132
+Writing to tmpdata_sv/sv.model_emb.feats.vectors float size= 4
+values 3
+unknown index 202
+Writing to tmpdata_sv/sv.model_emb.tag.vectors float size= 4
+values 0
+unknown index 11975
+Writing to tmpdata_sv/sv.model_emb.form.vectors float size= 4
+values 7
+unknown index 39
+Writing to tmpdata_sv/sv.model_emb.deprel.vectors float size= 4
+Replacing token and a with and a
+No vector for word –
+No vector for word "
+No vector for word …
+No vector for word &
+Original vector model: 54701 100
+New vector model: (6259, 100)
+Batch 0 / 7
+Batch 1 / 7
+Batch 2 / 7
+Batch 3 / 7
+Batch 4 / 7
+Batch 5 / 7
+Batch 6 / 7
+(1, 100)
+(6259, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_sv/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_sv/sv.model_emb.utag.vectors float size= 4
+values 5
+unknown index 132
+Writing to tmpdata_sv/sv.model_emb.feats.vectors float size= 4
+values 3
+unknown index 202
+Writing to tmpdata_sv/sv.model_emb.tag.vectors float size= 4
+values 0
+unknown index 11975
+Writing to tmpdata_sv/sv.model_emb.form.vectors float size= 4
+values 7
+unknown index 39
+Writing to tmpdata_sv/sv.model_emb.deprel.vectors float size= 4
+Replacing token t ex with t ex
+Replacing token s k with s k
+Replacing token bl a with bl a
+Replacing token d v s with d v s
+Replacing token t o m with t o m
+Replacing token f n with f n
+Replacing token o s v with o s v
+Replacing token fr o m with fr o m
+Replacing token se s with se s
+Original vector model: 54701 100
+New vector model: (4836, 100)
+Batch 0 / 5
+Batch 1 / 5
+Batch 2 / 5
+Batch 3 / 5
+Batch 4 / 5
+(1, 100)
+(4836, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_sv/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 14
+Writing to tmpdata_tr/tr.model_emb.utag.vectors float size= 4
+values 5
+unknown index 589
+Writing to tmpdata_tr/tr.model_emb.feats.vectors float size= 4
+values 3
+unknown index 960
+Writing to tmpdata_tr/tr.model_emb.tag.vectors float size= 4
+values 0
+unknown index 13559
+Writing to tmpdata_tr/tr.model_emb.form.vectors float size= 4
+values 7
+unknown index 29
+Writing to tmpdata_tr/tr.model_emb.deprel.vectors float size= 4
+No vector for word ."
+No vector for word .Ö
+No vector for word 7
+No vector for word 9
+No vector for word %1
+No vector for word 96
+No vector for word 833
+No vector for word 6
+No vector for word 7.5
+No vector for word %
+No vector for word 7-
+No vector for word 71
+No vector for word 84
+Original vector model: 48433 100
+New vector model: (7681, 100)
+Batch 0 / 8
+Batch 1 / 8
+Batch 2 / 8
+Batch 3 / 8
+Batch 4 / 8
+Batch 5 / 8
+Batch 6 / 8
+Batch 7 / 8
+(1, 100)
+(7681, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_tr/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 14
+Writing to tmpdata_tr/tr.model_emb.utag.vectors float size= 4
+values 5
+unknown index 589
+Writing to tmpdata_tr/tr.model_emb.feats.vectors float size= 4
+values 3
+unknown index 960
+Writing to tmpdata_tr/tr.model_emb.tag.vectors float size= 4
+values 0
+unknown index 13559
+Writing to tmpdata_tr/tr.model_emb.form.vectors float size= 4
+values 7
+unknown index 29
+Writing to tmpdata_tr/tr.model_emb.deprel.vectors float size= 4
+Original vector model: 48433 100
+New vector model: (4839, 100)
+Batch 0 / 5
+Batch 1 / 5
+Batch 2 / 5
+Batch 3 / 5
+Batch 4 / 5
+(1, 100)
+(4839, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_tr/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 12
+Writing to tmpdata_ug/ug.model_emb.utag.vectors float size= 4
+values 5
+unknown index 1
+Writing to tmpdata_ug/ug.model_emb.feats.vectors float size= 4
+values 3
+unknown index 12
+Writing to tmpdata_ug/ug.model_emb.tag.vectors float size= 4
+values 0
+unknown index 968
+Writing to tmpdata_ug/ug.model_emb.form.vectors float size= 4
+values 7
+unknown index 36
+Writing to tmpdata_ug/ug.model_emb.deprel.vectors float size= 4
+No vector for word _
+No vector for word !
+No vector for word :
+No vector for word »
+No vector for word –
+No vector for word 20
+No vector for word "
+No vector for word 30
+No vector for word advcl
+No vector for word _.
+No vector for word 3
+No vector for word 21
+No vector for word case
+No vector for word 2000
+No vector for word 2-
+No vector for word 70
+No vector for word ؛
+No vector for word و
+No vector for word ！
+No vector for word 5
+No vector for word 40
+Original vector model: 5007 100
+New vector model: (4172, 100)
+Batch 0 / 5
+Batch 1 / 5
+Batch 2 / 5
+Batch 3 / 5
+Batch 4 / 5
+(1, 100)
+(4172, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_ug/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 17
+Writing to tmpdata_uk/uk.model_emb.utag.vectors float size= 4
+values 5
+unknown index 426
+Writing to tmpdata_uk/uk.model_emb.feats.vectors float size= 4
+values 3
+unknown index 691
+Writing to tmpdata_uk/uk.model_emb.tag.vectors float size= 4
+values 0
+unknown index 5327
+Writing to tmpdata_uk/uk.model_emb.form.vectors float size= 4
+values 7
+unknown index 40
+Writing to tmpdata_uk/uk.model_emb.deprel.vectors float size= 4
+No vector for word dafűr
+No vector for word n’avaient
+No vector for word queue
+No vector for word doch
+No vector for word gut
+No vector for word tête
+No vector for word et
+No vector for word ]
+No vector for word zu
+No vector for word bin
+No vector for word [
+No vector for word spe
+Original vector model: 22711 100
+New vector model: (5459, 100)
+Batch 0 / 6
+Batch 1 / 6
+Batch 2 / 6
+Batch 3 / 6
+Batch 4 / 6
+Batch 5 / 6
+(1, 100)
+(5459, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_uk/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 16
+Writing to tmpdata_ur/ur.model_emb.utag.vectors float size= 4
+values 5
+unknown index 492
+Writing to tmpdata_ur/ur.model_emb.feats.vectors float size= 4
+values 3
+unknown index 1001
+Writing to tmpdata_ur/ur.model_emb.tag.vectors float size= 4
+values 0
+unknown index 9545
+Writing to tmpdata_ur/ur.model_emb.form.vectors float size= 4
+values 7
+unknown index 25
+Writing to tmpdata_ur/ur.model_emb.deprel.vectors float size= 4
+Original vector model: 44210 100
+New vector model: (2949, 100)
+Batch 0 / 3
+Batch 1 / 3
+Batch 2 / 3
+(1, 100)
+(2949, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_ur/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 14
+Writing to tmpdata_vi/vi.model_emb.utag.vectors float size= 4
+values 5
+unknown index 3
+Writing to tmpdata_vi/vi.model_emb.feats.vectors float size= 4
+values 3
+unknown index 15
+Writing to tmpdata_vi/vi.model_emb.tag.vectors float size= 4
+values 0
+unknown index 3391
+Writing to tmpdata_vi/vi.model_emb.form.vectors float size= 4
+values 7
+unknown index 29
+Writing to tmpdata_vi/vi.model_emb.deprel.vectors float size= 4
+Replacing token địa đạo with địa đạo
+Replacing token chúng tôi with chúng tôi
+Replacing token ông chương with ông chương
+Replacing token khủng bố with khủng bố
+Replacing token thám tử with thám tử
+Replacing token du kích with du kích
+Replacing token thủ phạm with thủ phạm
+Replacing token không thể with không thể
+Replacing token hà nội with hà nội
+Replacing token công ty with công ty
+Replacing token gia đình with gia đình
+Replacing token đầu tiên with đầu tiên
+Replacing token có thể with có thể
+Replacing token tuy nhiên with tuy nhiên
+Replacing token thời gian with thời gian
+Replacing token như vậy with như vậy
+Replacing token theo dõi with theo dõi
+Replacing token câu chuyện with câu chuyện
+Replacing token củ chi with củ chi
+Replacing token trung tâm with trung tâm
+Replacing token điều tra with điều tra
+Replacing token liệt sĩ with liệt sĩ
+Replacing token có vẻ with có vẻ
+Replacing token vườn thú with vườn thú
+Replacing token cuối cùng with cuối cùng
+Replacing token kết luận with kết luận
+Replacing token tb giả with tb giả
+Replacing token lực lượng with lực lượng
+Replacing token khả năng with khả năng
+Replacing token duy nhất with duy nhất
+Replacing token văn phòng with văn phòng
+Replacing token thực hiện with thực hiện
+Replacing token tấn công with tấn công
+Replacing token lao động with lao động
+Replacing token giám định with giám định
+Replacing token quan hệ with quan hệ
+Replacing token công tác with công tác
+Replacing token nạn nhân with nạn nhân
+Replacing token quyết định with quyết định
+Replacing token thành phố with thành phố
+Replacing token qui hoạch with qui hoạch
+Replacing token vấn đề with vấn đề
+Replacing token giám đốc with giám đốc
+Replacing token tất cả with tất cả
+Replacing token bắt đầu with bắt đầu
+Replacing token công nghiệp with công nghiệp
+Replacing token công việc with công việc
+Replacing token cuộc sống with cuộc sống
+Replacing token chất độc with chất độc
+Replacing token công lý with công lý
+Replacing token như thế with như thế
+Replacing token cơ quan with cơ quan
+Replacing token cựu binh with cựu binh
+Replacing token người ta with người ta
+Replacing token hệ thống with hệ thống
+Replacing token xung quanh with xung quanh
+Replacing token thông tin with thông tin
+Replacing token lập tức with lập tức
+Replacing token địa chỉ with địa chỉ
+Replacing token cuộc đời with cuộc đời
+Replacing token sơn trà with sơn trà
+Replacing token lịch sử with lịch sử
+Replacing token tài sản with tài sản
+Replacing token nghiên cứu with nghiên cứu
+Replacing token cách mạng with cách mạng
+Replacing token sài gòn with sài gòn
+Replacing token chiến tranh with chiến tranh
+Replacing token liên quan with liên quan
+Replacing token bác sĩ with bác sĩ
+Replacing token phát hiện with phát hiện
+Replacing token phát triển with phát triển
+Replacing token nguyễn kỳ with nguyễn kỳ
+Replacing token bố trí with bố trí
+Replacing token biên giới with biên giới
+Replacing token phụ nữ with phụ nữ
+Replacing token miệng thí with miệng thí
+Replacing token kỷ niệm with kỷ niệm
+Replacing token thái độ with thái độ
+Replacing token quan trọng with quan trọng
+Replacing token bất ngờ with bất ngờ
+Replacing token tòa án with tòa án
+Replacing token nông dân with nông dân
+Replacing token giấy tờ with giấy tờ
+Replacing token nghi ngờ with nghi ngờ
+Replacing token kết thúc with kết thúc
+Replacing token bây giờ with bây giờ
+Replacing token hoàn toàn with hoàn toàn
+Replacing token đại diện with đại diện
+Replacing token hi sinh with hi sinh
+Replacing token chăm sóc with chăm sóc
+Replacing token kết quả with kết quả
+Replacing token kiên giang with kiên giang
+Replacing token triệu đồng with triệu đồng
+Replacing token thất bại with thất bại
+Replacing token bình thường with bình thường
+Replacing token chắc chắn with chắc chắn
+Replacing token điện thoại with điện thoại
+Replacing token phán quyết with phán quyết
+Replacing token hết sức with hết sức
+Replacing token đối tượng with đối tượng
+Replacing token bất cứ with bất cứ
+Replacing token pháp lý with pháp lý
+Replacing token động dục with động dục
+Replacing token khách hàng with khách hàng
+Replacing token liên tục with liên tục
+Replacing token thông minh with thông minh
+Replacing token thời kỳ with thời kỳ
+Replacing token thông hầm with thông hầm
+Replacing token vợ chồng with vợ chồng
+Replacing token nguyên nhân with nguyên nhân
+Replacing token chính thức with chính thức
+Replacing token tham gia with tham gia
+Replacing token kiến thức with kiến thức
+Replacing token phạm văn cội with phạm văn cội
+Replacing token bất chính with bất chính
+Replacing token bà cụ with bà cụ
+Replacing token bà ta with bà ta
+Replacing token tình hình with tình hình
+Replacing token ông học with ông học
+Replacing token bồi thường with bồi thường
+Replacing token sử dụng with sử dụng
+Replacing token thí nghiệm with thí nghiệm
+Replacing token công văn with công văn
+Replacing token kinh nghiệm with kinh nghiệm
+Replacing token công trình with công trình
+Replacing token giải quyết with giải quyết
+Replacing token bì thư with bì thư
+Replacing token liên hệ with liên hệ
+Replacing token . hcm with . hcm
+Replacing token hối hả with hối hả
+Replacing token giao thông with giao thông
+Replacing token cảm ơn with cảm ơn
+Replacing token cửa hầm with cửa hầm
+Replacing token một kỳ with một kỳ
+Replacing token bình dị with bình dị
+Replacing token hoạt động with hoạt động
+Replacing token khu vực with khu vực
+Replacing token chương đang with chương đang
+Replacing token cánh cửa with cánh cửa
+Replacing token kinh tế with kinh tế
+Replacing token làm việc with làm việc
+Replacing token mãn nguyện with mãn nguyện
+Replacing token xuất phát with xuất phát
+Replacing token kế hoạch with kế hoạch
+Replacing token hình thành with hình thành
+Replacing token đài tưởng with đài tưởng
+Replacing token bố mẹ with bố mẹ
+Replacing token phản ứng with phản ứng
+Replacing token bế tắc with bế tắc
+Replacing token bà khách with bà khách
+Replacing token 1 , with 1 ,
+Replacing token bàu cạp with bàu cạp
+Replacing token bàn bạc with bàn bạc
+Replacing token xuất hiện with xuất hiện
+Replacing token quốc khánh with quốc khánh
+Replacing token giai đoạn with giai đoạn
+Replacing token dâng hương with dâng hương
+Replacing token tổng diện with tổng diện
+Replacing token chiến đấu with chiến đấu
+Replacing token chủ yếu with chủ yếu
+Replacing token mìn gạt with mìn gạt
+Replacing token dự thính with dự thính
+Replacing token kim cùng with kim cùng
+Replacing token tình nhân with tình nhân
+Replacing token mặt đất with mặt đất
+Replacing token phân tích with phân tích
+Replacing token chiến hào with chiến hào
+Replacing token sức khỏe with sức khỏe
+Replacing token thành lũy with thành lũy
+Replacing token trở lại with trở lại
+Replacing token lính mỹ with lính mỹ
+Replacing token nhân công with nhân công
+Replacing token vũ khí with vũ khí
+Replacing token ụ chiến with ụ chiến
+Replacing token chương không with chương không
+Replacing token tổng thống with tổng thống
+Replacing token hợp pháp with hợp pháp
+Replacing token thạc sĩ with thạc sĩ
+Replacing token luật sư with luật sư
+Replacing token yêu nghề with yêu nghề
+Replacing token hoàn cảnh with hoàn cảnh
+Replacing token giáo sư with giáo sư
+Replacing token quản lý with quản lý
+Replacing token hầm số with hầm số
+Replacing token bình dương with bình dương
+Replacing token kính hiển with kính hiển
+Replacing token nội thành with nội thành
+Replacing token lệ phần with lệ phần
+Replacing token trả lời with trả lời
+Replacing token sự thật with sự thật
+Replacing token tp . hcm with tp . hcm
+Replacing token phiên tòa with phiên tòa
+Replacing token bao lâu with bao lâu
+Replacing token đảm bảo with đảm bảo
+Replacing token mục đích with mục đích
+Replacing token da cam with da cam
+Replacing token đàn ông with đàn ông
+Replacing token xe máy with xe máy
+Replacing token bắn tin with bắn tin
+Replacing token dịch vụ with dịch vụ
+Replacing token ama công with ama công
+Replacing token anh hùng with anh hùng
+Replacing token báo hiếu with báo hiếu
+Replacing token chúng ta with chúng ta
+Replacing token thành công with thành công
+Replacing token nguyên tử with nguyên tử
+Replacing token chị tiệp with chị tiệp
+Replacing token chiến dịch with chiến dịch
+Replacing token dấu hiệu with dấu hiệu
+Replacing token thông nhau with thông nhau
+Replacing token tuổi trẻ with tuổi trẻ
+Replacing token mua xương with mua xương
+Replacing token trình độ with trình độ
+Replacing token thông báo with thông báo
+Replacing token kinh doanh with kinh doanh
+Replacing token công an with công an
+Replacing token đồng hồ with đồng hồ
+Replacing token hóa chất with hóa chất
+Replacing token kiểm tra with kiểm tra
+Replacing token sinh viên with sinh viên
+Replacing token khuôn mặt with khuôn mặt
+Replacing token tình cảm with tình cảm
+Replacing token xê dịch with xê dịch
+Replacing token đồng ý with đồng ý
+Replacing token trung thực with trung thực
+Replacing token chấm dứt with chấm dứt
+Replacing token 596 . 094 with 596 . 094
+Replacing token chuyên ngành with chuyên ngành
+Replacing token thân thuộc with thân thuộc
+Replacing token tiến sĩ with tiến sĩ
+Replacing token toàn bộ with toàn bộ
+Replacing token thiết kế with thiết kế
+Replacing token bí ẩn with bí ẩn
+Replacing token vũ trang with vũ trang
+Replacing token xe tăng with xe tăng
+Replacing token sự nghiệp with sự nghiệp
+Replacing token lợi dụng with lợi dụng
+Replacing token đồng ruộng with đồng ruộng
+Replacing token ra đời with ra đời
+Replacing token dữ liệu with dữ liệu
+Replacing token tất bật with tất bật
+Replacing token cố định with cố định
+Replacing token danh hiệu with danh hiệu
+Replacing token lân cận with lân cận
+Replacing token phê duyệt with phê duyệt
+Replacing token Út kang with Út kang
+Replacing token đặc biệt with đặc biệt
+Replacing token chưa thể with chưa thể
+Replacing token đối mặt with đối mặt
+Replacing token đe dọa with đe dọa
+Replacing token a khâm with a khâm
+Replacing token hơn nữa with hơn nữa
+Replacing token ông ta with ông ta
+Replacing token 10 . 000 with 10 . 000
+Replacing token có lẽ with có lẽ
+Replacing token bom đạn with bom đạn
+Replacing token hợp lý with hợp lý
+Replacing token chấp nhận with chấp nhận
+Replacing token tương lai with tương lai
+Replacing token bệnh viện with bệnh viện
+Replacing token chương giật with chương giật
+Replacing token thậm chí with thậm chí
+Replacing token bao giờ with bao giờ
+Replacing token vui vẻ with vui vẻ
+Replacing token nghề nghiệp with nghề nghiệp
+Replacing token thường xuyên with thường xuyên
+Replacing token nước ngoài with nước ngoài
+Replacing token chiến trường with chiến trường
+Replacing token chàng trai with chàng trai
+Replacing token một số with một số
+Replacing token lính trẻ with lính trẻ
+Replacing token khuyên trở with khuyên trở
+Replacing token mệt mỏi with mệt mỏi
+Replacing token yêu nước with yêu nước
+Replacing token huy chương with huy chương
+Replacing token trong vùng with trong vùng
+Replacing token loại sách with loại sách
+Replacing token hình thức with hình thức
+Replacing token sức lực with sức lực
+Replacing token giơ lưng with giơ lưng
+Replacing token nuôi thú with nuôi thú
+Replacing token 4 tấc with 4 tấc
+Replacing token bắt mạch with bắt mạch
+Replacing token sử dụng loại with sử dụng loại
+Replacing token giá tại with giá tại
+Replacing token điều khiển with điều khiển
+Replacing token buổi chiều with buổi chiều
+Replacing token nơi tụ with nơi tụ
+Replacing token giáp mặt with giáp mặt
+Replacing token ba bộ with ba bộ
+Replacing token bưu điện with bưu điện
+Replacing token công địch with công địch
+Replacing token chương đưa with chương đưa
+Replacing token kiều mỹ with kiều mỹ
+Replacing token hoang dã with hoang dã
+Replacing token đề nghị with đề nghị
+Replacing token sử dụng chất hóa with sử dụng chất hóa
+Replacing token vũng tàu with vũng tàu
+Replacing token khai tiến with khai tiến
+Replacing token mua sắm with mua sắm
+Replacing token vang vọng with vang vọng
+Replacing token thế vinh with thế vinh
+Replacing token petr tsevtov with petr tsevtov
+Replacing token nhà nghỉ with nhà nghỉ
+Replacing token nhận định with nhận định
+Replacing token nghịch lý with nghịch lý
+Replacing token nhánh đường with nhánh đường
+Replacing token tôi bán with tôi bán
+Replacing token gọi điện with gọi điện
+Replacing token vi phạm with vi phạm
+Replacing token chẳng lẽ with chẳng lẽ
+Replacing token mức độ with mức độ
+Replacing token văn hóa with văn hóa
+Replacing token kinh khủng with kinh khủng
+Replacing token ôn hòa with ôn hòa
+Replacing token đại bác with đại bác
+Replacing token hình như with hình như
+Replacing token đèn ngược with đèn ngược
+Replacing token lâu dài with lâu dài
+Replacing token thí dụ with thí dụ
+Replacing token bò mộng with bò mộng
+Replacing token chuột cống with chuột cống
+Replacing token quan khách with quan khách
+Replacing token bà khoẻ with bà khoẻ
+Replacing token bay mỹ with bay mỹ
+Replacing token bệnh tật with bệnh tật
+Replacing token ngang nhiên with ngang nhiên
+Replacing token bố mẹ mình with bố mẹ mình
+Replacing token đang chuẩn with đang chuẩn
+Replacing token khỏi miệng with khỏi miệng
+Replacing token .7 ha with .7 ha
+Replacing token ngàn usd with ngàn usd
+Replacing token nói thật with nói thật
+Replacing token một lẽ with một lẽ
+Replacing token vì vậy with vì vậy
+Replacing token đặc chủng hoặc with đặc chủng hoặc
+Replacing token hừng hực with hừng hực
+Replacing token xà bông with xà bông
+Replacing token tham mưu with tham mưu
+Replacing token phục vụ with phục vụ
+Replacing token yết hầu with yết hầu
+Replacing token 3 , with 3 ,
+Replacing token hải vân gặp with hải vân gặp
+Replacing token thông hơi with thông hơi
+Replacing token xúc động with xúc động
+Replacing token xuân giang with xuân giang
+Replacing token trời thương with trời thương
+Replacing token vì thế with vì thế
+Replacing token huế sau with huế sau
+Replacing token bụi đá with bụi đá
+Replacing token địch dính with địch dính
+Replacing token bạc trắng with bạc trắng
+Replacing token nỗi nay with nỗi nay
+Replacing token lạnh dù ban with lạnh dù ban
+Replacing token bới bới with bới bới
+Replacing token gì tiếp with gì tiếp
+Replacing token kiểm lâm with kiểm lâm
+Replacing token thành phần with thành phần
+Replacing token bìa rừng with bìa rừng
+Replacing token tận vùng with tận vùng
+Replacing token sau ánh with sau ánh
+Replacing token hành án with hành án
+Replacing token kế thuận with kế thuận
+Replacing token đoạn hào with đoạn hào
+Replacing token lủ rẽ with lủ rẽ
+Replacing token xương báo with xương báo
+Replacing token kinh ngạc with kinh ngạc
+Replacing token sức ép with sức ép
+Replacing token hồ sơ with hồ sơ
+Replacing token Định công with Định công
+Replacing token bí thư with bí thư
+Replacing token tấp nập with tấp nập
+Replacing token chứng thực with chứng thực
+Replacing token xe ngoại with xe ngoại
+Replacing token chương chưa with chương chưa
+Replacing token bấy giờ with bấy giờ
+Replacing token xô ngã with xô ngã
+Replacing token điều kiện with điều kiện
+Replacing token trường đại học with trường đại học
+Replacing token chặt phá with chặt phá
+Replacing token mạnh khù with mạnh khù
+Replacing token san sát with san sát
+Replacing token gặng hỏi with gặng hỏi
+Replacing token huyết quản mình with huyết quản mình
+Replacing token kinh sợ with kinh sợ
+Replacing token bình dị chân with bình dị chân
+Replacing token tội phạm with tội phạm
+Replacing token tuông ghê with tuông ghê
+Replacing token bảo vệ with bảo vệ
+Replacing token dạn dĩ with dạn dĩ
+Replacing token núi tựa with núi tựa
+Replacing token thế nhưng with thế nhưng
+Replacing token công nghệ with công nghệ
+Replacing token tuổi bẻ with tuổi bẻ
+Replacing token kích thước with kích thước
+Replacing token quái đản with quái đản
+Replacing token hầm bắc with hầm bắc
+Replacing token người dạy with người dạy
+Replacing token nghìn thiếu with nghìn thiếu
+Replacing token chương này with chương này
+Replacing token khảo sát with khảo sát
+Replacing token xương hổ with xương hổ
+Replacing token thắng thua with thắng thua
+Replacing token . ! with . !
+Replacing token thành chuyện with thành chuyện
+Replacing token thẩm định cao with thẩm định cao
+Replacing token niệm thành with niệm thành
+Replacing token được tiến hành with được tiến hành
+Replacing token nếu kim with nếu kim
+Replacing token chuồng thú with chuồng thú
+Replacing token hàn sắt with hàn sắt
+Replacing token vũ khí khủng khiếp with vũ khí khủng khiếp
+Replacing token gắn nhãn with gắn nhãn
+Replacing token máy tính with máy tính
+Replacing token chương cứ with chương cứ
+Replacing token cam go with cam go
+Replacing token thi đặt with thi đặt
+Replacing token thuốc thử with thuốc thử
+Replacing token ai sản with ai sản
+Replacing token tư trang with tư trang
+Replacing token đấu tấn with đấu tấn
+Replacing token đánh bài with đánh bài
+Replacing token dây đồng with dây đồng
+Replacing token ngày nay with ngày nay
+Replacing token tan tầm with tan tầm
+Replacing token cắm phập with cắm phập
+Replacing token mất mát with mất mát
+Replacing token vụ tiện ích with vụ tiện ích
+Replacing token nối thông with nối thông
+Replacing token bồ bịch with bồ bịch
+Replacing token mỹ cứu with mỹ cứu
+Replacing token làm trưởng with làm trưởng
+Replacing token buôn bán with buôn bán
+Replacing token đỏ rực with đỏ rực
+Replacing token tham quan with tham quan
+Replacing token buồn tẻ with buồn tẻ
+Replacing token thác tiếp with thác tiếp
+Replacing token hội đồng with hội đồng
+Replacing token hùng dặn with hùng dặn
+Replacing token cán bộ with cán bộ
+Replacing token tâm huyết with tâm huyết
+Replacing token ngày mưa with ngày mưa
+Replacing token cường ruồng with cường ruồng
+Replacing token quân địch with quân địch
+Replacing token tốc hành with tốc hành
+Replacing token đội quân with đội quân
+Replacing token lịch lãm with lịch lãm
+Replacing token quanh chuồng with quanh chuồng
+Replacing token là đằng with là đằng
+Replacing token buồn thương with buồn thương
+Replacing token khẩn trương with khẩn trương
+Replacing token dung hôm with dung hôm
+Replacing token sinh học with sinh học
+Replacing token những mái with những mái
+Replacing token xklĐ tracimexco with xklĐ tracimexco
+Replacing token đánh giá chính with đánh giá chính
+Replacing token 1 . with 1 .
+Replacing token cổ quảng with cổ quảng
+Replacing token tự thân with tự thân
+Replacing token tích tắc with tích tắc
+Replacing token lạ thường with lạ thường
+Replacing token đào đào with đào đào
+Replacing token sạ xuống with sạ xuống
+Replacing token sơn viết with sơn viết
+Replacing token bức tường with bức tường
+Replacing token hò hẹn with hò hẹn
+Replacing token - ngụy with - ngụy
+Replacing token do vậy with do vậy
+Replacing token trang sử with trang sử
+Replacing token đồng chí with đồng chí
+Replacing token tại chiến with tại chiến
+Replacing token tính cách with tính cách
+Replacing token vài kilômet with vài kilômet
+Replacing token xử lý with xử lý
+Replacing token tại Đức with tại Đức
+Replacing token khai thác with khai thác
+Replacing token thoi thóp with thoi thóp
+Replacing token quê quán with quê quán
+Replacing token chương vẫn with chương vẫn
+Replacing token thông thường with thông thường
+Replacing token ù ù with ù ù
+Replacing token biên lai with biên lai
+Replacing token nhân viên with nhân viên
+Replacing token giá cao with giá cao
+Replacing token bách khoa with bách khoa
+Replacing token yêu thú dữ with yêu thú dữ
+Replacing token thở dài with thở dài
+Replacing token chất da with chất da
+Replacing token chương nói with chương nói
+Replacing token ông chính with ông chính
+Replacing token quê kim with quê kim
+Replacing token trở dạ with trở dạ
+Replacing token khách sạn with khách sạn
+Replacing token học lý with học lý
+Replacing token lạng cao with lạng cao
+Replacing token tới nỗi with tới nỗi
+Replacing token a . with a .
+Replacing token nghi vấn with nghi vấn
+Replacing token toàn tranh with toàn tranh
+Replacing token hiện tượng with hiện tượng
+Replacing token gương mặt xanh rớt with gương mặt xanh rớt
+Replacing token vòng khắp with vòng khắp
+Replacing token đấu thường with đấu thường
+Replacing token lành tháng with lành tháng
+Replacing token nguy hiểm with nguy hiểm
+Replacing token lấp lánh with lấp lánh
+Replacing token già đan with già đan
+Replacing token nghênh chiến with nghênh chiến
+Replacing token công bố with công bố
+Replacing token bị động with bị động
+Replacing token sơ thẩm with sơ thẩm
+Replacing token cụ già with cụ già
+Replacing token lựa chọn with lựa chọn
+Replacing token kỹ sư with kỹ sư
+Replacing token công xưởng with công xưởng
+Replacing token suy nghĩ with suy nghĩ
+Replacing token có mặt with có mặt
+Replacing token thường kiệt with thường kiệt
+Replacing token dường như with dường như
+Replacing token chương bí mật with chương bí mật
+Replacing token tà ý with tà ý
+Replacing token phân xanh with phân xanh
+Replacing token số phận with số phận
+Replacing token chúng dùng with chúng dùng
+Replacing token phòng bệnh with phòng bệnh
+Replacing token khí căng with khí căng
+Replacing token đổi ý kiến with đổi ý kiến
+Replacing token bơ vơ with bơ vơ
+Replacing token ràn rạt with ràn rạt
+Replacing token anh bảo with anh bảo
+Replacing token nắng gắt with nắng gắt
+Replacing token làm thế with làm thế
+Replacing token ước mơ with ước mơ
+Replacing token trước ngã with trước ngã
+Replacing token mặt khác with mặt khác
+Replacing token bộ trưởng with bộ trưởng
+Replacing token khen thưởng with khen thưởng
+Replacing token nghi xuân có with nghi xuân có
+Replacing token được hưởng with được hưởng
+Replacing token tương ứng with tương ứng
+Replacing token 1 triệu with 1 triệu
+Replacing token các chứng cứ with các chứng cứ
+Replacing token ái tử with ái tử
+Replacing token thân ít with thân ít
+Replacing token phòng giá with phòng giá
+Replacing token tình sâu with tình sâu
+Replacing token phân cách with phân cách
+Replacing token thống nhất with thống nhất
+Replacing token chấp hành with chấp hành
+Replacing token mặt cười with mặt cười
+Replacing token chừng như with chừng như
+Replacing token nhuận Đức with nhuận Đức
+Replacing token bảo vệ áp with bảo vệ áp
+Replacing token nhu cầu tình with nhu cầu tình
+Replacing token biết chuyện with biết chuyện
+Replacing token lục ngạn with lục ngạn
+Replacing token xác hơn with xác hơn
+Replacing token điện dẫn with điện dẫn
+Replacing token uy tín with uy tín
+Replacing token cuộc chiến with cuộc chiến
+Replacing token cây trái with cây trái
+Replacing token lán trại with lán trại
+Replacing token mua thêm with mua thêm
+Replacing token tối thế with tối thế
+Replacing token vi tính with vi tính
+Replacing token lập nghiệp with lập nghiệp
+Replacing token nấu khoai with nấu khoai
+Replacing token ruộng rộng with ruộng rộng
+Replacing token chắc mình with chắc mình
+Replacing token thế gian with thế gian
+Replacing token lệnh thả with lệnh thả
+Replacing token hội hẹn with hội hẹn
+Replacing token chiến sĩ with chiến sĩ
+Replacing token bất thường with bất thường
+Replacing token trò chuyện with trò chuyện
+Replacing token sư tử with sư tử
+Replacing token xương sống with xương sống
+Replacing token chúng nữa with chúng nữa
+Replacing token chồng tôi with chồng tôi
+Replacing token toàn nói with toàn nói
+Replacing token thị trấn with thị trấn
+Replacing token tính mạng with tính mạng
+Replacing token t . with t .
+Replacing token máy kha with máy kha
+Replacing token hiệu quả with hiệu quả
+Replacing token 3 triệu with 3 triệu
+Replacing token cố tình with cố tình
+Replacing token tức giận with tức giận
+Replacing token hà nội giải with hà nội giải
+Replacing token thừa sức with thừa sức
+Replacing token dịch chiết with dịch chiết
+Replacing token chẳng hiểu with chẳng hiểu
+Replacing token quản tượng with quản tượng
+Replacing token nói nhiều with nói nhiều
+Replacing token hổ tươi with hổ tươi
+Replacing token kiên giang tưởng with kiên giang tưởng
+Replacing token m tới with m tới
+Replacing token điện tử with điện tử
+Replacing token hãy tin with hãy tin
+Replacing token khỏi cửa with khỏi cửa
+Replacing token lép vế with lép vế
+Replacing token bà con with bà con
+Replacing token đặt chân with đặt chân
+Replacing token tư thế with tư thế
+Replacing token làm giả with làm giả
+Replacing token chị tiệp phải with chị tiệp phải
+Replacing token g bạt with g bạt
+Replacing token hậu quả with hậu quả
+Replacing token đánh chí with đánh chí
+Replacing token khí thế with khí thế
+Replacing token lên trưởng with lên trưởng
+Replacing token cà phê with cà phê
+Replacing token mua bán with mua bán
+Replacing token gia mỹ with gia mỹ
+Replacing token vì tranh with vì tranh
+Replacing token nhớ hết with nhớ hết
+Replacing token chất hóa học with chất hóa học
+Replacing token vô hạn with vô hạn
+Replacing token bệnh cây with bệnh cây
+Replacing token hầm vòm with hầm vòm
+Replacing token bị nghiện with bị nghiện
+Replacing token trào đào with trào đào
+Replacing token con mồ côi with con mồ côi
+Replacing token thở phào with thở phào
+Replacing token chồng thường with chồng thường
+Replacing token chấm mực with chấm mực
+Replacing token tâm lý with tâm lý
+Replacing token cuối ngày with cuối ngày
+Replacing token chương trình with chương trình
+Replacing token dầu tắm with dầu tắm
+Replacing token ấn độ with ấn độ
+Replacing token hổ đặt with hổ đặt
+Replacing token hắn chỉ with hắn chỉ
+Replacing token ngoắt lại with ngoắt lại
+Replacing token cô độc with cô độc
+Replacing token thăng chức with thăng chức
+Replacing token thất thố with thất thố
+Replacing token bó tay with bó tay
+Replacing token Đức hòa with Đức hòa
+Replacing token đào mỗi with đào mỗi
+Replacing token đề phòng with đề phòng
+Replacing token sặc sụa with sặc sụa
+Replacing token hổ giao with hổ giao
+Replacing token kim ốm with kim ốm
+Replacing token tự tạo with tự tạo
+Replacing token chẳng hạn with chẳng hạn
+Replacing token trổ ngang with trổ ngang
+Replacing token thủy lợi with thủy lợi
+Replacing token công trường with công trường
+Replacing token hổ đấu with hổ đấu
+Replacing token đợi nhân with đợi nhân
+Replacing token vùng rộng with vùng rộng
+Replacing token công đập with công đập
+Replacing token cuộc tình with cuộc tình
+Replacing token khám nghiệm with khám nghiệm
+Replacing token cho khí độc with cho khí độc
+Replacing token đám đông with đám đông
+Replacing token an bà with an bà
+Replacing token đa số with đa số
+Replacing token thay phiên with thay phiên
+Replacing token hênh sao with hênh sao
+Replacing token bộ binh with bộ binh
+Replacing token phổ biến with phổ biến
+Replacing token hì hục with hì hục
+Replacing token buồn nhất with buồn nhất
+Replacing token lđ nước with lđ nước
+Replacing token phát hành with phát hành
+Replacing token hòm thư with hòm thư
+Replacing token thân sơ with thân sơ
+Replacing token cơ sở with cơ sở
+Replacing token máy bay with máy bay
+Replacing token tháp tùng with tháp tùng
+Replacing token hết khóa with hết khóa
+Replacing token kim nhìn with kim nhìn
+Replacing token thản nhiên with thản nhiên
+Replacing token tan ca with tan ca
+Replacing token điên điển with điên điển
+Replacing token chương mà with chương mà
+Replacing token dung giở with dung giở
+Replacing token cụ thú with cụ thú
+Replacing token cảm thấy with cảm thấy
+Replacing token vụ việc with vụ việc
+Replacing token ngày mình with ngày mình
+Replacing token đất đào with đất đào
+Replacing token nổi đâu with nổi đâu
+Replacing token tính chất with tính chất
+Replacing token cọc trắng with cọc trắng
+Replacing token diễn đàn with diễn đàn
+Replacing token thủ phản with thủ phản
+Replacing token nụ cười with nụ cười
+Replacing token bắc củ with bắc củ
+Replacing token nghi xuân gặp with nghi xuân gặp
+Replacing token cao thường with cao thường
+Replacing token đành dời with đành dời
+Replacing token tích cực with tích cực
+Replacing token xác nhận with xác nhận
+Replacing token lí nhí with lí nhí
+Replacing token thành lửa with thành lửa
+Replacing token nội dung with nội dung
+Replacing token chương giả with chương giả
+Replacing token nghiên cứu quốc with nghiên cứu quốc
+Replacing token - mỹ with - mỹ
+Replacing token u sần with u sần
+Replacing token lên án with lên án
+Replacing token phong tỏa bởi with phong tỏa bởi
+Replacing token chương gửi with chương gửi
+Replacing token doanh nghiệp with doanh nghiệp
+Replacing token một căng with một căng
+Replacing token 80 . 000 with 80 . 000
+Replacing token thứ trưởng with thứ trưởng
+Replacing token vì sao with vì sao
+Replacing token bàn huyện with bàn huyện
+Replacing token chiến chống with chiến chống
+Replacing token uốn khúc with uốn khúc
+Replacing token cứ mỹ with cứ mỹ
+Replacing token chồng mất with chồng mất
+Replacing token mô hình with mô hình
+Replacing token nhà đầu tư with nhà đầu tư
+Replacing token toàn củ with toàn củ
+Replacing token ngọc bảo with ngọc bảo
+Replacing token thân tình with thân tình
+Replacing token ảnh hưởng with ảnh hưởng
+Replacing token tháo khăn with tháo khăn
+Replacing token đội trưởng with đội trưởng
+Replacing token tụm với with tụm với
+Replacing token đảng viên with đảng viên
+Replacing token bảo thế with bảo thế
+Replacing token xách ra with xách ra
+Replacing token đảng ủy with đảng ủy
+Replacing token thủ tiến with thủ tiến
+Replacing token xe xuống with xe xuống
+Replacing token giữ hộ with giữ hộ
+Replacing token thu nhiều with thu nhiều
+Replacing token sợi tơ with sợi tơ
+Replacing token giải thích with giải thích
+Replacing token lĐ rbkt with lĐ rbkt
+Replacing token vừa đánh with vừa đánh
+Replacing token cảm nhận with cảm nhận
+Replacing token của vụ with của vụ
+Replacing token chính bàn with chính bàn
+Replacing token 20 . 000 with 20 . 000
+Replacing token máy bộ with máy bộ
+Replacing token phân viện with phân viện
+Replacing token đường bộ with đường bộ
+Replacing token chương giấu with chương giấu
+Replacing token nguyễn sĩ with nguyễn sĩ
+Replacing token cửa khẩu with cửa khẩu
+Replacing token gắn đời with gắn đời
+Replacing token nguôi giận with nguôi giận
+Replacing token mua căn with mua căn
+Replacing token y mai quế tiệp with y mai quế tiệp
+Replacing token soi mói with soi mói
+Replacing token rồ máy with rồ máy
+Replacing token kiến trúc with kiến trúc
+Replacing token rề rà with rề rà
+Replacing token hạ tầng with hạ tầng
+Replacing token bạt ngàn with bạt ngàn
+Replacing token sản lượng with sản lượng
+Replacing token tác giả with tác giả
+Replacing token đường kính with đường kính
+Replacing token chỉ đạt with chỉ đạt
+Replacing token thủ công xen with thủ công xen
+Replacing token công sức with công sức
+Replacing token nổ mìn with nổ mìn
+Replacing token tích tăng with tích tăng
+Replacing token nhấc máy with nhấc máy
+Replacing token lý thú with lý thú
+Replacing token bùn nước with bùn nước
+Replacing token chứng nhân with chứng nhân
+Replacing token Đồng hới with Đồng hới
+Replacing token thế hệ with thế hệ
+Replacing token viết tay with viết tay
+Replacing token chương hỏi with chương hỏi
+Replacing token bản doanh with bản doanh
+Replacing token đánh phá with đánh phá
+Replacing token khai man with khai man
+Replacing token nhận dạng with nhận dạng
+Replacing token cầu cứu with cầu cứu
+Replacing token tuổi 18 with tuổi 18
+Replacing token chính dò with chính dò
+Replacing token bị đơn with bị đơn
+Replacing token tiến sâu with tiến sâu
+Replacing token tận căn with tận căn
+Replacing token ngăn cản with ngăn cản
+Replacing token việt kiều with việt kiều
+Replacing token này chính with này chính
+Replacing token dự kiến with dự kiến
+Replacing token nhà trường chưa with nhà trường chưa
+Replacing token cũng đừng with cũng đừng
+Replacing token di động with di động
+Replacing token trong vườn thú with trong vườn thú
+Replacing token cô ta with cô ta
+Replacing token hổ chuyện with hổ chuyện
+Replacing token bịt mắt with bịt mắt
+Replacing token ánh lửa with ánh lửa
+Replacing token đánh bao with đánh bao
+Replacing token ủy ban with ủy ban
+Replacing token yêu cầu with yêu cầu
+Replacing token lộ diện with lộ diện
+Replacing token vụ kiện with vụ kiện
+Replacing token cú tát with cú tát
+Replacing token căn nguyên with căn nguyên
+Replacing token xấu đều with xấu đều
+Replacing token hành lang with hành lang
+Replacing token kim thật with kim thật
+Replacing token nữ thuộc with nữ thuộc
+Replacing token nghiêng tỏ with nghiêng tỏ
+Replacing token bám đuổi with bám đuổi
+Replacing token ban giám đốc with ban giám đốc
+Replacing token đừng ngó with đừng ngó
+Replacing token chịu thua with chịu thua
+Replacing token ngàn tấn with ngàn tấn
+Replacing token sổ đỏ with sổ đỏ
+Replacing token chủ thợ with chủ thợ
+Replacing token gia trưởng with gia trưởng
+Replacing token mìn diệt with mìn diệt
+Replacing token ông văn Đình with ông văn Đình
+Replacing token tiếp thị with tiếp thị
+Replacing token ghen giúp with ghen giúp
+Replacing token bột ximăng with bột ximăng
+Replacing token hoàn thành with hoàn thành
+Replacing token pháp sinh học with pháp sinh học
+Replacing token hết chuyện with hết chuyện
+Replacing token tiếp xúc with tiếp xúc
+Replacing token cola mỹ with cola mỹ
+Replacing token bất cẩn with bất cẩn
+Replacing token chất phác with chất phác
+Replacing token tô văn Đực with tô văn Đực
+Replacing token cửa hàng with cửa hàng
+Replacing token vô cùng with vô cùng
+Replacing token kilôgam thuốc with kilôgam thuốc
+Replacing token xô đẩy with xô đẩy
+Replacing token cuốc ngao with cuốc ngao
+Replacing token tư nhân with tư nhân
+Replacing token tuyên xử with tuyên xử
+Replacing token vô duyên with vô duyên
+Replacing token một ý with một ý
+Replacing token sau hùng with sau hùng
+Replacing token tạm thời with tạm thời
+Replacing token yêu cầu hoãn with yêu cầu hoãn
+Replacing token mãi thế with mãi thế
+Replacing token tui dẫn with tui dẫn
+Replacing token chương quá with chương quá
+Replacing token cảm khiến with cảm khiến
+Replacing token đương chức with đương chức
+Replacing token vết sẹo with vết sẹo
+Replacing token phương án with phương án
+Replacing token âm thầm with âm thầm
+Replacing token thị trường with thị trường
+Replacing token bao thư with bao thư
+Replacing token trời cứu with trời cứu
+Replacing token Đỗ quý hạo with Đỗ quý hạo
+Replacing token hợp biện with hợp biện
+Replacing token ụ đất with ụ đất
+Replacing token hóa giải with hóa giải
+Replacing token binh lính new zealand with binh lính new zealand
+Replacing token trọng đại with trọng đại
+Replacing token nguyên tắc with nguyên tắc
+Replacing token bạn thân with bạn thân
+Replacing token đất thép with đất thép
+Replacing token công bằng with công bằng
+Replacing token new zealand with new zealand
+Replacing token chương nên with chương nên
+Replacing token ngoài cuộc with ngoài cuộc
+Replacing token hố chông with hố chông
+Replacing token loại thượng with loại thượng
+Replacing token nghỉ việc with nghỉ việc
+Replacing token thanh thủy with thanh thủy
+Replacing token tiêu thành with tiêu thành
+Replacing token quy cách with quy cách
+Replacing token bật cười with bật cười
+Replacing token mơ hồ with mơ hồ
+Replacing token hầm hào with hầm hào
+Replacing token ý nghĩa with ý nghĩa
+Replacing token văn hoàng with văn hoàng
+Replacing token bọc thép with bọc thép
+Replacing token kết nối with kết nối
+Replacing token giữ nhiệt with giữ nhiệt
+Replacing token đất tỏa with đất tỏa
+Replacing token ra sao with ra sao
+Replacing token bà rời with bà rời
+Replacing token giấy phép with giấy phép
+Replacing token tốt việc with tốt việc
+Replacing token sang trọng with sang trọng
+Replacing token đưa kim with đưa kim
+Replacing token bọn mỹ with bọn mỹ
+Replacing token sẵn sàng with sẵn sàng
+Replacing token giao tranh with giao tranh
+Replacing token bà trưng with bà trưng
+Replacing token liên thông with liên thông
+Replacing token diễn chuyện with diễn chuyện
+Replacing token xấp xỉ with xấp xỉ
+Replacing token nửa đời with nửa đời
+Replacing token đèn đầy with đèn đầy
+Replacing token chủ nhật with chủ nhật
+Replacing token quyết tâm with quyết tâm
+Replacing token chương lúc with chương lúc
+Replacing token quê mai with quê mai
+Replacing token chấp nhận chuyện with chấp nhận chuyện
+Replacing token kinh hoàng with kinh hoàng
+Replacing token cuộc tranh luận with cuộc tranh luận
+Replacing token chương hứa with chương hứa
+Replacing token xinh xắn with xinh xắn
+Replacing token khai trừ with khai trừ
+Replacing token chủ động with chủ động
+Replacing token nhớ chính with nhớ chính
+Replacing token áo kẻ with áo kẻ
+Replacing token thắp hương with thắp hương
+Replacing token cò túa with cò túa
+Replacing token đoàn tụ with đoàn tụ
+Replacing token là chiều with là chiều
+Replacing token trăng hoa with trăng hoa
+Replacing token phát động with phát động
+Replacing token với phụ with với phụ
+Replacing token bằng tình with bằng tình
+Replacing token chương thấy with chương thấy
+Replacing token nông lâm with nông lâm
+Replacing token dưỡng lão nhưng with dưỡng lão nhưng
+Replacing token trở thành with trở thành
+Replacing token ngẫu nhiên with ngẫu nhiên
+Replacing token chắc chúng with chắc chúng
+Replacing token kim yêu with kim yêu
+Replacing token là lĩnh vực with là lĩnh vực
+Replacing token thủ công with thủ công
+Replacing token hồi hộp with hồi hộp
+Replacing token ngơ ngác with ngơ ngác
+Replacing token khủng khiếp with khủng khiếp
+Replacing token nhật ký with nhật ký
+Replacing token anh em with anh em
+Replacing token giá cả with giá cả
+Replacing token chương sống with chương sống
+Replacing token điều quanh with điều quanh
+Replacing token tôi say with tôi say
+Replacing token du kích nện with du kích nện
+Replacing token hạ cám with hạ cám
+Replacing token cáo già with cáo già
+Replacing token chi tiêu with chi tiêu
+Replacing token côn trùng with côn trùng
+Replacing token hình thù with hình thù
+Replacing token hoan hỉ with hoan hỉ
+Replacing token phương tiện with phương tiện
+Replacing token biệt thự with biệt thự
+Replacing token phù hợp with phù hợp
+Replacing token muông thú with muông thú
+Replacing token lãnh đạo with lãnh đạo
+Replacing token lòng địch with lòng địch
+Replacing token thoắt ẩn with thoắt ẩn
+Replacing token kcn này with kcn này
+Replacing token vòng tay with vòng tay
+Replacing token nhậu nhẹt with nhậu nhẹt
+Replacing token vận động with vận động
+Replacing token toàn tuyến with toàn tuyến
+Replacing token chiều rộng with chiều rộng
+Replacing token nổi tiếng with nổi tiếng
+Replacing token biện pháp with biện pháp
+Replacing token pháo kích with pháo kích
+Replacing token các thành with các thành
+Replacing token hàng trăm with hàng trăm
+Replacing token bùi ngùi with bùi ngùi
+Replacing token đáp ứng with đáp ứng
+Replacing token phiền phức with phiền phức
+Replacing token phản xạ with phản xạ
+Replacing token giờ hẹn with giờ hẹn
+Replacing token đem cao with đem cao
+Replacing token và lợi with và lợi
+Replacing token công biển with công biển
+Replacing token tạp chí with tạp chí
+Replacing token mộc mạc with mộc mạc
+Replacing token ông tên with ông tên
+Replacing token uyên ương with uyên ương
+Replacing token thừa nhận with thừa nhận
+Replacing token quan tâm with quan tâm
+Replacing token thực tế nhiều with thực tế nhiều
+Replacing token phức tạp with phức tạp
+Replacing token khắp mâm with khắp mâm
+Replacing token mát quả with mát quả
+Replacing token nội bộ with nội bộ
+Replacing token thửa ruộng with thửa ruộng
+Replacing token chuyện vườn with chuyện vườn
+Replacing token chữa bệnh with chữa bệnh
+Replacing token thanh hóa with thanh hóa
+Replacing token bên trái with bên trái
+Replacing token đầu tư with đầu tư
+Replacing token và lợi dụng with và lợi dụng
+Replacing token lão ta with lão ta
+Replacing token hành khách with hành khách
+Replacing token sắc cạnh with sắc cạnh
+Replacing token ụ cây with ụ cây
+Replacing token giấu tinh with giấu tinh
+Replacing token tập thể with tập thể
+Replacing token khổng lồ with khổng lồ
+Replacing token hùng nói with hùng nói
+Replacing token chương nhấc with chương nhấc
+Replacing token quan hệ việt with quan hệ việt
+Replacing token lập lại with lập lại
+Replacing token e ngại with e ngại
+Replacing token một cách with một cách
+Replacing token mũi khoan with mũi khoan
+Replacing token dụng ý with dụng ý
+Replacing token trước mệt with trước mệt
+Replacing token xe dream with xe dream
+Replacing token trong đời with trong đời
+Replacing token máu xương with máu xương
+Replacing token phụ lão with phụ lão
+Replacing token tươi dâng with tươi dâng
+Replacing token .6 ha with .6 ha
+Replacing token tổng cộng with tổng cộng
+Replacing token ninh bình with ninh bình
+Replacing token biết tường tận with biết tường tận
+Replacing token ổ đề kháng with ổ đề kháng
+Replacing token đất đủ with đất đủ
+Replacing token chế tạo with chế tạo
+Replacing token lục tục with lục tục
+Replacing token bề cao with bề cao
+Replacing token thú dữ with thú dữ
+Replacing token vờn đuổi with vờn đuổi
+Replacing token chủ chốt with chủ chốt
+Replacing token tổ chức with tổ chức
+Replacing token nhơn trạch with nhơn trạch
+Replacing token báo cáo with báo cáo
+Replacing token vườn ruộng with vườn ruộng
+Replacing token 44 . 000 with 44 . 000
+Replacing token thiếu chính with thiếu chính
+Replacing token cách chừng with cách chừng
+Replacing token chủng loại with chủng loại
+Replacing token tối hẳn with tối hẳn
+Replacing token đất trồng with đất trồng
+Replacing token chương dương with chương dương
+Replacing token chương lại with chương lại
+Replacing token hồn nhiên with hồn nhiên
+Replacing token chương ra with chương ra
+Replacing token địa phương with địa phương
+Replacing token lại chậm with lại chậm
+Replacing token phòng rộng with phòng rộng
+Replacing token khai từ with khai từ
+Replacing token chúng quay with chúng quay
+Replacing token vững vàng with vững vàng
+Replacing token Ảnh nhớ with Ảnh nhớ
+Replacing token thao tác with thao tác
+Replacing token quần áo with quần áo
+Replacing token cảm động with cảm động
+Replacing token ân hận with ân hận
+Replacing token đôi mắt with đôi mắt
+Replacing token vườn quả with vườn quả
+Replacing token trùng hợp with trùng hợp
+Replacing token theo hắn with theo hắn
+Replacing token phong tục with phong tục
+Replacing token nguyên chỗ with nguyên chỗ
+Replacing token thiên duyên with thiên duyên
+Replacing token gia nhập with gia nhập
+Replacing token đường xương with đường xương
+Replacing token mặt dính with mặt dính
+Replacing token bình tĩnh with bình tĩnh
+Replacing token án mỹ with án mỹ
+Replacing token kính chừng with kính chừng
+Replacing token hổ mẹ with hổ mẹ
+Replacing token chính nhờ with chính nhờ
+Replacing token tiến trình with tiến trình
+Replacing token thật thẻ with thật thẻ
+Replacing token cảm thật with cảm thật
+Replacing token lúc kim with lúc kim
+Replacing token ra nơi with ra nơi
+Replacing token hợp đồng with hợp đồng
+Replacing token vì dịch with vì dịch
+Replacing token ở văn phòng with ở văn phòng
+Replacing token hà tĩnh with hà tĩnh
+Replacing token thợ hàn with thợ hàn
+Replacing token định hình with định hình
+Replacing token c ó lẽ with c ó lẽ
+Replacing token bị phá with bị phá
+Replacing token vật vã with vật vã
+Replacing token lộ vẻ with lộ vẻ
+Replacing token học sống with học sống
+Replacing token nghề quả with nghề quả
+Replacing token kế toán with kế toán
+Replacing token tròng mắt with tròng mắt
+Replacing token hình dung with hình dung
+Replacing token chúng tôi gõ with chúng tôi gõ
+Replacing token nín nhịn with nín nhịn
+Replacing token thực thụ with thực thụ
+Replacing token kỹ thuật with kỹ thuật
+Replacing token ngon lắm with ngon lắm
+Replacing token vị trí with vị trí
+Replacing token của kim with của kim
+Replacing token chiêu tập with chiêu tập
+Replacing token hồi hhc with hồi hhc
+Replacing token chứng cứ with chứng cứ
+Replacing token nước mắt with nước mắt
+Replacing token quen thân with quen thân
+Replacing token thành viên with thành viên
+Replacing token cánh đồng with cánh đồng
+Replacing token đột kích with đột kích
+Replacing token chung ấp with chung ấp
+Replacing token tuôn xuống with tuôn xuống
+Replacing token cũng đủ with cũng đủ
+Replacing token giấu kim with giấu kim
+Replacing token làm chứng with làm chứng
+Replacing token đầu hàng with đầu hàng
+Replacing token đa mang with đa mang
+Replacing token hàng xóm with hàng xóm
+Replacing token chiến trường khiến with chiến trường khiến
+Replacing token thu chiến with thu chiến
+Replacing token chúng gửi with chúng gửi
+Replacing token tiêu diệt with tiêu diệt
+Replacing token phố huế with phố huế
+Replacing token đường dọc with đường dọc
+Replacing token bác vui with bác vui
+Replacing token xác định with xác định
+Replacing token áp dụng with áp dụng
+Replacing token nhiêu trận with nhiêu trận
+Replacing token phúc thẩm with phúc thẩm
+Replacing token chính tổng with chính tổng
+Replacing token bóng dáng with bóng dáng
+Replacing token nông nghiệp with nông nghiệp
+Replacing token xa xứ with xa xứ
+Replacing token thiêng liêng with thiêng liêng
+Replacing token mẫu bệnh with mẫu bệnh
+Replacing token bác trả with bác trả
+Replacing token dụng đào with dụng đào
+Replacing token chiến tích with chiến tích
+Replacing token quan giữa with quan giữa
+Replacing token chắc mẩm with chắc mẩm
+Replacing token bất tỉnh with bất tỉnh
+Replacing token nguyễn ngọc with nguyễn ngọc
+Replacing token lỗ thông hơi with lỗ thông hơi
+Replacing token hải vân with hải vân
+Replacing token xương ngựa with xương ngựa
+Replacing token xét xử with xét xử
+Replacing token buôn bán động vật with buôn bán động vật
+Replacing token phủ ngọc tường with phủ ngọc tường
+Replacing token lâu lâu with lâu lâu
+Replacing token làm sao with làm sao
+Replacing token đấu tranh with đấu tranh
+Replacing token binh mỹ with binh mỹ
+Replacing token chứng thương with chứng thương
+Replacing token lĩnh nghiêm with lĩnh nghiêm
+Replacing token tuổi xuân with tuổi xuân
+Replacing token hắn tăng with hắn tăng
+Replacing token mình tính with mình tính
+Replacing token duy liền with duy liền
+Replacing token lửng lơ with lửng lơ
+Replacing token hạnh phúc with hạnh phúc
+Replacing token đào miệng thí with đào miệng thí
+Replacing token chương dừng with chương dừng
+Replacing token nguyễn công hào with nguyễn công hào
+Replacing token an tâm with an tâm
+Replacing token bạn đọc with bạn đọc
+Replacing token ngoài to with ngoài to
+Replacing token yêu quí with yêu quí
+Replacing token hốt hoảng with hốt hoảng
+Replacing token ố vàng with ố vàng
+Replacing token bình bắt with bình bắt
+Replacing token chín Ảnh with chín Ảnh
+Replacing token sau cuộc with sau cuộc
+Replacing token đau lòng with đau lòng
+Replacing token huơ vòi quấn with huơ vòi quấn
+Replacing token ý kiến with ý kiến
+Replacing token vòng hai with vòng hai
+Replacing token phê phố with phê phố
+Replacing token vậy kim with vậy kim
+Replacing token thương tích with thương tích
+Replacing token ánh sáng with ánh sáng
+Replacing token trước mộ with trước mộ
+Replacing token đối với with đối với
+Replacing token có thẻ with có thẻ
+Replacing token kiên nhẫn with kiên nhẫn
+Replacing token thân thiết with thân thiết
+Replacing token quãng đời with quãng đời
+Replacing token con múc with con múc
+Replacing token yếu đuối with yếu đuối
+Replacing token bất lực with bất lực
+Replacing token cần gặp with cần gặp
+Replacing token hhc giả with hhc giả
+Replacing token phân biệt with phân biệt
+Replacing token xét việc with xét việc
+Replacing token vài thứ with vài thứ
+Replacing token quê hương with quê hương
+Replacing token thú nhận with thú nhận
+Replacing token chung khu with chung khu
+Replacing token giá xương with giá xương
+Replacing token chương là with chương là
+Replacing token liên bang with liên bang
+Replacing token chắc kim with chắc kim
+Replacing token chúng bèn with chúng bèn
+Replacing token trang trại with trang trại
+Replacing token chính xác with chính xác
+Replacing token sau tiến with sau tiến
+Replacing token giới thiệu with giới thiệu
+Replacing token trấn huyện with trấn huyện
+Replacing token xây dựng with xây dựng
+Replacing token bất hạnh with bất hạnh
+Replacing token thành tích with thành tích
+Replacing token thái lan with thái lan
+Replacing token những tiếng with những tiếng
+Replacing token bất tiện with bất tiện
+Replacing token vận động ký with vận động ký
+Replacing token Đồng dù with Đồng dù
+Replacing token dũng sĩ with dũng sĩ
+Replacing token trú ẩn with trú ẩn
+Replacing token ấy khiến with ấy khiến
+Replacing token hổ dữ with hổ dữ
+Replacing token ov .10 with ov .10
+Replacing token người trực with người trực
+Replacing token đầy đau with đầy đau
+Replacing token mình với with mình với
+Replacing token quyền thú with quyền thú
+Replacing token loại khoai with loại khoai
+Replacing token thỉnh thoảng with thỉnh thoảng
+Replacing token kinh tế trọng điểm with kinh tế trọng điểm
+Replacing token sơn trồng with sơn trồng
+Replacing token ân nhân with ân nhân
+Replacing token thông ra with thông ra
+Replacing token phiêu bạt with phiêu bạt
+Replacing token binh xưởng with binh xưởng
+Replacing token thể diện with thể diện
+Replacing token sang gia with sang gia
+Replacing token công xem with công xem
+Replacing token lê phụ with lê phụ
+Replacing token sinh tử with sinh tử
+Replacing token đồng hương with đồng hương
+Replacing token trái phép with trái phép
+Replacing token ngựa bổ with ngựa bổ
+Replacing token trường hợp with trường hợp
+Replacing token đồng khởi with đồng khởi
+Replacing token nhẹ nhàng with nhẹ nhàng
+Replacing token chán nản with chán nản
+Replacing token biên bản with biên bản
+Replacing token làm tb with làm tb
+Replacing token sự cố with sự cố
+Replacing token bắc giang with bắc giang
+Replacing token nghệ nhân with nghệ nhân
+Replacing token cửa vị with cửa vị
+Replacing token máy phóng with máy phóng
+Replacing token quanh chiếu with quanh chiếu
+Replacing token biết vậy with biết vậy
+Replacing token sáng tỏ with sáng tỏ
+Replacing token kim loại with kim loại
+Replacing token triệu giao with triệu giao
+Replacing token tin tưởng with tin tưởng
+Replacing token kỷ luật with kỷ luật
+Replacing token quơ tay with quơ tay
+Replacing token lưu danh with lưu danh
+Replacing token tb thật with tb thật
+Replacing token sao kim with sao kim
+Replacing token hắn đang with hắn đang
+Replacing token Đông ầm with Đông ầm
+Replacing token nguyễn tuấn ngọc with nguyễn tuấn ngọc
+Replacing token ghi tên with ghi tên
+Replacing token gánh chịu with gánh chịu
+Replacing token khẳng định with khẳng định
+Replacing token thực tế with thực tế
+Replacing token thư ký with thư ký
+Replacing token đào giếng with đào giếng
+Replacing token thoắt hiện with thoắt hiện
+Replacing token hệ thống chiến with hệ thống chiến
+Replacing token may mắn with may mắn
+Replacing token không đánh with không đánh
+Replacing token thay đổi with thay đổi
+Replacing token lựu đạn with lựu đạn
+Replacing token thế nào with thế nào
+Replacing token phòng mạch with phòng mạch
+Replacing token thuốc mê with thuốc mê
+Replacing token trở nên with trở nên
+Replacing token giấu hùng with giấu hùng
+Replacing token đạo lý with đạo lý
+Replacing token núi hẻo with núi hẻo
+Replacing token Địch bỏ with Địch bỏ
+Replacing token hòa bình with hòa bình
+Replacing token thách đố with thách đố
+Replacing token chúng nếu with chúng nếu
+Replacing token chương chán with chương chán
+Replacing token nhớ đời with nhớ đời
+Replacing token buồn lắm with buồn lắm
+Replacing token dư luận with dư luận
+Replacing token cách thời with cách thời
+Replacing token 1 . 000 with 1 . 000
+Replacing token chú muỗi with chú muỗi
+Replacing token tài trợ with tài trợ
+Replacing token huế my with huế my
+Replacing token quá dễ with quá dễ
+Replacing token cả tỉ with cả tỉ
+Replacing token phong nhận with phong nhận
+Replacing token minh oan with minh oan
+Replacing token tiêu chuẩn with tiêu chuẩn
+Replacing token đô thị with đô thị
+Replacing token tổ trưởng with tổ trưởng
+Replacing token huy du kích with huy du kích
+Replacing token chuyển thành with chuyển thành
+Replacing token vân mỗi with vân mỗi
+Replacing token càng mạnh with càng mạnh
+Replacing token đuôi công with đuôi công
+Replacing token yểm hộ with yểm hộ
+Replacing token chu cấp with chu cấp
+Replacing token phá hoại with phá hoại
+Replacing token anh phóng with anh phóng
+Replacing token chiến thắng with chiến thắng
+Replacing token ổ chiến đấu with ổ chiến đấu
+Replacing token nhanh chóng with nhanh chóng
+Replacing token tài liệu with tài liệu
+Replacing token hoặc xế hộp with hoặc xế hộp
+Replacing token vinh sinh with vinh sinh
+Replacing token ồ ạt with ồ ạt
+Replacing token quy cách chuẩn with quy cách chuẩn
+Replacing token tuông kiểu with tuông kiểu
+Replacing token gang tấc with gang tấc
+Replacing token đường lý with đường lý
+Replacing token nhân phẩm with nhân phẩm
+Replacing token tội nghiệp with tội nghiệp
+Replacing token toàn quyền with toàn quyền
+Replacing token bi thảm with bi thảm
+Replacing token công sự with công sự
+Replacing token bảo hộ with bảo hộ
+Replacing token hiệu sách with hiệu sách
+Replacing token đầu thế chiến with đầu thế chiến
+Replacing token đàng hoàng with đàng hoàng
+Replacing token lạ khác with lạ khác
+Replacing token làm hệ thống with làm hệ thống
+Replacing token cách chơi with cách chơi
+Replacing token y tá with y tá
+Replacing token rạng sáng with rạng sáng
+Replacing token huấn luyện with huấn luyện
+Replacing token thuê khách sạn with thuê khách sạn
+Replacing token vì dù with vì dù
+Replacing token đài truyền with đài truyền
+Replacing token ký ức with ký ức
+Replacing token giá trị with giá trị
+Replacing token yêu thích with yêu thích
+Replacing token loài thú with loài thú
+Replacing token chương quyết with chương quyết
+Replacing token hầm nhìn with hầm nhìn
+Replacing token hoàn thiện with hoàn thiện
+Replacing token tàn tật with tàn tật
+Replacing token kim học with kim học
+Replacing token sợ hãi with sợ hãi
+Replacing token trọng lượng with trọng lượng
+Replacing token kỹ sư điện with kỹ sư điện
+Replacing token phấn đấu with phấn đấu
+Replacing token xác minh with xác minh
+Replacing token vắng lặng with vắng lặng
+Replacing token thời hiện with thời hiện
+Replacing token tùy thân with tùy thân
+Replacing token thanh tra with thanh tra
+Replacing token tiết lộ with tiết lộ
+Replacing token máu nhuộm with máu nhuộm
+Replacing token địch rút with địch rút
+Replacing token khách mua with khách mua
+Replacing token ngày mai with ngày mai
+Replacing token Đ . with Đ .
+Replacing token máy cassette with máy cassette
+Replacing token quá dai with quá dai
+Replacing token mở đường with mở đường
+Replacing token xung đột with xung đột
+Replacing token ít đĩa with ít đĩa
+Replacing token chữ đe with chữ đe
+Replacing token bình luận viên with bình luận viên
+Replacing token tòa xử with tòa xử
+Replacing token hậu phương with hậu phương
+Replacing token đóng thuế with đóng thuế
+Replacing token hắn ta with hắn ta
+Replacing token phục viên with phục viên
+Replacing token bạc màu with bạc màu
+Replacing token đồng jơ with đồng jơ
+Replacing token hỏa hoạn nói with hỏa hoạn nói
+Replacing token kim đang with kim đang
+Replacing token tới tháng with tới tháng
+Replacing token thuổng đào bới with thuổng đào bới
+Replacing token toại nguyện with toại nguyện
+Replacing token quá nhiều with quá nhiều
+Replacing token tập kích with tập kích
+Replacing token quân sự with quân sự
+Replacing token một cụ with một cụ
+Replacing token dữ kiện with dữ kiện
+Replacing token bầu trời with bầu trời
+Replacing token đạn tưởng with đạn tưởng
+Replacing token đồng bào with đồng bào
+Replacing token công khai with công khai
+Replacing token tột độ with tột độ
+Replacing token đối tác with đối tác
+No vector for word . !
+No vector for word .,
+Original vector model: 8452 100
+New vector model: (2885, 100)
+Batch 0 / 3
+Batch 1 / 3
+Batch 2 / 3
+(1, 100)
+(2885, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_vi/moved.devel.vectors
+done.
+Loading UDPipe model: MY CACHE SIZE 1000
+done.
+values 4
+unknown index 15
+Writing to tmpdata_zh/zh.model_emb.utag.vectors float size= 4
+values 5
+unknown index 15
+Writing to tmpdata_zh/zh.model_emb.feats.vectors float size= 4
+values 3
+unknown index 31
+Writing to tmpdata_zh/zh.model_emb.tag.vectors float size= 4
+values 0
+unknown index 17430
+Writing to tmpdata_zh/zh.model_emb.form.vectors float size= 4
+values 7
+unknown index 42
+Writing to tmpdata_zh/zh.model_emb.deprel.vectors float size= 4
+No vector for word 鰻
+No vector for word 閤
+No vector for word 糊
+No vector for word 帖
+No vector for word 澎
+No vector for word 纍
+No vector for word 豚
+No vector for word 呉
+No vector for word 昊
+No vector for word 哩
+No vector for word 哉
+No vector for word 垂
+No vector for word 潤
+No vector for word 産
+No vector for word 圃
+No vector for word 淵
+No vector for word 柵
+No vector for word 粘
+No vector for word 宅邸
+No vector for word 撕
+No vector for word 棚
+No vector for word 砵
+No vector for word 蔚
+No vector for word 犧牲
+No vector for word 佼
+No vector for word 杳
+No vector for word 蕊
+No vector for word 胰
+No vector for word 桐
+No vector for word 軒
+No vector for word 琥
+No vector for word 脩
+No vector for word 翅
+No vector for word 瀑
+No vector for word 忻
+No vector for word 怨
+No vector for word 斬
+No vector for word 汾
+No vector for word 峻
+No vector for word 塌
+No vector for word 繕
+No vector for word 様
+No vector for word 澡
+No vector for word 碰觸
+No vector for word 弊
+No vector for word 宵
+No vector for word 僖
+No vector for word 僕
+No vector for word 啦
+No vector for word 矜
+No vector for word 渦
+No vector for word 蜞
+No vector for word 瑜
+No vector for word 鱺
+No vector for word 哆
+No vector for word 琛
+No vector for word 滔
+No vector for word 偕
+No vector for word 倘
+No vector for word 濫
+No vector for word 濁
+No vector for word 咨
+No vector for word 俾斯麥
+No vector for word 翅膀
+No vector for word 扣押
+No vector for word 蟛
+No vector for word 枯
+No vector for word 漩
+No vector for word 蝴蝶
+No vector for word 晰
+No vector for word 畑
+No vector for word 拘
+No vector for word 頤
+No vector for word 瀝
+No vector for word 庶
+No vector for word 膩
+No vector for word 萃
+No vector for word 菇
+No vector for word 欄
+No vector for word 雀
+No vector for word 掃
+No vector for word 叉
+No vector for word 溺
+No vector for word 邢
+No vector for word 氚
+No vector for word 幢
+No vector for word 淆
+Original vector model: 34410 100
+New vector model: (4239, 100)
+Batch 0 / 5
+Batch 1 / 5
+Batch 2 / 5
+Batch 3 / 5
+Batch 4 / 5
+(1, 100)
+(4239, 100)
+Loading UDPipe model: MY CACHE SIZE 1000
+Extra form embeddings tmpdata_zh/moved.devel.vectors
+done.
+parsing unknown language
+parsing unknown language
+parsing unknown language
+parsing unknown language

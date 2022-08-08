@@ -1,0 +1,2 @@
+/home/NAIST-SATO/UD_task_2017/decode_tree.py:54: RuntimeWarning: invalid value encountered in divide
+  new_head_probs = parse_probs[roots, new_heads] / root_probs

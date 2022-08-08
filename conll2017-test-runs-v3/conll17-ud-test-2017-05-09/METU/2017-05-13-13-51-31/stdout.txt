@@ -1,0 +1,1638 @@
+/bin/bash ./run_pipe.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 none /tmp/METU/2017-05-13-13-51-31/output  METU-2017-05-13-13-51-31
+
+
+INPUT DIR  : /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09
+OUTPUT DIR : /tmp/METU/2017-05-13-13-51-31/output
+
+
+
+1
+Time: Sa 13. Mai 13:53:53 CEST 2017
+
+LANGUAGE CODE   ar_pud
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar_pud-udpipe.conllu
+CCG MODEL       models_ccg/ar_pud.pickle
+TAGGED          data_ccg/ar_pud-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/ar_pud-nndep-ccg.model.txt.gz
+PARSED          data_dep/ar_pud-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/ar_pud.conllu
+
+-rwxrwx--- 1 root vboxsf 1743738 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar_pud-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/ar_pud.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 13:54 /tmp/METU/2017-05-13-13-51-31/output/ar_pud.conllu
+
+
+
+
+2
+Time: Sa 13. Mai 13:54:03 CEST 2017
+
+LANGUAGE CODE   ar
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar-udpipe.conllu
+CCG MODEL       models_ccg/ar.pickle
+TAGGED          data_ccg/ar-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/ar-nndep-ccg.model.txt.gz
+PARSED          data_dep/ar-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/ar.conllu
+
+-rwxrwx--- 1 root vboxsf 2441253 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar-udpipe.conllu
+-rw-r--r-- 1 METU sudo 10962775 Mai 11 10:13 models_ccg/ar.pickle
+-rw-r--r-- 1 METU sudo 2621736 Mai 13 13:54 data_ccg/ar-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 34501559 Mai 12 10:01 models_dep/ar-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 1372112 Mai 13 13:54 data_dep/ar-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 1484914 Mai 13 13:54 /tmp/METU/2017-05-13-13-51-31/output/ar.conllu
+
+
+
+
+3
+Time: Sa 13. Mai 13:54:43 CEST 2017
+
+LANGUAGE CODE   bg
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bg-udpipe.conllu
+CCG MODEL       models_ccg/bg.pickle
+TAGGED          data_ccg/bg-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/bg-nndep-ccg.model.txt.gz
+PARSED          data_dep/bg-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/bg.conllu
+
+-rwxrwx--- 1 root vboxsf 1323692 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bg-udpipe.conllu
+-rw-r--r-- 1 METU sudo 5108616 Mai 11 10:13 models_ccg/bg.pickle
+-rw-r--r-- 1 METU sudo 1444533 Mai 13 13:55 data_ccg/bg-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 36550499 Mai 12 10:01 models_dep/bg-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 624939 Mai 13 13:55 data_dep/bg-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 624939 Mai 13 13:55 /tmp/METU/2017-05-13-13-51-31/output/bg.conllu
+
+
+
+
+4
+Time: Sa 13. Mai 13:55:24 CEST 2017
+
+LANGUAGE CODE   bxr
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu
+CCG MODEL       models_ccg/ru.pickle
+TAGGED          data_ccg/bxr-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/ru-nndep-ccg.model.txt.gz
+PARSED          data_dep/bxr-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/bxr.conllu
+
+-rwxrwx--- 1 root vboxsf 666628 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu
+-rw-r--r-- 1 METU sudo 4644011 Mai 11 10:14 models_ccg/ru.pickle
+[Errno 2] No such file or directory: 'models_ccg/bxr.pickle'
+-rw-r--r-- 1 METU sudo 36691314 Mai 12 10:04 models_dep/ru-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 0 Mai 13 13:55 /tmp/METU/2017-05-13-13-51-31/output/bxr.conllu
+
+
+
+
+5
+Time: Sa 13. Mai 13:55:37 CEST 2017
+
+LANGUAGE CODE   ca
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ca-udpipe.conllu
+CCG MODEL       models_ccg/ca.pickle
+TAGGED          data_ccg/ca-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/ca-nndep-ccg.model.txt.gz
+PARSED          data_dep/ca-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/ca.conllu
+
+-rwxrwx--- 1 root vboxsf 3544595 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ca-udpipe.conllu
+-rw-r--r-- 1 METU sudo 9493188 Mai 11 10:13 models_ccg/ca.pickle
+-rw-r--r-- 1 METU sudo 3984570 Mai 13 13:56 data_ccg/ca-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 41458159 Mai 12 10:01 models_dep/ca-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 1931396 Mai 13 13:56 data_dep/ca-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 1935396 Mai 13 13:56 /tmp/METU/2017-05-13-13-51-31/output/ca.conllu
+
+
+
+
+6
+Time: Sa 13. Mai 13:56:52 CEST 2017
+
+LANGUAGE CODE   cs_cac
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cac-udpipe.conllu
+CCG MODEL       models_ccg/cs_cac.pickle
+TAGGED          data_ccg/cs_cac-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/cs_cac-nndep-ccg.model.txt.gz
+PARSED          data_dep/cs_cac-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/cs_cac.conllu
+
+-rwxrwx--- 1 root vboxsf 1031634 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cac-udpipe.conllu
+-rw-r--r-- 1 METU sudo 15070976 Mai 11 10:13 models_ccg/cs_cac.pickle
+-rw-r--r-- 1 METU sudo 1108050 Mai 13 13:57 data_ccg/cs_cac-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 75436362 Mai 12 10:02 models_dep/cs_cac-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 620647 Mai 13 13:57 data_dep/cs_cac-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 621613 Mai 13 13:57 /tmp/METU/2017-05-13-13-51-31/output/cs_cac.conllu
+
+
+
+
+7
+Time: Sa 13. Mai 13:57:27 CEST 2017
+
+LANGUAGE CODE   cs_cltt
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cltt-udpipe.conllu
+CCG MODEL       models_ccg/cs_cltt.pickle
+TAGGED          data_ccg/cs_cltt-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/cs_cltt-nndep-ccg.model.txt.gz
+PARSED          data_dep/cs_cltt-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/cs_cltt.conllu
+
+-rwxrwx--- 1 root vboxsf 976901 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cltt-udpipe.conllu
+-rw-r--r-- 1 METU sudo 897013 Mai 11 10:13 models_ccg/cs_cltt.pickle
+-rw-r--r-- 1 METU sudo 1048626 Mai 13 13:57 data_ccg/cs_cltt-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 15503164 Mai 12 10:02 models_dep/cs_cltt-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 619288 Mai 13 13:57 data_dep/cs_cltt-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 619468 Mai 13 13:57 /tmp/METU/2017-05-13-13-51-31/output/cs_cltt.conllu
+
+
+
+
+8
+Time: Sa 13. Mai 13:57:47 CEST 2017
+
+LANGUAGE CODE   cs_pud
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_pud-udpipe.conllu
+CCG MODEL       models_ccg/cs_pud.pickle
+TAGGED          data_ccg/cs_pud-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/cs_pud-nndep-ccg.model.txt.gz
+PARSED          data_dep/cs_pud-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/cs_pud.conllu
+
+-rwxrwx--- 1 root vboxsf 1774952 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_pud-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/cs_pud.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 13:57 /tmp/METU/2017-05-13-13-51-31/output/cs_pud.conllu
+
+
+
+
+9
+Time: Sa 13. Mai 13:57:50 CEST 2017
+
+LANGUAGE CODE   cs
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs-udpipe.conllu
+CCG MODEL       models_ccg/cs.pickle
+TAGGED          data_ccg/cs-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/cs-nndep-ccg.model.txt.gz
+PARSED          data_dep/cs-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/cs.conllu
+
+-rwxrwx--- 1 root vboxsf 16324532 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs-udpipe.conllu
+-rw-r--r-- 1 METU sudo 30229130 Mai 11 10:13 models_ccg/cs.pickle
+-rw-r--r-- 1 METU sudo 17551147 Mai 13 14:01 data_ccg/cs-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 130653327 Mai 12 10:02 models_dep/cs-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 9886719 Mai 13 14:03 data_dep/cs-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 9895329 Mai 13 14:03 /tmp/METU/2017-05-13-13-51-31/output/cs.conllu
+
+
+
+
+10
+Time: Sa 13. Mai 14:03:30 CEST 2017
+
+LANGUAGE CODE   cu
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cu-udpipe.conllu
+CCG MODEL       models_ccg/cu.pickle
+TAGGED          data_ccg/cu-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/cu-nndep-ccg.model.txt.gz
+PARSED          data_dep/cu-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/cu.conllu
+
+-rwxrwx--- 1 root vboxsf 882557 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cu-udpipe.conllu
+-rw-r--r-- 1 METU sudo 2947225 Mai 11 10:13 models_ccg/cu.pickle
+-rw-r--r-- 1 METU sudo 961274 Mai 13 14:03 data_ccg/cu-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 20030729 Mai 12 10:02 models_dep/cu-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 345409 Mai 13 14:03 data_dep/cu-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 345409 Mai 13 14:03 /tmp/METU/2017-05-13-13-51-31/output/cu.conllu
+
+
+
+
+11
+Time: Sa 13. Mai 14:03:58 CEST 2017
+
+LANGUAGE CODE   da
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/da-udpipe.conllu
+CCG MODEL       models_ccg/da.pickle
+TAGGED          data_ccg/da-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/da-nndep-ccg.model.txt.gz
+PARSED          data_dep/da-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/da.conllu
+
+-rwxrwx--- 1 root vboxsf 581553 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/da-udpipe.conllu
+-rw-r--r-- 1 METU sudo 4196899 Mai 11 10:13 models_ccg/da.pickle
+-rw-r--r-- 1 METU sudo 657416 Mai 13 14:04 data_ccg/da-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 27986293 Mai 12 10:02 models_dep/da-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 280602 Mai 13 14:04 data_dep/da-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 280602 Mai 13 14:04 /tmp/METU/2017-05-13-13-51-31/output/da.conllu
+
+
+
+
+12
+Time: Sa 13. Mai 14:04:25 CEST 2017
+
+LANGUAGE CODE   de_pud
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de_pud-udpipe.conllu
+CCG MODEL       models_ccg/de_pud.pickle
+TAGGED          data_ccg/de_pud-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/de_pud-nndep-ccg.model.txt.gz
+PARSED          data_dep/de_pud-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/de_pud.conllu
+
+-rwxrwx--- 1 root vboxsf 1309994 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de_pud-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/de_pud.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:04 /tmp/METU/2017-05-13-13-51-31/output/de_pud.conllu
+
+
+
+
+13
+Time: Sa 13. Mai 14:04:27 CEST 2017
+
+LANGUAGE CODE   de
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de-udpipe.conllu
+CCG MODEL       models_ccg/de.pickle
+TAGGED          data_ccg/de-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/de-nndep-ccg.model.txt.gz
+PARSED          data_dep/de-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/de.conllu
+
+-rwxrwx--- 1 root vboxsf 981349 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de-udpipe.conllu
+-rw-r--r-- 1 METU sudo 10450063 Mai 11 10:13 models_ccg/de.pickle
+-rw-r--r-- 1 METU sudo 1106689 Mai 13 14:04 data_ccg/de-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 58766652 Mai 12 10:02 models_dep/de-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 536776 Mai 13 14:05 data_dep/de-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 543354 Mai 13 14:05 /tmp/METU/2017-05-13-13-51-31/output/de.conllu
+
+
+
+
+14
+Time: Sa 13. Mai 14:05:04 CEST 2017
+
+LANGUAGE CODE   el
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/el-udpipe.conllu
+CCG MODEL       models_ccg/el.pickle
+TAGGED          data_ccg/el-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/el-nndep-ccg.model.txt.gz
+PARSED          data_dep/el-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/el.conllu
+
+-rwxrwx--- 1 root vboxsf 906023 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/el-udpipe.conllu
+-rw-r--r-- 1 METU sudo 2301855 Mai 11 10:13 models_ccg/el.pickle
+-rw-r--r-- 1 METU sudo 982938 Mai 13 14:05 data_ccg/el-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 21119145 Mai 12 10:02 models_dep/el-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 404284 Mai 13 14:05 data_dep/el-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 404284 Mai 13 14:05 /tmp/METU/2017-05-13-13-51-31/output/el.conllu
+
+
+
+
+15
+Time: Sa 13. Mai 14:05:28 CEST 2017
+
+LANGUAGE CODE   en_lines
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_lines-udpipe.conllu
+CCG MODEL       models_ccg/en_lines.pickle
+TAGGED          data_ccg/en_lines-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/en_lines-nndep-ccg.model.txt.gz
+PARSED          data_dep/en_lines-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/en_lines.conllu
+
+-rwxrwx--- 1 root vboxsf 591142 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_lines-udpipe.conllu
+-rw-r--r-- 1 METU sudo 2438680 Mai 11 10:13 models_ccg/en_lines.pickle
+-rw-r--r-- 1 METU sudo 714583 Mai 13 14:05 data_ccg/en_lines-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 19646477 Mai 12 10:02 models_dep/en_lines-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 537650 Mai 13 14:05 data_dep/en_lines-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 537650 Mai 13 14:05 /tmp/METU/2017-05-13-13-51-31/output/en_lines.conllu
+
+
+
+
+16
+Time: Sa 13. Mai 14:05:56 CEST 2017
+
+LANGUAGE CODE   en_partut
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_partut-udpipe.conllu
+CCG MODEL       models_ccg/en_partut.pickle
+TAGGED          data_ccg/en_partut-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/en_partut-nndep-ccg.model.txt.gz
+PARSED          data_dep/en_partut-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/en_partut.conllu
+
+-rwxrwx--- 1 root vboxsf 579945 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_partut-udpipe.conllu
+-rw-r--r-- 1 METU sudo 1494974 Mai 11 10:13 models_ccg/en_partut.pickle
+-rw-r--r-- 1 METU sudo 669526 Mai 13 14:06 data_ccg/en_partut-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 17836274 Mai 12 10:02 models_dep/en_partut-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 333617 Mai 13 14:06 data_dep/en_partut-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 333857 Mai 13 14:06 /tmp/METU/2017-05-13-13-51-31/output/en_partut.conllu
+
+
+
+
+17
+Time: Sa 13. Mai 14:06:18 CEST 2017
+
+LANGUAGE CODE   en_pud
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_pud-udpipe.conllu
+CCG MODEL       models_ccg/en_pud.pickle
+TAGGED          data_ccg/en_pud-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/en_pud-nndep-ccg.model.txt.gz
+PARSED          data_dep/en_pud-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/en_pud.conllu
+
+-rwxrwx--- 1 root vboxsf 1090459 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_pud-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/en_pud.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:06 /tmp/METU/2017-05-13-13-51-31/output/en_pud.conllu
+
+
+
+
+18
+Time: Sa 13. Mai 14:06:20 CEST 2017
+
+LANGUAGE CODE   en
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en-udpipe.conllu
+CCG MODEL       models_ccg/en.pickle
+TAGGED          data_ccg/en-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/en-nndep-ccg.model.txt.gz
+PARSED          data_dep/en-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/en.conllu
+
+-rwxrwx--- 1 root vboxsf 1292418 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en-udpipe.conllu
+-rw-r--r-- 1 METU sudo 6777376 Mai 11 10:13 models_ccg/en.pickle
+-rw-r--r-- 1 METU sudo 1489220 Mai 13 14:06 data_ccg/en-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 31094066 Mai 12 10:02 models_dep/en-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 757728 Mai 13 14:07 data_dep/en-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 757728 Mai 13 14:07 /tmp/METU/2017-05-13-13-51-31/output/en.conllu
+
+
+
+
+19
+Time: Sa 13. Mai 14:07:13 CEST 2017
+
+LANGUAGE CODE   es_ancora
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_ancora-udpipe.conllu
+CCG MODEL       models_ccg/es_ancora.pickle
+TAGGED          data_ccg/es_ancora-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/es_ancora-nndep-ccg.model.txt.gz
+PARSED          data_dep/es_ancora-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/es_ancora.conllu
+
+-rwxrwx--- 1 root vboxsf 3265464 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_ancora-udpipe.conllu
+-rw-r--r-- 1 METU sudo 11088782 Mai 11 10:13 models_ccg/es_ancora.pickle
+-rw-r--r-- 1 METU sudo 3655521 Mai 13 14:07 data_ccg/es_ancora-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 47524197 Mai 12 10:02 models_dep/es_ancora-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 1764910 Mai 13 14:08 data_dep/es_ancora-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 1770953 Mai 13 14:08 /tmp/METU/2017-05-13-13-51-31/output/es_ancora.conllu
+
+
+
+
+20
+Time: Sa 13. Mai 14:08:22 CEST 2017
+
+LANGUAGE CODE   es_pud
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_pud-udpipe.conllu
+CCG MODEL       models_ccg/es_pud.pickle
+TAGGED          data_ccg/es_pud-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/es_pud-nndep-ccg.model.txt.gz
+PARSED          data_dep/es_pud-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/es_pud.conllu
+
+-rwxrwx--- 1 root vboxsf 1347196 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_pud-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/es_pud.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:08 /tmp/METU/2017-05-13-13-51-31/output/es_pud.conllu
+
+
+
+
+21
+Time: Sa 13. Mai 14:08:24 CEST 2017
+
+LANGUAGE CODE   es
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es-udpipe.conllu
+CCG MODEL       models_ccg/es.pickle
+TAGGED          data_ccg/es-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/es-nndep-ccg.model.txt.gz
+PARSED          data_dep/es-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/es.conllu
+
+-rwxrwx--- 1 root vboxsf 679747 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es-udpipe.conllu
+-rw-r--r-- 1 METU sudo 10980537 Mai 11 10:13 models_ccg/es.pickle
+-rw-r--r-- 1 METU sudo 772703 Mai 13 14:08 data_ccg/es-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 55593727 Mai 12 10:02 models_dep/es-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 334193 Mai 13 14:08 data_dep/es-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 341209 Mai 13 14:08 /tmp/METU/2017-05-13-13-51-31/output/es.conllu
+
+
+
+
+22
+Time: Sa 13. Mai 14:08:52 CEST 2017
+
+LANGUAGE CODE   et
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/et-udpipe.conllu
+CCG MODEL       models_ccg/et.pickle
+TAGGED          data_ccg/et-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/et-nndep-ccg.model.txt.gz
+PARSED          data_dep/et-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/et.conllu
+
+-rwxrwx--- 1 root vboxsf 770083 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/et-udpipe.conllu
+-rw-r--r-- 1 METU sudo 1709403 Mai 11 10:13 models_ccg/et.pickle
+-rw-r--r-- 1 METU sudo 864422 Mai 13 14:09 data_ccg/et-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 20348824 Mai 12 10:02 models_dep/et-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 352141 Mai 13 14:09 data_dep/et-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 352141 Mai 13 14:09 /tmp/METU/2017-05-13-13-51-31/output/et.conllu
+
+
+
+
+23
+Time: Sa 13. Mai 14:09:23 CEST 2017
+
+LANGUAGE CODE   eu
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/eu-udpipe.conllu
+CCG MODEL       models_ccg/eu.pickle
+TAGGED          data_ccg/eu-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/eu-nndep-ccg.model.txt.gz
+PARSED          data_dep/eu-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/eu.conllu
+
+-rwxrwx--- 1 root vboxsf 1549710 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/eu-udpipe.conllu
+-rw-r--r-- 1 METU sudo 4116219 Mai 11 10:13 models_ccg/eu.pickle
+-rw-r--r-- 1 METU sudo 1732702 Mai 13 14:09 data_ccg/eu-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 30677774 Mai 12 10:02 models_dep/eu-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 697957 Mai 13 14:10 data_dep/eu-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 697957 Mai 13 14:10 /tmp/METU/2017-05-13-13-51-31/output/eu.conllu
+
+
+
+
+24
+Time: Sa 13. Mai 14:10:17 CEST 2017
+
+LANGUAGE CODE   fa
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fa-udpipe.conllu
+CCG MODEL       models_ccg/fa.pickle
+TAGGED          data_ccg/fa-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/fa-nndep-ccg.model.txt.gz
+PARSED          data_dep/fa-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/fa.conllu
+
+-rwxrwx--- 1 root vboxsf 959658 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fa-udpipe.conllu
+-rw-r--r-- 1 METU sudo 5284049 Mai 11 10:13 models_ccg/fa.pickle
+-rw-r--r-- 1 METU sudo 1068602 Mai 13 14:10 data_ccg/fa-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 25229976 Mai 12 10:03 models_dep/fa-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 617798 Mai 13 14:10 data_dep/fa-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 620354 Mai 13 14:10 /tmp/METU/2017-05-13-13-51-31/output/fa.conllu
+
+
+
+
+25
+Time: Sa 13. Mai 14:10:45 CEST 2017
+
+LANGUAGE CODE   fi_ftb
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_ftb-udpipe.conllu
+CCG MODEL       models_ccg/fi_ftb.pickle
+TAGGED          data_ccg/fi_ftb-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/fi_ftb-nndep-ccg.model.txt.gz
+PARSED          data_dep/fi_ftb-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/fi_ftb.conllu
+
+-rwxrwx--- 1 root vboxsf 1248626 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_ftb-udpipe.conllu
+-rw-r--r-- 1 METU sudo 7808619 Mai 11 10:13 models_ccg/fi_ftb.pickle
+-rw-r--r-- 1 METU sudo 1372451 Mai 13 14:11 data_ccg/fi_ftb-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 51017052 Mai 12 10:03 models_dep/fi_ftb-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 771021 Mai 13 14:11 data_dep/fi_ftb-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 771659 Mai 13 14:11 /tmp/METU/2017-05-13-13-51-31/output/fi_ftb.conllu
+
+
+
+
+26
+Time: Sa 13. Mai 14:11:39 CEST 2017
+
+LANGUAGE CODE   fi_pud
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_pud-udpipe.conllu
+CCG MODEL       models_ccg/fi_pud.pickle
+TAGGED          data_ccg/fi_pud-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/fi_pud-nndep-ccg.model.txt.gz
+PARSED          data_dep/fi_pud-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/fi_pud.conllu
+
+-rwxrwx--- 1 root vboxsf 1101665 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_pud-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/fi_pud.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:11 /tmp/METU/2017-05-13-13-51-31/output/fi_pud.conllu
+
+
+
+
+27
+Time: Sa 13. Mai 14:11:41 CEST 2017
+
+LANGUAGE CODE   fi
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi-udpipe.conllu
+CCG MODEL       models_ccg/fi.pickle
+TAGGED          data_ccg/fi-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/fi-nndep-ccg.model.txt.gz
+PARSED          data_dep/fi-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/fi.conllu
+
+-rwxrwx--- 1 root vboxsf 1460287 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi-udpipe.conllu
+-rw-r--r-- 1 METU sudo 10583741 Mai 11 10:13 models_ccg/fi.pickle
+-rw-r--r-- 1 METU sudo 1615126 Mai 13 14:12 data_ccg/fi-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 58677400 Mai 12 10:03 models_dep/fi-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 681853 Mai 13 14:12 data_dep/fi-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 681853 Mai 13 14:12 /tmp/METU/2017-05-13-13-51-31/output/fi.conllu
+
+
+
+
+28
+Time: Sa 13. Mai 14:12:29 CEST 2017
+
+LANGUAGE CODE   fr_partut
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_partut-udpipe.conllu
+CCG MODEL       models_ccg/fr_partut.pickle
+TAGGED          data_ccg/fr_partut-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/fr_partut-nndep-ccg.model.txt.gz
+PARSED          data_dep/fr_partut-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/fr_partut.conllu
+
+-rwxrwx--- 1 root vboxsf 637372 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_partut-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/fr_partut.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:12 /tmp/METU/2017-05-13-13-51-31/output/fr_partut.conllu
+
+
+
+
+29
+Time: Sa 13. Mai 14:12:31 CEST 2017
+
+LANGUAGE CODE   fr_pud
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_pud-udpipe.conllu
+CCG MODEL       models_ccg/fr_pud.pickle
+TAGGED          data_ccg/fr_pud-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/fr_pud-nndep-ccg.model.txt.gz
+PARSED          data_dep/fr_pud-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/fr_pud.conllu
+
+-rwxrwx--- 1 root vboxsf 1452794 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_pud-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/fr_pud.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:12 /tmp/METU/2017-05-13-13-51-31/output/fr_pud.conllu
+
+
+
+
+30
+Time: Sa 13. Mai 14:12:33 CEST 2017
+
+LANGUAGE CODE   fr_sequoia
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_sequoia-udpipe.conllu
+CCG MODEL       models_ccg/fr_sequoia.pickle
+TAGGED          data_ccg/fr_sequoia-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/fr_sequoia-nndep-ccg.model.txt.gz
+PARSED          data_dep/fr_sequoia-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/fr_sequoia.conllu
+
+-rwxrwx--- 1 root vboxsf 580629 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_sequoia-udpipe.conllu
+-rw-r--r-- 1 METU sudo 1963336 Mai 11 10:13 models_ccg/fr_sequoia.pickle
+-rw-r--r-- 1 METU sudo 658994 Mai 13 14:12 data_ccg/fr_sequoia-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 20522895 Mai 12 10:03 models_dep/fr_sequoia-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 284639 Mai 13 14:12 data_dep/fr_sequoia-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 293542 Mai 13 14:12 /tmp/METU/2017-05-13-13-51-31/output/fr_sequoia.conllu
+
+
+
+
+31
+Time: Sa 13. Mai 14:12:55 CEST 2017
+
+LANGUAGE CODE   fr
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr-udpipe.conllu
+CCG MODEL       models_ccg/fr.pickle
+TAGGED          data_ccg/fr-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/fr-nndep-ccg.model.txt.gz
+PARSED          data_dep/fr-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/fr.conllu
+
+-rwxrwx--- 1 root vboxsf 577430 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr-udpipe.conllu
+-rw-r--r-- 1 METU sudo 9143668 Mai 11 10:13 models_ccg/fr.pickle
+-rw-r--r-- 1 METU sudo 655412 Mai 13 14:13 data_ccg/fr-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 51951783 Mai 12 10:03 models_dep/fr-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 280617 Mai 13 14:13 data_dep/fr-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 289035 Mai 13 14:13 /tmp/METU/2017-05-13-13-51-31/output/fr.conllu
+
+
+
+
+32
+Time: Sa 13. Mai 14:13:21 CEST 2017
+
+LANGUAGE CODE   ga
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ga-udpipe.conllu
+CCG MODEL       models_ccg/ga.pickle
+TAGGED          data_ccg/ga-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/ga-nndep-ccg.model.txt.gz
+PARSED          data_dep/ga-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/ga.conllu
+
+-rwxrwx--- 1 root vboxsf 610164 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ga-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/ga.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:13 /tmp/METU/2017-05-13-13-51-31/output/ga.conllu
+
+
+
+
+33
+Time: Sa 13. Mai 14:13:23 CEST 2017
+
+LANGUAGE CODE   gl_treegal
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl_treegal-udpipe.conllu
+CCG MODEL       models_ccg/gl_treegal.pickle
+TAGGED          data_ccg/gl_treegal-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/gl_treegal-nndep-ccg.model.txt.gz
+PARSED          data_dep/gl_treegal-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/gl_treegal.conllu
+
+-rwxrwx--- 1 root vboxsf 649562 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl_treegal-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/gl_treegal.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:13 /tmp/METU/2017-05-13-13-51-31/output/gl_treegal.conllu
+
+
+
+
+34
+Time: Sa 13. Mai 14:13:25 CEST 2017
+
+LANGUAGE CODE   gl
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl-udpipe.conllu
+CCG MODEL       models_ccg/gl.pickle
+TAGGED          data_ccg/gl-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/gl-nndep-ccg.model.txt.gz
+PARSED          data_dep/gl-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/gl.conllu
+
+-rwxrwx--- 1 root vboxsf 1260845 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl-udpipe.conllu
+-rw-r--r-- 1 METU sudo 4141526 Mai 11 10:13 models_ccg/gl.pickle
+-rw-r--r-- 1 METU sudo 1474381 Mai 13 14:13 data_ccg/gl-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 24380731 Mai 12 10:03 models_dep/gl-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 1097882 Mai 13 14:14 data_dep/gl-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 1097882 Mai 13 14:14 /tmp/METU/2017-05-13-13-51-31/output/gl.conllu
+
+
+
+
+35
+Time: Sa 13. Mai 14:14:03 CEST 2017
+
+LANGUAGE CODE   got
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/got-udpipe.conllu
+CCG MODEL       models_ccg/de.pickle
+TAGGED          data_ccg/got-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/de-nndep-ccg.model.txt.gz
+PARSED          data_dep/got-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/got.conllu
+
+-rwxrwx--- 1 root vboxsf 760912 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/got-udpipe.conllu
+-rw-r--r-- 1 METU sudo 10450063 Mai 11 10:13 models_ccg/de.pickle
+-rw-r--r-- 1 METU sudo 836591 Mai 13 14:14 data_ccg/got-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 58766652 Mai 12 10:02 models_dep/de-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 311941 Mai 13 14:14 data_dep/got-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 311941 Mai 13 14:14 /tmp/METU/2017-05-13-13-51-31/output/got.conllu
+
+
+
+
+36
+Time: Sa 13. Mai 14:14:50 CEST 2017
+
+LANGUAGE CODE   grc_proiel
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc_proiel-udpipe.conllu
+CCG MODEL       models_ccg/grc_proiel.pickle
+TAGGED          data_ccg/grc_proiel-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/grc_proiel-nndep-ccg.model.txt.gz
+PARSED          data_dep/grc_proiel-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/grc_proiel.conllu
+
+-rwxrwx--- 1 root vboxsf 1222899 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc_proiel-udpipe.conllu
+-rw-r--r-- 1 METU sudo 11339340 Mai 11 10:14 models_ccg/grc_proiel.pickle
+-rw-r--r-- 1 METU sudo 1322824 Mai 13 14:15 data_ccg/grc_proiel-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 41309431 Mai 12 10:03 models_dep/grc_proiel-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 483419 Mai 13 14:15 data_dep/grc_proiel-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 483419 Mai 13 14:15 /tmp/METU/2017-05-13-13-51-31/output/grc_proiel.conllu
+
+
+
+
+37
+Time: Sa 13. Mai 14:15:25 CEST 2017
+
+LANGUAGE CODE   grc
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc-udpipe.conllu
+CCG MODEL       models_ccg/grc.pickle
+TAGGED          data_ccg/grc-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/grc-nndep-ccg.model.txt.gz
+PARSED          data_dep/grc-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/grc.conllu
+
+-rwxrwx--- 1 root vboxsf 1856373 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc-udpipe.conllu
+-rw-r--r-- 1 METU sudo 12979615 Mai 11 10:13 models_ccg/grc.pickle
+-rw-r--r-- 1 METU sudo 2010532 Mai 13 14:15 data_ccg/grc-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 45089075 Mai 12 10:03 models_dep/grc-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 1040093 Mai 13 14:16 data_dep/grc-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 1040093 Mai 13 14:16 /tmp/METU/2017-05-13-13-51-31/output/grc.conllu
+
+
+
+
+38
+Time: Sa 13. Mai 14:16:11 CEST 2017
+
+LANGUAGE CODE   he
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/he-udpipe.conllu
+CCG MODEL       models_ccg/ar.pickle
+TAGGED          data_ccg/he-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/ar-nndep-ccg.model.txt.gz
+PARSED          data_dep/he-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/he.conllu
+
+-rwxrwx--- 1 root vboxsf 799815 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/he-udpipe.conllu
+-rw-r--r-- 1 METU sudo 10962775 Mai 11 10:13 models_ccg/ar.pickle
+-rw-r--r-- 1 METU sudo 882639 Mai 13 14:16 data_ccg/he-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 34501559 Mai 12 10:01 models_dep/ar-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 401394 Mai 13 14:16 data_dep/he-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 475267 Mai 13 14:16 /tmp/METU/2017-05-13-13-51-31/output/he.conllu
+
+
+
+
+39
+Time: Sa 13. Mai 14:16:55 CEST 2017
+
+LANGUAGE CODE   hi_pud
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi_pud-udpipe.conllu
+CCG MODEL       models_ccg/hi_pud.pickle
+TAGGED          data_ccg/hi_pud-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/hi_pud-nndep-ccg.model.txt.gz
+PARSED          data_dep/hi_pud-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/hi_pud.conllu
+
+-rwxrwx--- 1 root vboxsf 2067134 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi_pud-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/hi_pud.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:16 /tmp/METU/2017-05-13-13-51-31/output/hi_pud.conllu
+
+
+
+
+40
+Time: Sa 13. Mai 14:16:57 CEST 2017
+
+LANGUAGE CODE   hi
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi-udpipe.conllu
+CCG MODEL       models_ccg/hi.pickle
+TAGGED          data_ccg/hi-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/hi-nndep-ccg.model.txt.gz
+PARSED          data_dep/hi-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/hi.conllu
+
+-rwxrwx--- 1 root vboxsf 3133956 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi-udpipe.conllu
+-rw-r--r-- 1 METU sudo 7289456 Mai 11 10:14 models_ccg/hi.pickle
+-rw-r--r-- 1 METU sudo 3403103 Mai 13 14:17 data_ccg/hi-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 28676518 Mai 12 10:03 models_dep/hi-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 1358581 Mai 13 14:17 data_dep/hi-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 1358581 Mai 13 14:17 /tmp/METU/2017-05-13-13-51-31/output/hi.conllu
+
+
+
+
+41
+Time: Sa 13. Mai 14:17:52 CEST 2017
+
+LANGUAGE CODE   hr
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hr-udpipe.conllu
+CCG MODEL       models_ccg/hr.pickle
+TAGGED          data_ccg/hr-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/hr-nndep-ccg.model.txt.gz
+PARSED          data_dep/hr-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/hr.conllu
+
+-rwxrwx--- 1 root vboxsf 899369 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hr-udpipe.conllu
+-rw-r--r-- 1 METU sudo 8107578 Mai 11 10:14 models_ccg/hr.pickle
+-rw-r--r-- 1 METU sudo 996412 Mai 13 14:18 data_ccg/hr-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 45205508 Mai 12 10:03 models_dep/hr-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 379023 Mai 13 14:18 data_dep/hr-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 379023 Mai 13 14:18 /tmp/METU/2017-05-13-13-51-31/output/hr.conllu
+
+
+
+
+42
+Time: Sa 13. Mai 14:18:24 CEST 2017
+
+LANGUAGE CODE   hsb
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu
+CCG MODEL       models_ccg/cs.pickle
+TAGGED          data_ccg/hsb-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/cs-nndep-ccg.model.txt.gz
+PARSED          data_dep/hsb-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/hsb.conllu
+
+-rwxrwx--- 1 root vboxsf 702229 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu
+-rw-r--r-- 1 METU sudo 30229130 Mai 11 10:13 models_ccg/cs.pickle
+[Errno 2] No such file or directory: 'models_ccg/hsb.pickle'
+-rw-r--r-- 1 METU sudo 130653327 Mai 12 10:02 models_dep/cs-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:18 /tmp/METU/2017-05-13-13-51-31/output/hsb.conllu
+
+
+
+
+43
+Time: Sa 13. Mai 14:18:45 CEST 2017
+
+LANGUAGE CODE   hu
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hu-udpipe.conllu
+CCG MODEL       models_ccg/hu.pickle
+TAGGED          data_ccg/hu-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/hu-nndep-ccg.model.txt.gz
+PARSED          data_dep/hu-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/hu.conllu
+
+-rwxrwx--- 1 root vboxsf 900088 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hu-udpipe.conllu
+-rw-r--r-- 1 METU sudo 1852871 Mai 11 10:14 models_ccg/hu.pickle
+-rw-r--r-- 1 METU sudo 971941 Mai 13 14:18 data_ccg/hu-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 19965410 Mai 12 10:03 models_dep/hu-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 327086 Mai 13 14:19 data_dep/hu-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 327086 Mai 13 14:19 /tmp/METU/2017-05-13-13-51-31/output/hu.conllu
+
+
+
+
+44
+Time: Sa 13. Mai 14:19:11 CEST 2017
+
+LANGUAGE CODE   id
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/id-udpipe.conllu
+CCG MODEL       models_ccg/id.pickle
+TAGGED          data_ccg/id-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/id-nndep-ccg.model.txt.gz
+PARSED          data_dep/id-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/id.conllu
+
+-rwxrwx--- 1 root vboxsf 437966 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/id-udpipe.conllu
+-rw-r--r-- 1 METU sudo 6134163 Mai 11 10:14 models_ccg/id.pickle
+-rw-r--r-- 1 METU sudo 516083 Mai 13 14:19 data_ccg/id-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 30559918 Mai 12 10:03 models_dep/id-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 340463 Mai 13 14:19 data_dep/id-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 340463 Mai 13 14:19 /tmp/METU/2017-05-13-13-51-31/output/id.conllu
+
+
+
+
+45
+Time: Sa 13. Mai 14:19:37 CEST 2017
+
+LANGUAGE CODE   it_pud
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it_pud-udpipe.conllu
+CCG MODEL       models_ccg/it_pud.pickle
+TAGGED          data_ccg/it_pud-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/it_pud-nndep-ccg.model.txt.gz
+PARSED          data_dep/it_pud-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/it_pud.conllu
+
+-rwxrwx--- 1 root vboxsf 1426587 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it_pud-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/it_pud.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:19 /tmp/METU/2017-05-13-13-51-31/output/it_pud.conllu
+
+
+
+
+46
+Time: Sa 13. Mai 14:19:39 CEST 2017
+
+LANGUAGE CODE   it
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it-udpipe.conllu
+CCG MODEL       models_ccg/it.pickle
+TAGGED          data_ccg/it-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/it-nndep-ccg.model.txt.gz
+PARSED          data_dep/it-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/it.conllu
+
+-rwxrwx--- 1 root vboxsf 621529 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it-udpipe.conllu
+-rw-r--r-- 1 METU sudo 6522843 Mai 11 10:14 models_ccg/it.pickle
+-rw-r--r-- 1 METU sudo 701684 Mai 13 14:19 data_ccg/it-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 38822555 Mai 12 10:03 models_dep/it-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 298616 Mai 13 14:20 data_dep/it-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 319552 Mai 13 14:20 /tmp/METU/2017-05-13-13-51-31/output/it.conllu
+
+
+
+
+47
+Time: Sa 13. Mai 14:20:07 CEST 2017
+
+LANGUAGE CODE   ja_pud
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja_pud-udpipe.conllu
+CCG MODEL       models_ccg/ja_pud.pickle
+TAGGED          data_ccg/ja_pud-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/ja_pud-nndep-ccg.model.txt.gz
+PARSED          data_dep/ja_pud-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/ja_pud.conllu
+
+-rwxrwx--- 1 root vboxsf 1360440 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja_pud-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/ja_pud.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:20 /tmp/METU/2017-05-13-13-51-31/output/ja_pud.conllu
+
+
+
+
+48
+Time: Sa 13. Mai 14:20:09 CEST 2017
+
+LANGUAGE CODE   ja
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja-udpipe.conllu
+CCG MODEL       models_ccg/ja.pickle
+TAGGED          data_ccg/ja-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/ja-nndep-ccg.model.txt.gz
+PARSED          data_dep/ja-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/ja.conllu
+
+-rwxrwx--- 1 root vboxsf 624696 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja-udpipe.conllu
+-rw-r--r-- 1 METU sudo 8552080 Mai 11 10:14 models_ccg/ja.pickle
+-rw-r--r-- 1 METU sudo 758797 Mai 13 14:20 data_ccg/ja-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 33438731 Mai 12 10:04 models_dep/ja-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 362596 Mai 13 14:20 data_dep/ja-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 362596 Mai 13 14:20 /tmp/METU/2017-05-13-13-51-31/output/ja.conllu
+
+
+
+
+49
+Time: Sa 13. Mai 14:20:36 CEST 2017
+
+LANGUAGE CODE   kk
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kk-udpipe.conllu
+CCG MODEL       models_ccg/kk.pickle
+TAGGED          data_ccg/kk-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/kk-nndep-ccg.model.txt.gz
+PARSED          data_dep/kk-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/kk.conllu
+
+-rwxrwx--- 1 root vboxsf 727497 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kk-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/kk.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:20 /tmp/METU/2017-05-13-13-51-31/output/kk.conllu
+
+
+
+
+50
+Time: Sa 13. Mai 14:20:38 CEST 2017
+
+LANGUAGE CODE   kmr
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu
+CCG MODEL       models_ccg/fa.pickle
+TAGGED          data_ccg/kmr-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/fa-nndep-ccg.model.txt.gz
+PARSED          data_dep/kmr-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/kmr.conllu
+
+-rwxrwx--- 1 root vboxsf 682241 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu
+-rw-r--r-- 1 METU sudo 5284049 Mai 11 10:13 models_ccg/fa.pickle
+[Errno 2] No such file or directory: 'models_ccg/kmr.pickle'
+-rw-r--r-- 1 METU sudo 25229976 Mai 12 10:03 models_dep/fa-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:20 /tmp/METU/2017-05-13-13-51-31/output/kmr.conllu
+
+
+
+
+51
+Time: Sa 13. Mai 14:20:50 CEST 2017
+
+LANGUAGE CODE   ko
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ko-udpipe.conllu
+CCG MODEL       models_ccg/ko.pickle
+TAGGED          data_ccg/ko-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/ko-nndep-ccg.model.txt.gz
+PARSED          data_dep/ko-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/ko.conllu
+
+-rwxrwx--- 1 root vboxsf 512708 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ko-udpipe.conllu
+-rw-r--r-- 1 METU sudo 7349803 Mai 11 10:14 models_ccg/ko.pickle
+-rw-r--r-- 1 METU sudo 590229 Mai 13 14:21 data_ccg/ko-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 38897942 Mai 12 10:04 models_dep/ko-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 423654 Mai 13 14:21 data_dep/ko-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 423654 Mai 13 14:21 /tmp/METU/2017-05-13-13-51-31/output/ko.conllu
+
+
+
+
+52
+Time: Sa 13. Mai 14:21:23 CEST 2017
+
+LANGUAGE CODE   la_ittb
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_ittb-udpipe.conllu
+CCG MODEL       models_ccg/la_ittb.pickle
+TAGGED          data_ccg/la_ittb-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/la_ittb-nndep-ccg.model.txt.gz
+PARSED          data_dep/la_ittb-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/la_ittb.conllu
+
+-rwxrwx--- 1 root vboxsf 910946 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_ittb-udpipe.conllu
+-rw-r--r-- 1 METU sudo 7637398 Mai 11 10:14 models_ccg/la_ittb.pickle
+-rw-r--r-- 1 METU sudo 991215 Mai 13 14:21 data_ccg/la_ittb-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 27286849 Mai 12 10:04 models_dep/la_ittb-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 614818 Mai 13 14:21 data_dep/la_ittb-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 614818 Mai 13 14:21 /tmp/METU/2017-05-13-13-51-31/output/la_ittb.conllu
+
+
+
+
+53
+Time: Sa 13. Mai 14:21:52 CEST 2017
+
+LANGUAGE CODE   la_proiel
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_proiel-udpipe.conllu
+CCG MODEL       models_ccg/la_proiel.pickle
+TAGGED          data_ccg/la_proiel-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/la_proiel-nndep-ccg.model.txt.gz
+PARSED          data_dep/la_proiel-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/la_proiel.conllu
+
+-rwxrwx--- 1 root vboxsf 884427 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_proiel-udpipe.conllu
+-rw-r--r-- 1 METU sudo 8291652 Mai 11 10:14 models_ccg/la_proiel.pickle
+-rw-r--r-- 1 METU sudo 979085 Mai 13 14:22 data_ccg/la_proiel-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 33387700 Mai 12 10:04 models_dep/la_proiel-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 380128 Mai 13 14:22 data_dep/la_proiel-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 380128 Mai 13 14:22 /tmp/METU/2017-05-13-13-51-31/output/la_proiel.conllu
+
+
+
+
+54
+Time: Sa 13. Mai 14:22:22 CEST 2017
+
+LANGUAGE CODE   la
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la-udpipe.conllu
+CCG MODEL       models_ccg/la.pickle
+TAGGED          data_ccg/la-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/la-nndep-ccg.model.txt.gz
+PARSED          data_dep/la-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/la.conllu
+
+-rwxrwx--- 1 root vboxsf 834992 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/la.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:22 /tmp/METU/2017-05-13-13-51-31/output/la.conllu
+
+
+
+
+55
+Time: Sa 13. Mai 14:22:24 CEST 2017
+
+LANGUAGE CODE   lv
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/lv-udpipe.conllu
+CCG MODEL       models_ccg/lv.pickle
+TAGGED          data_ccg/lv-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/lv-nndep-ccg.model.txt.gz
+PARSED          data_dep/lv-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/lv.conllu
+
+-rwxrwx--- 1 root vboxsf 760140 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/lv-udpipe.conllu
+-rw-r--r-- 1 METU sudo 2693224 Mai 11 10:14 models_ccg/lv.pickle
+-rw-r--r-- 1 METU sudo 833734 Mai 13 14:22 data_ccg/lv-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 23532030 Mai 12 10:04 models_dep/lv-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 391544 Mai 13 14:22 data_dep/lv-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 391544 Mai 13 14:22 /tmp/METU/2017-05-13-13-51-31/output/lv.conllu
+
+
+
+
+56
+Time: Sa 13. Mai 14:22:59 CEST 2017
+
+LANGUAGE CODE   nl_lassysmall
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl_lassysmall-udpipe.conllu
+CCG MODEL       models_ccg/nl_lassysmall.pickle
+TAGGED          data_ccg/nl_lassysmall-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/nl_lassysmall-nndep-ccg.model.txt.gz
+PARSED          data_dep/nl_lassysmall-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/nl_lassysmall.conllu
+
+-rwxrwx--- 1 root vboxsf 501391 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl_lassysmall-udpipe.conllu
+-rw-r--r-- 1 METU sudo 4155894 Mai 11 10:14 models_ccg/nl_lassysmall.pickle
+-rw-r--r-- 1 METU sudo 572383 Mai 13 14:23 data_ccg/nl_lassysmall-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 26250557 Mai 12 10:04 models_dep/nl_lassysmall-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 286923 Mai 13 14:23 data_dep/nl_lassysmall-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 286923 Mai 13 14:23 /tmp/METU/2017-05-13-13-51-31/output/nl_lassysmall.conllu
+
+
+
+
+57
+Time: Sa 13. Mai 14:23:25 CEST 2017
+
+LANGUAGE CODE   nl
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl-udpipe.conllu
+CCG MODEL       models_ccg/nl.pickle
+TAGGED          data_ccg/nl-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/nl-nndep-ccg.model.txt.gz
+PARSED          data_dep/nl-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/nl.conllu
+
+-rwxrwx--- 1 root vboxsf 846869 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl-udpipe.conllu
+-rw-r--r-- 1 METU sudo 7373736 Mai 11 10:14 models_ccg/nl.pickle
+-rw-r--r-- 1 METU sudo 934944 Mai 13 14:23 data_ccg/nl-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 38065043 Mai 12 10:04 models_dep/nl-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 667917 Mai 13 14:23 data_dep/nl-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 667917 Mai 13 14:23 /tmp/METU/2017-05-13-13-51-31/output/nl.conllu
+
+
+
+
+58
+Time: Sa 13. Mai 14:23:55 CEST 2017
+
+LANGUAGE CODE   no_bokmaal
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_bokmaal-udpipe.conllu
+CCG MODEL       models_ccg/no_bokmaal.pickle
+TAGGED          data_ccg/no_bokmaal-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/no_bokmaal-nndep-ccg.model.txt.gz
+PARSED          data_dep/no_bokmaal-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/no_bokmaal.conllu
+
+-rwxrwx--- 1 root vboxsf 1731683 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_bokmaal-udpipe.conllu
+-rw-r--r-- 1 METU sudo 7804335 Mai 11 10:14 models_ccg/no_bokmaal.pickle
+-rw-r--r-- 1 METU sudo 1969924 Mai 13 14:24 data_ccg/no_bokmaal-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 40767072 Mai 12 10:04 models_dep/no_bokmaal-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 836936 Mai 13 14:24 data_dep/no_bokmaal-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 836936 Mai 13 14:24 /tmp/METU/2017-05-13-13-51-31/output/no_bokmaal.conllu
+
+
+
+
+59
+Time: Sa 13. Mai 14:24:54 CEST 2017
+
+LANGUAGE CODE   no_nynorsk
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_nynorsk-udpipe.conllu
+CCG MODEL       models_ccg/no_nynorsk.pickle
+TAGGED          data_ccg/no_nynorsk-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/no_nynorsk-nndep-ccg.model.txt.gz
+PARSED          data_dep/no_nynorsk-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/no_nynorsk.conllu
+
+-rwxrwx--- 1 root vboxsf 1430703 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_nynorsk-udpipe.conllu
+-rw-r--r-- 1 METU sudo 8089477 Mai 11 10:14 models_ccg/no_nynorsk.pickle
+-rw-r--r-- 1 METU sudo 1627203 Mai 13 14:25 data_ccg/no_nynorsk-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 40173185 Mai 12 10:04 models_dep/no_nynorsk-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 696133 Mai 13 14:25 data_dep/no_nynorsk-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 696133 Mai 13 14:25 /tmp/METU/2017-05-13-13-51-31/output/no_nynorsk.conllu
+
+
+
+
+60
+Time: Sa 13. Mai 14:25:44 CEST 2017
+
+LANGUAGE CODE   pl
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pl-udpipe.conllu
+CCG MODEL       models_ccg/pl.pickle
+TAGGED          data_ccg/pl-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/pl-nndep-ccg.model.txt.gz
+PARSED          data_dep/pl-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/pl.conllu
+
+-rwxrwx--- 1 root vboxsf 939829 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pl-udpipe.conllu
+-rw-r--r-- 1 METU sudo 3680568 Mai 11 10:14 models_ccg/pl.pickle
+-rw-r--r-- 1 METU sudo 1016772 Mai 13 14:26 data_ccg/pl-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 32531744 Mai 12 10:04 models_dep/pl-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 546243 Mai 13 14:26 data_dep/pl-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 549624 Mai 13 14:26 /tmp/METU/2017-05-13-13-51-31/output/pl.conllu
+
+
+
+
+61
+Time: Sa 13. Mai 14:26:20 CEST 2017
+
+LANGUAGE CODE   pt_br
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_br-udpipe.conllu
+CCG MODEL       models_ccg/pt_br.pickle
+TAGGED          data_ccg/pt_br-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/pt_br-nndep-ccg.model.txt.gz
+PARSED          data_dep/pt_br-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/pt_br.conllu
+
+-rwxrwx--- 1 root vboxsf 1315783 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_br-udpipe.conllu
+-rw-r--r-- 1 METU sudo 7579235 Mai 11 10:14 models_ccg/pt_br.pickle
+-rw-r--r-- 1 METU sudo 1564827 Mai 13 14:26 data_ccg/pt_br-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 40450124 Mai 12 10:04 models_dep/pt_br-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 1021335 Mai 13 14:27 data_dep/pt_br-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 1074918 Mai 13 14:27 /tmp/METU/2017-05-13-13-51-31/output/pt_br.conllu
+
+
+
+
+62
+Time: Sa 13. Mai 14:27:07 CEST 2017
+
+LANGUAGE CODE   pt_pud
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_pud-udpipe.conllu
+CCG MODEL       models_ccg/pt_pud.pickle
+TAGGED          data_ccg/pt_pud-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/pt_pud-nndep-ccg.model.txt.gz
+PARSED          data_dep/pt_pud-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/pt_pud.conllu
+
+-rwxrwx--- 1 root vboxsf 1750575 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_pud-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/pt_pud.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:27 /tmp/METU/2017-05-13-13-51-31/output/pt_pud.conllu
+
+
+
+
+63
+Time: Sa 13. Mai 14:27:09 CEST 2017
+
+LANGUAGE CODE   pt
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt-udpipe.conllu
+CCG MODEL       models_ccg/pt.pickle
+TAGGED          data_ccg/pt-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/pt-nndep-ccg.model.txt.gz
+PARSED          data_dep/pt-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/pt.conllu
+
+-rwxrwx--- 1 root vboxsf 754958 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt-udpipe.conllu
+-rw-r--r-- 1 METU sudo 6696969 Mai 11 10:14 models_ccg/pt.pickle
+-rw-r--r-- 1 METU sudo 830880 Mai 13 14:27 data_ccg/pt-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 42201787 Mai 12 10:04 models_dep/pt-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 578381 Mai 13 14:27 data_dep/pt-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 597250 Mai 13 14:27 /tmp/METU/2017-05-13-13-51-31/output/pt.conllu
+
+
+
+
+64
+Time: Sa 13. Mai 14:27:35 CEST 2017
+
+LANGUAGE CODE   ro
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ro-udpipe.conllu
+CCG MODEL       models_ccg/ro.pickle
+TAGGED          data_ccg/ro-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/ro-nndep-ccg.model.txt.gz
+PARSED          data_dep/ro-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/ro.conllu
+
+-rwxrwx--- 1 root vboxsf 1215675 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ro-udpipe.conllu
+-rw-r--r-- 1 METU sudo 7673317 Mai 11 10:14 models_ccg/ro.pickle
+-rw-r--r-- 1 METU sudo 1338701 Mai 13 14:27 data_ccg/ro-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 41992994 Mai 12 10:04 models_dep/ro-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 614408 Mai 13 14:28 data_dep/ro-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 614408 Mai 13 14:28 /tmp/METU/2017-05-13-13-51-31/output/ro.conllu
+
+
+
+
+65
+Time: Sa 13. Mai 14:28:11 CEST 2017
+
+LANGUAGE CODE   ru_pud
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_pud-udpipe.conllu
+CCG MODEL       models_ccg/ru_pud.pickle
+TAGGED          data_ccg/ru_pud-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/ru_pud-nndep-ccg.model.txt.gz
+PARSED          data_dep/ru_pud-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/ru_pud.conllu
+
+-rwxrwx--- 1 root vboxsf 1661327 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_pud-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/ru_pud.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:28 /tmp/METU/2017-05-13-13-51-31/output/ru_pud.conllu
+
+
+
+
+66
+Time: Sa 13. Mai 14:28:13 CEST 2017
+
+LANGUAGE CODE   ru_syntagrus
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_syntagrus-udpipe.conllu
+CCG MODEL       models_ccg/ru_syntagrus.pickle
+TAGGED          data_ccg/ru_syntagrus-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/ru_syntagrus-nndep-ccg.model.txt.gz
+PARSED          data_dep/ru_syntagrus-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/ru_syntagrus.conllu
+
+-rwxrwx--- 1 root vboxsf 9540053 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_syntagrus-udpipe.conllu
+-rw-r--r-- 1 METU sudo 26428009 Mai 11 10:14 models_ccg/ru_syntagrus.pickle
+-rw-r--r-- 1 METU sudo 10345080 Mai 13 14:30 data_ccg/ru_syntagrus-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 113031858 Mai 12 10:04 models_dep/ru_syntagrus-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 3915381 Mai 13 14:31 data_dep/ru_syntagrus-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 3915381 Mai 13 14:31 /tmp/METU/2017-05-13-13-51-31/output/ru_syntagrus.conllu
+
+
+
+
+67
+Time: Sa 13. Mai 14:31:26 CEST 2017
+
+LANGUAGE CODE   ru
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru-udpipe.conllu
+CCG MODEL       models_ccg/ru.pickle
+TAGGED          data_ccg/ru-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/ru-nndep-ccg.model.txt.gz
+PARSED          data_dep/ru-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/ru.conllu
+
+-rwxrwx--- 1 root vboxsf 982621 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru-udpipe.conllu
+-rw-r--r-- 1 METU sudo 4644011 Mai 11 10:14 models_ccg/ru.pickle
+-rw-r--r-- 1 METU sudo 1057547 Mai 13 14:31 data_ccg/ru-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 36691314 Mai 12 10:04 models_dep/ru-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 416472 Mai 13 14:31 data_dep/ru-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 416472 Mai 13 14:31 /tmp/METU/2017-05-13-13-51-31/output/ru.conllu
+
+
+
+
+68
+Time: Sa 13. Mai 14:31:54 CEST 2017
+
+LANGUAGE CODE   sk
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sk-udpipe.conllu
+CCG MODEL       models_ccg/sk.pickle
+TAGGED          data_ccg/sk-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/sk-nndep-ccg.model.txt.gz
+PARSED          data_dep/sk-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/sk.conllu
+
+-rwxrwx--- 1 root vboxsf 1028772 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sk-udpipe.conllu
+-rw-r--r-- 1 METU sudo 4255156 Mai 11 10:14 models_ccg/sk.pickle
+-rw-r--r-- 1 METU sudo 1117833 Mai 13 14:32 data_ccg/sk-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 33316149 Mai 12 10:04 models_dep/sk-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 452742 Mai 13 14:32 data_dep/sk-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 452742 Mai 13 14:32 /tmp/METU/2017-05-13-13-51-31/output/sk.conllu
+
+
+
+
+69
+Time: Sa 13. Mai 14:32:32 CEST 2017
+
+LANGUAGE CODE   sl_sst
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl_sst-udpipe.conllu
+CCG MODEL       models_ccg/sl_sst.pickle
+TAGGED          data_ccg/sl_sst-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/sl_sst-nndep-ccg.model.txt.gz
+PARSED          data_dep/sl_sst-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/sl_sst.conllu
+
+-rwxrwx--- 1 root vboxsf 661655 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl_sst-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/sl_sst.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:32 /tmp/METU/2017-05-13-13-51-31/output/sl_sst.conllu
+
+
+
+
+70
+Time: Sa 13. Mai 14:32:34 CEST 2017
+
+LANGUAGE CODE   sl
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl-udpipe.conllu
+CCG MODEL       models_ccg/sl.pickle
+TAGGED          data_ccg/sl-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/sl-nndep-ccg.model.txt.gz
+PARSED          data_dep/sl-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/sl.conllu
+
+-rwxrwx--- 1 root vboxsf 994348 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl-udpipe.conllu
+-rw-r--r-- 1 METU sudo 5292540 Mai 11 10:14 models_ccg/sl.pickle
+-rw-r--r-- 1 METU sudo 1107884 Mai 13 14:32 data_ccg/sl-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 40967094 Mai 12 10:05 models_dep/sl-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 489507 Mai 13 14:33 data_dep/sl-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 489507 Mai 13 14:33 /tmp/METU/2017-05-13-13-51-31/output/sl.conllu
+
+
+
+
+71
+Time: Sa 13. Mai 14:33:07 CEST 2017
+
+LANGUAGE CODE   sme
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu
+CCG MODEL       models_ccg/fi.pickle
+TAGGED          data_ccg/sme-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/fi-nndep-ccg.model.txt.gz
+PARSED          data_dep/sme-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/sme.conllu
+
+-rwxrwx--- 1 root vboxsf 645286 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu
+-rw-r--r-- 1 METU sudo 10583741 Mai 11 10:13 models_ccg/fi.pickle
+[Errno 2] No such file or directory: 'models_ccg/sme.pickle'
+-rw-r--r-- 1 METU sudo 58677400 Mai 12 10:03 models_dep/fi-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:33 /tmp/METU/2017-05-13-13-51-31/output/sme.conllu
+
+
+
+
+72
+Time: Sa 13. Mai 14:33:20 CEST 2017
+
+LANGUAGE CODE   sv_lines
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_lines-udpipe.conllu
+CCG MODEL       models_ccg/sv_lines.pickle
+TAGGED          data_ccg/sv_lines-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/sv_lines-nndep-ccg.model.txt.gz
+PARSED          data_dep/sv_lines-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/sv_lines.conllu
+
+-rwxrwx--- 1 root vboxsf 611736 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_lines-udpipe.conllu
+-rw-r--r-- 1 METU sudo 2633405 Mai 11 10:14 models_ccg/sv_lines.pickle
+-rw-r--r-- 1 METU sudo 732206 Mai 13 14:33 data_ccg/sv_lines-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 21840218 Mai 12 10:05 models_dep/sv_lines-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 578116 Mai 13 14:33 data_dep/sv_lines-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 578116 Mai 13 14:33 /tmp/METU/2017-05-13-13-51-31/output/sv_lines.conllu
+
+
+
+
+73
+Time: Sa 13. Mai 14:33:48 CEST 2017
+
+LANGUAGE CODE   sv_pud
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_pud-udpipe.conllu
+CCG MODEL       models_ccg/sv_pud.pickle
+TAGGED          data_ccg/sv_pud-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/sv_pud-nndep-ccg.model.txt.gz
+PARSED          data_dep/sv_pud-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/sv_pud.conllu
+
+-rwxrwx--- 1 root vboxsf 1410282 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_pud-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/sv_pud.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:33 /tmp/METU/2017-05-13-13-51-31/output/sv_pud.conllu
+
+
+
+
+74
+Time: Sa 13. Mai 14:33:50 CEST 2017
+
+LANGUAGE CODE   sv
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv-udpipe.conllu
+CCG MODEL       models_ccg/sv.pickle
+TAGGED          data_ccg/sv-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/sv-nndep-ccg.model.txt.gz
+PARSED          data_dep/sv-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/sv.conllu
+
+-rwxrwx--- 1 root vboxsf 1535181 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv-udpipe.conllu
+-rw-r--r-- 1 METU sudo 3272995 Mai 11 10:14 models_ccg/sv.pickle
+-rw-r--r-- 1 METU sudo 1699275 Mai 13 14:34 data_ccg/sv-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 24919950 Mai 12 10:05 models_dep/sv-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 1002860 Mai 13 14:34 data_dep/sv-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 1002860 Mai 13 14:34 /tmp/METU/2017-05-13-13-51-31/output/sv.conllu
+
+
+
+
+75
+Time: Sa 13. Mai 14:34:31 CEST 2017
+
+LANGUAGE CODE   tr_pud
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr_pud-udpipe.conllu
+CCG MODEL       models_ccg/tr_pud.pickle
+TAGGED          data_ccg/tr_pud-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/tr_pud-nndep-ccg.model.txt.gz
+PARSED          data_dep/tr_pud-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/tr_pud.conllu
+
+-rwxrwx--- 1 root vboxsf 1294958 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr_pud-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/tr_pud.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:34 /tmp/METU/2017-05-13-13-51-31/output/tr_pud.conllu
+
+
+
+
+76
+Time: Sa 13. Mai 14:34:32 CEST 2017
+
+LANGUAGE CODE   tr
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr-udpipe.conllu
+CCG MODEL       models_ccg/tr.pickle
+TAGGED          data_ccg/tr-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/tr-nndep-ccg.model.txt.gz
+PARSED          data_dep/tr-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/tr.conllu
+
+-rwxrwx--- 1 root vboxsf 760353 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr-udpipe.conllu
+-rw-r--r-- 1 METU sudo 4007253 Mai 11 10:14 models_ccg/tr.pickle
+-rw-r--r-- 1 METU sudo 820745 Mai 13 14:34 data_ccg/tr-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 25552463 Mai 12 10:05 models_dep/tr-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 350882 Mai 13 14:35 data_dep/tr-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 357253 Mai 13 14:35 /tmp/METU/2017-05-13-13-51-31/output/tr.conllu
+
+
+
+
+77
+Time: Sa 13. Mai 14:35:04 CEST 2017
+
+LANGUAGE CODE   ug
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ug-udpipe.conllu
+CCG MODEL       models_ccg/ug.pickle
+TAGGED          data_ccg/ug-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/ug-nndep-ccg.model.txt.gz
+PARSED          data_dep/ug-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/ug.conllu
+
+-rwxrwx--- 1 root vboxsf 495761 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ug-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/ug.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:35 /tmp/METU/2017-05-13-13-51-31/output/ug.conllu
+
+
+
+
+78
+Time: Sa 13. Mai 14:35:06 CEST 2017
+
+LANGUAGE CODE   uk
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/uk-udpipe.conllu
+CCG MODEL       models_ccg/uk.pickle
+TAGGED          data_ccg/uk-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/uk-nndep-ccg.model.txt.gz
+PARSED          data_dep/uk-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/uk.conllu
+
+-rwxrwx--- 1 root vboxsf 1028564 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/uk-udpipe.conllu
+[Errno 2] No such file or directory: 'models_ccg/uk.pickle'
+-rw-r--r-- 1 METU sudo 0 Mai 13 14:35 /tmp/METU/2017-05-13-13-51-31/output/uk.conllu
+
+
+
+
+79
+Time: Sa 13. Mai 14:35:08 CEST 2017
+
+LANGUAGE CODE   ur
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ur-udpipe.conllu
+CCG MODEL       models_ccg/ur.pickle
+TAGGED          data_ccg/ur-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/ur-nndep-ccg.model.txt.gz
+PARSED          data_dep/ur-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/ur.conllu
+
+-rwxrwx--- 1 root vboxsf 1127794 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ur-udpipe.conllu
+-rw-r--r-- 1 METU sudo 4585071 Mai 11 10:14 models_ccg/ur.pickle
+-rw-r--r-- 1 METU sudo 1253959 Mai 13 14:35 data_ccg/ur-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 21721455 Mai 12 10:05 models_dep/ur-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 512369 Mai 13 14:35 data_dep/ur-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 512369 Mai 13 14:35 /tmp/METU/2017-05-13-13-51-31/output/ur.conllu
+
+
+
+
+80
+Time: Sa 13. Mai 14:35:34 CEST 2017
+
+LANGUAGE CODE   vi
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/vi-udpipe.conllu
+CCG MODEL       models_ccg/vi.pickle
+TAGGED          data_ccg/vi-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/vi-nndep-ccg.model.txt.gz
+PARSED          data_dep/vi-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/vi.conllu
+
+-rwxrwx--- 1 root vboxsf 510359 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/vi-udpipe.conllu
+-rw-r--r-- 1 METU sudo 1834730 Mai 11 10:14 models_ccg/vi.pickle
+-rw-r--r-- 1 METU sudo 603028 Mai 13 14:35 data_ccg/vi-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 16020648 Mai 12 10:05 models_dep/vi-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 354086 Mai 13 14:35 data_dep/vi-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 354086 Mai 13 14:35 /tmp/METU/2017-05-13-13-51-31/output/vi.conllu
+
+
+
+
+81
+Time: Sa 13. Mai 14:35:56 CEST 2017
+
+LANGUAGE CODE   zh
+INPUT           /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh-udpipe.conllu
+CCG MODEL       models_ccg/zh.pickle
+TAGGED          data_ccg/zh-udpipe-ccg-2.conllu
+DEP MODEL       models_dep/zh-nndep-ccg.model.txt.gz
+PARSED          data_dep/zh-udpipe-ccg-2-parsed.conllu
+OUTPUT          /tmp/METU/2017-05-13-13-51-31/output/zh.conllu
+
+-rwxrwx--- 1 root vboxsf 593291 Mai  9 15:29 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh-udpipe.conllu
+-rw-r--r-- 1 METU sudo 8346194 Mai 11 10:14 models_ccg/zh.pickle
+-rw-r--r-- 1 METU sudo 698506 Mai 13 14:36 data_ccg/zh-udpipe-ccg-2.conllu
+-rw-r--r-- 1 METU sudo 29108221 Mai 12 10:05 models_dep/zh-nndep-ccg.model.txt.gz
+-rw-r--r-- 1 METU sudo 372483 Mai 13 14:36 data_dep/zh-udpipe-ccg-2-parsed.conllu
+-rw-r--r-- 1 METU sudo 372483 Mai 13 14:36 /tmp/METU/2017-05-13-13-51-31/output/zh.conllu
+
+
+Time: Sa 13. Mai 14:36:20 CEST 2017

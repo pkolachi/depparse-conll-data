@@ -1,0 +1,6 @@
+[dynet] random seed: 2365716887
+[dynet] allocating memory: 50000MB
+[dynet] memory allocation done.
+COMMAND: /home/Recurrent-Team/language-universal-parser/parser/lstm-parse -P -S --training_data /media/data/data/zh/treebank_train.arcstd --dev_data /home/Recurrent-Team/intermediate/zhoracle --pretrained_dim 300 --pretrained /media/data/fastText/wiki.zh.vec_lid --brown_clusters /home/Recurrent-Team/data/formatted-uni-clusters.256 -m /media/data/models/parser_pos_2_32_64_16_60_12_10-pid84107.params -C /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh-udpipe.conllu
+Unknown word strategy: STOCHASTIC REPLACEMENT
+Loading from /media/data/fastText/wiki.zh.vec_lid with300 dimensions

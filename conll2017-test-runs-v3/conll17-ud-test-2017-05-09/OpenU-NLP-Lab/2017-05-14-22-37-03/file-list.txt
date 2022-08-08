@@ -1,0 +1,5 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/OpenU-NLP-Lab/2017-05-14-16-57-08/../2017-05-14-22-37-03/output
+├── [8.4K]  evaluation.bin
+└── [ 10K]  evaluation.prototext
+
+0 directories, 2 files

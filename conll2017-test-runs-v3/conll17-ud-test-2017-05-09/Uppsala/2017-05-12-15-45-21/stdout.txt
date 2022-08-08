@@ -1,0 +1,109 @@
+sh /home/Uppsala/bash_script.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/Uppsala/2017-05-12-15-45-21/output
+
+
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.909963 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.030486 seconds
+Done. Time consumed: 55 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.334534 seconds
+Done. Time consumed: 55 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.021489 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.054203 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 57.593000 seconds
+Done. Time consumed: 57 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 56.263427 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 59.048659 seconds
+Done. Time consumed: 59 seconds
+Loading weights....
+Loaded.
+Done.
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1034 sentences read.
+Time: 44s
+Finished predicting test 44.0330221653
+Using external embedding: None
+Load external embedding. Vector dimensions 50
+0 dropped non-projective sentences.
+1933 sentences read.
+Time: 51s
+Finished predicting test 51.1187210083
+Using external embedding: None
+0 dropped non-projective sentences.
+898 sentences read.
+Time: 21s
+Finished predicting test 20.7559728622
+Using external embedding: None
+0 dropped non-projective sentences.
+647 sentences read.
+Time: 19s
+Finished predicting test 19.3676879406
+Using external embedding: None
+0 dropped non-projective sentences.
+1005 sentences read.
+Time: 20s
+Finished predicting test 20.8995079994
+Using external embedding: None
+0 dropped non-projective sentences.
+754 sentences read.
+Time: 18s
+Finished predicting test 18.131718874
+Using external embedding: None
+0 dropped non-projective sentences.
+867 sentences read.
+Time: 19s
+Finished predicting test 19.584556818
+Using external embedding: None
+0 dropped non-projective sentences.
+822 sentences read.
+Time: 22s
+Finished predicting test 21.8476650715

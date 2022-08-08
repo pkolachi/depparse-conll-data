@@ -1,0 +1,5 @@
+conll17-scripts/run.sh -i /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 -o /tmp/Stanford/2017-05-12-07-38-23/output
+
+
+Missing model directory: /media/data/UD_saves2/None/None-Tagger
+Missing model directory: /media/data/UD_saves2/None/None-Parser

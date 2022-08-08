@@ -1,0 +1,9 @@
+runId: "2017-05-14-09-39-04"
+reviewerId: "conll17-master"
+reviewDate: "Tue May 16 13:26:41 CEST 2017"
+missingOutput: true
+invalidOutput: true
+comment: "Even nonzero scores are very close to zero."
+hasErrors: true
+hasWarnings: false
+hasNoErrors: false

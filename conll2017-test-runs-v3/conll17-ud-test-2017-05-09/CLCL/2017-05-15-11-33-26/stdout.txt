@@ -1,0 +1,149 @@
+./run_all_parsing.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /home/CLCL/preproc_tmp /tmp/CLCL/2017-05-15-11-33-26/output
+
+
+### PARSING ###
+
+----
+ar_pud
+----
+
+----
+ar
+----
+
+----
+bg
+----
+
+----
+bxr
+----
+
+----
+ca
+----
+
+----
+cs_cac
+----
+
+----
+cs_cltt
+----
+
+----
+cs_pud
+----
+
+----
+cs
+----
+
+----
+cu
+----
+
+----
+da
+----
+
+----
+de_pud
+----
+
+----
+de
+----
+
+----
+el
+----
+
+----
+en_lines
+----
+
+----
+en_partut
+----
+
+----
+en_pud
+----
+
+----
+en
+----
+
+----
+es_ancora
+----
+
+----
+es_pud
+----
+
+----
+es
+----
+
+----
+et
+----
+
+----
+eu
+----
+
+----
+fa
+----
+
+----
+fi_ftb
+----
+
+----
+fi_pud
+----
+
+----
+fi
+----
+
+----
+fr_partut
+----
+/home/CLCL/DINN_merged_data_10_05/dinn_emb300 -m /home/CLCL/DINN_merged_data_10_05/data/fr_partut/parser.par -i /home/CLCL/DINN_merged_data_10_05/data/fr_partut/fr_partut-ud-train.proj.conllu /home/CLCL/DINN_merged_data_10_05/data/fr_partut/fr_partut-ud-dev.proj.conllu /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_partut-udpipe.conllu -o /home/CLCL/preproc_tmp --name fr_partut WORDS_MAIN_CUTOFF=3 LEMMAS_MAIN_CUTOFF=3
+/home/CLCL/DINN_merged_data_10_05/data/fr_partut/parser.par || /home/CLCL/DINN_merged_data_10_05/data/fr_partut/fr_partut-ud-train.proj.conllu || /home/CLCL/preproc_tmp ||  || WORDS_MAIN_CUTOFF=3 - 2
+
+
+
+============================
+Preprocessor parameters used
+============================
+
+TRAIN_IN_FILE      /home/CLCL/DINN_merged_data_10_05/data/fr_partut/fr_partut-ud-train.proj.conllu
+TRAIN_OUT_FILE     /home/CLCL/preproc_tmp/fr_partut.conllu.ext
+SPEC_OUT_FILE      /home/CLCL/preproc_tmp/fr_partut.spec
+DATASIZE_OUT_FILE  /home/CLCL/preproc_tmp/fr_partut.size
+TEST_IN_FILE       /home/CLCL/DINN_merged_data_10_05/data/fr_partut/fr_partut-ud-dev.proj.conllu
+TEST_IN_FILE[2]    /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_partut-udpipe.conllu
+TEST_OUT_FILE      /home/CLCL/preproc_tmp/fr_partut.dev.conllu.ext
+TEST_OUT_FILE[2]   /home/CLCL/preproc_tmp/fr_partut.2.dev.conllu.ext
+NB_DEV_FILES 1
+
+NORMALIZE_WORDS 1
+LOWERCASE_WORDS 0
+
+WORDS_MAIN_CUTOFF 3
+WORDS_UNK_CUTOFF 5
+LEMMAS_MAIN_CUTOFF 3
+LEMMAS_UNK_CUTOFF 5
+
+============================
+
+Preprocessor for CoNLL-U format files
+-------------------------------------
+-> Reading file '/home/CLCL/DINN_merged_data_10_05/data/fr_partut/fr_partut-ud-train.proj.conllu' and creating string to code mapping... done.
+-> Reading file '/home/CLCL/DINN_merged_data_10_05/data/fr_partut/fr_partut-ud-dev.proj.conllu' and creating string to code mapping... 

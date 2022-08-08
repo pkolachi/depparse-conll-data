@@ -1,0 +1,34 @@
+./main.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/IMS/2017-05-14-18-34-01/output
+
+
+/home/IMS/TEST_SUBMISSION/submission/tmp/la_0
+Segmenting at Sun May 14 18:36:28 CEST 2017
+Tagging and Stagging at Sun May 14 18:36:59 CEST 2017
+BL Parsing at Sun May 14 18:38:47 CEST 2017
+
+
+
+
+Start blending
+
+
+Blend la at Sun May 14 18:39:14 CEST 2017
+mkdir: created directory '/home/IMS/TEST_SUBMISSION/submission/tmp/la_0/blend-out'
+Running ABT parsers at Sun May 14 18:39:14 CEST 2017
+abt 0 done
+abt 1 done
+Running Anna parsers at Sun May 14 18:40:08 CEST 2017
+anna 0 done
+anna 1 done
+anna 2 done
+anna 3 done
+Running Xiang parsers at Sun May 14 18:42:37 CEST 2017
+Xiang 0 done
+Xiang 1 done
+Running ABT delex parsers at Sun May 14 18:46:19 CEST 2017
+No ABT delex models, quit
+Running Anna delex parsers at Sun May 14 18:46:19 CEST 2017
+No delex Anna models, quit
+Running Blender at Sun May 14 18:46:19 CEST 2017
+Copying outfile at Sun May 14 18:46:21 CEST 2017
+'/home/IMS/TEST_SUBMISSION/submission/tmp/la_0/blend-out/blended.out.merged.conllu' -> '/tmp/IMS/2017-05-14-18-34-01/output/la.conllu'

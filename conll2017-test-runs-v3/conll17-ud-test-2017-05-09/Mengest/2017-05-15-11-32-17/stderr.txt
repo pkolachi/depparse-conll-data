@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "t.py", line 47, in <module>
+    if mode_file != None:
+NameError: name 'mode_file' is not defined

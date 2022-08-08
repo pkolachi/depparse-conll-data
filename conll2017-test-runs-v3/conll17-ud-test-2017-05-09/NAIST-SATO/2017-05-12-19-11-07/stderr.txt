@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "run.py", line 171, in <module>
+    main()
+  File "run.py", line 166, in main
+    lang_name, model_filename, batchsize=args.batchsize)
+  File "run.py", line 83, in run
+    model, vocab_files = load_trained_model(model_filename, lang_name)
+  File "run.py", line 62, in load_trained_model
+    vocab = util.read_vocab(vocab_base + '.vocab')
+  File "/home/NAIST-SATO/UD_task_2017/util.py", line 125, in read_vocab
+    f = open(filename)
+IOError: [Errno 2] No such file or directory: '/media/data/trained_models/mono_ling/vocab_files/.vocab'

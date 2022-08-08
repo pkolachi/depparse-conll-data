@@ -1,0 +1,1445 @@
+conll17-scripts/run.sh: line 4: /home/Stanford/.bashrc: No such file or directory
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [13246,100] rhs shape= [16695,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [13246,100] rhs shape= [16695,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/ar_pud.conllu'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [13246,100] rhs shape= [16695,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [13246,100] rhs shape= [16695,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/ar.conllu'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+/home/Stanford/UnstableParser/parser/configurable.py:139: UserWarning: Original list ['/media/data/UD_saves2/None/None-Tagger/en-ud-train.conllu'] has no files
+  warnings.warn('Original list %s has no files' % lst)
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 53, in __init__
+    word_vocab = WordVocab.from_configurable(self)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 54, in __init__
+    self.dump()
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 107, in dump
+    with codecs.open(self.filename, 'w', encoding='utf-8') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/media/data/UD_saves2/None/None-Tagger/words.txt'
+/home/Stanford/UnstableParser/parser/configurable.py:139: UserWarning: Original list ['/media/data/UD_saves2/None/None-Parser/en-ud-train.conllu'] has no files
+  warnings.warn('Original list %s has no files' % lst)
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 53, in __init__
+    word_vocab = WordVocab.from_configurable(self)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 54, in __init__
+    self.dump()
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 107, in dump
+    with codecs.open(self.filename, 'w', encoding='utf-8') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/media/data/UD_saves2/None/None-Parser/words.txt'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [15999,100] rhs shape= [16132,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [15999,100] rhs shape= [16132,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/ca.conllu'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [28998,100] rhs shape= [29011,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [28998,100] rhs shape= [29011,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/cs_cac.conllu'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [58564,100] rhs shape= [58576,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [58564,100] rhs shape= [58576,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/cs_pud.conllu'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [58564,100] rhs shape= [58576,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [58564,100] rhs shape= [58576,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/cs.conllu'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [15967,100] rhs shape= [15977,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [15967,100] rhs shape= [15977,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/de_pud.conllu'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [15967,100] rhs shape= [15977,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [15967,100] rhs shape= [15977,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/de.conllu'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [2316,100] rhs shape= [2317,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [2316,100] rhs shape= [2317,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/en_partut.conllu'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [18927,100] rhs shape= [19156,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [18927,100] rhs shape= [19156,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/es_ancora.conllu'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [18729,100] rhs shape= [18879,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [18729,100] rhs shape= [18879,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/es_pud.conllu'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [18729,100] rhs shape= [18879,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [18729,100] rhs shape= [18879,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/es.conllu'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [6911,100] rhs shape= [7053,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [6911,100] rhs shape= [7053,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/fa.conllu'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [10583,100] rhs shape= [10602,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [10583,100] rhs shape= [10602,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/fi_ftb.conllu'
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 55, in __init__
+    subtoken_vocab = self.subtoken_vocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 56, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 102, in load
+    raise ValueError('File %s is misformatted at line %d' % (train_file, line_num+1))
+NameError: global name 'train_file' is not defined
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 55, in __init__
+    subtoken_vocab = self.subtoken_vocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 56, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 102, in load
+    raise ValueError('File %s is misformatted at line %d' % (train_file, line_num+1))
+NameError: global name 'train_file' is not defined
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 55, in __init__
+    subtoken_vocab = self.subtoken_vocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 56, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 102, in load
+    raise ValueError('File %s is misformatted at line %d' % (train_file, line_num+1))
+NameError: global name 'train_file' is not defined
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 55, in __init__
+    subtoken_vocab = self.subtoken_vocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 56, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 102, in load
+    raise ValueError('File %s is misformatted at line %d' % (train_file, line_num+1))
+NameError: global name 'train_file' is not defined
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1500,100] rhs shape= [1504,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [1500,100] rhs shape= [1504,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/fr_partut.conllu'
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 55, in __init__
+    subtoken_vocab = self.subtoken_vocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 56, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 102, in load
+    raise ValueError('File %s is misformatted at line %d' % (train_file, line_num+1))
+NameError: global name 'train_file' is not defined
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 55, in __init__
+    subtoken_vocab = self.subtoken_vocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 56, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 102, in load
+    raise ValueError('File %s is misformatted at line %d' % (train_file, line_num+1))
+NameError: global name 'train_file' is not defined
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 55, in __init__
+    subtoken_vocab = self.subtoken_vocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 56, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 102, in load
+    raise ValueError('File %s is misformatted at line %d' % (train_file, line_num+1))
+NameError: global name 'train_file' is not defined
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 55, in __init__
+    subtoken_vocab = self.subtoken_vocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 56, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 102, in load
+    raise ValueError('File %s is misformatted at line %d' % (train_file, line_num+1))
+NameError: global name 'train_file' is not defined
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 55, in __init__
+    subtoken_vocab = self.subtoken_vocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 56, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 102, in load
+    raise ValueError('File %s is misformatted at line %d' % (train_file, line_num+1))
+NameError: global name 'train_file' is not defined
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 55, in __init__
+    subtoken_vocab = self.subtoken_vocab.from_vocab(word_vocab)
+  File "/home/Stanford/UnstableParser/parser/vocabs/base_vocab.py", line 75, in from_vocab
+    return cls.from_configurable(vocab, *args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 56, in __init__
+    self.load()
+  File "/home/Stanford/UnstableParser/parser/vocabs/subtoken_vocab.py", line 102, in load
+    raise ValueError('File %s is misformatted at line %d' % (train_file, line_num+1))
+NameError: global name 'train_file' is not defined
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [1313,100] rhs shape= [1360,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [1313,100] rhs shape= [1360,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/gl_treegal.conllu'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [8131,100] rhs shape= [12579,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [8131,100] rhs shape= [12579,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 219, in parse
+    self.add_file_vocabs(input_files)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 75, in add_file_vocabs
+    vocab.add_files(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/multivocab.py", line 93, in add_files
+    vocab.token_vocab.count(conll_files)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 72, in count
+    with codecs.open(conll_file, encoding='utf-8', errors='ignore') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/tmp/Stanford/2017-05-12-08-24-15/output/he.conllu'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+/home/Stanford/UnstableParser/parser/configurable.py:139: UserWarning: Original list ['/media/data/UD_saves2/None/None-Tagger/en-ud-train.conllu'] has no files
+  warnings.warn('Original list %s has no files' % lst)
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 53, in __init__
+    word_vocab = WordVocab.from_configurable(self)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 54, in __init__
+    self.dump()
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 107, in dump
+    with codecs.open(self.filename, 'w', encoding='utf-8') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/media/data/UD_saves2/None/None-Tagger/words.txt'
+/home/Stanford/UnstableParser/parser/configurable.py:139: UserWarning: Original list ['/media/data/UD_saves2/None/None-Parser/en-ud-train.conllu'] has no files
+  warnings.warn('Original list %s has no files' % lst)
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 86, in parse
+    network = Network(**kwargs)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 53, in __init__
+    word_vocab = WordVocab.from_configurable(self)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 54, in __init__
+    self.dump()
+  File "/home/Stanford/UnstableParser/parser/vocabs/token_vocab.py", line 107, in dump
+    with codecs.open(self.filename, 'w', encoding='utf-8') as f:
+  File "/home/Stanford/anaconda2/lib/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/media/data/UD_saves2/None/None-Parser/words.txt'
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 236, in parse
+    saver.restore(sess, tf.train.latest_checkpoint(self.save_dir))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1428, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [13369,100] rhs shape= [13587,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+
+Caused by op u'save/Assign_32', defined at:
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 227, in parse
+    saver = tf.train.Saver(self.save_vars, max_to_keep=1)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1040, in __init__
+    self.build()
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1070, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 675, in build
+    restore_sequentially, reshape)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 414, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 155, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 47, in assign
+    use_locking=use_locking, name=name)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/Stanford/anaconda2/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [13369,100] rhs shape= [13587,100]
+	 [[Node: save/Assign_32 = Assign[T=DT_FLOAT, _class=["loc:@Words_1/Embeddings"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](Words_1/Embeddings, save/RestoreV2_32)]]
+

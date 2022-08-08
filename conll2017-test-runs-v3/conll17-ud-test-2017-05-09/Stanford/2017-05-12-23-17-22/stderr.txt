@@ -1,0 +1,65 @@
+conll17-scripts/run.sh: line 4: /home/Stanford/.bashrc: No such file or directory
+/home/Stanford/UnstableParser/parser/configurable.py:139: UserWarning: Original list ['/media/data/UD_saves2/Altaic/Altaic-Tagger/bxr-ud-train.conllu'] has no files
+  warnings.warn('Original list %s has no files' % lst)
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 228, in parse
+    trainset = Trainset.from_configurable(self, self.vocabs, nlp_model=self.nlp_model)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/dataset.py", line 57, in __init__
+    splits[i] += 1
+  File "/home/Stanford/UnstableParser/parser/misc/bucketer.py", line 242, in __exit__
+    raise exception_type(exception_value)
+ValueError: Trying to sort 0 lengths into 10 buckets
+/home/Stanford/UnstableParser/parser/configurable.py:139: UserWarning: Original list ['/media/data/UD_saves2/Slavic/Slavic-Tagger/hsb-ud-train.conllu'] has no files
+  warnings.warn('Original list %s has no files' % lst)
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 228, in parse
+    trainset = Trainset.from_configurable(self, self.vocabs, nlp_model=self.nlp_model)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/dataset.py", line 57, in __init__
+    splits[i] += 1
+  File "/home/Stanford/UnstableParser/parser/misc/bucketer.py", line 242, in __exit__
+    raise exception_type(exception_value)
+ValueError: Trying to sort 0 lengths into 10 buckets
+/home/Stanford/UnstableParser/parser/configurable.py:139: UserWarning: Original list ['/media/data/UD_saves2/Indo_Iranian/Indo_Iranian-Tagger/kmr-ud-train.conllu'] has no files
+  warnings.warn('Original list %s has no files' % lst)
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 228, in parse
+    trainset = Trainset.from_configurable(self, self.vocabs, nlp_model=self.nlp_model)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/dataset.py", line 57, in __init__
+    splits[i] += 1
+  File "/home/Stanford/UnstableParser/parser/misc/bucketer.py", line 242, in __exit__
+    raise exception_type(exception_value)
+ValueError: Trying to sort 0 lengths into 10 buckets
+/home/Stanford/UnstableParser/parser/configurable.py:139: UserWarning: Original list ['/media/data/UD_saves2/Uralic/Uralic-Tagger/sme-ud-train.conllu'] has no files
+  warnings.warn('Original list %s has no files' % lst)
+Traceback (most recent call last):
+  File "main.py", line 112, in <module>
+    action(save_dir, **kwargs)  
+  File "main.py", line 87, in parse
+    network.parse(files, output_file=output_file, output_dir=output_dir)
+  File "/home/Stanford/UnstableParser/parser/network.py", line 228, in parse
+    trainset = Trainset.from_configurable(self, self.vocabs, nlp_model=self.nlp_model)
+  File "/home/Stanford/UnstableParser/parser/configurable.py", line 111, in from_configurable
+    return cls(*args, **kwargs)
+  File "/home/Stanford/UnstableParser/parser/dataset.py", line 57, in __init__
+    splits[i] += 1
+  File "/home/Stanford/UnstableParser/parser/misc/bucketer.py", line 242, in __exit__
+    raise exception_type(exception_value)
+ValueError: Trying to sort 0 lengths into 10 buckets

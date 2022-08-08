@@ -1,0 +1,6 @@
+[dynet] random seed: 978278502
+[dynet] allocating memory: 2048MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::archive::archive_exception'
+  what():  unsupported version
+Aborted (core dumped)

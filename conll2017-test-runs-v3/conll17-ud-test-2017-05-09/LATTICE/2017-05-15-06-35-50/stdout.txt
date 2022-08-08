@@ -1,0 +1,786 @@
+/home/LATTICE/parser/multilingual-bist-parser/conll_runner_test2.py /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/LATTICE/2017-05-15-06-35-50/output
+
+
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+     ls it using multilingual embedding?: True
+1-1. End of preparing vocab
+     Training language:  bxr
+     Load Language vector, Dimensions:  65
+1-2. Load external embedding
+1-2. End of loading external embedding
+1-3. Load external cluster embedding
+1-3 End of loading external cluster embedding
+Add Language Vector language dims:  65
+Total dims:  515 word dims:  100
+Start loading a model
+Finished loading a model
+Finished predicting test. 21.6244850159 seconds.
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+/home/LATTICE/parser/multilingual-bist-parser/conll_runner_test2.py /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/LATTICE/2017-05-15-06-35-50/output
+/media/data/LATTICE/Models/mono_exc6/ar_pud/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name ar_pud.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar_pud-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/ar_pud/model --params /media/data/LATTICE/Models/mono_exc6/ar_pud/params.pickle --test_lang ar_pud
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/ar/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name ar.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/ar/model --params /media/data/LATTICE/Models/mono_exc6/ar/params.pickle --test_lang ar
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/bg/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name bg.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bg-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/bg/model --params /media/data/LATTICE/Models/mono_exc6/bg/params.pickle --test_lang bg
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/bxr/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name bxr.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/bxr/model --params /media/data/LATTICE/Models/mono_exc6/bxr/params.pickle --test_lang bxr
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/ca/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name ca.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ca-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/ca/model --params /media/data/LATTICE/Models/mono_exc6/ca/params.pickle --test_lang ca
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/cs_cac/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name cs_cac.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cac-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/cs_cac/model --params /media/data/LATTICE/Models/mono_exc6/cs_cac/params.pickle --test_lang cs_cac
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/cs_cltt/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --oUsing external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+     ls it using multilingual embedding?: False
+1-1. End of preparing vocab
+     Training language:  cs_cltt
+     Load Language vector, Dimensions:  65
+1-2. Load external embedding
+1-2. End of loading external embedding
+1-3. Load external cluster embedding
+1-3 End of loading external cluster embedding
+Total dims:  225 word dims:  100
+Start loading a model
+Finished loading a model
+Finished predicting test. 43.0068120956 seconds.
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+utdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name cs_cltt.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cltt-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/cs_cltt/model --params /media/data/LATTICE/Models/mono_exc6/cs_cltt/params.pickle --test_lang cs_cltt
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/cs_pud/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name cs_pud.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_pud-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/cs_pud/model --params /media/data/LATTICE/Models/mono_exc6/cs_pud/params.pickle --test_lang cs_pud
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/cs/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name cs.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/cs/model --params /media/data/LATTICE/Models/mono_exc6/cs/params.pickle --test_lang cs
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/cu/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name cu.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cu-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/cu/model --params /media/data/LATTICE/Models/mono_exc6/cu/params.pickle --test_lang cu
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/da/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name da.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/da-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/da/model --params /media/data/LATTICE/Models/mono_exc6/da/params.pickle --test_lang da
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/de_pud/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name de_pud.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de_pud-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/de_pud/model --params /media/data/LATTICE/Models/mono_exc6/de_pud/params.pickle --test_lang de_pud
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/de/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name de.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/de/model --params /media/data/LATTICE/Models/mono_exc6/de/params.pickle --test_lang de
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/el/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmUsing external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+     ls it using multilingual embedding?: True
+1-1. End of preparing vocab
+     Training language:  en_partut
+     Load Language vector, Dimensions:  65
+1-2. Load external embedding
+1-2. End of loading external embedding
+1-3. Load external cluster embedding
+1-3 End of loading external cluster embedding
+Add Language Vector language dims:  65
+Total dims:  315 word dims:  100
+Start loading a model
+Finished loading a model
+Finished predicting test. 27.586785078 seconds.
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+stparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name el.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/el-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/el/model --params /media/data/LATTICE/Models/mono_exc6/el/params.pickle --test_lang el
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/en_lines/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name en_lines.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_lines-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/en_lines/model --params /media/data/LATTICE/Models/mono_exc6/en_lines/params.pickle --test_lang en_lines
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/en_partut/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name en_partut.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_partut-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/en_partut/model --params /media/data/LATTICE/Models/mono_exc6/en_partut/params.pickle --test_lang en_partut
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/en_pud/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name en_pud.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_pud-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/en_pud/model --params /media/data/LATTICE/Models/mono_exc6/en_pud/params.pickle --test_lang en_pud
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/en/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name en.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/en/model --params /media/data/LATTICE/Models/mono_exc6/en/params.pickle --test_lang en
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/es_ancora/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name es_ancora.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_ancora-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/es_ancora/model --params /media/data/LATTICE/Models/mono_exc6/es_ancora/params.pickle --test_lang es_ancora
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/es_pud/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name es_pud.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_pud-udpipe.conllu --model /media/data/LATTICEUsing external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+/Models/mono_exc6/es_pud/model --params /media/data/LATTICE/Models/mono_exc6/es_pud/params.pickle --test_lang es_pud
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/es/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name es.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/es/model --params /media/data/LATTICE/Models/mono_exc6/es/params.pickle --test_lang es
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/et/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name et.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/et-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/et/model --params /media/data/LATTICE/Models/mono_exc6/et/params.pickle --test_lang et
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/eu/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name eu.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/eu-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/eu/model --params /media/data/LATTICE/Models/mono_exc6/eu/params.pickle --test_lang eu
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/fa/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name fa.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fa-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/fa/model --params /media/data/LATTICE/Models/mono_exc6/fa/params.pickle --test_lang fa
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/fi_ftb/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name fi_ftb.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_ftb-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/fi_ftb/model --params /media/data/LATTICE/Models/mono_exc6/fi_ftb/params.pickle --test_lang fi_ftb
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/fi_pud/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name fi_pud.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_pud-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/fi_pud/model --params /media/data/LATTICE/Models/mono_exc6/fi_pud/params.pickle --test_lang fi_pud
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/fi/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_nUsing external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+     ls it using multilingual embedding?: True
+1-1. End of preparing vocab
+     Training language:  fr_partut
+     Load Language vector, Dimensions:  65
+1-2. Load external embedding
+1-2. End of loading external embedding
+1-3. Load external cluster embedding
+1-3 End of loading external cluster embedding
+Add Language Vector language dims:  65
+Total dims:  315 word dims:  100
+Start loading a model
+Finished loading a model
+it has multi-root, changing it for heading first root for other roots
+Finished predicting test. 28.0150711536 seconds.
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+     ls it using multilingual embedding?: False
+1-1. End of preparing vocab
+     Training language:  ga
+     Load Language vector, Dimensions:  65
+1-2. Load external embedding
+1-2. End of loading external embedding
+1-3. Load external cluster embedding
+1-3 End of loading external cluster embedding
+Total dims:  250 word dims:  100
+Start loading a model
+Finished loading a model
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+Finished predicting test. 28.6694951057 seconds.
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+     ls it using multilingual embedding?: False
+1-1. End of preparing vocab
+     Training language:  gl_treegal
+     Load Language vector, Dimensions:  65
+1-2. Load external embedding
+1-2. End of loading external embedding
+1-3. Load external cluster embedding
+1-3 End of loading external cluster embedding
+Total dims:  250 word dims:  100
+Start loading a model
+Finished loading a model
+Finished predicting test. 25.3128008842 seconds.
+ame fi.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/fi/model --params /media/data/LATTICE/Models/mono_exc6/fi/params.pickle --test_lang fi
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/fr_partut/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name fr_partut.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_partut-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/fr_partut/model --params /media/data/LATTICE/Models/mono_exc6/fr_partut/params.pickle --test_lang fr_partut
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/fr_pud/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name fr_pud.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_pud-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/fr_pud/model --params /media/data/LATTICE/Models/mono_exc6/fr_pud/params.pickle --test_lang fr_pud
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/fr_sequoia/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name fr_sequoia.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_sequoia-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/fr_sequoia/model --params /media/data/LATTICE/Models/mono_exc6/fr_sequoia/params.pickle --test_lang fr_sequoia
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/fr/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name fr.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/fr/model --params /media/data/LATTICE/Models/mono_exc6/fr/params.pickle --test_lang fr
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/ga/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name ga.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ga-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/ga/model --params /media/data/LATTICE/Models/mono_exc6/ga/params.pickle --test_lang ga
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/gl_treegal/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name gl_treegal.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl_treegal-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/gl_treegal/model --params /media/data/LATTICE/Models/mono_exc6/gl_treegal/params.pickle --test_lang gl_treegal
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/gl/model
+python /home/LATTICE/parser/multilingUsing external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+ual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name gl.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/gl/model --params /media/data/LATTICE/Models/mono_exc6/gl/params.pickle --test_lang gl
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/got/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name got.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/got-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/got/model --params /media/data/LATTICE/Models/mono_exc6/got/params.pickle --test_lang got
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/grc_proiel/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name grc_proiel.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc_proiel-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/grc_proiel/model --params /media/data/LATTICE/Models/mono_exc6/grc_proiel/params.pickle --test_lang grc_proiel
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/grc/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name grc.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/grc/model --params /media/data/LATTICE/Models/mono_exc6/grc/params.pickle --test_lang grc
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/he/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name he.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/he-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/he/model --params /media/data/LATTICE/Models/mono_exc6/he/params.pickle --test_lang he
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/hi_pud/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name hi_pud.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi_pud-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/hi_pud/model --params /media/data/LATTICE/Models/mono_exc6/hi_pud/params.pickle --test_lang hi_pud
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/hi/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name hi.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/hi/model --params /mediaUsing external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+     ls it using multilingual embedding?: True
+1-1. End of preparing vocab
+     Training language:  hsb
+     Load Language vector, Dimensions:  65
+1-2. Load external embedding
+1-2. End of loading external embedding
+1-3. Load external cluster embedding
+1-3 End of loading external cluster embedding
+Add Language Vector language dims:  65
+Total dims:  515 word dims:  100
+Start loading a model
+Finished loading a model
+it has multi-root, changing it for heading first root for other roots
+Finished predicting test. 23.9246180058 seconds.
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+     ls it using multilingual embedding?: True
+1-1. End of preparing vocab
+     Training language:  en
+     Load Language vector, Dimensions:  65
+1-2. Load external embedding
+1-2. End of loading external embedding
+1-3. Load external cluster embedding
+1-3 End of loading external cluster embedding
+Add Language Vector language dims:  65
+Total dims:  290 word dims:  100
+Start loading a model
+Finished loading a model
+Finished predicting test. 23.687046051 seconds.
+/data/LATTICE/Models/mono_exc6/hi/params.pickle --test_lang hi
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/hr/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name hr.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hr-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/hr/model --params /media/data/LATTICE/Models/mono_exc6/hr/params.pickle --test_lang hr
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/hsb/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name hsb.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/hsb/model --params /media/data/LATTICE/Models/mono_exc6/hsb/params.pickle --test_lang hsb
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/hu/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name hu.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hu-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/hu/model --params /media/data/LATTICE/Models/mono_exc6/hu/params.pickle --test_lang hu
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/id/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name id.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/id-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/id/model --params /media/data/LATTICE/Models/mono_exc6/id/params.pickle --test_lang id
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/it_pud/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name it_pud.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it_pud-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/it_pud/model --params /media/data/LATTICE/Models/mono_exc6/it_pud/params.pickle --test_lang it_pud
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/it/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name it.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/it/model --params /media/data/LATTICE/Models/mono_exc6/it/params.pickle --test_lang it
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/ja_pud/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name ja_pud.conllu --test /media/test-datasets/universal-dependency-lUsing external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+     ls it using multilingual embedding?: True
+1-1. End of preparing vocab
+     Training language:  kk
+     Load Language vector, Dimensions:  65
+1-2. Load external embedding
+1-2. End of loading external embedding
+1-3. Load external cluster embedding
+1-3 End of loading external cluster embedding
+Add Language Vector language dims:  65
+Total dims:  515 word dims:  100
+Start loading a model
+Finished loading a model
+Finished predicting test. 20.4591970444 seconds.
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+     ls it using multilingual embedding?: True
+1-1. End of preparing vocab
+     Training language:  kmr
+     Load Language vector, Dimensions:  65
+1-2. Load external embedding
+1-2. End of loading external embedding
+1-3. Load external cluster embedding
+1-3 End of loading external cluster embedding
+Add Language Vector language dims:  65
+Total dims:  515 word dims:  100
+Start loading a model
+Finished loading a model
+Finished predicting test. 21.7220170498 seconds.
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+earning/conll17-ud-test-2017-05-09/ja_pud-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/ja_pud/model --params /media/data/LATTICE/Models/mono_exc6/ja_pud/params.pickle --test_lang ja_pud
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/ja/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name ja.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/ja/model --params /media/data/LATTICE/Models/mono_exc6/ja/params.pickle --test_lang ja
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/kk/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name kk.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kk-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/kk/model --params /media/data/LATTICE/Models/mono_exc6/kk/params.pickle --test_lang kk
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/kmr/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name kmr.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/kmr/model --params /media/data/LATTICE/Models/mono_exc6/kmr/params.pickle --test_lang kmr
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/ko/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name ko.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ko-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/ko/model --params /media/data/LATTICE/Models/mono_exc6/ko/params.pickle --test_lang ko
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/la_ittb/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name la_ittb.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_ittb-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/la_ittb/model --params /media/data/LATTICE/Models/mono_exc6/la_ittb/params.pickle --test_lang la_ittb
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/la_proiel/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name la_proiel.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_proiel-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/la_proiel/model --params /media/data/LATTICE/Models/mono_exc6/la_proiel/params.pickle --test_lang la_proiel
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/la/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICUsing external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+     ls it using multilingual embedding?: False
+1-1. End of preparing vocab
+     Training language:  la
+     Load Language vector, Dimensions:  65
+1-2. Load external embedding
+1-2. End of loading external embedding
+1-3. Load external cluster embedding
+1-3 End of loading external cluster embedding
+Total dims:  250 word dims:  100
+Start loading a model
+Finished loading a model
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+Finished predicting test. 17.5719230175 seconds.
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+E/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name la.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/la/model --params /media/data/LATTICE/Models/mono_exc6/la/params.pickle --test_lang la
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/lv/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name lv.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/lv-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/lv/model --params /media/data/LATTICE/Models/mono_exc6/lv/params.pickle --test_lang lv
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/nl_lassysmall/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name nl_lassysmall.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl_lassysmall-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/nl_lassysmall/model --params /media/data/LATTICE/Models/mono_exc6/nl_lassysmall/params.pickle --test_lang nl_lassysmall
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/nl/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name nl.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/nl/model --params /media/data/LATTICE/Models/mono_exc6/nl/params.pickle --test_lang nl
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/no_bokmaal/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name no_bokmaal.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_bokmaal-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/no_bokmaal/model --params /media/data/LATTICE/Models/mono_exc6/no_bokmaal/params.pickle --test_lang no_bokmaal
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/no_nynorsk/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name no_nynorsk.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_nynorsk-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/no_nynorsk/model --params /media/data/LATTICE/Models/mono_exc6/no_nynorsk/params.pickle --test_lang no_nynorsk
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/pl/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name pl.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pl-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/pl/model --params /media/data/LATTICE/Models/mono_exc6/pl/params.pickle --testUsing external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+_lang pl
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/pt_br/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name pt_br.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_br-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/pt_br/model --params /media/data/LATTICE/Models/mono_exc6/pt_br/params.pickle --test_lang pt_br
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/pt_pud/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name pt_pud.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_pud-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/pt_pud/model --params /media/data/LATTICE/Models/mono_exc6/pt_pud/params.pickle --test_lang pt_pud
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/pt/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name pt.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/pt/model --params /media/data/LATTICE/Models/mono_exc6/pt/params.pickle --test_lang pt
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/ro/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name ro.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ro-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/ro/model --params /media/data/LATTICE/Models/mono_exc6/ro/params.pickle --test_lang ro
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/ru_pud/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name ru_pud.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_pud-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/ru_pud/model --params /media/data/LATTICE/Models/mono_exc6/ru_pud/params.pickle --test_lang ru_pud
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/ru_syntagrus/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name ru_syntagrus.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_syntagrus-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/ru_syntagrus/model --params /media/data/LATTICE/Models/mono_exc6/ru_syntagrus/params.pickle --test_lang ru_syntagrus
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/ru/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name ru.conllu --test /media/teUsing external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+     ls it using multilingual embedding?: False
+1-1. End of preparing vocab
+     Training language:  sl_sst
+     Load Language vector, Dimensions:  65
+1-2. Load external embedding
+1-2. End of loading external embedding
+1-3. Load external cluster embedding
+1-3 End of loading external cluster embedding
+Total dims:  250 word dims:  100
+Start loading a model
+Finished loading a model
+it has multi-root, changing it for heading first root for other roots
+Finished predicting test. 21.4018790722 seconds.
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+     ls it using multilingual embedding?: True
+1-1. End of preparing vocab
+     Training language:  sme
+     Load Language vector, Dimensions:  65
+1-2. Load external embedding
+1-2. End of loading external embedding
+1-3. Load external cluster embedding
+1-3 End of loading external cluster embedding
+Add Language Vector language dims:  65
+Total dims:  515 word dims:  100
+Start loading a model
+Finished loading a model
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+Finished predicting test. 19.6174080372 seconds.
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+st-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/ru/model --params /media/data/LATTICE/Models/mono_exc6/ru/params.pickle --test_lang ru
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/sk/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name sk.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sk-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/sk/model --params /media/data/LATTICE/Models/mono_exc6/sk/params.pickle --test_lang sk
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/sl_sst/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name sl_sst.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl_sst-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/sl_sst/model --params /media/data/LATTICE/Models/mono_exc6/sl_sst/params.pickle --test_lang sl_sst
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/sl/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name sl.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/sl/model --params /media/data/LATTICE/Models/mono_exc6/sl/params.pickle --test_lang sl
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/sme/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name sme.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/sme/model --params /media/data/LATTICE/Models/mono_exc6/sme/params.pickle --test_lang sme
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/sv_lines/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name sv_lines.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_lines-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/sv_lines/model --params /media/data/LATTICE/Models/mono_exc6/sv_lines/params.pickle --test_lang sv_lines
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/sv_pud/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name sv_pud.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_pud-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/sv_pud/model --params /media/data/LATTICE/Models/mono_exc6/sv_pud/params.pickle --test_lang sv_pud
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/sv/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 2048Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+     ls it using multilingual embedding?: False
+1-1. End of preparing vocab
+     Training language:  ug
+     Load Language vector, Dimensions:  65
+1-2. Load external embedding
+1-2. End of loading external embedding
+1-3. Load external cluster embedding
+1-3 End of loading external cluster embedding
+Total dims:  250 word dims:  100
+Start loading a model
+Finished loading a model
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+it has multi-root, changing it for heading first root for other roots
+Finished predicting test. 17.4397451878 seconds.
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+     ls it using multilingual embedding?: False
+1-1. End of preparing vocab
+     Training language:  uk
+     Load Language vector, Dimensions:  65
+1-2. Load external embedding
+1-2. End of loading external embedding
+1-3. Load external cluster embedding
+1-3 End of loading external cluster embedding
+Total dims:  250 word dims:  100
+Start loading a model
+Finished loading a model
+Finished predicting test. 22.9400930405 seconds.
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+Using external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+0 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name sv.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/sv/model --params /media/data/LATTICE/Models/mono_exc6/sv/params.pickle --test_lang sv
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/tr_pud/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name tr_pud.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr_pud-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/tr_pud/model --params /media/data/LATTICE/Models/mono_exc6/tr_pud/params.pickle --test_lang tr_pud
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/tr/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name tr.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/tr/model --params /media/data/LATTICE/Models/mono_exc6/tr/params.pickle --test_lang tr
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/ug/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name ug.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ug-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/ug/model --params /media/data/LATTICE/Models/mono_exc6/ug/params.pickle --test_lang ug
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/uk/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name uk.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/uk-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/uk/model --params /media/data/LATTICE/Models/mono_exc6/uk/params.pickle --test_lang uk
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/ur/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name ur.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ur-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/ur/model --params /media/data/LATTICE/Models/mono_exc6/ur/params.pickle --test_lang ur
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/vi/model
+python /home/LATTICE/parser/multilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name vi.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/vi-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/vi/model --params /media/data/LATTICE/Models/mono_exc6/vi/params.pickle --test_lang vi
+Before loading dynet
+/media/data/LATTICE/Models/mono_exc6/zh/model
+python /home/LATTICE/parser/multUsing external embedding: None
+Initializing lstm mstparser:
+1. Init Parser
+1-1. Preparing vocab
+ilingual-bist-parser/bist-parser/bmstparser/src/parser.py --predict --dynet-seed 123456789 --dynet-mem 20480 --lang_vec_file /home/LATTICE/parser/multilingual-bist-parser/language_vec.csv --outdir /tmp/LATTICE/2017-05-15-06-35-50/output/ --out_file_name zh.conllu --test /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh-udpipe.conllu --model /media/data/LATTICE/Models/mono_exc6/zh/model --params /media/data/LATTICE/Models/mono_exc6/zh/params.pickle --test_lang zh
+Before loading dynet

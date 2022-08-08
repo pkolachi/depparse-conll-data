@@ -1,0 +1,155 @@
+parallel treebank: ja_pud -> ja
+Loading UDPipe model: done.
+[2017-5-24 14:33:45]  start of segment process.
+[dynet] random seed: 990139921
+[dynet] allocating memory: 2048MB
+[dynet] memory allocation done.
+[2017-5-24 14:33:48]  Reading training data from /media/data/bzheng/ja/ja_train_BI.txt...
+[2017-5-24 14:33:50]  7164 lines, 2813 unigrams, 55936 bigrams, 
+[2017-5-24 14:33:50]  Reading devlopment data from /media/data/bzheng/ja/ja_devel_BI.txt...
+[2017-5-24 14:33:50]  511 lines, 2848 unigrams, 58134 bigrams, 
+[2017-5-24 14:33:50]  Reading testing data from test_segment_ja.txt...
+[2017-5-24 14:33:50]  1034 lines, 2899 unigrams, 61598 bigrams, 
+[2017-5-24 14:33:50]  Reading embedding data from /media/data/bzheng/ja/ja.100.embed...
+[2017-5-24 14:34:24]  saved embed: 58581
+[2017-5-24 14:34:24]  Reading MI data from /media/data/bzheng/ja/ja_zscore_ordered.mutual...
+[2017-5-24 14:34:42]  Saved MI: 61352
+Using bidirectional LSTM.
+[2017-5-24 14:34:42]  going to load parameters from file: /media/data/bzheng/ja/ja.param
+P = 0 R = 0 F = 0
+[2017-5-24 14:34:59]  end of segment process.
+Segmentation fault (core dumped)
+Loading UDPipe model: done.
+2017-05-24 14:35:12,954 [INFO] start preprocess
+2017-05-24 14:35:17,991 [INFO] start scanning origin embedding
+2017-05-24 14:37:24,564 [INFO] end scanning origin embedding
+2017-05-24 14:37:24,565 [INFO] end preprocess
+2017-05-24 14:37:24,565 [INFO] start testing....
+2017-05-24 14:38:03,271 [INFO] accuracy:0.589539532129
+2017-05-24 14:38:03,658 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/ja_pud.pos
+2017-05-24 14:38:03,658 [INFO] end testing
+[Wed May 24 14:38:04 2017] Loading infos from /media/data/yxwang/models/ja.infos
+[dynet] random seed: 410789050
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 24 14:38:07 2017] loading model from /media/data/yxwang/models/parser_ja-mod.params
+[Wed May 24 14:38:08 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/ja_pud.pos
+[Wed May 24 14:38:09 2017] Loading extra word embeddings from ../resources/pruned_embedding/ja.ext-vec with 100 dimensions
+[Wed May 24 14:38:09 2017] Start Parsing.
+[Wed May 24 14:42:03 2017] TEST 1034 sents in 234663 ms
+Loading UDPipe model: done.
+[2017-5-24 14:42:6]  start of segment process.
+[dynet] random seed: 2192165911
+[dynet] allocating memory: 2048MB
+[dynet] memory allocation done.
+[2017-5-24 14:42:6]  Reading training data from /media/data/bzheng/ja/ja_train_BI.txt...
+[2017-5-24 14:42:7]  7164 lines, 2813 unigrams, 55936 bigrams, 
+[2017-5-24 14:42:7]  Reading devlopment data from /media/data/bzheng/ja/ja_devel_BI.txt...
+[2017-5-24 14:42:7]  511 lines, 2848 unigrams, 58134 bigrams, 
+[2017-5-24 14:42:7]  Reading testing data from test_segment_ja.txt...
+[2017-5-24 14:42:7]  547 lines, 2862 unigrams, 60285 bigrams, 
+[2017-5-24 14:42:7]  Reading embedding data from /media/data/bzheng/ja/ja.100.embed...
+[2017-5-24 14:42:37]  saved embed: 57384
+[2017-5-24 14:42:37]  Reading MI data from /media/data/bzheng/ja/ja_zscore_ordered.mutual...
+[2017-5-24 14:42:44]  Saved MI: 60172
+Using bidirectional LSTM.
+[2017-5-24 14:42:44]  going to load parameters from file: /media/data/bzheng/ja/ja.param
+P = 0.000394477 R = 0.00914077 F = 0.000756315
+[2017-5-24 14:42:52]  end of segment process.
+Segmentation fault (core dumped)
+Loading UDPipe model: done.
+2017-05-24 14:42:56,879 [INFO] start preprocess
+2017-05-24 14:43:01,707 [INFO] start scanning origin embedding
+2017-05-24 14:44:54,471 [INFO] end scanning origin embedding
+2017-05-24 14:44:54,472 [INFO] end preprocess
+2017-05-24 14:44:54,472 [INFO] start testing....
+2017-05-24 14:45:16,850 [INFO] accuracy:0.575226824458
+2017-05-24 14:45:17,017 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/ja.pos
+2017-05-24 14:45:17,017 [INFO] end testing
+[Wed May 24 14:45:17 2017] Loading infos from /media/data/yxwang/models/ja.infos
+[dynet] random seed: 4270042181
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 24 14:45:19 2017] loading model from /media/data/yxwang/models/parser_ja-mod.params
+[Wed May 24 14:45:20 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/ja.pos
+[Wed May 24 14:45:20 2017] Loading extra word embeddings from ../resources/pruned_embedding/ja.ext-vec with 100 dimensions
+[Wed May 24 14:45:20 2017] Start Parsing.
+[Wed May 24 14:47:14 2017] TEST 547 sents in 113818 ms
+Loading UDPipe model: done.
+[2017-5-24 14:47:15]  start of segment process.
+[dynet] random seed: 2264148156
+[dynet] allocating memory: 2048MB
+[dynet] memory allocation done.
+[2017-5-24 14:47:16]  Reading training data from /media/data/bzheng/vi/vi_train_BI.txt...
+[2017-5-24 14:47:16]  1400 lines, 2642 unigrams, 16588 bigrams, 
+[2017-5-24 14:47:16]  Reading devlopment data from /media/data/bzheng/vi/vi_devel_BI.txt...
+[2017-5-24 14:47:16]  800 lines, 3156 unigrams, 23933 bigrams, 
+[2017-5-24 14:47:16]  Reading testing data from test_segment_vi.txt...
+[2017-5-24 14:47:16]  823 lines, 3672 unigrams, 31249 bigrams, 
+[2017-5-24 14:47:16]  Reading embedding data from /media/data/bzheng/vi/vi.100.embed...
+[2017-5-24 14:47:29]  saved embed: 17251
+[2017-5-24 14:47:29]  Reading MI data from /media/data/bzheng/vi/vi_zscore_ordered.mutual...
+[2017-5-24 14:48:8]  Saved MI: 27632
+Using bidirectional LSTM.
+[2017-5-24 14:48:8]  going to load parameters from file: /media/data/bzheng/vi/vi.param
+P = 0 R = 0 F = 0
+[2017-5-24 14:48:14]  end of segment process.
+Segmentation fault (core dumped)
+Loading UDPipe model: done.
+2017-05-24 14:48:19,596 [INFO] start preprocess
+2017-05-24 14:48:21,699 [INFO] start scanning origin embedding
+2017-05-24 14:49:42,785 [INFO] end scanning origin embedding
+2017-05-24 14:49:42,786 [INFO] end preprocess
+2017-05-24 14:49:42,786 [INFO] start testing....
+2017-05-24 14:50:09,198 [INFO] accuracy:0.783017339167
+2017-05-24 14:50:09,372 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/vi.pos
+2017-05-24 14:50:09,372 [INFO] end testing
+[Wed May 24 14:50:09 2017] Loading infos from /media/data/yxwang/models/vi.infos
+[dynet] random seed: 2791555042
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 24 14:50:15 2017] loading model from /media/data/yxwang/models/parser_vi-mod1.params
+[Wed May 24 14:50:15 2017] loading 2nd model from /media/data/yxwang/models/parser_vi-mod2.params
+[Wed May 24 14:50:16 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/vi.pos
+[Wed May 24 14:50:16 2017] Loading extra word embeddings from ../resources/pruned_embedding/vi.ext-vec with 100 dimensions
+[Wed May 24 14:50:16 2017] Start Parsing.
+[Wed May 24 14:53:52 2017] TEST 823 sents in 215403 ms
+Loading UDPipe model: done.
+[2017-5-24 14:53:54]  start of segment process.
+[dynet] random seed: 736679505
+[dynet] allocating memory: 2048MB
+[dynet] memory allocation done.
+[2017-5-24 14:53:54]  Reading training data from /media/data/bzheng/zh/zh_train_BI.txt...
+[2017-5-24 14:53:55]  3997 lines, 3512 unigrams, 64347 bigrams, 
+[2017-5-24 14:53:55]  Reading devlopment data from /media/data/bzheng/zh/zh_devel_BI.txt...
+[2017-5-24 14:53:55]  500 lines, 3613 unigrams, 70280 bigrams, 
+[2017-5-24 14:53:55]  Reading testing data from test_segment_zh.txt...
+[2017-5-24 14:53:55]  496 lines, 3676 unigrams, 75589 bigrams, 
+[2017-5-24 14:53:55]  Reading embedding data from /media/data/bzheng/zh/zh.100.embed...
+[2017-5-24 14:54:35]  saved embed: 63406
+[2017-5-24 14:54:35]  Reading MI data from /media/data/bzheng/zh/zh_zscore_ordered.mutual...
+[2017-5-24 14:54:52]  Saved MI: 75402
+Using bidirectional LSTM.
+[2017-5-24 14:54:53]  going to load parameters from file: /media/data/bzheng/zh/zh.param
+P = 0 R = 0 F = 0
+[2017-5-24 14:54:59]  end of segment process.
+Segmentation fault (core dumped)
+Loading UDPipe model: done.
+2017-05-24 14:55:04,335 [INFO] start preprocess
+2017-05-24 14:55:12,526 [INFO] start scanning origin embedding
+2017-05-24 14:56:02,673 [INFO] end scanning origin embedding
+2017-05-24 14:56:02,676 [INFO] end preprocess
+2017-05-24 14:56:02,676 [INFO] start testing....
+2017-05-24 14:56:23,360 [INFO] accuracy:0.599152964624
+2017-05-24 14:56:23,568 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/zh.pos
+2017-05-24 14:56:23,569 [INFO] end testing
+[Wed May 24 14:56:23 2017] Loading infos from /media/data/yxwang/models/zh.infos
+[dynet] random seed: 3616843506
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 24 14:56:26 2017] loading model from /media/data/yxwang/models/parser_zh-mod1.params
+[Wed May 24 14:56:27 2017] loading 2nd model from /media/data/yxwang/models/parser_zh-mod2.params
+[Wed May 24 14:56:28 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/zh.pos
+[Wed May 24 14:56:28 2017] Loading extra word embeddings from ../resources/pruned_embedding/zh.ext-vec with 100 dimensions
+[Wed May 24 14:56:28 2017] Start Parsing.
+[Wed May 24 15:01:33 2017] TEST 496 sents in 305393 ms

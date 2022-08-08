@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "parse_meta.py", line 16, in <module>
+    name_file.write(item['name']+ '\n')
+KeyError: 'name'

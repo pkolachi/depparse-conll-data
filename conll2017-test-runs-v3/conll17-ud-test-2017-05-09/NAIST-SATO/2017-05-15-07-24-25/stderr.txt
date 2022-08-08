@@ -1,0 +1,81 @@
+ar_pud        OK: Evaluated non-zero LAS F1 score
+ar            OK: Evaluated non-zero LAS F1 score
+bg            Error: There is a cycle in generated CoNLL-U file
+bxr           Error: There is a cycle in generated CoNLL-U file
+ca            OK: Evaluated non-zero LAS F1 score
+cs_cac        OK: Evaluated non-zero LAS F1 score
+cs_cltt       OK: Evaluated non-zero LAS F1 score
+cs_pud        OK: Evaluated non-zero LAS F1 score
+cs            OK: Evaluated non-zero LAS F1 score
+cu            Error: There is a cycle in generated CoNLL-U file
+da            OK: Evaluated non-zero LAS F1 score
+de_pud        OK: Evaluated non-zero LAS F1 score
+de            OK: Evaluated non-zero LAS F1 score
+el            OK: Evaluated non-zero LAS F1 score
+en_lines      OK: Evaluated non-zero LAS F1 score
+en_partut     OK: Evaluated non-zero LAS F1 score
+en_pud        OK: Evaluated non-zero LAS F1 score
+en            OK: Evaluated non-zero LAS F1 score
+es_ancora     OK: Evaluated non-zero LAS F1 score
+es_pud        OK: Evaluated non-zero LAS F1 score
+es            OK: Evaluated non-zero LAS F1 score
+et            OK: Evaluated non-zero LAS F1 score
+eu            OK: Evaluated non-zero LAS F1 score
+fa            OK: Evaluated non-zero LAS F1 score
+fi_ftb        Error: There is a cycle in generated CoNLL-U file
+fi_pud        OK: Evaluated non-zero LAS F1 score
+fi            Error: There is a cycle in generated CoNLL-U file
+fr_partut     OK: Evaluated non-zero LAS F1 score
+fr_pud        OK: Evaluated non-zero LAS F1 score
+fr_sequoia    OK: Evaluated non-zero LAS F1 score
+fr            OK: Evaluated non-zero LAS F1 score
+ga            OK: Evaluated non-zero LAS F1 score
+gl_treegal    OK: Evaluated non-zero LAS F1 score
+gl            OK: Evaluated non-zero LAS F1 score
+got           Error: There is a cycle in generated CoNLL-U file
+grc_proiel    OK: Evaluated non-zero LAS F1 score
+grc           OK: Evaluated non-zero LAS F1 score
+he            OK: Evaluated non-zero LAS F1 score
+hi_pud        Error: There is a cycle in generated CoNLL-U file
+hi            OK: Evaluated non-zero LAS F1 score
+hr            OK: Evaluated non-zero LAS F1 score
+hsb           OK: Evaluated non-zero LAS F1 score
+hu            OK: Evaluated non-zero LAS F1 score
+id            OK: Evaluated non-zero LAS F1 score
+it_pud        Error: There is a cycle in generated CoNLL-U file
+it            OK: Evaluated non-zero LAS F1 score
+ja_pud        Error: There is a cycle in generated CoNLL-U file
+ja            Error: There is a cycle in generated CoNLL-U file
+kk            Error: There is a cycle in generated CoNLL-U file
+kmr           OK: Evaluated non-zero LAS F1 score
+ko            OK: Evaluated non-zero LAS F1 score
+la_ittb       OK: Evaluated non-zero LAS F1 score
+la_proiel     OK: Evaluated non-zero LAS F1 score
+la            Error: There is a cycle in generated CoNLL-U file
+lv            OK: Evaluated non-zero LAS F1 score
+nl_lassysmall OK: Evaluated non-zero LAS F1 score
+nl            OK: Evaluated non-zero LAS F1 score
+no_bokmaal    OK: Evaluated non-zero LAS F1 score
+no_nynorsk    OK: Evaluated non-zero LAS F1 score
+pl            OK: Evaluated non-zero LAS F1 score
+pt_br         OK: Evaluated non-zero LAS F1 score
+pt_pud        Error: There is a cycle in generated CoNLL-U file
+pt            OK: Evaluated non-zero LAS F1 score
+ro            OK: Evaluated non-zero LAS F1 score
+ru_pud        OK: Evaluated non-zero LAS F1 score
+ru_syntagrus  Error: There is a cycle in generated CoNLL-U file
+ru            Error: There is a cycle in generated CoNLL-U file
+sk            Error: There is a cycle in generated CoNLL-U file
+sl_sst        Error: There is a cycle in generated CoNLL-U file
+sl            OK: Evaluated non-zero LAS F1 score
+sme           OK: Evaluated non-zero LAS F1 score
+sv_lines      Error: There is a cycle in generated CoNLL-U file
+sv_pud        Error: There is a cycle in generated CoNLL-U file
+sv            OK: Evaluated non-zero LAS F1 score
+tr_pud        OK: Evaluated non-zero LAS F1 score
+tr            OK: Evaluated non-zero LAS F1 score
+ug            OK: Evaluated non-zero LAS F1 score
+uk            OK: Evaluated non-zero LAS F1 score
+ur            OK: Evaluated non-zero LAS F1 score
+vi            OK: Evaluated non-zero LAS F1 score
+zh            OK: Evaluated non-zero LAS F1 score

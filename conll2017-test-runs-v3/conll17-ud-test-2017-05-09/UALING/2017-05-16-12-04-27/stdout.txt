@@ -1,0 +1,165 @@
+python3 mySoftware2 /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/UALING/2017-05-16-12-04-27/output
+
+
+/home/UALING/ud-treebanks-conll2017/ar_pud-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/ar_pud-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar_pud-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/ar_pud.conllu
+/home/UALING/ud-treebanks-conll2017/ar-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/ar-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/ar.conllu
+/home/UALING/ud-treebanks-conll2017/bg-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/bg-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bg-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/bg.conllu
+/home/UALING/ud-treebanks-conll2017/bxr-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/bxr-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/bxr.conllu
+/home/UALING/ud-treebanks-conll2017/ca-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/ca-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ca-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/ca.conllu
+/home/UALING/ud-treebanks-conll2017/cs_cac-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/cs_cac-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cac-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/cs_cac.conllu
+/home/UALING/ud-treebanks-conll2017/cs_cltt-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/cs_cltt-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cltt-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/cs_cltt.conllu
+/home/UALING/ud-treebanks-conll2017/cs_pud-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/cs_pud-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_pud-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/cs_pud.conllu
+/home/UALING/ud-treebanks-conll2017/cs-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/cs-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/cs.conllu
+/home/UALING/ud-treebanks-conll2017/cu-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/cu-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cu-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/cu.conllu
+/home/UALING/ud-treebanks-conll2017/da-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/da-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/da-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/da.conllu
+/home/UALING/ud-treebanks-conll2017/de_pud-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/de_pud-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de_pud-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/de_pud.conllu
+/home/UALING/ud-treebanks-conll2017/de-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/de-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/de.conllu
+/home/UALING/ud-treebanks-conll2017/el-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/el-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/el-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/el.conllu
+/home/UALING/ud-treebanks-conll2017/en_lines-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/en_lines-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_lines-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/en_lines.conllu
+/home/UALING/ud-treebanks-conll2017/en_partut-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/en_partut-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_partut-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/en_partut.conllu
+/home/UALING/ud-treebanks-conll2017/en_pud-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/en_pud-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_pud-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/en_pud.conllu
+/home/UALING/ud-treebanks-conll2017/en-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/en-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/en.conllu
+/home/UALING/ud-treebanks-conll2017/es_ancora-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/es_ancora-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_ancora-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/es_ancora.conllu
+/home/UALING/ud-treebanks-conll2017/es_pud-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/es_pud-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_pud-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/es_pud.conllu
+/home/UALING/ud-treebanks-conll2017/es-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/es-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/es.conllu
+/home/UALING/ud-treebanks-conll2017/et-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/et-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/et-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/et.conllu
+/home/UALING/ud-treebanks-conll2017/eu-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/eu-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/eu-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/eu.conllu
+/home/UALING/ud-treebanks-conll2017/fa-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/fa-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fa-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/fa.conllu
+/home/UALING/ud-treebanks-conll2017/fi_ftb-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/fi_ftb-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_ftb-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/fi_ftb.conllu
+/home/UALING/ud-treebanks-conll2017/fi_pud-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/fi_pud-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_pud-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/fi_pud.conllu
+/home/UALING/ud-treebanks-conll2017/fi-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/fi-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/fi.conllu
+/home/UALING/ud-treebanks-conll2017/fr_partut-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/fr_partut-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_partut-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/fr_partut.conllu
+/home/UALING/ud-treebanks-conll2017/fr_pud-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/fr_pud-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_pud-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/fr_pud.conllu
+/home/UALING/ud-treebanks-conll2017/fr_sequoia-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/fr_sequoia-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_sequoia-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/fr_sequoia.conllu
+/home/UALING/ud-treebanks-conll2017/fr-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/fr-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/fr.conllu
+/home/UALING/ud-treebanks-conll2017/ga-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/ga-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ga-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/ga.conllu
+/home/UALING/ud-treebanks-conll2017/gl_treegal-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/gl_treegal-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl_treegal-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/gl_treegal.conllu
+/home/UALING/ud-treebanks-conll2017/gl-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/gl-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/gl.conllu
+/home/UALING/ud-treebanks-conll2017/got-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/got-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/got-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/got.conllu
+/home/UALING/ud-treebanks-conll2017/grc_proiel-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/grc_proiel-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc_proiel-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/grc_proiel.conllu
+/home/UALING/ud-treebanks-conll2017/grc-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/grc-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/grc.conllu
+/home/UALING/ud-treebanks-conll2017/he-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/he-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/he-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/he.conllu
+/home/UALING/ud-treebanks-conll2017/hi_pud-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/hi_pud-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi_pud-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/hi_pud.conllu
+/home/UALING/ud-treebanks-conll2017/hi-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/hi-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/hi.conllu
+/home/UALING/ud-treebanks-conll2017/hr-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/hr-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hr-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/hr.conllu
+/home/UALING/ud-treebanks-conll2017/hsb-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/hsb-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/hsb.conllu
+/home/UALING/ud-treebanks-conll2017/hu-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/hu-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hu-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/hu.conllu
+/home/UALING/ud-treebanks-conll2017/id-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/id-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/id-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/id.conllu
+/home/UALING/ud-treebanks-conll2017/it_pud-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/it_pud-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it_pud-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/it_pud.conllu
+/home/UALING/ud-treebanks-conll2017/it-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/it-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/it.conllu
+/home/UALING/ud-treebanks-conll2017/ja_pud-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/ja_pud-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja_pud-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/ja_pud.conllu
+/home/UALING/ud-treebanks-conll2017/ja-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/ja-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/ja.conllu
+/home/UALING/ud-treebanks-conll2017/kk-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/kk-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kk-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/kk.conllu
+/home/UALING/ud-treebanks-conll2017/kmr-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/kmr-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/kmr.conllu
+/home/UALING/ud-treebanks-conll2017/ko-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/ko-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ko-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/ko.conllu
+/home/UALING/ud-treebanks-conll2017/la_ittb-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/la_ittb-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_ittb-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/la_ittb.conllu
+/home/UALING/ud-treebanks-conll2017/la_proiel-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/la_proiel-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_proiel-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/la_proiel.conllu
+/home/UALING/ud-treebanks-conll2017/la-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/la-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/la.conllu
+/home/UALING/ud-treebanks-conll2017/lv-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/lv-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/lv-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/lv.conllu
+/home/UALING/ud-treebanks-conll2017/nl_lassysmall-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/nl_lassysmall-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl_lassysmall-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/nl_lassysmall.conllu
+/home/UALING/ud-treebanks-conll2017/nl-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/nl-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/nl.conllu
+/home/UALING/ud-treebanks-conll2017/no_bokmaal-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/no_bokmaal-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_bokmaal-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/no_bokmaal.conllu
+/home/UALING/ud-treebanks-conll2017/no_nynorsk-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/no_nynorsk-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_nynorsk-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/no_nynorsk.conllu
+/home/UALING/ud-treebanks-conll2017/pl-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/pl-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pl-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/pl.conllu
+/home/UALING/ud-treebanks-conll2017/pt_br-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/pt_br-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_br-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/pt_br.conllu
+/home/UALING/ud-treebanks-conll2017/pt_pud-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/pt_pud-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_pud-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/pt_pud.conllu
+/home/UALING/ud-treebanks-conll2017/pt-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/pt-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/pt.conllu
+/home/UALING/ud-treebanks-conll2017/ro-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/ro-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ro-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/ro.conllu
+/home/UALING/ud-treebanks-conll2017/ru_pud-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/ru_pud-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_pud-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/ru_pud.conllu
+/home/UALING/ud-treebanks-conll2017/ru_syntagrus-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/ru_syntagrus-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_syntagrus-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/ru_syntagrus.conllu
+/home/UALING/ud-treebanks-conll2017/ru-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/ru-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/ru.conllu
+/home/UALING/ud-treebanks-conll2017/sk-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/sk-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sk-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/sk.conllu
+/home/UALING/ud-treebanks-conll2017/sl_sst-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/sl_sst-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl_sst-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/sl_sst.conllu
+/home/UALING/ud-treebanks-conll2017/sl-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/sl-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/sl.conllu
+/home/UALING/ud-treebanks-conll2017/sme-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/sme-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/sme.conllu
+/home/UALING/ud-treebanks-conll2017/sv_lines-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/sv_lines-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_lines-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/sv_lines.conllu
+/home/UALING/ud-treebanks-conll2017/sv_pud-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/sv_pud-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_pud-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/sv_pud.conllu
+/home/UALING/ud-treebanks-conll2017/sv-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/sv-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/sv.conllu
+/home/UALING/ud-treebanks-conll2017/tr_pud-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/tr_pud-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr_pud-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/tr_pud.conllu
+/home/UALING/ud-treebanks-conll2017/tr-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/tr-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/tr.conllu
+/home/UALING/ud-treebanks-conll2017/ug-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/ug-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ug-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/ug.conllu
+/home/UALING/ud-treebanks-conll2017/uk-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/uk-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/uk-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/uk.conllu
+/home/UALING/ud-treebanks-conll2017/ur-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/ur-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ur-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/ur.conllu
+/home/UALING/ud-treebanks-conll2017/vi-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/vi-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/vi-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/vi.conllu
+/home/UALING/ud-treebanks-conll2017/zh-ud-train.conllu.2.udpipe
+/home/UALING/udpipe-1.1.0-bin/bin-linux64/udpipe --input=conllu --parse /home/UALING/ud-treebanks-conll2017/zh-ud-train.conllu.2.udpipe /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh-udpipe.conllu > /tmp/UALING/2017-05-16-12-04-27/output/zh.conllu

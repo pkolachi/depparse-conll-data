@@ -1,0 +1,27 @@
+Traceback (most recent call last):
+  File "segmenter.py", line 382, in <module>
+    raw_x, raw_len = toolbox.get_input_vec_tag(None, raw_file, char2idx, limit=args.sent_limit, is_space=is_space)
+  File "/home/Uppsala/segmenter/toolbox.py", line 684, in get_input_vec_tag
+    x_indices = chop(x_indices, char2idx['<#>'], limit)
+  File "/home/Uppsala/segmenter/toolbox.py", line 347, in chop
+    while len(out[-1]) < limit-1:
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "segmenter.py", line 382, in <module>
+    raw_x, raw_len = toolbox.get_input_vec_tag(None, raw_file, char2idx, limit=args.sent_limit, is_space=is_space)
+  File "/home/Uppsala/segmenter/toolbox.py", line 684, in get_input_vec_tag
+    x_indices = chop(x_indices, char2idx['<#>'], limit)
+  File "/home/Uppsala/segmenter/toolbox.py", line 347, in chop
+    while len(out[-1]) < limit-1:
+IndexError: list index out of range
+[dynet] random seed: 1727983025
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+Traceback (most recent call last):
+  File "src/parser.py", line 216, in <module>
+    om = OptionsManager(options)
+  File "/home/Uppsala/bist-parser/uuparser/bist-parser/barchybrid/src/options_manager.py", line 62, in __init__
+    self.conllu)
+  File "/home/Uppsala/bist-parser/uuparser/bist-parser/barchybrid/src/options_manager.py", line 98, in prepare_data
+    in order to use it for prediction")
+Exception: You must train with the option pseudo-projective                                in order to use it for prediction

@@ -1,0 +1,21 @@
+#0
+1
+2
+3
+1	Stručnjaci	stručnjak	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	aux	_	_
+2	navode	navoditi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	amod	_	_
+3	kako	kako	SCONJ	_	_	12	iobj	_	_
+4	će	htjeti	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	nmod	_	_
+5	metalurški	metalurški	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	flat	_	_
+6	sektor	sektor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	flat	_	_
+7	u	u	ADP	_	Case=Loc	11	amod	_	_
+8	Makedoniji	Makedonija	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	7	appos	_	_
+9	tijekom	tijekom	ADP	_	Case=Gen	2	parataxis	_	_
+10	2009.	2009.	ADJ	_	NumType=Ord	12	obj	_	_
+11	godine	godina	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+12	slijediti	slijediti	VERB	_	VerbForm=Inf	16	punct	_	_
+13	trend	trend	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	parataxis	_	_
+14	nazadovanja	nazadovanje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	16	compound	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	19	cc	_	_
+16	upravo	upravo	ADV	_	Degree=Pos	17	conj	_	_
+17	kao	kao	SCONJ	_	_	12	punct	_	_

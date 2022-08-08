@@ -1,0 +1,46 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/Mengest/2017-05-15-09-38-56/output
+├── [3.6M]  ca.conllu
+├── [ 16M]  cs.conllu
+├── [1.0M]  cs_cac.conllu
+├── [996K]  cs_cltt.conllu
+├── [1.8M]  cs_pud.conllu
+├── [1019K]  de.conllu
+├── [1.3M]  de_pud.conllu
+├── [922K]  el.conllu
+├── [708K]  es.conllu
+├── [3.3M]  es_ancora.conllu
+├── [1.4M]  es_pud.conllu
+├── [1012K]  fa.conllu
+├── [640K]  ga.conllu
+├── [1.3M]  gl.conllu
+├── [670K]  gl_treegal.conllu
+├── [781K]  got.conllu
+├── [927K]  hr.conllu
+├── [475K]  id.conllu
+├── [645K]  it.conllu
+├── [1.4M]  it_pud.conllu
+├── [855K]  la.conllu
+├── [928K]  la_ittb.conllu
+├── [913K]  la_proiel.conllu
+├── [782K]  lv.conllu
+├── [1.8M]  no_bokmaal.conllu
+├── [1.5M]  no_nynorsk.conllu
+├── [955K]  pl.conllu
+├── [777K]  pt.conllu
+├── [1.4M]  pt_br.conllu
+├── [1.8M]  pt_pud.conllu
+├── [1.2M]  ro.conllu
+├── [1005K]  ru.conllu
+├── [1.7M]  ru_pud.conllu
+├── [9.5M]  ru_syntagrus.conllu
+├── [1.0M]  sk.conllu
+├── [1023K]  sl.conllu
+├── [691K]  sl_sst.conllu
+├── [1.5M]  sv.conllu
+├── [654K]  sv_lines.conllu
+├── [1.4M]  sv_pud.conllu
+├── [1.0M]  uk.conllu
+├── [1.1M]  ur.conllu
+└── [634K]  zh.conllu
+
+0 directories, 43 files

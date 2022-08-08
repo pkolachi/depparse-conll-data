@@ -1,0 +1,81 @@
+sh /home/Uppsala/bash_script.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/Uppsala/2017-05-12-19-09-22/output
+
+
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 57.064308 seconds
+Done. Time consumed: 57 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 57.533341 seconds
+Done. Time consumed: 57 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.574093 seconds
+Done. Time consumed: 55 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.602190 seconds
+Done. Time consumed: 55 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.985273 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.074261 seconds
+Done. Time consumed: 55 seconds
+Loading weights....
+Loaded.
+Done.
+Using external embedding: None
+0 dropped non-projective sentences.
+898 sentences read.
+Time: 19s
+Finished predicting test 19.2753298283
+Using external embedding: None
+0 dropped non-projective sentences.
+647 sentences read.
+Time: 18s
+Finished predicting test 17.7174417973
+Using external embedding: None
+0 dropped non-projective sentences.
+1005 sentences read.
+Time: 19s
+Finished predicting test 19.1875119209
+Using external embedding: None
+0 dropped non-projective sentences.
+754 sentences read.
+Time: 16s
+Finished predicting test 16.1455669403
+Using external embedding: None
+0 dropped non-projective sentences.
+867 sentences read.
+Time: 18s
+Finished predicting test 18.4221332073
+Using external embedding: None
+0 dropped non-projective sentences.
+822 sentences read.
+Time: 20s
+Finished predicting test 20.3649730682

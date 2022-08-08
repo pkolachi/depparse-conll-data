@@ -1,0 +1,349 @@
+./run.sh -i /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 -o /tmp/Mengest/2017-05-15-09-38-56/output 
+
+
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1851 sentences read.
+Finished predicting test 119.15474391
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+628 sentences read.
+Finished predicting test 22.4987738132
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+316 sentences read.
+Finished predicting test 20.9065508842
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1016 sentences read.
+Finished predicting test 37.7588779926
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+9853 sentences read.
+Finished predicting test 389.178124905
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1102 sentences read.
+Finished predicting test 54.5916771889
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+909 sentences read.
+Finished predicting test 33.7973670959
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+445 sentences read.
+Finished predicting test 20.9471700191
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1741 sentences read.
+Finished predicting test 107.386225939
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1021 sentences read.
+Finished predicting test 44.9572999477
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+411 sentences read.
+Finished predicting test 23.1134722233
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+598 sentences read.
+Finished predicting test 31.2807159424
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+452 sentences read.
+Finished predicting test 20.196778059
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+384 sentences read.
+Finished predicting test 19.706897974
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+877 sentences read.
+Finished predicting test 65.5095160007
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+825 sentences read.
+Finished predicting test 21.5545639992
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+601 sentences read.
+Finished predicting test 32.6264569759
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+562 sentences read.
+Finished predicting test 29.7662329674
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1017 sentences read.
+Finished predicting test 49.1397528648
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+484 sentences read.
+Finished predicting test 21.2275388241
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+745 sentences read.
+Finished predicting test 22.0201151371
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+591 sentences read.
+Finished predicting test 24.6109640598
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+941 sentences read.
+Finished predicting test 23.0111379623
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+920 sentences read.
+Finished predicting test 21.5966889858
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1931 sentences read.
+Finished predicting test 62.3803060055
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1453 sentences read.
+Finished predicting test 50.5713980198
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1100 sentences read.
+Finished predicting test 23.2560608387
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1200 sentences read.
+Finished predicting test 67.7626149654
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1022 sentences read.
+Finished predicting test 49.6793699265
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+463 sentences read.
+Finished predicting test 20.5405550003
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+731 sentences read.
+Finished predicting test 32.8778641224
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1005 sentences read.
+Finished predicting test 37.7641880512
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+6518 sentences read.
+Finished predicting test 257.997151136
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+600 sentences read.
+Finished predicting test 23.703909874
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1082 sentences read.
+Finished predicting test 28.935090065
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+707 sentences read.
+Finished predicting test 20.9631619453
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+788 sentences read.
+Finished predicting test 29.7317769527
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+907 sentences read.
+Finished predicting test 35.916476965
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1051 sentences read.
+Finished predicting test 47.8731338978
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+1207 sentences read.
+Finished predicting test 42.0893750191
+Using external embedding: None
+Load params
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+885 sentences read.
+Finished predicting test 26.9165799618
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+535 sentences read.
+Finished predicting test 29.7409691811
+Using external embedding: None
+Load params
+Init parser
+Load model
+Predict test file
+0 dropped non-projective sentences.
+494 sentences read.
+Finished predicting test 23.7320890427

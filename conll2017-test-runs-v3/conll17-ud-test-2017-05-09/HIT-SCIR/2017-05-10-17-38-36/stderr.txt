@@ -1,0 +1,1588 @@
+parallel treebank: ar_pud -> ar
+Loading UDPipe model: done.
+2017-05-10 17:42:11,588 [INFO] start preprocess
+2017-05-10 17:42:19,728 [INFO] start scanning origin embedding
+2017-05-10 17:43:10,435 [INFO] end scanning origin embedding
+2017-05-10 17:43:10,439 [INFO] end preprocess
+2017-05-10 17:43:10,441 [INFO] start testing....
+2017-05-10 17:43:42,874 [INFO] accuracy:0.897715394953
+2017-05-10 17:43:43,204 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/ar_pud.pos
+2017-05-10 17:43:43,204 [INFO] end testing
+[Wed May 10 17:43:43 2017] Loading infos from /media/data/yxwang/models/ar.infos
+[dynet] random seed: 128474677
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 17:43:47 2017] loading model from /media/data/yxwang/models/parser_ar-mod1.params
+[Wed May 10 17:43:48 2017] loading 2nd model from /media/data/yxwang/models/parser_ar-mod2.params
+[Wed May 10 17:43:49 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/ar_pud.pos
+[Wed May 10 17:43:49 2017] Loading extra word embeddings from ../resources/pruned_embedding/ar.ext-vec with 100 dimensions
+[Wed May 10 17:43:49 2017] Start Parsing.
+[Wed May 10 17:49:06 2017] TEST 1006 sents in 316944 ms
+Loading UDPipe model: done.
+2017-05-10 17:49:23,304 [INFO] start preprocess
+2017-05-10 17:49:30,243 [INFO] start scanning origin embedding
+2017-05-10 17:50:10,427 [INFO] end scanning origin embedding
+2017-05-10 17:50:10,429 [INFO] end preprocess
+2017-05-10 17:50:10,430 [INFO] start testing....
+2017-05-10 17:50:50,720 [INFO] accuracy:0.93717600145
+2017-05-10 17:50:51,175 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/ar.pos
+2017-05-10 17:50:51,175 [INFO] end testing
+[Wed May 10 17:50:51 2017] Loading infos from /media/data/yxwang/models/ar.infos
+[dynet] random seed: 473999415
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 17:50:53 2017] loading model from /media/data/yxwang/models/parser_ar-mod1.params
+[Wed May 10 17:50:54 2017] loading 2nd model from /media/data/yxwang/models/parser_ar-mod2.params
+[Wed May 10 17:50:55 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/ar.pos
+[Wed May 10 17:50:55 2017] Loading extra word embeddings from ../resources/pruned_embedding/ar.ext-vec with 100 dimensions
+[Wed May 10 17:50:55 2017] Start Parsing.
+[Wed May 10 17:58:30 2017] TEST 789 sents in 455204 ms
+Loading UDPipe model: done.
+2017-05-10 17:58:41,088 [INFO] start preprocess
+2017-05-10 17:58:49,395 [INFO] start scanning origin embedding
+2017-05-10 17:59:18,499 [INFO] end scanning origin embedding
+2017-05-10 17:59:18,503 [INFO] end preprocess
+2017-05-10 17:59:18,503 [INFO] start testing....
+2017-05-10 17:59:53,467 [INFO] accuracy:0.969280671628
+2017-05-10 17:59:53,711 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/bg.pos
+2017-05-10 17:59:53,712 [INFO] end testing
+[Wed May 10 17:59:54 2017] Loading infos from /media/data/yxwang/models/bg.infos
+[dynet] random seed: 87103655
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 17:59:56 2017] loading model from /media/data/yxwang/models/parser_bg-mod.params
+[Wed May 10 17:59:57 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/bg.pos
+[Wed May 10 17:59:57 2017] Loading extra word embeddings from ../resources/pruned_embedding/bg.ext-vec with 100 dimensions
+[Wed May 10 17:59:58 2017] Start Parsing.
+[Wed May 10 18:01:54 2017] TEST 1104 sents in 116325 ms
+[Wed May 10 18:01:54 2017] Loading infos from /media/data/yxwang/models/bxr.infos
+[dynet] random seed: 3772980851
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 18:01:55 2017] loading model from /media/data/yxwang/models/parser_bxr-mod.params
+[Wed May 10 18:01:56 2017] Loading test data from /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu
+[Wed May 10 18:01:56 2017] Start Parsing.
+[Wed May 10 18:03:26 2017] TEST 900 sents in 89722.5 ms
+Loading UDPipe model: done.
+2017-05-10 18:04:00,330 [INFO] start preprocess
+2017-05-10 18:04:08,292 [INFO] start scanning origin embedding
+2017-05-10 18:04:48,765 [INFO] end scanning origin embedding
+2017-05-10 18:04:48,768 [INFO] end preprocess
+2017-05-10 18:04:48,768 [INFO] start testing....
+2017-05-10 18:06:23,087 [INFO] accuracy:0.96903709332
+2017-05-10 18:06:23,940 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/ca.pos
+2017-05-10 18:06:23,941 [INFO] end testing
+[Wed May 10 18:06:24 2017] Loading infos from /media/data/yxwang/models/ca.infos
+[dynet] random seed: 4054615622
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 18:06:27 2017] loading model from /media/data/yxwang/models/parser_ca-mod1.params
+[Wed May 10 18:06:28 2017] loading 2nd model from /media/data/yxwang/models/parser_ca-mod2.params
+[Wed May 10 18:06:29 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/ca.pos
+[Wed May 10 18:06:29 2017] Loading extra word embeddings from ../resources/pruned_embedding/ca.ext-vec with 100 dimensions
+[Wed May 10 18:06:30 2017] Start Parsing.
+[Wed May 10 18:23:09 2017] TEST 1861 sents in 999051 ms
+Loading UDPipe model: done.
+2017-05-10 18:23:18,618 [INFO] start preprocess
+2017-05-10 18:23:31,340 [INFO] start scanning origin embedding
+2017-05-10 18:24:30,660 [INFO] end scanning origin embedding
+2017-05-10 18:24:30,661 [INFO] end preprocess
+2017-05-10 18:24:30,662 [INFO] start testing....
+2017-05-10 18:24:57,795 [INFO] accuracy:0.969339839794
+2017-05-10 18:24:57,962 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/cs_cac.pos
+2017-05-10 18:24:57,962 [INFO] end testing
+[Wed May 10 18:24:58 2017] Loading infos from /media/data/yxwang/models/cs_cac.infos
+[dynet] random seed: 1141475256
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 18:25:01 2017] loading model from /media/data/yxwang/models/parser_cs_cac-mod.params
+[Wed May 10 18:25:02 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/cs_cac.pos
+[Wed May 10 18:25:02 2017] Loading extra word embeddings from ../resources/pruned_embedding/cs_cac.ext-vec with 100 dimensions
+[Wed May 10 18:25:03 2017] Start Parsing.
+[Wed May 10 18:26:34 2017] TEST 628 sents in 91143.9 ms
+Loading UDPipe model: done.
+Loading UDPipe model: done.
+2017-05-10 18:26:42,387 [INFO] start preprocess
+2017-05-10 18:26:44,742 [INFO] start scanning origin embedding
+2017-05-10 18:27:23,118 [INFO] end scanning origin embedding
+2017-05-10 18:27:23,121 [INFO] end preprocess
+2017-05-10 18:27:23,122 [INFO] start testing....
+2017-05-10 18:27:47,282 [INFO] accuracy:0.953657852938
+2017-05-10 18:27:47,446 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/cs_cltt.pos
+2017-05-10 18:27:47,447 [INFO] end testing
+[Wed May 10 18:27:47 2017] Loading infos from /media/data/yxwang/models/cs_cltt.infos
+[dynet] random seed: 1940338461
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 18:27:51 2017] loading model from /media/data/yxwang/models/parser_cs_cltt-mod.params
+[Wed May 10 18:27:54 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/cs_cltt.pos
+[Wed May 10 18:27:54 2017] Loading extra word embeddings from ../resources/pruned_embedding/cs_cltt.ext-vec with 100 dimensions
+[Wed May 10 18:27:54 2017] Start Parsing.
+[Wed May 10 18:30:08 2017] TEST 302 sents in 134380 ms
+parallel treebank: cs_pud -> cs
+Loading UDPipe model: done.
+2017-05-10 18:30:24,900 [INFO] start preprocess
+2017-05-10 18:30:50,403 [INFO] start scanning origin embedding
+2017-05-10 18:33:11,406 [INFO] end scanning origin embedding
+2017-05-10 18:33:11,407 [INFO] end preprocess
+2017-05-10 18:33:11,408 [INFO] start testing....
+2017-05-10 18:33:47,597 [INFO] accuracy:0.950590762621
+2017-05-10 18:33:47,883 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/cs_pud.pos
+2017-05-10 18:33:47,883 [INFO] end testing
+[Wed May 10 18:33:48 2017] Loading infos from /media/data/yxwang/models/cs.infos
+[dynet] random seed: 35148942
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 18:33:52 2017] loading model from /media/data/yxwang/models/parser_cs-mod1.params
+[Wed May 10 18:33:55 2017] loading 2nd model from /media/data/yxwang/models/parser_cs-mod2.params
+[Wed May 10 18:33:58 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/cs_pud.pos
+[Wed May 10 18:33:58 2017] Loading extra word embeddings from ../resources/pruned_embedding/cs.ext-vec with 100 dimensions
+[Wed May 10 18:33:58 2017] Start Parsing.
+[Wed May 10 18:38:55 2017] TEST 1020 sents in 296405 ms
+Loading UDPipe model: done.
+2017-05-10 18:40:26,177 [INFO] start preprocess
+2017-05-10 18:40:49,313 [INFO] start scanning origin embedding
+2017-05-10 18:50:36,844 [INFO] end scanning origin embedding
+2017-05-10 18:50:36,860 [INFO] end preprocess
+2017-05-10 18:50:36,860 [INFO] start testing....
+2017-05-10 18:55:23,509 [INFO] accuracy:0.972446290692
+2017-05-10 18:55:26,366 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/cs.pos
+2017-05-10 18:55:26,366 [INFO] end testing
+[Wed May 10 18:55:27 2017] Loading infos from /media/data/yxwang/models/cs.infos
+[dynet] random seed: 3632569396
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 18:55:30 2017] loading model from /media/data/yxwang/models/parser_cs-mod1.params
+[Wed May 10 18:55:34 2017] loading 2nd model from /media/data/yxwang/models/parser_cs-mod2.params
+[Wed May 10 18:55:37 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/cs.pos
+[Wed May 10 18:55:38 2017] Loading extra word embeddings from ../resources/pruned_embedding/cs.ext-vec with 100 dimensions
+[Wed May 10 18:55:38 2017] Start Parsing.
+[Wed May 10 19:44:57 2017] TEST 9886 sents in 2.95886e+06 ms
+[dynet] random seed: 266388052
+[dynet] allocating memory: 1000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Loading UDPipe model: done.
+2017-05-10 19:45:33,561 [INFO] start preprocess
+2017-05-10 19:45:34,049 [INFO] start scanning origin embedding
+2017-05-10 19:45:34,987 [INFO] end scanning origin embedding
+2017-05-10 19:45:34,988 [INFO] end preprocess
+2017-05-10 19:45:34,988 [INFO] start testing....
+2017-05-10 19:45:59,011 [INFO] accuracy:0.933107367162
+2017-05-10 19:45:59,160 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/cu.pos
+2017-05-10 19:45:59,160 [INFO] end testing
+[Wed May 10 19:45:59 2017] Loading infos from /media/data/yxwang/models/cu.infos
+[dynet] random seed: 3481427189
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 19:46:00 2017] loading model from /media/data/yxwang/models/parser_cu-mod1.params
+[Wed May 10 19:46:01 2017] loading 2nd model from /media/data/yxwang/models/parser_cu-mod2.params
+[Wed May 10 19:46:02 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/cu.pos
+[Wed May 10 19:46:02 2017] Loading extra word embeddings from ../resources/pruned_embedding/cu.ext-vec with 100 dimensions
+[Wed May 10 19:46:02 2017] Start Parsing.
+[Wed May 10 19:48:48 2017] TEST 1043 sents in 166525 ms
+[dynet] random seed: 1993377302
+[dynet] allocating memory: 1000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Loading UDPipe model: done.
+2017-05-10 19:49:21,969 [INFO] start preprocess
+2017-05-10 19:49:26,892 [INFO] start scanning origin embedding
+2017-05-10 19:49:44,387 [INFO] end scanning origin embedding
+2017-05-10 19:49:44,388 [INFO] end preprocess
+2017-05-10 19:49:44,388 [INFO] start testing....
+2017-05-10 19:50:07,760 [INFO] accuracy:0.936864153202
+2017-05-10 19:50:07,897 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/da.pos
+2017-05-10 19:50:07,898 [INFO] end testing
+[Wed May 10 19:50:08 2017] Loading infos from /media/data/yxwang/models/da.infos
+[dynet] random seed: 388048607
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 19:50:11 2017] loading model from /media/data/yxwang/models/parser_da-mod1.params
+[Wed May 10 19:50:12 2017] loading 2nd model from /media/data/yxwang/models/parser_da-mod2.params
+[Wed May 10 19:50:12 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/da.pos
+[Wed May 10 19:50:13 2017] Loading extra word embeddings from ../resources/pruned_embedding/da.ext-vec with 100 dimensions
+[Wed May 10 19:50:13 2017] Start Parsing.
+[Wed May 10 19:52:57 2017] TEST 534 sents in 164415 ms
+parallel treebank: de_pud -> de
+Loading UDPipe model: done.
+2017-05-10 19:53:25,296 [INFO] start preprocess
+2017-05-10 19:53:36,369 [INFO] start scanning origin embedding
+2017-05-10 19:54:54,189 [INFO] end scanning origin embedding
+2017-05-10 19:54:54,191 [INFO] end preprocess
+2017-05-10 19:54:54,191 [INFO] start testing....
+2017-05-10 19:55:42,252 [INFO] accuracy:0.926948436981
+2017-05-10 19:55:42,556 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/de_pud.pos
+2017-05-10 19:55:42,556 [INFO] end testing
+[Wed May 10 19:55:43 2017] Loading infos from /media/data/yxwang/models/de.infos
+[dynet] random seed: 3417534978
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 19:55:46 2017] loading model from /media/data/yxwang/models/parser_de-mod1.params
+[Wed May 10 19:55:48 2017] loading 2nd model from /media/data/yxwang/models/parser_de-mod2.params
+[Wed May 10 19:55:50 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/de_pud.pos
+[Wed May 10 19:55:50 2017] Loading extra word embeddings from ../resources/pruned_embedding/de.ext-vec with 100 dimensions
+[Wed May 10 19:55:50 2017] Start Parsing.
+[Wed May 10 20:00:55 2017] TEST 1059 sents in 304751 ms
+Loading UDPipe model: done.
+2017-05-10 20:01:18,123 [INFO] start preprocess
+2017-05-10 20:01:28,658 [INFO] start scanning origin embedding
+2017-05-10 20:02:40,371 [INFO] end scanning origin embedding
+2017-05-10 20:02:40,372 [INFO] end preprocess
+2017-05-10 20:02:40,372 [INFO] start testing....
+2017-05-10 20:03:19,434 [INFO] accuracy:0.92783062289
+2017-05-10 20:03:19,726 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/de.pos
+2017-05-10 20:03:19,727 [INFO] end testing
+[Wed May 10 20:03:20 2017] Loading infos from /media/data/yxwang/models/de.infos
+[dynet] random seed: 4168332607
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 20:03:23 2017] loading model from /media/data/yxwang/models/parser_de-mod1.params
+[Wed May 10 20:03:25 2017] loading 2nd model from /media/data/yxwang/models/parser_de-mod2.params
+[Wed May 10 20:03:27 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/de.pos
+[Wed May 10 20:03:27 2017] Loading extra word embeddings from ../resources/pruned_embedding/de.ext-vec with 100 dimensions
+[Wed May 10 20:03:27 2017] Start Parsing.
+[Wed May 10 20:07:27 2017] TEST 874 sents in 240260 ms
+Loading UDPipe model: done.
+2017-05-10 20:07:34,792 [INFO] start preprocess
+2017-05-10 20:07:39,096 [INFO] start scanning origin embedding
+2017-05-10 20:07:56,057 [INFO] end scanning origin embedding
+2017-05-10 20:07:56,058 [INFO] end preprocess
+2017-05-10 20:07:56,058 [INFO] start testing....
+2017-05-10 20:08:22,842 [INFO] accuracy:0.933627469787
+2017-05-10 20:08:23,047 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/el.pos
+2017-05-10 20:08:23,047 [INFO] end testing
+[Wed May 10 20:08:23 2017] Loading infos from /media/data/yxwang/models/el.infos
+[dynet] random seed: 473558003
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 20:08:25 2017] loading model from /media/data/yxwang/models/parser_el-mod1.params
+[Wed May 10 20:08:26 2017] loading 2nd model from /media/data/yxwang/models/parser_el-mod2.params
+[Wed May 10 20:08:27 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/el.pos
+[Wed May 10 20:08:27 2017] Loading extra word embeddings from ../resources/pruned_embedding/el.ext-vec with 100 dimensions
+[Wed May 10 20:08:27 2017] Start Parsing.
+[Wed May 10 20:11:04 2017] TEST 433 sents in 157162 ms
+Loading UDPipe model: done.
+2017-05-10 20:11:13,005 [INFO] start preprocess
+2017-05-10 20:11:17,977 [INFO] start scanning origin embedding
+2017-05-10 20:12:36,830 [INFO] end scanning origin embedding
+2017-05-10 20:12:36,831 [INFO] end preprocess
+2017-05-10 20:12:36,831 [INFO] start testing....
+2017-05-10 20:13:05,555 [INFO] accuracy:0.948621152985
+2017-05-10 20:13:05,753 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/en_lines.pos
+2017-05-10 20:13:05,753 [INFO] end testing
+[Wed May 10 20:13:06 2017] Loading infos from /media/data/yxwang/models/en_lines.infos
+[dynet] random seed: 2403045131
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 20:13:08 2017] loading model from /media/data/yxwang/models/parser_en_lines-mod.params
+[Wed May 10 20:13:09 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/en_lines.pos
+[Wed May 10 20:13:09 2017] Loading extra word embeddings from ../resources/pruned_embedding/en_lines.ext-vec with 100 dimensions
+[Wed May 10 20:13:09 2017] Start Parsing.
+[Wed May 10 20:15:20 2017] TEST 918 sents in 131470 ms
+Loading UDPipe model: done.
+2017-05-10 20:15:26,481 [INFO] start preprocess
+2017-05-10 20:15:31,279 [INFO] start scanning origin embedding
+2017-05-10 20:17:19,146 [INFO] end scanning origin embedding
+2017-05-10 20:17:19,147 [INFO] end preprocess
+2017-05-10 20:17:19,147 [INFO] start testing....
+2017-05-10 20:17:45,238 [INFO] accuracy:0.938881664499
+2017-05-10 20:17:45,443 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/en_partut.pos
+2017-05-10 20:17:45,443 [INFO] end testing
+[Wed May 10 20:17:45 2017] Loading infos from /media/data/yxwang/models/en_partut.infos
+[dynet] random seed: 2763189858
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 20:17:48 2017] loading model from /media/data/yxwang/models/parser_en_partut-mod.params
+[Wed May 10 20:17:49 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/en_partut.pos
+[Wed May 10 20:17:49 2017] Loading extra word embeddings from ../resources/pruned_embedding/en_partut.ext-vec with 100 dimensions
+[Wed May 10 20:17:49 2017] Start Parsing.
+[Wed May 10 20:19:26 2017] TEST 500 sents in 97000.5 ms
+parallel treebank: en_pud -> en
+[dynet] random seed: 2755637133
+[dynet] allocating memory: 1000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Loading UDPipe model: done.
+2017-05-10 20:20:03,970 [INFO] start preprocess
+2017-05-10 20:20:11,613 [INFO] start scanning origin embedding
+2017-05-10 20:21:34,412 [INFO] end scanning origin embedding
+2017-05-10 20:21:34,413 [INFO] end preprocess
+2017-05-10 20:21:34,413 [INFO] start testing....
+2017-05-10 20:22:10,825 [INFO] accuracy:0.931680830973
+2017-05-10 20:22:11,128 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/en_pud.pos
+2017-05-10 20:22:11,129 [INFO] end testing
+[Wed May 10 20:22:11 2017] Loading infos from /media/data/yxwang/models/en.infos
+[dynet] random seed: 2657669692
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 20:22:13 2017] loading model from /media/data/yxwang/models/parser_en-mod1.params
+[Wed May 10 20:22:14 2017] loading 2nd model from /media/data/yxwang/models/parser_en-mod2.params
+[Wed May 10 20:22:15 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/en_pud.pos
+[Wed May 10 20:22:16 2017] Loading extra word embeddings from ../resources/pruned_embedding/en.ext-vec with 100 dimensions
+[Wed May 10 20:22:16 2017] Start Parsing.
+[Wed May 10 20:27:26 2017] TEST 1048 sents in 310069 ms
+[dynet] random seed: 3856629681
+[dynet] allocating memory: 1000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Loading UDPipe model: done.
+2017-05-10 20:28:11,614 [INFO] start preprocess
+2017-05-10 20:28:19,229 [INFO] start scanning origin embedding
+2017-05-10 20:30:15,777 [INFO] end scanning origin embedding
+2017-05-10 20:30:15,778 [INFO] end preprocess
+2017-05-10 20:30:15,778 [INFO] start testing....
+2017-05-10 20:31:04,200 [INFO] accuracy:0.934492938642
+2017-05-10 20:31:04,566 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/en.pos
+2017-05-10 20:31:04,566 [INFO] end testing
+[Wed May 10 20:31:04 2017] Loading infos from /media/data/yxwang/models/en.infos
+[dynet] random seed: 2157864313
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 20:31:07 2017] loading model from /media/data/yxwang/models/parser_en-mod1.params
+[Wed May 10 20:31:08 2017] loading 2nd model from /media/data/yxwang/models/parser_en-mod2.params
+[Wed May 10 20:31:09 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/en.pos
+[Wed May 10 20:31:09 2017] Loading extra word embeddings from ../resources/pruned_embedding/en.ext-vec with 100 dimensions
+[Wed May 10 20:31:09 2017] Start Parsing.
+[Wed May 10 20:37:44 2017] TEST 1926 sents in 395364 ms
+Loading UDPipe model: done.
+2017-05-10 20:38:18,312 [INFO] start preprocess
+2017-05-10 20:38:26,099 [INFO] start scanning origin embedding
+2017-05-10 20:39:33,451 [INFO] end scanning origin embedding
+2017-05-10 20:39:33,453 [INFO] end preprocess
+2017-05-10 20:39:33,455 [INFO] start testing....
+2017-05-10 20:41:01,959 [INFO] accuracy:0.96986624107
+2017-05-10 20:41:02,650 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/es_ancora.pos
+2017-05-10 20:41:02,651 [INFO] end testing
+[Wed May 10 20:41:03 2017] Loading infos from /media/data/yxwang/models/es_ancora.infos
+[dynet] random seed: 3609482096
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 20:41:05 2017] loading model from /media/data/yxwang/models/parser_es_ancora-mod1.params
+[Wed May 10 20:41:06 2017] loading 2nd model from /media/data/yxwang/models/parser_es_ancora-mod2.params
+[Wed May 10 20:41:07 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/es_ancora.pos
+[Wed May 10 20:41:07 2017] Loading extra word embeddings from ../resources/pruned_embedding/es_ancora.ext-vec with 100 dimensions
+[Wed May 10 20:41:08 2017] Start Parsing.
+[Wed May 10 20:55:11 2017] TEST 1732 sents in 843089 ms
+parallel treebank: es_pud -> es_ancora
+Loading UDPipe model: done.
+2017-05-10 20:55:29,838 [INFO] start preprocess
+2017-05-10 20:55:40,276 [INFO] start scanning origin embedding
+2017-05-10 20:56:39,746 [INFO] end scanning origin embedding
+2017-05-10 20:56:39,748 [INFO] end preprocess
+2017-05-10 20:56:39,748 [INFO] start testing....
+2017-05-10 20:57:22,410 [INFO] accuracy:0.960367454068
+2017-05-10 20:57:22,716 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/es_pud.pos
+2017-05-10 20:57:22,717 [INFO] end testing
+[Wed May 10 20:57:23 2017] Loading infos from /media/data/yxwang/models/es_ancora.infos
+[dynet] random seed: 1072092099
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 20:57:25 2017] loading model from /media/data/yxwang/models/parser_es_ancora-mod1.params
+[Wed May 10 20:57:26 2017] loading 2nd model from /media/data/yxwang/models/parser_es_ancora-mod2.params
+[Wed May 10 20:57:27 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/es_pud.pos
+[Wed May 10 20:57:27 2017] Loading extra word embeddings from ../resources/pruned_embedding/es_ancora.ext-vec with 100 dimensions
+[Wed May 10 20:57:27 2017] Start Parsing.
+[Wed May 10 21:03:13 2017] TEST 994 sents in 345231 ms
+Loading UDPipe model: done.
+2017-05-10 21:03:25,320 [INFO] start preprocess
+2017-05-10 21:03:34,740 [INFO] start scanning origin embedding
+2017-05-10 21:04:40,750 [INFO] end scanning origin embedding
+2017-05-10 21:04:40,751 [INFO] end preprocess
+2017-05-10 21:04:40,751 [INFO] start testing....
+2017-05-10 21:05:09,422 [INFO] accuracy:0.955162930244
+2017-05-10 21:05:09,597 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/es.pos
+2017-05-10 21:05:09,598 [INFO] end testing
+[Wed May 10 21:05:10 2017] Loading infos from /media/data/yxwang/models/es.infos
+[dynet] random seed: 771866820
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 21:05:12 2017] loading model from /media/data/yxwang/models/parser_es-mod1.params
+[Wed May 10 21:05:14 2017] loading 2nd model from /media/data/yxwang/models/parser_es-mod2.params
+[Wed May 10 21:05:17 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/es.pos
+[Wed May 10 21:05:17 2017] Loading extra word embeddings from ../resources/pruned_embedding/es.ext-vec with 100 dimensions
+[Wed May 10 21:05:17 2017] Start Parsing.
+[Wed May 10 21:08:46 2017] TEST 415 sents in 208614 ms
+Loading UDPipe model: done.
+2017-05-10 21:08:52,528 [INFO] start preprocess
+2017-05-10 21:08:54,596 [INFO] start scanning origin embedding
+2017-05-10 21:10:42,463 [INFO] end scanning origin embedding
+2017-05-10 21:10:42,465 [INFO] end preprocess
+2017-05-10 21:10:42,465 [INFO] start testing....
+2017-05-10 21:11:10,578 [INFO] accuracy:0.871152296535
+2017-05-10 21:11:10,753 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/et.pos
+2017-05-10 21:11:10,754 [INFO] end testing
+[Wed May 10 21:11:10 2017] Loading infos from /media/data/yxwang/models/et.infos
+[dynet] random seed: 193830857
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 21:11:12 2017] loading model from /media/data/yxwang/models/parser_et-mod1.params
+[Wed May 10 21:11:13 2017] loading 2nd model from /media/data/yxwang/models/parser_et-mod2.params
+[Wed May 10 21:11:14 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/et.pos
+[Wed May 10 21:11:14 2017] Loading extra word embeddings from ../resources/pruned_embedding/et.ext-vec with 100 dimensions
+[Wed May 10 21:11:14 2017] Start Parsing.
+[Wed May 10 21:14:42 2017] TEST 919 sents in 207098 ms
+Loading UDPipe model: done.
+2017-05-10 21:14:55,208 [INFO] start preprocess
+2017-05-10 21:15:00,071 [INFO] start scanning origin embedding
+2017-05-10 21:15:19,698 [INFO] end scanning origin embedding
+2017-05-10 21:15:19,701 [INFO] end preprocess
+2017-05-10 21:15:19,701 [INFO] start testing....
+2017-05-10 21:16:09,487 [INFO] accuracy:0.923329367847
+2017-05-10 21:16:09,854 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/eu.pos
+2017-05-10 21:16:09,855 [INFO] end testing
+[Wed May 10 21:16:10 2017] Loading infos from /media/data/yxwang/models/eu.infos
+[dynet] random seed: 2439875044
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 21:16:12 2017] loading model from /media/data/yxwang/models/parser_eu-mod1.params
+[Wed May 10 21:16:13 2017] loading 2nd model from /media/data/yxwang/models/parser_eu-mod2.params
+[Wed May 10 21:16:14 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/eu.pos
+[Wed May 10 21:16:14 2017] Loading extra word embeddings from ../resources/pruned_embedding/eu.ext-vec with 100 dimensions
+[Wed May 10 21:16:14 2017] Start Parsing.
+[Wed May 10 21:22:41 2017] TEST 1802 sents in 387343 ms
+Loading UDPipe model: done.
+2017-05-10 21:22:52,050 [INFO] start preprocess
+2017-05-10 21:22:56,073 [INFO] start scanning origin embedding
+2017-05-10 21:23:09,198 [INFO] end scanning origin embedding
+2017-05-10 21:23:09,200 [INFO] end preprocess
+2017-05-10 21:23:09,200 [INFO] start testing....
+2017-05-10 21:23:37,737 [INFO] accuracy:0.961550484526
+2017-05-10 21:23:37,972 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/fa.pos
+2017-05-10 21:23:37,973 [INFO] end testing
+[Wed May 10 21:23:38 2017] Loading infos from /media/data/yxwang/models/fa.infos
+[dynet] random seed: 411068315
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 21:23:40 2017] loading model from /media/data/yxwang/models/parser_fa-mod1.params
+[Wed May 10 21:23:41 2017] loading 2nd model from /media/data/yxwang/models/parser_fa-mod2.params
+[Wed May 10 21:23:42 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/fa.pos
+[Wed May 10 21:23:42 2017] Loading extra word embeddings from ../resources/pruned_embedding/fa.ext-vec with 100 dimensions
+[Wed May 10 21:23:42 2017] Start Parsing.
+[Wed May 10 21:27:40 2017] TEST 602 sents in 238138 ms
+Loading UDPipe model: done.
+2017-05-10 21:27:49,546 [INFO] start preprocess
+2017-05-10 21:28:00,430 [INFO] start scanning origin embedding
+2017-05-10 21:28:52,413 [INFO] end scanning origin embedding
+2017-05-10 21:28:52,416 [INFO] end preprocess
+2017-05-10 21:28:52,416 [INFO] start testing....
+2017-05-10 21:29:31,164 [INFO] accuracy:0.909732883021
+2017-05-10 21:29:31,412 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/fi_ftb.pos
+2017-05-10 21:29:31,413 [INFO] end testing
+[Wed May 10 21:29:31 2017] Loading infos from /media/data/yxwang/models/fi_ftb.infos
+[dynet] random seed: 1424140148
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 21:29:34 2017] loading model from /media/data/yxwang/models/parser_fi_ftb-mod1.params
+[Wed May 10 21:29:36 2017] loading 2nd model from /media/data/yxwang/models/parser_fi_ftb-mod2.params
+[Wed May 10 21:29:37 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/fi_ftb.pos
+[Wed May 10 21:29:37 2017] Loading extra word embeddings from ../resources/pruned_embedding/fi_ftb.ext-vec with 100 dimensions
+[Wed May 10 21:29:37 2017] Start Parsing.
+[Wed May 10 21:34:13 2017] TEST 1766 sents in 275569 ms
+parallel treebank: fi_pud -> fi
+Loading UDPipe model: done.
+2017-05-10 21:34:22,985 [INFO] start preprocess
+2017-05-10 21:34:33,487 [INFO] start scanning origin embedding
+2017-05-10 21:35:42,082 [INFO] end scanning origin embedding
+2017-05-10 21:35:42,085 [INFO] end preprocess
+2017-05-10 21:35:42,085 [INFO] start testing....
+2017-05-10 21:36:18,038 [INFO] accuracy:0.938854391078
+2017-05-10 21:36:18,260 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/fi_pud.pos
+2017-05-10 21:36:18,261 [INFO] end testing
+[Wed May 10 21:36:18 2017] Loading infos from /media/data/yxwang/models/fi.infos
+[dynet] random seed: 1504273746
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 21:36:21 2017] loading model from /media/data/yxwang/models/parser_fi-mod1.params
+[Wed May 10 21:36:23 2017] loading 2nd model from /media/data/yxwang/models/parser_fi-mod2.params
+[Wed May 10 21:36:24 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/fi_pud.pos
+[Wed May 10 21:36:24 2017] Loading extra word embeddings from ../resources/pruned_embedding/fi.ext-vec with 100 dimensions
+[Wed May 10 21:36:24 2017] Start Parsing.
+[Wed May 10 21:40:44 2017] TEST 1071 sents in 259311 ms
+Loading UDPipe model: done.
+2017-05-10 21:40:58,335 [INFO] start preprocess
+2017-05-10 21:41:07,564 [INFO] start scanning origin embedding
+2017-05-10 21:42:10,815 [INFO] end scanning origin embedding
+2017-05-10 21:42:10,819 [INFO] end preprocess
+2017-05-10 21:42:10,819 [INFO] start testing....
+2017-05-10 21:42:59,694 [INFO] accuracy:0.933323814963
+2017-05-10 21:42:59,984 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/fi.pos
+2017-05-10 21:42:59,984 [INFO] end testing
+[Wed May 10 21:43:00 2017] Loading infos from /media/data/yxwang/models/fi.infos
+[dynet] random seed: 645512840
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 21:43:03 2017] loading model from /media/data/yxwang/models/parser_fi-mod1.params
+[Wed May 10 21:43:04 2017] loading 2nd model from /media/data/yxwang/models/parser_fi-mod2.params
+[Wed May 10 21:43:06 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/fi.pos
+[Wed May 10 21:43:06 2017] Loading extra word embeddings from ../resources/pruned_embedding/fi.ext-vec with 100 dimensions
+[Wed May 10 21:43:06 2017] Start Parsing.
+[Wed May 10 21:48:34 2017] TEST 1506 sents in 328326 ms
+Loading UDPipe model: done.
+2017-05-10 21:48:40,345 [INFO] start preprocess
+2017-05-10 21:48:43,894 [INFO] start scanning origin embedding
+2017-05-10 21:49:21,890 [INFO] end scanning origin embedding
+2017-05-10 21:49:21,891 [INFO] end preprocess
+2017-05-10 21:49:21,891 [INFO] start testing....
+2017-05-10 21:49:48,431 [INFO] accuracy:0.944972067039
+2017-05-10 21:49:48,590 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/fr_partut.pos
+2017-05-10 21:49:48,591 [INFO] end testing
+[Wed May 10 21:49:48 2017] Loading infos from /media/data/yxwang/models/fr_partut.infos
+[dynet] random seed: 4201848918
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 21:49:51 2017] loading model from /media/data/yxwang/models/parser_fr_partut-mod.params
+[Wed May 10 21:49:53 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/fr_partut.pos
+[Wed May 10 21:49:53 2017] Loading extra word embeddings from ../resources/pruned_embedding/fr_partut.ext-vec with 100 dimensions
+[Wed May 10 21:49:53 2017] Start Parsing.
+[Wed May 10 21:51:11 2017] TEST 404 sents in 78310.3 ms
+parallel treebank: fr_pud -> fr
+Loading UDPipe model: done.
+2017-05-10 21:51:28,894 [INFO] start preprocess
+2017-05-10 21:51:38,479 [INFO] start scanning origin embedding
+2017-05-10 21:52:30,179 [INFO] end scanning origin embedding
+2017-05-10 21:52:30,181 [INFO] end preprocess
+2017-05-10 21:52:30,181 [INFO] start testing....
+2017-05-10 21:53:25,488 [INFO] accuracy:0.954697244015
+2017-05-10 21:53:25,924 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/fr_pud.pos
+2017-05-10 21:53:25,925 [INFO] end testing
+[Wed May 10 21:53:26 2017] Loading infos from /media/data/yxwang/models/fr.infos
+[dynet] random seed: 981667725
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 21:53:29 2017] loading model from /media/data/yxwang/models/parser_fr-mod.params
+[Wed May 10 21:53:30 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/fr_pud.pos
+[Wed May 10 21:53:30 2017] Loading extra word embeddings from ../resources/pruned_embedding/fr.ext-vec with 100 dimensions
+[Wed May 10 21:53:31 2017] Start Parsing.
+[Wed May 10 21:56:36 2017] TEST 1036 sents in 185372 ms
+Loading UDPipe model: done.
+2017-05-10 21:56:43,808 [INFO] start preprocess
+2017-05-10 21:56:47,497 [INFO] start scanning origin embedding
+2017-05-10 21:57:34,119 [INFO] end scanning origin embedding
+2017-05-10 21:57:34,119 [INFO] end preprocess
+2017-05-10 21:57:34,120 [INFO] start testing....
+2017-05-10 21:57:57,700 [INFO] accuracy:0.955755716124
+2017-05-10 21:57:57,844 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/fr_sequoia.pos
+2017-05-10 21:57:57,846 [INFO] end testing
+[Wed May 10 21:57:58 2017] Loading infos from /media/data/yxwang/models/fr_sequoia.infos
+[dynet] random seed: 1298635100
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 21:58:00 2017] loading model from /media/data/yxwang/models/parser_fr_sequoia-mod.params
+[Wed May 10 21:58:02 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/fr_sequoia.pos
+[Wed May 10 21:58:02 2017] Loading extra word embeddings from ../resources/pruned_embedding/fr_sequoia.ext-vec with 100 dimensions
+[Wed May 10 21:58:02 2017] Start Parsing.
+[Wed May 10 21:59:18 2017] TEST 433 sents in 76392.8 ms
+Loading UDPipe model: done.
+2017-05-10 21:59:27,106 [INFO] start preprocess
+2017-05-10 21:59:34,794 [INFO] start scanning origin embedding
+2017-05-10 22:00:20,799 [INFO] end scanning origin embedding
+2017-05-10 22:00:20,800 [INFO] end preprocess
+2017-05-10 22:00:20,800 [INFO] start testing....
+2017-05-10 22:00:42,438 [INFO] accuracy:0.964026632217
+2017-05-10 22:00:42,577 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/fr.pos
+2017-05-10 22:00:42,577 [INFO] end testing
+[Wed May 10 22:00:42 2017] Loading infos from /media/data/yxwang/models/fr.infos
+[dynet] random seed: 149683356
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 22:00:45 2017] loading model from /media/data/yxwang/models/parser_fr-mod.params
+[Wed May 10 22:00:47 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/fr.pos
+[Wed May 10 22:00:47 2017] Loading extra word embeddings from ../resources/pruned_embedding/fr.ext-vec with 100 dimensions
+[Wed May 10 22:00:47 2017] Start Parsing.
+[Wed May 10 22:01:59 2017] TEST 414 sents in 72015.5 ms
+Loading UDPipe model: done.
+2017-05-10 22:02:04,607 [INFO] start preprocess
+2017-05-10 22:02:05,570 [INFO] start scanning origin embedding
+2017-05-10 22:02:08,279 [INFO] end scanning origin embedding
+2017-05-10 22:02:08,279 [INFO] end preprocess
+2017-05-10 22:02:08,280 [INFO] start testing....
+2017-05-10 22:02:33,074 [INFO] accuracy:0.869324911173
+2017-05-10 22:02:33,258 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/ga.pos
+2017-05-10 22:02:33,258 [INFO] end testing
+[Wed May 10 22:02:33 2017] Loading infos from /media/data/yxwang/models/ga.infos
+[dynet] random seed: 594386668
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 22:02:35 2017] loading model from /media/data/yxwang/models/parser_ga-mod.params
+[Wed May 10 22:02:36 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/ga.pos
+[Wed May 10 22:02:36 2017] Loading extra word embeddings from ../resources/pruned_embedding/ga.ext-vec with 100 dimensions
+[Wed May 10 22:02:36 2017] Start Parsing.
+[Wed May 10 22:04:13 2017] TEST 450 sents in 96991 ms
+Loading UDPipe model: done.
+2017-05-10 22:04:19,752 [INFO] start preprocess
+2017-05-10 22:04:21,783 [INFO] start scanning origin embedding
+2017-05-10 22:04:34,214 [INFO] end scanning origin embedding
+2017-05-10 22:04:34,215 [INFO] end preprocess
+2017-05-10 22:04:34,216 [INFO] start testing....
+2017-05-10 22:04:55,897 [INFO] accuracy:0.895111814764
+2017-05-10 22:04:56,039 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/gl_treegal.pos
+2017-05-10 22:04:56,039 [INFO] end testing
+[Wed May 10 22:04:56 2017] Loading infos from /media/data/yxwang/models/gl_treegal.infos
+[dynet] random seed: 2734135496
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 22:04:58 2017] loading model from /media/data/yxwang/models/parser_gl_treegal-mod.params
+[Wed May 10 22:04:59 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/gl_treegal.pos
+[Wed May 10 22:04:59 2017] Loading extra word embeddings from ../resources/pruned_embedding/gl_treegal.ext-vec with 100 dimensions
+[Wed May 10 22:04:59 2017] Start Parsing.
+[Wed May 10 22:06:27 2017] TEST 388 sents in 88669.2 ms
+Loading UDPipe model: done.
+2017-05-10 22:06:39,968 [INFO] start preprocess
+2017-05-10 22:06:42,695 [INFO] start scanning origin embedding
+2017-05-10 22:06:55,754 [INFO] end scanning origin embedding
+2017-05-10 22:06:55,757 [INFO] end preprocess
+2017-05-10 22:06:55,757 [INFO] start testing....
+2017-05-10 22:07:45,723 [INFO] accuracy:0.970349951256
+2017-05-10 22:07:46,118 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/gl.pos
+2017-05-10 22:07:46,118 [INFO] end testing
+[Wed May 10 22:07:46 2017] Loading infos from /media/data/yxwang/models/gl.infos
+[dynet] random seed: 2025227363
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 22:07:47 2017] loading model from /media/data/yxwang/models/parser_gl-mod1.params
+[Wed May 10 22:07:48 2017] loading 2nd model from /media/data/yxwang/models/parser_gl-mod2.params
+[Wed May 10 22:07:49 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/gl.pos
+[Wed May 10 22:07:49 2017] Loading extra word embeddings from ../resources/pruned_embedding/gl.ext-vec with 100 dimensions
+[Wed May 10 22:07:49 2017] Start Parsing.
+[Wed May 10 22:15:04 2017] TEST 874 sents in 434323 ms
+[dynet] random seed: 1460027603
+[dynet] allocating memory: 1000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Loading UDPipe model: done.
+2017-05-10 22:15:19,786 [INFO] start preprocess
+2017-05-10 22:15:20,248 [INFO] end preprocess
+2017-05-10 22:15:20,248 [INFO] start testing....
+2017-05-10 22:15:43,138 [INFO] best accuracy:0.940679630721
+2017-05-10 22:15:43,286 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/got.pos
+2017-05-10 22:15:43,287 [INFO] end testing
+[Wed May 10 22:15:43 2017] Loading infos from /media/data/yxwang/models/got.infos
+[dynet] random seed: 878797153
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 22:15:44 2017] loading model from /media/data/yxwang/models/parser_got-mod1.params
+[Wed May 10 22:15:45 2017] loading 2nd model from /media/data/yxwang/models/parser_got-mod2.params
+[Wed May 10 22:15:46 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/got.pos
+[Wed May 10 22:15:46 2017] Start Parsing.
+[Wed May 10 22:18:22 2017] TEST 1067 sents in 156853 ms
+[dynet] random seed: 1155171147
+[dynet] allocating memory: 1000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Loading UDPipe model: done.
+2017-05-10 22:19:05,799 [INFO] start preprocess
+2017-05-10 22:19:10,084 [INFO] start scanning origin embedding
+2017-05-10 22:19:21,396 [INFO] end scanning origin embedding
+2017-05-10 22:19:21,398 [INFO] end preprocess
+2017-05-10 22:19:21,398 [INFO] start testing....
+2017-05-10 22:19:50,598 [INFO] accuracy:0.955385308698
+2017-05-10 22:19:50,798 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/grc_proiel.pos
+2017-05-10 22:19:50,799 [INFO] end testing
+[Wed May 10 22:19:50 2017] Loading infos from /media/data/yxwang/models/grc_proiel.infos
+[dynet] random seed: 3014424170
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 22:19:52 2017] loading model from /media/data/yxwang/models/parser_grc_proiel-mod1.params
+[Wed May 10 22:19:54 2017] loading 2nd model from /media/data/yxwang/models/parser_grc_proiel-mod2.params
+[Wed May 10 22:19:55 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/grc_proiel.pos
+[Wed May 10 22:19:55 2017] Loading extra word embeddings from ../resources/pruned_embedding/grc_proiel.ext-vec with 100 dimensions
+[Wed May 10 22:19:55 2017] Start Parsing.
+[Wed May 10 22:23:26 2017] TEST 925 sents in 210896 ms
+Loading UDPipe model: done.
+2017-05-10 22:23:40,146 [INFO] start preprocess
+2017-05-10 22:23:43,716 [INFO] start scanning origin embedding
+2017-05-10 22:23:59,196 [INFO] end scanning origin embedding
+2017-05-10 22:23:59,201 [INFO] end preprocess
+2017-05-10 22:23:59,202 [INFO] start testing....
+2017-05-10 22:24:39,393 [INFO] accuracy:0.852459798635
+2017-05-10 22:24:39,693 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/grc.pos
+2017-05-10 22:24:39,694 [INFO] end testing
+[Wed May 10 22:24:39 2017] Loading infos from /media/data/yxwang/models/grc.infos
+[dynet] random seed: 760756344
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 22:24:41 2017] loading model from /media/data/yxwang/models/parser_grc-mod.params
+[Wed May 10 22:24:43 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/grc.pos
+[Wed May 10 22:24:43 2017] Loading extra word embeddings from ../resources/pruned_embedding/grc.ext-vec with 100 dimensions
+[Wed May 10 22:24:43 2017] Start Parsing.
+[Wed May 10 22:27:30 2017] TEST 1300 sents in 166767 ms
+Loading UDPipe model: done.
+2017-05-10 22:27:38,092 [INFO] start preprocess
+2017-05-10 22:27:42,571 [INFO] start scanning origin embedding
+2017-05-10 22:28:14,183 [INFO] end scanning origin embedding
+2017-05-10 22:28:14,185 [INFO] end preprocess
+2017-05-10 22:28:14,185 [INFO] start testing....
+2017-05-10 22:28:35,243 [INFO] accuracy:0.903379511162
+2017-05-10 22:28:35,416 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/he.pos
+2017-05-10 22:28:35,417 [INFO] end testing
+[Wed May 10 22:28:35 2017] Loading infos from /media/data/yxwang/models/he.infos
+[dynet] random seed: 1443662251
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 22:28:37 2017] loading model from /media/data/yxwang/models/parser_he-mod.params
+[Wed May 10 22:28:38 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/he.pos
+[Wed May 10 22:28:38 2017] Loading extra word embeddings from ../resources/pruned_embedding/he.ext-vec with 100 dimensions
+[Wed May 10 22:28:38 2017] Start Parsing.
+[Wed May 10 22:29:54 2017] TEST 491 sents in 75877.2 ms
+parallel treebank: hi_pud -> hi
+Loading UDPipe model: done.
+2017-05-10 22:30:55,028 [INFO] start preprocess
+2017-05-10 22:31:00,625 [INFO] start scanning origin embedding
+2017-05-10 22:31:14,779 [INFO] end scanning origin embedding
+2017-05-10 22:31:14,780 [INFO] end preprocess
+2017-05-10 22:31:14,780 [INFO] start testing....
+2017-05-10 22:31:54,027 [INFO] accuracy:0.919284226633
+2017-05-10 22:31:54,356 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/hi_pud.pos
+2017-05-10 22:31:54,358 [INFO] end testing
+[Wed May 10 22:31:54 2017] Loading infos from /media/data/yxwang/models/hi.infos
+[dynet] random seed: 2039408113
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 22:31:56 2017] loading model from /media/data/yxwang/models/parser_hi-mod1.params
+[Wed May 10 22:31:57 2017] loading 2nd model from /media/data/yxwang/models/parser_hi-mod2.params
+[Wed May 10 22:31:58 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/hi_pud.pos
+[Wed May 10 22:31:58 2017] Loading extra word embeddings from ../resources/pruned_embedding/hi.ext-vec with 100 dimensions
+[Wed May 10 22:31:58 2017] Start Parsing.
+[Wed May 10 22:38:02 2017] TEST 1056 sents in 364453 ms
+Loading UDPipe model: done.
+2017-05-10 22:39:46,646 [INFO] start preprocess
+2017-05-10 22:39:51,895 [INFO] start scanning origin embedding
+2017-05-10 22:40:08,500 [INFO] end scanning origin embedding
+2017-05-10 22:40:08,502 [INFO] end preprocess
+2017-05-10 22:40:08,503 [INFO] start testing....
+2017-05-10 22:41:07,151 [INFO] accuracy:0.960346579363
+2017-05-10 22:41:07,677 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/hi.pos
+2017-05-10 22:41:07,677 [INFO] end testing
+[Wed May 10 22:41:07 2017] Loading infos from /media/data/yxwang/models/hi.infos
+[dynet] random seed: 846763611
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 22:41:09 2017] loading model from /media/data/yxwang/models/parser_hi-mod1.params
+[Wed May 10 22:41:10 2017] loading 2nd model from /media/data/yxwang/models/parser_hi-mod2.params
+[Wed May 10 22:41:12 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/hi.pos
+[Wed May 10 22:41:12 2017] Loading extra word embeddings from ../resources/pruned_embedding/hi.ext-vec with 100 dimensions
+[Wed May 10 22:41:12 2017] Start Parsing.
+[Wed May 10 22:50:55 2017] TEST 1678 sents in 582891 ms
+Loading UDPipe model: done.
+2017-05-10 22:51:05,389 [INFO] start preprocess
+2017-05-10 22:51:12,842 [INFO] start scanning origin embedding
+2017-05-10 22:51:44,539 [INFO] end scanning origin embedding
+2017-05-10 22:51:44,541 [INFO] end preprocess
+2017-05-10 22:51:44,541 [INFO] start testing....
+2017-05-10 22:52:12,984 [INFO] accuracy:0.955778970444
+2017-05-10 22:52:13,217 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/hr.pos
+2017-05-10 22:52:13,217 [INFO] end testing
+[Wed May 10 22:52:13 2017] Loading infos from /media/data/yxwang/models/hr.infos
+[dynet] random seed: 3673157535
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 22:52:16 2017] loading model from /media/data/yxwang/models/parser_hr-mod1.params
+[Wed May 10 22:52:17 2017] loading 2nd model from /media/data/yxwang/models/parser_hr-mod2.params
+[Wed May 10 22:52:19 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/hr.pos
+[Wed May 10 22:52:19 2017] Loading extra word embeddings from ../resources/pruned_embedding/hr.ext-vec with 100 dimensions
+[Wed May 10 22:52:19 2017] Start Parsing.
+[Wed May 10 22:55:55 2017] TEST 598 sents in 216092 ms
+[Wed May 10 22:55:55 2017] Loading infos from /media/data/yxwang/models/hsb.infos
+[dynet] random seed: 1574033361
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 22:55:57 2017] loading model from /media/data/yxwang/models/parser_hsb-mod.params
+[Wed May 10 22:55:57 2017] Loading test data from /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu
+[Wed May 10 22:55:57 2017] Start Parsing.
+[Wed May 10 22:57:28 2017] TEST 623 sents in 90666 ms
+Loading UDPipe model: done.
+2017-05-10 22:57:34,679 [INFO] start preprocess
+2017-05-10 22:57:38,625 [INFO] start scanning origin embedding
+2017-05-10 22:58:45,065 [INFO] end scanning origin embedding
+2017-05-10 22:58:45,067 [INFO] end preprocess
+2017-05-10 22:58:45,067 [INFO] start testing....
+2017-05-10 22:59:12,109 [INFO] accuracy:0.864658058345
+2017-05-10 22:59:12,326 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/hu.pos
+2017-05-10 22:59:12,327 [INFO] end testing
+[Wed May 10 22:59:12 2017] Loading infos from /media/data/yxwang/models/hu.infos
+[dynet] random seed: 1757657749
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 22:59:14 2017] loading model from /media/data/yxwang/models/parser_hu-mod1.params
+[Wed May 10 22:59:15 2017] loading 2nd model from /media/data/yxwang/models/parser_hu-mod2.params
+[Wed May 10 22:59:16 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/hu.pos
+[Wed May 10 22:59:16 2017] Loading extra word embeddings from ../resources/pruned_embedding/hu.ext-vec with 100 dimensions
+[Wed May 10 22:59:16 2017] Start Parsing.
+[Wed May 10 23:02:22 2017] TEST 455 sents in 186246 ms
+Loading UDPipe model: done.
+2017-05-10 23:02:31,714 [INFO] start preprocess
+2017-05-10 23:02:35,135 [INFO] start scanning origin embedding
+2017-05-10 23:02:51,011 [INFO] end scanning origin embedding
+2017-05-10 23:02:51,012 [INFO] end preprocess
+2017-05-10 23:02:51,012 [INFO] start testing....
+2017-05-10 23:03:17,481 [INFO] accuracy:0.919439728353
+2017-05-10 23:03:17,676 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/id.pos
+2017-05-10 23:03:17,678 [INFO] end testing
+[Wed May 10 23:03:17 2017] Loading infos from /media/data/yxwang/models/id.infos
+[dynet] random seed: 4159084529
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 23:03:20 2017] loading model from /media/data/yxwang/models/parser_id-mod1.params
+[Wed May 10 23:03:21 2017] loading 2nd model from /media/data/yxwang/models/parser_id-mod2.params
+[Wed May 10 23:03:22 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/id.pos
+[Wed May 10 23:03:22 2017] Loading extra word embeddings from ../resources/pruned_embedding/id.ext-vec with 100 dimensions
+[Wed May 10 23:03:22 2017] Start Parsing.
+[Wed May 10 23:06:44 2017] TEST 558 sents in 201908 ms
+parallel treebank: it_pud -> it
+Loading UDPipe model: done.
+2017-05-10 23:06:59,600 [INFO] start preprocess
+2017-05-10 23:07:05,836 [INFO] start scanning origin embedding
+2017-05-10 23:07:49,954 [INFO] end scanning origin embedding
+2017-05-10 23:07:49,956 [INFO] end preprocess
+2017-05-10 23:07:49,956 [INFO] start testing....
+2017-05-10 23:08:34,297 [INFO] accuracy:0.952180678807
+2017-05-10 23:08:34,648 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/it_pud.pos
+2017-05-10 23:08:34,649 [INFO] end testing
+[Wed May 10 23:08:34 2017] Loading infos from /media/data/yxwang/models/it.infos
+[dynet] random seed: 454214703
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 23:08:37 2017] loading model from /media/data/yxwang/models/parser_it-mod.params
+[Wed May 10 23:08:38 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/it_pud.pos
+[Wed May 10 23:08:38 2017] Loading extra word embeddings from ../resources/pruned_embedding/it.ext-vec with 100 dimensions
+[Wed May 10 23:08:38 2017] Start Parsing.
+[Wed May 10 23:12:08 2017] TEST 1030 sents in 210143 ms
+Loading UDPipe model: done.
+2017-05-10 23:12:16,738 [INFO] start preprocess
+2017-05-10 23:12:23,268 [INFO] start scanning origin embedding
+2017-05-10 23:13:17,938 [INFO] end scanning origin embedding
+2017-05-10 23:13:17,939 [INFO] end preprocess
+2017-05-10 23:13:17,939 [INFO] start testing....
+2017-05-10 23:13:41,245 [INFO] accuracy:0.961390703035
+2017-05-10 23:13:41,414 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/it.pos
+2017-05-10 23:13:41,415 [INFO] end testing
+[Wed May 10 23:13:41 2017] Loading infos from /media/data/yxwang/models/it.infos
+[dynet] random seed: 744622160
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 23:13:43 2017] loading model from /media/data/yxwang/models/parser_it-mod.params
+[Wed May 10 23:13:44 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/it.pos
+[Wed May 10 23:13:44 2017] Loading extra word embeddings from ../resources/pruned_embedding/it.ext-vec with 100 dimensions
+[Wed May 10 23:13:44 2017] Start Parsing.
+[Wed May 10 23:15:17 2017] TEST 485 sents in 92198.9 ms
+parallel treebank: ja_pud -> ja
+Loading UDPipe model: done.
+[2017-5-10 23:15:20]  start of segment process.
+[dynet] random seed: 1439925325
+[dynet] allocating memory: 2048MB
+[dynet] memory allocation done.
+[2017-5-10 23:15:21]  Reading training data from /media/data/bzheng/ja/ja_train_1.txt...
+[2017-5-10 23:15:21]  7164 lines, 2813 unigrams, 55936 bigrams, 
+[2017-5-10 23:15:21]  Reading devlopment data from /media/data/bzheng/ja/ja_dev_1.txt...
+[2017-5-10 23:15:21]  511 lines, 2848 unigrams, 58134 bigrams, 
+[2017-5-10 23:15:21]  Reading testing data from test_segment_ja.txt...
+[2017-5-10 23:15:21]  1034 lines, 2899 unigrams, 61598 bigrams, 
+[2017-5-10 23:15:21]  Reading embedding data from /media/data/bzheng/ja/ja.100.embed...
+[2017-5-10 23:15:49]  saved embed: 58581
+[2017-5-10 23:15:49]  Reading MI data from /media/data/bzheng/ja/ja_zscore.mutual...
+[2017-5-10 23:15:53]  Saved MI: 61239
+Using bidirectional LSTM.
+[2017-5-10 23:15:53]  going to load parameters from file: /media/data/bzheng/ja/ja.param
+[2017-5-10 23:16:10]  end of segment process.
+Segmentation fault (core dumped)
+Loading UDPipe model: done.
+2017-05-10 23:16:19,628 [INFO] start preprocess
+2017-05-10 23:16:25,496 [INFO] start scanning origin embedding
+2017-05-10 23:18:12,535 [INFO] end scanning origin embedding
+2017-05-10 23:18:12,536 [INFO] end preprocess
+2017-05-10 23:18:12,537 [INFO] start testing....
+2017-05-10 23:18:51,699 [INFO] accuracy:0.958859209584
+2017-05-10 23:18:52,081 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/ja_pud.pos
+2017-05-10 23:18:52,082 [INFO] end testing
+[Wed May 10 23:18:52 2017] Loading infos from /media/data/yxwang/models/ja.infos
+[dynet] random seed: 2357570483
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 23:18:54 2017] loading model from /media/data/yxwang/models/parser_ja-mod.params
+[Wed May 10 23:18:55 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/ja_pud.pos
+[Wed May 10 23:18:55 2017] Loading extra word embeddings from ../resources/pruned_embedding/ja.ext-vec with 100 dimensions
+[Wed May 10 23:18:55 2017] Start Parsing.
+[Wed May 10 23:22:43 2017] TEST 1034 sents in 227650 ms
+Loading UDPipe model: done.
+[2017-5-10 23:22:45]  start of segment process.
+[dynet] random seed: 3222707562
+[dynet] allocating memory: 2048MB
+[dynet] memory allocation done.
+[2017-5-10 23:22:45]  Reading training data from /media/data/bzheng/ja/ja_train_1.txt...
+[2017-5-10 23:22:46]  7164 lines, 2813 unigrams, 55936 bigrams, 
+[2017-5-10 23:22:46]  Reading devlopment data from /media/data/bzheng/ja/ja_dev_1.txt...
+[2017-5-10 23:22:46]  511 lines, 2848 unigrams, 58134 bigrams, 
+[2017-5-10 23:22:46]  Reading testing data from test_segment_ja.txt...
+[2017-5-10 23:22:46]  547 lines, 2862 unigrams, 60285 bigrams, 
+[2017-5-10 23:22:46]  Reading embedding data from /media/data/bzheng/ja/ja.100.embed...
+[2017-5-10 23:23:15]  saved embed: 57384
+[2017-5-10 23:23:15]  Reading MI data from /media/data/bzheng/ja/ja_zscore.mutual...
+[2017-5-10 23:23:18]  Saved MI: 60062
+Using bidirectional LSTM.
+[2017-5-10 23:23:18]  going to load parameters from file: /media/data/bzheng/ja/ja.param
+[2017-5-10 23:23:26]  end of segment process.
+Aborted (core dumped)
+Loading UDPipe model: done.
+2017-05-10 23:23:32,389 [INFO] start preprocess
+2017-05-10 23:23:37,503 [INFO] start scanning origin embedding
+2017-05-10 23:25:23,179 [INFO] end scanning origin embedding
+2017-05-10 23:25:23,180 [INFO] end preprocess
+2017-05-10 23:25:23,180 [INFO] start testing....
+2017-05-10 23:25:45,591 [INFO] accuracy:0.955642897249
+2017-05-10 23:25:45,754 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/ja.pos
+2017-05-10 23:25:45,755 [INFO] end testing
+[Wed May 10 23:25:46 2017] Loading infos from /media/data/yxwang/models/ja.infos
+[dynet] random seed: 1300940280
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 23:25:48 2017] loading model from /media/data/yxwang/models/parser_ja-mod.params
+[Wed May 10 23:25:48 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/ja.pos
+[Wed May 10 23:25:48 2017] Loading extra word embeddings from ../resources/pruned_embedding/ja.ext-vec with 100 dimensions
+[Wed May 10 23:25:48 2017] Start Parsing.
+[Wed May 10 23:27:28 2017] TEST 547 sents in 99607.4 ms
+Loading UDPipe model: done.
+2017-05-10 23:27:31,348 [INFO] start preprocess
+2017-05-10 23:27:32,474 [INFO] start scanning origin embedding
+2017-05-10 23:27:45,516 [INFO] end scanning origin embedding
+2017-05-10 23:27:45,517 [INFO] end preprocess
+2017-05-10 23:27:45,517 [INFO] start testing....
+2017-05-10 23:28:11,877 [INFO] accuracy:0.471497967681
+2017-05-10 23:28:12,027 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/kk.pos
+2017-05-10 23:28:12,028 [INFO] end testing
+[Wed May 10 23:28:12 2017] Loading infos from /media/data/yxwang/models/kk.infos
+[dynet] random seed: 4244218119
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 23:28:14 2017] loading model from /media/data/yxwang/models/parser_kk-mod.params
+[Wed May 10 23:28:14 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/kk.pos
+[Wed May 10 23:28:14 2017] Loading extra word embeddings from ../resources/pruned_embedding/kk.ext-vec with 100 dimensions
+[Wed May 10 23:28:15 2017] Start Parsing.
+[Wed May 10 23:29:49 2017] TEST 1046 sents in 94374.1 ms
+[Wed May 10 23:29:49 2017] Loading infos from /media/data/yxwang/models/kmr.infos
+[dynet] random seed: 3152845173
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 23:29:51 2017] loading model from /media/data/yxwang/models/parser_kmr-mod.params
+[Wed May 10 23:29:51 2017] Loading test data from /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu
+[Wed May 10 23:29:51 2017] Start Parsing.
+[Wed May 10 23:31:16 2017] TEST 742 sents in 84618.7 ms
+Loading UDPipe model: done.
+2017-05-10 23:31:21,763 [INFO] start preprocess
+2017-05-10 23:31:29,251 [INFO] start scanning origin embedding
+2017-05-10 23:32:48,835 [INFO] end scanning origin embedding
+2017-05-10 23:32:48,837 [INFO] end preprocess
+2017-05-10 23:32:48,838 [INFO] start testing....
+2017-05-10 23:33:12,023 [INFO] accuracy:0.951025265471
+2017-05-10 23:33:12,234 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/ko.pos
+2017-05-10 23:33:12,237 [INFO] end testing
+[Wed May 10 23:33:12 2017] Loading infos from /media/data/yxwang/models/ko.infos
+[dynet] random seed: 4102375697
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 23:33:15 2017] loading model from /media/data/yxwang/models/parser_ko-mod1.params
+[Wed May 10 23:33:16 2017] loading 2nd model from /media/data/yxwang/models/parser_ko-mod2.params
+[Wed May 10 23:33:17 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/ko.pos
+[Wed May 10 23:33:17 2017] Loading extra word embeddings from ../resources/pruned_embedding/ko.ext-vec with 100 dimensions
+[Wed May 10 23:33:17 2017] Start Parsing.
+[Wed May 10 23:36:18 2017] TEST 963 sents in 180495 ms
+Loading UDPipe model: done.
+Loading UDPipe model: done.
+2017-05-10 23:36:28,411 [INFO] start preprocess
+2017-05-10 23:36:33,030 [INFO] start scanning origin embedding
+2017-05-10 23:36:39,732 [INFO] end scanning origin embedding
+2017-05-10 23:36:39,733 [INFO] end preprocess
+2017-05-10 23:36:39,733 [INFO] start testing....
+2017-05-10 23:37:07,024 [INFO] accuracy:0.973602043713
+2017-05-10 23:37:07,172 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/la_ittb.pos
+2017-05-10 23:37:07,173 [INFO] end testing
+[Wed May 10 23:37:07 2017] Loading infos from /media/data/yxwang/models/la_ittb.infos
+[dynet] random seed: 1984769726
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 23:37:09 2017] loading model from /media/data/yxwang/models/parser_la_ittb-mod1.params
+[Wed May 10 23:37:10 2017] loading 2nd model from /media/data/yxwang/models/parser_la_ittb-mod2.params
+[Wed May 10 23:37:10 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/la_ittb.pos
+[Wed May 10 23:37:10 2017] Loading extra word embeddings from ../resources/pruned_embedding/la_ittb.ext-vec with 100 dimensions
+[Wed May 10 23:37:11 2017] Start Parsing.
+[Wed May 10 23:40:23 2017] TEST 850 sents in 192985 ms
+[dynet] random seed: 1475546920
+[dynet] allocating memory: 1000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Loading UDPipe model: done.
+2017-05-10 23:40:52,872 [INFO] start preprocess
+2017-05-10 23:40:58,264 [INFO] start scanning origin embedding
+2017-05-10 23:41:08,883 [INFO] end scanning origin embedding
+2017-05-10 23:41:08,884 [INFO] end preprocess
+2017-05-10 23:41:08,884 [INFO] start testing....
+2017-05-10 23:41:40,839 [INFO] accuracy:0.947580645161
+2017-05-10 23:41:41,020 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/la_proiel.pos
+2017-05-10 23:41:41,022 [INFO] end testing
+[Wed May 10 23:41:41 2017] Loading infos from /media/data/yxwang/models/la_proiel.infos
+[dynet] random seed: 3728879473
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 23:41:43 2017] loading model from /media/data/yxwang/models/parser_la_proiel-mod.params
+[Wed May 10 23:41:44 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/la_proiel.pos
+[Wed May 10 23:41:44 2017] Loading extra word embeddings from ../resources/pruned_embedding/la_proiel.ext-vec with 100 dimensions
+[Wed May 10 23:41:44 2017] Start Parsing.
+[Wed May 10 23:43:51 2017] TEST 1036 sents in 127044 ms
+Loading UDPipe model: done.
+2017-05-10 23:43:57,872 [INFO] start preprocess
+2017-05-10 23:44:00,171 [INFO] start scanning origin embedding
+2017-05-10 23:44:08,443 [INFO] end scanning origin embedding
+2017-05-10 23:44:08,444 [INFO] end preprocess
+2017-05-10 23:44:08,445 [INFO] start testing....
+2017-05-10 23:44:34,886 [INFO] accuracy:0.802811758262
+2017-05-10 23:44:35,059 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/la.pos
+2017-05-10 23:44:35,059 [INFO] end testing
+[Wed May 10 23:44:35 2017] Loading infos from /media/data/yxwang/models/la.infos
+[dynet] random seed: 2837315652
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 23:44:37 2017] loading model from /media/data/yxwang/models/parser_la-mod.params
+[Wed May 10 23:44:38 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/la.pos
+[Wed May 10 23:44:38 2017] Loading extra word embeddings from ../resources/pruned_embedding/la.ext-vec with 100 dimensions
+[Wed May 10 23:44:38 2017] Start Parsing.
+[Wed May 10 23:46:30 2017] TEST 943 sents in 111576 ms
+Loading UDPipe model: done.
+2017-05-10 23:46:36,635 [INFO] start preprocess
+2017-05-10 23:46:39,678 [INFO] start scanning origin embedding
+2017-05-10 23:46:51,572 [INFO] end scanning origin embedding
+2017-05-10 23:46:51,574 [INFO] end preprocess
+2017-05-10 23:46:51,575 [INFO] start testing....
+2017-05-10 23:47:17,238 [INFO] accuracy:0.871271138134
+2017-05-10 23:47:17,394 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/lv.pos
+2017-05-10 23:47:17,394 [INFO] end testing
+[Wed May 10 23:47:17 2017] Loading infos from /media/data/yxwang/models/lv.infos
+[dynet] random seed: 3833182504
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 23:47:19 2017] loading model from /media/data/yxwang/models/parser_lv-mod1.params
+[Wed May 10 23:47:20 2017] loading 2nd model from /media/data/yxwang/models/parser_lv-mod2.params
+[Wed May 10 23:47:21 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/lv.pos
+[Wed May 10 23:47:21 2017] Loading extra word embeddings from ../resources/pruned_embedding/lv.ext-vec with 100 dimensions
+[Wed May 10 23:47:21 2017] Start Parsing.
+[Wed May 10 23:50:27 2017] TEST 923 sents in 185740 ms
+[dynet] random seed: 3925119011
+[dynet] allocating memory: 1000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Loading UDPipe model: done.
+2017-05-10 23:50:44,720 [INFO] start preprocess
+2017-05-10 23:50:48,469 [INFO] start scanning origin embedding
+2017-05-10 23:51:30,863 [INFO] end scanning origin embedding
+2017-05-10 23:51:30,864 [INFO] end preprocess
+2017-05-10 23:51:30,864 [INFO] start testing....
+2017-05-10 23:51:57,075 [INFO] accuracy:0.957754859183
+2017-05-10 23:51:57,252 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/nl_lassysmall.pos
+2017-05-10 23:51:57,252 [INFO] end testing
+[Wed May 10 23:51:57 2017] Loading infos from /media/data/yxwang/models/nl_lassysmall.infos
+[dynet] random seed: 2538716089
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 23:52:00 2017] loading model from /media/data/yxwang/models/parser_nl_lassysmall-mod.params
+[Wed May 10 23:52:01 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/nl_lassysmall.pos
+[Wed May 10 23:52:01 2017] Loading extra word embeddings from ../resources/pruned_embedding/nl_lassysmall.ext-vec with 100 dimensions
+[Wed May 10 23:52:01 2017] Start Parsing.
+[Wed May 10 23:53:16 2017] TEST 772 sents in 75371.6 ms
+Loading UDPipe model: done.
+2017-05-10 23:53:37,197 [INFO] start preprocess
+2017-05-10 23:53:43,079 [INFO] start scanning origin embedding
+2017-05-10 23:54:22,737 [INFO] end scanning origin embedding
+2017-05-10 23:54:22,738 [INFO] end preprocess
+2017-05-10 23:54:22,738 [INFO] start testing....
+2017-05-10 23:54:51,020 [INFO] accuracy:0.910579016108
+2017-05-10 23:54:51,238 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/nl.pos
+2017-05-10 23:54:51,238 [INFO] end testing
+[Wed May 10 23:54:51 2017] Loading infos from /media/data/yxwang/models/nl.infos
+[dynet] random seed: 1083820057
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 23:54:54 2017] loading model from /media/data/yxwang/models/parser_nl-mod.params
+[Wed May 10 23:54:55 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/nl.pos
+[Wed May 10 23:54:55 2017] Loading extra word embeddings from ../resources/pruned_embedding/nl.ext-vec with 100 dimensions
+[Wed May 10 23:54:55 2017] Start Parsing.
+[Wed May 10 23:56:21 2017] TEST 592 sents in 85696.1 ms
+Loading UDPipe model: done.
+2017-05-10 23:56:38,228 [INFO] start preprocess
+2017-05-10 23:56:44,703 [INFO] start scanning origin embedding
+2017-05-10 23:58:00,875 [INFO] end scanning origin embedding
+2017-05-10 23:58:00,879 [INFO] end preprocess
+2017-05-10 23:58:00,879 [INFO] start testing....
+2017-05-10 23:59:04,777 [INFO] accuracy:0.958982745386
+2017-05-10 23:59:05,234 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/no_bokmaal.pos
+2017-05-10 23:59:05,235 [INFO] end testing
+[Wed May 10 23:59:05 2017] Loading infos from /media/data/yxwang/models/no_bokmaal.infos
+[dynet] random seed: 3001433238
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Wed May 10 23:59:08 2017] loading model from /media/data/yxwang/models/parser_no_bokmaal-mod.params
+[Wed May 10 23:59:09 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/no_bokmaal.pos
+[Wed May 10 23:59:10 2017] Loading extra word embeddings from ../resources/pruned_embedding/no_bokmaal.ext-vec with 100 dimensions
+[Wed May 10 23:59:10 2017] Start Parsing.
+[Thu May 11 00:02:25 2017] TEST 1939 sents in 194997 ms
+Loading UDPipe model: done.
+2017-05-11 00:02:45,232 [INFO] start preprocess
+2017-05-11 00:02:52,731 [INFO] start scanning origin embedding
+2017-05-11 00:03:17,656 [INFO] end scanning origin embedding
+2017-05-11 00:03:17,659 [INFO] end preprocess
+2017-05-11 00:03:17,660 [INFO] start testing....
+2017-05-11 00:04:11,864 [INFO] accuracy:0.954576654419
+2017-05-11 00:04:12,323 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/no_nynorsk.pos
+2017-05-11 00:04:12,324 [INFO] end testing
+[Thu May 11 00:04:12 2017] Loading infos from /media/data/yxwang/models/no_nynorsk.infos
+[dynet] random seed: 3988459497
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 00:04:15 2017] loading model from /media/data/yxwang/models/parser_no_nynorsk-mod.params
+[Thu May 11 00:04:17 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/no_nynorsk.pos
+[Thu May 11 00:04:17 2017] Loading extra word embeddings from ../resources/pruned_embedding/no_nynorsk.ext-vec with 100 dimensions
+[Thu May 11 00:04:17 2017] Start Parsing.
+[Thu May 11 00:07:34 2017] TEST 1476 sents in 196233 ms
+Loading UDPipe model: done.
+2017-05-11 00:07:41,976 [INFO] start preprocess
+2017-05-11 00:07:47,384 [INFO] start scanning origin embedding
+2017-05-11 00:08:38,128 [INFO] end scanning origin embedding
+2017-05-11 00:08:38,129 [INFO] end preprocess
+2017-05-11 00:08:38,129 [INFO] start testing....
+2017-05-11 00:09:03,536 [INFO] accuracy:0.931095079541
+2017-05-11 00:09:03,706 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/pl.pos
+2017-05-11 00:09:03,707 [INFO] end testing
+[Thu May 11 00:09:04 2017] Loading infos from /media/data/yxwang/models/pl.infos
+[dynet] random seed: 653454181
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 00:09:06 2017] loading model from /media/data/yxwang/models/parser_pl-mod1.params
+[Thu May 11 00:09:07 2017] loading 2nd model from /media/data/yxwang/models/parser_pl-mod2.params
+[Thu May 11 00:09:08 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/pl.pos
+[Thu May 11 00:09:08 2017] Loading extra word embeddings from ../resources/pruned_embedding/pl.ext-vec with 100 dimensions
+[Thu May 11 00:09:08 2017] Start Parsing.
+[Thu May 11 00:12:07 2017] TEST 1106 sents in 178812 ms
+Loading UDPipe model: done.
+2017-05-11 00:12:30,590 [INFO] start preprocess
+2017-05-11 00:12:36,967 [INFO] start scanning origin embedding
+2017-05-11 00:13:19,936 [INFO] end scanning origin embedding
+2017-05-11 00:13:19,936 [INFO] end preprocess
+2017-05-11 00:13:19,938 [INFO] start testing....
+2017-05-11 00:14:18,716 [INFO] accuracy:0.953371820085
+2017-05-11 00:14:19,137 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/pt_br.pos
+2017-05-11 00:14:19,137 [INFO] end testing
+[Thu May 11 00:14:19 2017] Loading infos from /media/data/yxwang/models/pt_br.infos
+[dynet] random seed: 2365955141
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 00:14:21 2017] loading model from /media/data/yxwang/models/parser_pt_br-mod.params
+[Thu May 11 00:14:23 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/pt_br.pos
+[Thu May 11 00:14:23 2017] Loading extra word embeddings from ../resources/pruned_embedding/pt_br.ext-vec with 100 dimensions
+[Thu May 11 00:14:23 2017] Start Parsing.
+[Thu May 11 00:19:09 2017] TEST 1203 sents in 286451 ms
+parallel treebank: pt_pud -> pt_br
+Loading UDPipe model: done.
+2017-05-11 00:19:26,798 [INFO] start preprocess
+2017-05-11 00:19:31,848 [INFO] start scanning origin embedding
+2017-05-11 00:20:05,576 [INFO] end scanning origin embedding
+2017-05-11 00:20:05,579 [INFO] end preprocess
+2017-05-11 00:20:05,579 [INFO] start testing....
+2017-05-11 00:20:49,547 [INFO] accuracy:0.946483971044
+2017-05-11 00:20:49,885 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/pt_pud.pos
+2017-05-11 00:20:49,885 [INFO] end testing
+[Thu May 11 00:20:50 2017] Loading infos from /media/data/yxwang/models/pt_br.infos
+[dynet] random seed: 2758887293
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 00:20:52 2017] loading model from /media/data/yxwang/models/parser_pt_br-mod.params
+[Thu May 11 00:20:53 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/pt_pud.pos
+[Thu May 11 00:20:54 2017] Loading extra word embeddings from ../resources/pruned_embedding/pt_br.ext-vec with 100 dimensions
+[Thu May 11 00:20:54 2017] Start Parsing.
+[Thu May 11 00:24:05 2017] TEST 1028 sents in 191696 ms
+Loading UDPipe model: done.
+2017-05-11 00:24:23,135 [INFO] start preprocess
+2017-05-11 00:24:28,456 [INFO] start scanning origin embedding
+2017-05-11 00:24:58,733 [INFO] end scanning origin embedding
+2017-05-11 00:24:58,734 [INFO] end preprocess
+2017-05-11 00:24:58,734 [INFO] start testing....
+2017-05-11 00:25:22,415 [INFO] accuracy:0.954349529781
+2017-05-11 00:25:22,564 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/pt.pos
+2017-05-11 00:25:22,565 [INFO] end testing
+[Thu May 11 00:25:22 2017] Loading infos from /media/data/yxwang/models/pt.infos
+[dynet] random seed: 2849193396
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 00:25:24 2017] loading model from /media/data/yxwang/models/parser_pt-mod.params
+[Thu May 11 00:25:26 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/pt.pos
+[Thu May 11 00:25:26 2017] Loading extra word embeddings from ../resources/pruned_embedding/pt.ext-vec with 100 dimensions
+[Thu May 11 00:25:26 2017] Start Parsing.
+[Thu May 11 00:27:04 2017] TEST 468 sents in 97644 ms
+Loading UDPipe model: done.
+2017-05-11 00:27:16,755 [INFO] start preprocess
+2017-05-11 00:27:22,403 [INFO] start scanning origin embedding
+2017-05-11 00:27:47,100 [INFO] end scanning origin embedding
+2017-05-11 00:27:47,103 [INFO] end preprocess
+2017-05-11 00:27:47,103 [INFO] start testing....
+2017-05-11 00:28:20,825 [INFO] accuracy:0.966546167514
+2017-05-11 00:28:21,146 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/ro.pos
+2017-05-11 00:28:21,147 [INFO] end testing
+[Thu May 11 00:28:21 2017] Loading infos from /media/data/yxwang/models/ro.infos
+[dynet] random seed: 1620964541
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 00:28:23 2017] loading model from /media/data/yxwang/models/parser_ro-mod1.params
+[Thu May 11 00:28:25 2017] loading 2nd model from /media/data/yxwang/models/parser_ro-mod2.params
+[Thu May 11 00:28:26 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/ro.pos
+[Thu May 11 00:28:26 2017] Loading extra word embeddings from ../resources/pruned_embedding/ro.ext-vec with 100 dimensions
+[Thu May 11 00:28:26 2017] Start Parsing.
+[Thu May 11 00:33:33 2017] TEST 732 sents in 306460 ms
+parallel treebank: ru_pud -> ru_syntagrus
+Loading UDPipe model: done.
+2017-05-11 00:33:47,688 [INFO] start preprocess
+2017-05-11 00:34:06,439 [INFO] start scanning origin embedding
+2017-05-11 00:37:10,833 [INFO] end scanning origin embedding
+2017-05-11 00:37:10,835 [INFO] end preprocess
+2017-05-11 00:37:10,836 [INFO] start testing....
+2017-05-11 00:37:51,656 [INFO] accuracy:0.939855110231
+2017-05-11 00:37:51,958 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/ru_pud.pos
+2017-05-11 00:37:51,958 [INFO] end testing
+[Thu May 11 00:37:52 2017] Loading infos from /media/data/yxwang/models/ru_syntagrus.infos
+[dynet] random seed: 1513572589
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 00:37:55 2017] loading model from /media/data/yxwang/models/parser_ru_syntagrus-mod1.params
+[Thu May 11 00:37:58 2017] loading 2nd model from /media/data/yxwang/models/parser_ru_syntagrus-mod2.params
+[Thu May 11 00:38:00 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/ru_pud.pos
+[Thu May 11 00:38:01 2017] Loading extra word embeddings from ../resources/pruned_embedding/ru_syntagrus.ext-vec with 100 dimensions
+[Thu May 11 00:38:01 2017] Start Parsing.
+[Thu May 11 00:43:34 2017] TEST 1001 sents in 333157 ms
+Loading UDPipe model: done.
+2017-05-11 00:44:26,850 [INFO] start preprocess
+2017-05-11 00:44:46,351 [INFO] start scanning origin embedding
+2017-05-11 00:52:36,960 [INFO] end scanning origin embedding
+2017-05-11 00:52:36,967 [INFO] end preprocess
+2017-05-11 00:52:36,968 [INFO] start testing....
+2017-05-11 00:56:05,559 [INFO] accuracy:0.952732946262
+2017-05-11 00:56:07,484 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/ru_syntagrus.pos
+2017-05-11 00:56:07,485 [INFO] end testing
+[Thu May 11 00:56:08 2017] Loading infos from /media/data/yxwang/models/ru_syntagrus.infos
+[dynet] random seed: 330960684
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 00:56:12 2017] loading model from /media/data/yxwang/models/parser_ru_syntagrus-mod1.params
+[Thu May 11 00:56:14 2017] loading 2nd model from /media/data/yxwang/models/parser_ru_syntagrus-mod2.params
+[Thu May 11 00:56:16 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/ru_syntagrus.pos
+[Thu May 11 00:56:17 2017] Loading extra word embeddings from ../resources/pruned_embedding/ru_syntagrus.ext-vec with 100 dimensions
+[Thu May 11 00:56:18 2017] Start Parsing.
+[Thu May 11 01:30:24 2017] TEST 6519 sents in 2.04607e+06 ms
+Loading UDPipe model: done.
+2017-05-11 01:30:31,958 [INFO] start preprocess
+2017-05-11 01:30:39,188 [INFO] start scanning origin embedding
+2017-05-11 01:32:08,669 [INFO] end scanning origin embedding
+2017-05-11 01:32:08,671 [INFO] end preprocess
+2017-05-11 01:32:08,671 [INFO] start testing....
+2017-05-11 01:32:39,027 [INFO] accuracy:0.931312256388
+2017-05-11 01:32:39,256 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/ru.pos
+2017-05-11 01:32:39,256 [INFO] end testing
+[Thu May 11 01:32:39 2017] Loading infos from /media/data/yxwang/models/ru.infos
+[dynet] random seed: 2511035901
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 01:32:43 2017] loading model from /media/data/yxwang/models/parser_ru-mod.params
+[Thu May 11 01:32:45 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/ru.pos
+[Thu May 11 01:32:45 2017] Loading extra word embeddings from ../resources/pruned_embedding/ru.ext-vec with 100 dimensions
+[Thu May 11 01:32:45 2017] Start Parsing.
+[Thu May 11 01:34:33 2017] TEST 588 sents in 107823 ms
+Loading UDPipe model: done.
+2017-05-11 01:34:44,013 [INFO] start preprocess
+2017-05-11 01:34:49,869 [INFO] start scanning origin embedding
+2017-05-11 01:35:13,902 [INFO] end scanning origin embedding
+2017-05-11 01:35:13,907 [INFO] end preprocess
+2017-05-11 01:35:13,907 [INFO] start testing....
+2017-05-11 01:35:45,726 [INFO] accuracy:0.917792447037
+2017-05-11 01:35:45,980 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/sk.pos
+2017-05-11 01:35:45,981 [INFO] end testing
+[Thu May 11 01:35:46 2017] Loading infos from /media/data/yxwang/models/sk.infos
+[dynet] random seed: 3478902878
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 01:35:48 2017] loading model from /media/data/yxwang/models/parser_sk-mod1.params
+[Thu May 11 01:35:49 2017] loading 2nd model from /media/data/yxwang/models/parser_sk-mod2.params
+[Thu May 11 01:35:50 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/sk.pos
+[Thu May 11 01:35:50 2017] Loading extra word embeddings from ../resources/pruned_embedding/sk.ext-vec with 100 dimensions
+[Thu May 11 01:35:51 2017] Start Parsing.
+[Thu May 11 01:39:16 2017] TEST 1032 sents in 205381 ms
+Loading UDPipe model: done.
+2017-05-11 01:39:22,361 [INFO] start preprocess
+2017-05-11 01:39:25,193 [INFO] start scanning origin embedding
+2017-05-11 01:39:41,279 [INFO] end scanning origin embedding
+2017-05-11 01:39:41,281 [INFO] end preprocess
+2017-05-11 01:39:41,281 [INFO] start testing....
+2017-05-11 01:40:05,576 [INFO] accuracy:0.8792
+2017-05-11 01:40:05,759 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/sl_sst.pos
+2017-05-11 01:40:05,760 [INFO] end testing
+[Thu May 11 01:40:06 2017] Loading infos from /media/data/yxwang/models/sl_sst.infos
+[dynet] random seed: 1691297222
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 01:40:08 2017] loading model from /media/data/yxwang/models/parser_sl_sst-mod.params
+[Thu May 11 01:40:09 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/sl_sst.pos
+[Thu May 11 01:40:09 2017] Loading extra word embeddings from ../resources/pruned_embedding/sl_sst.ext-vec with 100 dimensions
+[Thu May 11 01:40:09 2017] Start Parsing.
+[Thu May 11 01:41:48 2017] TEST 734 sents in 98676.5 ms
+Loading UDPipe model: done.
+2017-05-11 01:41:58,418 [INFO] start preprocess
+2017-05-11 01:42:04,449 [INFO] start scanning origin embedding
+2017-05-11 01:42:28,410 [INFO] end scanning origin embedding
+2017-05-11 01:42:28,413 [INFO] end preprocess
+2017-05-11 01:42:28,413 [INFO] start testing....
+2017-05-11 01:42:59,061 [INFO] accuracy:0.951985226223
+2017-05-11 01:42:59,311 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/sl.pos
+2017-05-11 01:42:59,312 [INFO] end testing
+[Thu May 11 01:42:59 2017] Loading infos from /media/data/yxwang/models/sl.infos
+[dynet] random seed: 2535231386
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 01:43:01 2017] loading model from /media/data/yxwang/models/parser_sl-mod.params
+[Thu May 11 01:43:03 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/sl.pos
+[Thu May 11 01:43:03 2017] Loading extra word embeddings from ../resources/pruned_embedding/sl.ext-vec with 100 dimensions
+[Thu May 11 01:43:03 2017] Start Parsing.
+[Thu May 11 01:44:47 2017] TEST 786 sents in 104425 ms
+[Thu May 11 01:44:47 2017] Loading infos from /media/data/yxwang/models/sme.infos
+[dynet] random seed: 8277595
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 01:44:49 2017] loading model from /media/data/yxwang/models/parser_sme-mod.params
+[Thu May 11 01:44:49 2017] Loading test data from /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu
+[Thu May 11 01:44:49 2017] Start Parsing.
+[Thu May 11 01:46:07 2017] TEST 870 sents in 77894.4 ms
+[dynet] random seed: 3703014953
+[dynet] allocating memory: 1000MB
+[dynet] memory allocation done.
+Loading UDPipe model: done.
+Loading UDPipe model: done.
+2017-05-11 01:46:34,832 [INFO] start preprocess
+2017-05-11 01:46:38,695 [INFO] start scanning origin embedding
+2017-05-11 01:47:25,333 [INFO] end scanning origin embedding
+2017-05-11 01:47:25,334 [INFO] end preprocess
+2017-05-11 01:47:25,334 [INFO] start testing....
+2017-05-11 01:47:56,642 [INFO] accuracy:0.933661587597
+2017-05-11 01:47:56,833 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/sv_lines.pos
+2017-05-11 01:47:56,833 [INFO] end testing
+[Thu May 11 01:47:57 2017] Loading infos from /media/data/yxwang/models/sv_lines.infos
+[dynet] random seed: 311362005
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 01:47:58 2017] loading model from /media/data/yxwang/models/parser_sv_lines-mod1.params
+[Thu May 11 01:47:59 2017] loading 2nd model from /media/data/yxwang/models/parser_sv_lines-mod2.params
+[Thu May 11 01:48:00 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/sv_lines.pos
+[Thu May 11 01:48:00 2017] Loading extra word embeddings from ../resources/pruned_embedding/sv_lines.ext-vec with 100 dimensions
+[Thu May 11 01:48:00 2017] Start Parsing.
+[Thu May 11 01:51:46 2017] TEST 908 sents in 225622 ms
+parallel treebank: sv_pud -> sv
+Loading UDPipe model: done.
+2017-05-11 01:51:56,958 [INFO] start preprocess
+2017-05-11 01:52:01,085 [INFO] start scanning origin embedding
+2017-05-11 01:52:49,455 [INFO] end scanning origin embedding
+2017-05-11 01:52:49,458 [INFO] end preprocess
+2017-05-11 01:52:49,459 [INFO] start testing....
+2017-05-11 01:53:27,011 [INFO] accuracy:0.891058201058
+2017-05-11 01:53:27,296 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/sv_pud.pos
+2017-05-11 01:53:27,296 [INFO] end testing
+[Thu May 11 01:53:27 2017] Loading infos from /media/data/yxwang/models/sv.infos
+[dynet] random seed: 299762183
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 01:53:29 2017] loading model from /media/data/yxwang/models/parser_sv-mod1.params
+[Thu May 11 01:53:30 2017] loading 2nd model from /media/data/yxwang/models/parser_sv-mod2.params
+[Thu May 11 01:53:31 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/sv_pud.pos
+[Thu May 11 01:53:31 2017] Loading extra word embeddings from ../resources/pruned_embedding/sv.ext-vec with 100 dimensions
+[Thu May 11 01:53:31 2017] Start Parsing.
+[Thu May 11 01:58:08 2017] TEST 1016 sents in 276881 ms
+Loading UDPipe model: done.
+2017-05-11 01:58:19,109 [INFO] start preprocess
+2017-05-11 01:58:23,374 [INFO] start scanning origin embedding
+2017-05-11 01:59:13,056 [INFO] end scanning origin embedding
+2017-05-11 01:59:13,057 [INFO] end preprocess
+2017-05-11 01:59:13,058 [INFO] start testing....
+2017-05-11 01:59:54,695 [INFO] accuracy:0.948468786808
+2017-05-11 01:59:55,085 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/sv.pos
+2017-05-11 01:59:55,086 [INFO] end testing
+[Thu May 11 01:59:55 2017] Loading infos from /media/data/yxwang/models/sv.infos
+[dynet] random seed: 1418267845
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 01:59:57 2017] loading model from /media/data/yxwang/models/parser_sv-mod1.params
+[Thu May 11 01:59:58 2017] loading 2nd model from /media/data/yxwang/models/parser_sv-mod2.params
+[Thu May 11 01:59:59 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/sv.pos
+[Thu May 11 01:59:59 2017] Loading extra word embeddings from ../resources/pruned_embedding/sv.ext-vec with 100 dimensions
+[Thu May 11 01:59:59 2017] Start Parsing.
+[Thu May 11 02:04:59 2017] TEST 1178 sents in 299462 ms
+parallel treebank: tr_pud -> tr
+Loading UDPipe model: done.
+2017-05-11 02:05:07,279 [INFO] start preprocess
+2017-05-11 02:05:10,476 [INFO] start scanning origin embedding
+2017-05-11 02:05:35,886 [INFO] end scanning origin embedding
+2017-05-11 02:05:35,887 [INFO] end preprocess
+2017-05-11 02:05:35,888 [INFO] start testing....
+2017-05-11 02:06:11,055 [INFO] accuracy:0.868862134089
+2017-05-11 02:06:11,365 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/tr_pud.pos
+2017-05-11 02:06:11,366 [INFO] end testing
+[Thu May 11 02:06:11 2017] Loading infos from /media/data/yxwang/models/tr.infos
+[dynet] random seed: 1301886043
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 02:06:14 2017] loading model from /media/data/yxwang/models/parser_tr-mod1.params
+[Thu May 11 02:06:14 2017] loading 2nd model from /media/data/yxwang/models/parser_tr-mod2.params
+[Thu May 11 02:06:15 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/tr_pud.pos
+[Thu May 11 02:06:15 2017] Loading extra word embeddings from ../resources/pruned_embedding/tr.ext-vec with 100 dimensions
+[Thu May 11 02:06:16 2017] Start Parsing.
+[Thu May 11 02:10:41 2017] TEST 1057 sents in 265825 ms
+Loading UDPipe model: done.
+2017-05-11 02:10:47,297 [INFO] start preprocess
+2017-05-11 02:10:50,136 [INFO] start scanning origin embedding
+2017-05-11 02:11:10,364 [INFO] end scanning origin embedding
+2017-05-11 02:11:10,365 [INFO] end preprocess
+2017-05-11 02:11:10,366 [INFO] start testing....
+2017-05-11 02:11:32,964 [INFO] accuracy:0.915264483627
+2017-05-11 02:11:33,106 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/tr.pos
+2017-05-11 02:11:33,106 [INFO] end testing
+[Thu May 11 02:11:33 2017] Loading infos from /media/data/yxwang/models/tr.infos
+[dynet] random seed: 1345895629
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 02:11:35 2017] loading model from /media/data/yxwang/models/parser_tr-mod1.params
+[Thu May 11 02:11:35 2017] loading 2nd model from /media/data/yxwang/models/parser_tr-mod2.params
+[Thu May 11 02:11:36 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/tr.pos
+[Thu May 11 02:11:36 2017] Loading extra word embeddings from ../resources/pruned_embedding/tr.ext-vec with 100 dimensions
+[Thu May 11 02:11:36 2017] Start Parsing.
+[Thu May 11 02:13:48 2017] TEST 985 sents in 131359 ms
+Loading UDPipe model: done.
+2017-05-11 02:13:51,898 [INFO] start preprocess
+2017-05-11 02:13:52,374 [INFO] start scanning origin embedding
+2017-05-11 02:13:54,773 [INFO] end scanning origin embedding
+2017-05-11 02:13:54,774 [INFO] end preprocess
+2017-05-11 02:13:54,774 [INFO] start testing....
+2017-05-11 02:14:20,019 [INFO] accuracy:0.770659148357
+2017-05-11 02:14:20,165 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/ug.pos
+2017-05-11 02:14:20,165 [INFO] end testing
+[Thu May 11 02:14:20 2017] Loading infos from /media/data/yxwang/models/ug.infos
+[dynet] random seed: 3560859019
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 02:14:22 2017] loading model from /media/data/yxwang/models/parser_ug-mod.params
+[Thu May 11 02:14:23 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/ug.pos
+[Thu May 11 02:14:23 2017] Loading extra word embeddings from ../resources/pruned_embedding/ug.ext-vec with 100 dimensions
+[Thu May 11 02:14:23 2017] Start Parsing.
+[Thu May 11 02:15:42 2017] TEST 908 sents in 78861.6 ms
+Loading UDPipe model: done.
+2017-05-11 02:15:48,144 [INFO] start preprocess
+2017-05-11 02:15:51,245 [INFO] start scanning origin embedding
+2017-05-11 02:16:32,296 [INFO] end scanning origin embedding
+2017-05-11 02:16:32,299 [INFO] end preprocess
+2017-05-11 02:16:32,300 [INFO] start testing....
+2017-05-11 02:17:01,724 [INFO] accuracy:0.839006653257
+2017-05-11 02:17:01,905 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/uk.pos
+2017-05-11 02:17:01,905 [INFO] end testing
+[Thu May 11 02:17:02 2017] Loading infos from /media/data/yxwang/models/uk.infos
+[dynet] random seed: 2599964548
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 02:17:06 2017] loading model from /media/data/yxwang/models/parser_uk-mod.params
+[Thu May 11 02:17:08 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/uk.pos
+[Thu May 11 02:17:08 2017] Loading extra word embeddings from ../resources/pruned_embedding/uk.ext-vec with 100 dimensions
+[Thu May 11 02:17:08 2017] Start Parsing.
+[Thu May 11 02:18:58 2017] TEST 867 sents in 109342 ms
+Loading UDPipe model: done.
+2017-05-11 02:19:27,120 [INFO] start preprocess
+2017-05-11 02:19:29,575 [INFO] start scanning origin embedding
+2017-05-11 02:19:36,878 [INFO] end scanning origin embedding
+2017-05-11 02:19:36,879 [INFO] end preprocess
+2017-05-11 02:19:36,879 [INFO] start testing....
+2017-05-11 02:20:05,207 [INFO] accuracy:0.938065649061
+2017-05-11 02:20:05,492 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/ur.pos
+2017-05-11 02:20:05,493 [INFO] end testing
+[Thu May 11 02:20:05 2017] Loading infos from /media/data/yxwang/models/ur.infos
+[dynet] random seed: 3365366921
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 02:20:07 2017] loading model from /media/data/yxwang/models/parser_ur-mod1.params
+[Thu May 11 02:20:08 2017] loading 2nd model from /media/data/yxwang/models/parser_ur-mod2.params
+[Thu May 11 02:20:09 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/ur.pos
+[Thu May 11 02:20:09 2017] Loading extra word embeddings from ../resources/pruned_embedding/ur.ext-vec with 100 dimensions
+[Thu May 11 02:20:09 2017] Start Parsing.
+[Thu May 11 02:23:55 2017] TEST 534 sents in 226747 ms
+Loading UDPipe model: done.
+[2017-5-11 2:23:57]  start of segment process.
+[dynet] random seed: 944426868
+[dynet] allocating memory: 2048MB
+[dynet] memory allocation done.
+[2017-5-11 2:23:58]  Reading training data from /media/data/bzheng/vi/vi_train_1.txt...
+[2017-5-11 2:23:58]  1400 lines, 2642 unigrams, 16588 bigrams, 
+[2017-5-11 2:23:58]  Reading devlopment data from /media/data/bzheng/vi/vi_dev_1.txt...
+[2017-5-11 2:23:58]  800 lines, 3156 unigrams, 23933 bigrams, 
+[2017-5-11 2:23:58]  Reading testing data from test_segment_vi.txt...
+[2017-5-11 2:23:58]  823 lines, 3672 unigrams, 31249 bigrams, 
+[2017-5-11 2:23:58]  Reading embedding data from /media/data/bzheng/vi/vi.100.embed...
+[2017-5-11 2:24:12]  saved embed: 17251
+[2017-5-11 2:24:12]  Reading MI data from /media/data/bzheng/vi/vi_zscore.mutual...
+[2017-5-11 2:24:36]  Saved MI: 28125
+Using bidirectional LSTM.
+[2017-5-11 2:24:36]  going to load parameters from file: /media/data/bzheng/vi/vi.param
+[2017-5-11 2:24:42]  end of segment process.
+Segmentation fault (core dumped)
+Loading UDPipe model: done.
+2017-05-11 02:24:46,860 [INFO] start preprocess
+2017-05-11 02:24:48,586 [INFO] start scanning origin embedding
+2017-05-11 02:25:44,023 [INFO] end scanning origin embedding
+2017-05-11 02:25:44,024 [INFO] end preprocess
+2017-05-11 02:25:44,024 [INFO] start testing....
+2017-05-11 02:26:08,998 [INFO] accuracy:0.853538461538
+2017-05-11 02:26:09,157 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/vi.pos
+2017-05-11 02:26:09,157 [INFO] end testing
+[Thu May 11 02:26:09 2017] Loading infos from /media/data/yxwang/models/vi.infos
+[dynet] random seed: 1194535495
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 02:26:10 2017] loading model from /media/data/yxwang/models/parser_vi-mod1.params
+[Thu May 11 02:26:11 2017] loading 2nd model from /media/data/yxwang/models/parser_vi-mod2.params
+[Thu May 11 02:26:11 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/vi.pos
+[Thu May 11 02:26:11 2017] Loading extra word embeddings from ../resources/pruned_embedding/vi.ext-vec with 100 dimensions
+[Thu May 11 02:26:12 2017] Start Parsing.
+[Thu May 11 02:29:21 2017] TEST 823 sents in 189084 ms
+Loading UDPipe model: done.
+[2017-5-11 2:29:23]  start of segment process.
+[dynet] random seed: 2433458046
+[dynet] allocating memory: 2048MB
+[dynet] memory allocation done.
+[2017-5-11 2:29:23]  Reading training data from /media/data/bzheng/zh/zh_train_1.txt...
+[2017-5-11 2:29:24]  3997 lines, 3512 unigrams, 64347 bigrams, 
+[2017-5-11 2:29:24]  Reading devlopment data from /media/data/bzheng/zh/zh_dev_1.txt...
+[2017-5-11 2:29:24]  500 lines, 3613 unigrams, 70280 bigrams, 
+[2017-5-11 2:29:24]  Reading testing data from test_segment_zh.txt...
+[2017-5-11 2:29:24]  496 lines, 3676 unigrams, 75589 bigrams, 
+[2017-5-11 2:29:24]  Reading embedding data from /media/data/bzheng/zh/zh.100.embed...
+[2017-5-11 2:30:0]  saved embed: 63406
+[2017-5-11 2:30:0]  Reading MI data from /media/data/bzheng/zh/zh_zscore.mutual...
+[2017-5-11 2:30:11]  Saved MI: 75311
+Using bidirectional LSTM.
+[2017-5-11 2:30:11]  going to load parameters from file: /media/data/bzheng/zh/zh.param
+[2017-5-11 2:30:17]  end of segment process.
+Segmentation fault (core dumped)
+Loading UDPipe model: done.
+2017-05-11 02:30:22,431 [INFO] start preprocess
+2017-05-11 02:30:26,457 [INFO] start scanning origin embedding
+2017-05-11 02:31:01,329 [INFO] end scanning origin embedding
+2017-05-11 02:31:01,330 [INFO] end preprocess
+2017-05-11 02:31:01,330 [INFO] start testing....
+2017-05-11 02:31:18,786 [INFO] accuracy:0.900300886395
+2017-05-11 02:31:18,943 [INFO] output file:/home/HIT-SCIR/sandbox/Evaluation/output/postag/zh.pos
+2017-05-11 02:31:18,944 [INFO] end testing
+[Thu May 11 02:31:19 2017] Loading infos from /media/data/yxwang/models/zh.infos
+[dynet] random seed: 1799876823
+[dynet] allocating memory: 4000MB
+[dynet] memory allocation done.
+[Thu May 11 02:31:21 2017] loading model from /media/data/yxwang/models/parser_zh-mod1.params
+[Thu May 11 02:31:21 2017] loading 2nd model from /media/data/yxwang/models/parser_zh-mod2.params
+[Thu May 11 02:31:22 2017] Loading test data from /home/HIT-SCIR/sandbox/Evaluation/output/postag/zh.pos
+[Thu May 11 02:31:22 2017] Loading extra word embeddings from ../resources/pruned_embedding/zh.ext-vec with 100 dimensions
+[Thu May 11 02:31:22 2017] Start Parsing.
+[Thu May 11 02:34:31 2017] TEST 496 sents in 189187 ms

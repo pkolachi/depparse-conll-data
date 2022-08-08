@@ -1,0 +1,3449 @@
+python test.py /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/ECNU/2017-05-13-13-23-50/output
+
+
+/usr/bin/python
+this is 1 sentence
+this is 2 sentence
+this is 3 sentence
+this is 4 sentence
+this is 5 sentence
+this is 6 sentence
+this is 7 sentence
+this is 8 sentence
+this is 9 sentence
+this is 10 sentence
+this is 11 sentence
+this is 12 sentence
+this is 13 sentence
+this is 14 sentence
+this is 15 sentence
+this is 16 sentence
+this is 17 sentence
+this is 18 sentence
+this is 19 sentence
+this is 20 sentence
+this is 21 sentence
+this is 22 sentence
+this is 23 sentence
+this is 24 sentence
+this is 25 sentence
+this is 26 sentence
+this is 27 sentence
+this is 28 sentence
+this is 29 sentence
+this is 30 sentence
+this is 31 sentence
+this is 32 sentence
+this is 33 sentence
+this is 34 sentence
+this is 35 sentence
+this is 36 sentence
+this is 37 sentence
+this is 38 sentence
+this is 39 sentence
+this is 40 sentence
+this is 41 sentence
+this is 42 sentence
+this is 43 sentence
+this is 44 sentence
+this is 45 sentence
+this is 46 sentence
+this is 47 sentence
+this is 48 sentence
+this is 49 sentence
+this is 50 sentence
+this is 51 sentence
+this is 52 sentence
+this is 53 sentence
+this is 54 sentence
+this is 55 sentence
+this is 56 sentence
+this is 57 sentence
+this is 58 sentence
+this is 59 sentence
+this is 60 sentence
+this is 61 sentence
+this is 62 sentence
+this is 63 sentence
+this is 64 sentence
+this is 65 sentence
+this is 66 sentence
+this is 67 sentence
+this is 68 sentence
+this is 69 sentence
+this is 70 sentence
+this is 71 sentence
+this is 72 sentence
+this is 73 sentence
+this is 74 sentence
+this is 75 sentence
+this is 76 sentence
+this is 77 sentence
+this is 78 sentence
+this is 79 sentence
+this is 80 sentence
+this is 81 sentence
+this is 82 sentence
+this is 83 sentence
+this is 84 sentence
+this is 85 sentence
+this is 86 sentence
+this is 87 sentence
+this is 88 sentence
+this is 89 sentence
+this is 90 sentence
+this is 91 sentence
+this is 92 sentence
+this is 93 sentence
+this is 94 sentence
+this is 95 sentence
+this is 96 sentence
+this is 97 sentence
+this is 98 sentence
+this is 99 sentence
+this is 100 sentence
+this is 101 sentence
+this is 102 sentence
+this is 103 sentence
+this is 104 sentence
+this is 105 sentence
+this is 106 sentence
+this is 107 sentence
+this is 108 sentence
+this is 109 sentence
+this is 110 sentence
+this is 111 sentence
+this is 112 sentence
+this is 113 sentence
+this is 114 sentence
+this is 115 sentence
+this is 116 sentence
+this is 117 sentence
+this is 118 sentence
+this is 119 sentence
+this is 120 sentence
+this is 121 sentence
+this is 122 sentence
+this is 123 sentence
+this is 124 sentence
+this is 125 sentence
+this is 126 sentence
+this is 127 sentence
+this is 128 sentence
+this is 129 sentence
+this is 130 sentence
+this is 131 sentence
+this is 132 sentence
+this is 133 sentence
+this is 134 sentence
+this is 135 sentence
+this is 136 sentence
+this is 137 sentence
+this is 138 sentence
+this is 139 sentence
+this is 140 sentence
+this is 141 sentence
+this is 142 sentence
+this is 143 sentence
+this is 144 sentence
+this is 145 sentence
+this is 146 sentence
+this is 147 sentence
+this is 148 sentence
+this is 149 sentence
+this is 150 sentence
+this is 151 sentence
+this is 152 sentence
+this is 153 sentence
+this is 154 sentence
+this is 155 sentence
+this is 156 sentence
+this is 157 sentence
+this is 158 sentence
+this is 159 sentence
+this is 160 sentence
+this is 161 sentence
+this is 162 sentence
+this is 163 sentence
+this is 164 sentence
+this is 165 sentence
+this is 166 sentence
+this is 167 sentence
+this is 168 sentence
+this is 169 sentence
+this is 170 sentence
+this is 171 sentence
+this is 172 sentence
+this is 173 sentence
+this is 174 sentence
+this is 175 sentence
+this is 176 sentence
+this is 177 sentence
+this is 178 sentence
+this is 179 sentence
+this is 180 sentence
+this is 181 sentence
+this is 182 sentence
+this is 183 sentence
+this is 184 sentence
+this is 185 sentence
+this is 186 sentence
+this is 187 sentence
+this is 188 sentence
+this is 189 sentence
+this is 190 sentence
+this is 191 sentence
+this is 192 sentence
+this is 193 sentence
+this is 194 sentence
+this is 195 sentence
+this is 196 sentence
+this is 197 sentence
+this is 198 sentence
+this is 199 sentence
+this is 200 sentence
+this is 201 sentence
+this is 202 sentence
+this is 203 sentence
+this is 204 sentence
+this is 205 sentence
+this is 206 sentence
+this is 207 sentence
+this is 208 sentence
+this is 209 sentence
+this is 210 sentence
+this is 211 sentence
+this is 212 sentence
+this is 213 sentence
+this is 214 sentence
+this is 215 sentence
+this is 216 sentence
+this is 217 sentence
+this is 218 sentence
+this is 219 sentence
+this is 220 sentence
+this is 221 sentence
+this is 222 sentence
+this is 223 sentence
+this is 224 sentence
+this is 225 sentence
+this is 226 sentence
+this is 227 sentence
+this is 228 sentence
+this is 229 sentence
+this is 230 sentence
+this is 231 sentence
+this is 232 sentence
+this is 233 sentence
+this is 234 sentence
+this is 235 sentence
+this is 236 sentence
+this is 237 sentence
+this is 238 sentence
+this is 239 sentence
+this is 240 sentence
+this is 241 sentence
+this is 242 sentence
+this is 243 sentence
+this is 244 sentence
+this is 245 sentence
+this is 246 sentence
+this is 247 sentence
+this is 248 sentence
+this is 249 sentence
+this is 250 sentence
+this is 251 sentence
+this is 252 sentence
+this is 253 sentence
+this is 254 sentence
+this is 255 sentence
+this is 256 sentence
+this is 257 sentence
+this is 258 sentence
+this is 259 sentence
+this is 260 sentence
+this is 261 sentence
+this is 262 sentence
+this is 263 sentence
+this is 264 sentence
+this is 265 sentence
+this is 266 sentence
+this is 267 sentence
+this is 268 sentence
+this is 269 sentence
+this is 270 sentence
+this is 271 sentence
+this is 272 sentence
+this is 273 sentence
+this is 274 sentence
+this is 275 sentence
+this is 276 sentence
+this is 277 sentence
+this is 278 sentence
+this is 279 sentence
+this is 280 sentence
+this is 281 sentence
+this is 282 sentence
+this is 283 sentence
+this is 284 sentence
+this is 285 sentence
+this is 286 sentence
+this is 287 sentence
+this is 288 sentence
+this is 289 sentence
+this is 290 sentence
+this is 291 sentence
+this is 292 sentence
+this is 293 sentence
+this is 294 sentence
+this is 295 sentence
+this is 296 sentence
+this is 297 sentence
+this is 298 sentence
+this is 299 sentence
+this is 300 sentence
+this is 301 sentence
+this is 302 sentence
+this is 303 sentence
+this is 304 sentence
+this is 305 sentence
+this is 306 sentence
+this is 307 sentence
+this is 308 sentence
+this is 309 sentence
+this is 310 sentence
+this is 311 sentence
+this is 312 sentence
+this is 313 sentence
+this is 314 sentence
+this is 315 sentence
+this is 316 sentence
+this is 317 sentence
+this is 318 sentence
+this is 319 sentence
+this is 320 sentence
+this is 321 sentence
+this is 322 sentence
+this is 323 sentence
+this is 324 sentence
+this is 325 sentence
+this is 326 sentence
+this is 327 sentence
+this is 328 sentence
+this is 329 sentence
+this is 330 sentence
+this is 331 sentence
+this is 332 sentence
+this is 333 sentence
+this is 334 sentence
+this is 335 sentence
+this is 336 sentence
+this is 337 sentence
+this is 338 sentence
+this is 339 sentence
+this is 340 sentence
+this is 341 sentence
+this is 342 sentence
+this is 343 sentence
+this is 344 sentence
+this is 345 sentence
+this is 346 sentence
+this is 347 sentence
+this is 348 sentence
+this is 349 sentence
+this is 350 sentence
+this is 351 sentence
+this is 352 sentence
+this is 353 sentence
+this is 354 sentence
+this is 355 sentence
+this is 356 sentence
+this is 357 sentence
+this is 358 sentence
+this is 359 sentence
+this is 360 sentence
+this is 361 sentence
+this is 362 sentence
+this is 363 sentence
+this is 364 sentence
+this is 365 sentence
+this is 366 sentence
+this is 367 sentence
+this is 368 sentence
+this is 369 sentence
+this is 370 sentence
+this is 371 sentence
+this is 372 sentence
+this is 373 sentence
+this is 374 sentence
+this is 375 sentence
+this is 376 sentence
+this is 377 sentence
+this is 378 sentence
+this is 379 sentence
+this is 380 sentence
+this is 381 sentence
+this is 382 sentence
+this is 383 sentence
+this is 384 sentence
+this is 385 sentence
+this is 386 sentence
+this is 387 sentence
+this is 388 sentence
+this is 389 sentence
+this is 390 sentence
+this is 391 sentence
+this is 392 sentence
+this is 393 sentence
+this is 394 sentence
+this is 395 sentence
+this is 396 sentence
+this is 397 sentence
+this is 398 sentence
+this is 399 sentence
+this is 400 sentence
+this is 401 sentence
+this is 402 sentence
+this is 403 sentence
+this is 404 sentence
+this is 405 sentence
+this is 406 sentence
+this is 407 sentence
+this is 408 sentence
+this is 409 sentence
+this is 410 sentence
+this is 411 sentence
+this is 412 sentence
+this is 413 sentence
+this is 414 sentence
+this is 415 sentence
+this is 416 sentence
+this is 417 sentence
+this is 418 sentence
+this is 419 sentence
+this is 420 sentence
+this is 421 sentence
+this is 422 sentence
+this is 423 sentence
+this is 424 sentence
+this is 425 sentence
+this is 426 sentence
+this is 427 sentence
+this is 428 sentence
+this is 429 sentence
+this is 430 sentence
+this is 431 sentence
+this is 432 sentence
+this is 433 sentence
+this is 434 sentence
+this is 435 sentence
+this is 436 sentence
+this is 437 sentence
+this is 438 sentence
+this is 439 sentence
+this is 440 sentence
+this is 441 sentence
+this is 442 sentence
+this is 443 sentence
+this is 444 sentence
+this is 445 sentence
+this is 446 sentence
+this is 447 sentence
+this is 448 sentence
+this is 449 sentence
+this is 450 sentence
+this is 451 sentence
+this is 452 sentence
+this is 453 sentence
+this is 454 sentence
+this is 455 sentence
+this is 456 sentence
+this is 457 sentence
+this is 458 sentence
+this is 459 sentence
+this is 460 sentence
+this is 461 sentence
+this is 462 sentence
+this is 463 sentence
+this is 464 sentence
+this is 465 sentence
+this is 466 sentence
+this is 467 sentence
+this is 468 sentence
+this is 469 sentence
+this is 470 sentence
+this is 471 sentence
+this is 472 sentence
+this is 473 sentence
+this is 474 sentence
+this is 475 sentence
+this is 476 sentence
+this is 477 sentence
+this is 478 sentence
+this is 479 sentence
+this is 480 sentence
+this is 481 sentence
+this is 482 sentence
+this is 483 sentence
+this is 484 sentence
+this is 485 sentence
+this is 486 sentence
+this is 487 sentence
+this is 488 sentence
+this is 489 sentence
+this is 490 sentence
+this is 491 sentence
+this is 492 sentence
+this is 493 sentence
+this is 494 sentence
+this is 495 sentence
+this is 496 sentence
+this is 497 sentence
+this is 498 sentence
+this is 499 sentence
+this is 500 sentence
+this is 501 sentence
+this is 502 sentence
+this is 503 sentence
+this is 504 sentence
+this is 505 sentence
+this is 506 sentence
+this is 507 sentence
+this is 508 sentence
+this is 509 sentence
+this is 510 sentence
+this is 511 sentence
+this is 512 sentence
+this is 513 sentence
+this is 514 sentence
+this is 515 sentence
+this is 516 sentence
+this is 517 sentence
+this is 518 sentence
+this is 519 sentence
+this is 520 sentence
+this is 521 sentence
+this is 522 sentence
+this is 523 sentence
+this is 524 sentence
+this is 525 sentence
+this is 526 sentence
+this is 527 sentence
+this is 528 sentence
+this is 529 sentence
+this is 530 sentence
+this is 531 sentence
+this is 532 sentence
+this is 533 sentence
+this is 534 sentence
+this is 535 sentence
+this is 536 sentence
+this is 537 sentence
+this is 538 sentence
+this is 539 sentence
+this is 540 sentence
+this is 541 sentence
+this is 542 sentence
+this is 543 sentence
+this is 544 sentence
+this is 545 sentence
+this is 546 sentence
+this is 547 sentence
+this is 548 sentence
+this is 549 sentence
+this is 550 sentence
+this is 551 sentence
+this is 552 sentence
+this is 553 sentence
+this is 554 sentence
+this is 555 sentence
+this is 556 sentence
+this is 557 sentence
+this is 558 sentence
+this is 559 sentence
+this is 560 sentence
+this is 561 sentence
+this is 562 sentence
+this is 563 sentence
+this is 564 sentence
+this is 565 sentence
+this is 566 sentence
+this is 567 sentence
+this is 568 sentence
+this is 569 sentence
+this is 570 sentence
+this is 571 sentence
+this is 572 sentence
+this is 573 sentence
+this is 574 sentence
+this is 575 sentence
+this is 576 sentence
+this is 577 sentence
+this is 578 sentence
+this is 579 sentence
+this is 580 sentence
+this is 581 sentence
+this is 582 sentence
+this is 583 sentence
+this is 584 sentence
+this is 585 sentence
+this is 586 sentence
+this is 587 sentence
+this is 588 sentence
+this is 589 sentence
+this is 590 sentence
+this is 591 sentence
+this is 592 sentence
+this is 593 sentence
+this is 594 sentence
+this is 595 sentence
+this is 596 sentence
+this is 597 sentence
+this is 598 sentence
+this is 599 sentence
+this is 600 sentence
+this is 601 sentence
+this is 602 sentence
+this is 603 sentence
+this is 604 sentence
+this is 605 sentence
+this is 606 sentence
+this is 607 sentence
+this is 608 sentence
+this is 609 sentence
+this is 610 sentence
+this is 611 sentence
+this is 612 sentence
+this is 613 sentence
+this is 614 sentence
+this is 615 sentence
+this is 616 sentence
+this is 617 sentence
+this is 618 sentence
+this is 619 sentence
+this is 620 sentence
+this is 621 sentence
+this is 622 sentence
+this is 623 sentence
+this is 624 sentence
+this is 625 sentence
+this is 626 sentence
+this is 627 sentence
+this is 628 sentence
+this is 629 sentence
+this is 630 sentence
+this is 631 sentence
+this is 632 sentence
+this is 633 sentence
+this is 634 sentence
+this is 635 sentence
+this is 636 sentence
+this is 637 sentence
+this is 638 sentence
+this is 639 sentence
+this is 640 sentence
+this is 641 sentence
+this is 642 sentence
+this is 643 sentence
+this is 644 sentence
+this is 645 sentence
+this is 646 sentence
+this is 647 sentence
+this is 648 sentence
+this is 649 sentence
+this is 650 sentence
+this is 651 sentence
+this is 652 sentence
+this is 653 sentence
+this is 654 sentence
+this is 655 sentence
+this is 656 sentence
+this is 657 sentence
+this is 658 sentence
+this is 659 sentence
+this is 660 sentence
+this is 661 sentence
+this is 662 sentence
+this is 663 sentence
+this is 664 sentence
+this is 665 sentence
+this is 666 sentence
+this is 667 sentence
+this is 668 sentence
+this is 669 sentence
+this is 670 sentence
+this is 671 sentence
+this is 672 sentence
+this is 673 sentence
+this is 674 sentence
+this is 675 sentence
+this is 676 sentence
+this is 677 sentence
+this is 678 sentence
+this is 679 sentence
+this is 680 sentence
+this is 681 sentence
+this is 682 sentence
+this is 683 sentence
+this is 684 sentence
+this is 685 sentence
+this is 686 sentence
+this is 687 sentence
+this is 688 sentence
+this is 689 sentence
+this is 690 sentence
+this is 691 sentence
+this is 692 sentence
+this is 693 sentence
+this is 694 sentence
+this is 695 sentence
+this is 696 sentence
+this is 697 sentence
+this is 698 sentence
+this is 699 sentence
+this is 700 sentence
+this is 701 sentence
+this is 702 sentence
+this is 703 sentence
+this is 704 sentence
+this is 705 sentence
+this is 706 sentence
+this is 707 sentence
+this is 708 sentence
+this is 709 sentence
+this is 710 sentence
+this is 711 sentence
+this is 712 sentence
+this is 713 sentence
+this is 714 sentence
+this is 715 sentence
+this is 716 sentence
+this is 717 sentence
+this is 718 sentence
+this is 719 sentence
+this is 720 sentence
+this is 721 sentence
+this is 722 sentence
+this is 723 sentence
+this is 724 sentence
+this is 725 sentence
+this is 726 sentence
+this is 727 sentence
+this is 728 sentence
+this is 729 sentence
+this is 730 sentence
+this is 731 sentence
+this is 732 sentence
+this is 733 sentence
+this is 734 sentence
+this is 735 sentence
+this is 736 sentence
+this is 737 sentence
+this is 738 sentence
+this is 739 sentence
+this is 740 sentence
+this is 741 sentence
+this is 742 sentence
+this is 743 sentence
+this is 744 sentence
+this is 745 sentence
+this is 746 sentence
+this is 747 sentence
+this is 748 sentence
+this is 749 sentence
+this is 750 sentence
+this is 751 sentence
+this is 752 sentence
+this is 753 sentence
+this is 754 sentence
+this is 755 sentence
+this is 756 sentence
+this is 757 sentence
+this is 758 sentence
+this is 759 sentence
+this is 760 sentence
+this is 761 sentence
+this is 762 sentence
+this is 763 sentence
+this is 764 sentence
+this is 765 sentence
+this is 766 sentence
+this is 767 sentence
+this is 768 sentence
+this is 769 sentence
+this is 770 sentence
+this is 771 sentence
+this is 772 sentence
+this is 773 sentence
+this is 774 sentence
+this is 775 sentence
+this is 776 sentence
+this is 777 sentence
+this is 778 sentence
+this is 779 sentence
+this is 780 sentence
+this is 781 sentence
+this is 782 sentence
+this is 783 sentence
+this is 784 sentence
+this is 785 sentence
+this is 786 sentence
+this is 787 sentence
+this is 788 sentence
+this is 789 sentence
+this is 790 sentence
+this is 791 sentence
+this is 792 sentence
+this is 793 sentence
+this is 794 sentence
+this is 795 sentence
+this is 796 sentence
+this is 797 sentence
+this is 798 sentence
+this is 799 sentence
+this is 800 sentence
+this is 801 sentence
+this is 802 sentence
+this is 803 sentence
+this is 804 sentence
+this is 805 sentence
+this is 806 sentence
+this is 807 sentence
+this is 808 sentence
+this is 809 sentence
+this is 810 sentence
+this is 811 sentence
+this is 812 sentence
+this is 813 sentence
+this is 814 sentence
+this is 815 sentence
+this is 816 sentence
+this is 817 sentence
+this is 818 sentence
+this is 819 sentence
+this is 820 sentence
+this is 821 sentence
+this is 822 sentence
+this is 823 sentence
+this is 824 sentence
+this is 825 sentence
+this is 826 sentence
+this is 827 sentence
+this is 828 sentence
+this is 829 sentence
+this is 830 sentence
+this is 831 sentence
+this is 832 sentence
+this is 833 sentence
+this is 834 sentence
+this is 835 sentence
+this is 836 sentence
+this is 837 sentence
+this is 838 sentence
+this is 839 sentence
+this is 840 sentence
+this is 841 sentence
+this is 842 sentence
+this is 843 sentence
+this is 844 sentence
+this is 845 sentence
+this is 846 sentence
+this is 847 sentence
+this is 848 sentence
+this is 849 sentence
+this is 850 sentence
+this is 851 sentence
+this is 852 sentence
+this is 853 sentence
+this is 854 sentence
+this is 855 sentence
+this is 856 sentence
+this is 857 sentence
+this is 858 sentence
+this is 859 sentence
+this is 860 sentence
+this is 861 sentence
+this is 862 sentence
+this is 863 sentence
+this is 864 sentence
+this is 865 sentence
+this is 866 sentence
+this is 867 sentence
+this is 868 sentence
+this is 869 sentence
+this is 870 sentence
+this is 871 sentence
+this is 872 sentence
+this is 873 sentence
+this is 874 sentence
+this is 875 sentence
+this is 876 sentence
+this is 877 sentence
+this is 878 sentence
+this is 879 sentence
+this is 880 sentence
+this is 881 sentence
+this is 882 sentence
+this is 883 sentence
+this is 884 sentence
+this is 885 sentence
+this is 886 sentence
+this is 887 sentence
+this is 888 sentence
+this is 889 sentence
+this is 890 sentence
+this is 891 sentence
+this is 892 sentence
+this is 893 sentence
+this is 894 sentence
+this is 895 sentence
+this is 896 sentence
+this is 897 sentence
+this is 898 sentence
+this is 899 sentence
+this is 900 sentence
+this is 901 sentence
+this is 902 sentence
+this is 903 sentence
+this is 904 sentence
+this is 905 sentence
+this is 906 sentence
+this is 907 sentence
+this is 908 sentence
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+process has done!
+/usr/bin/python
+this is 1 sentence
+this is 2 sentence
+this is 3 sentence
+this is 4 sentence
+this is 5 sentence
+this is 6 sentence
+this is 7 sentence
+this is 8 sentence
+this is 9 sentence
+this is 10 sentence
+this is 11 sentence
+this is 12 sentence
+this is 13 sentence
+this is 14 sentence
+this is 15 sentence
+this is 16 sentence
+this is 17 sentence
+this is 18 sentence
+this is 19 sentence
+this is 20 sentence
+this is 21 sentence
+this is 22 sentence
+this is 23 sentence
+this is 24 sentence
+this is 25 sentence
+this is 26 sentence
+this is 27 sentence
+this is 28 sentence
+this is 29 sentence
+this is 30 sentence
+this is 31 sentence
+this is 32 sentence
+this is 33 sentence
+this is 34 sentence
+this is 35 sentence
+this is 36 sentence
+this is 37 sentence
+this is 38 sentence
+this is 39 sentence
+this is 40 sentence
+this is 41 sentence
+this is 42 sentence
+this is 43 sentence
+this is 44 sentence
+this is 45 sentence
+this is 46 sentence
+this is 47 sentence
+this is 48 sentence
+this is 49 sentence
+this is 50 sentence
+this is 51 sentence
+this is 52 sentence
+this is 53 sentence
+this is 54 sentence
+this is 55 sentence
+this is 56 sentence
+this is 57 sentence
+this is 58 sentence
+this is 59 sentence
+this is 60 sentence
+this is 61 sentence
+this is 62 sentence
+this is 63 sentence
+this is 64 sentence
+this is 65 sentence
+this is 66 sentence
+this is 67 sentence
+this is 68 sentence
+this is 69 sentence
+this is 70 sentence
+this is 71 sentence
+this is 72 sentence
+this is 73 sentence
+this is 74 sentence
+this is 75 sentence
+this is 76 sentence
+this is 77 sentence
+this is 78 sentence
+this is 79 sentence
+this is 80 sentence
+this is 81 sentence
+this is 82 sentence
+this is 83 sentence
+this is 84 sentence
+this is 85 sentence
+this is 86 sentence
+this is 87 sentence
+this is 88 sentence
+this is 89 sentence
+this is 90 sentence
+this is 91 sentence
+this is 92 sentence
+this is 93 sentence
+this is 94 sentence
+this is 95 sentence
+this is 96 sentence
+this is 97 sentence
+this is 98 sentence
+this is 99 sentence
+this is 100 sentence
+this is 101 sentence
+this is 102 sentence
+this is 103 sentence
+this is 104 sentence
+this is 105 sentence
+this is 106 sentence
+this is 107 sentence
+this is 108 sentence
+this is 109 sentence
+this is 110 sentence
+this is 111 sentence
+this is 112 sentence
+this is 113 sentence
+this is 114 sentence
+this is 115 sentence
+this is 116 sentence
+this is 117 sentence
+this is 118 sentence
+this is 119 sentence
+this is 120 sentence
+this is 121 sentence
+this is 122 sentence
+this is 123 sentence
+this is 124 sentence
+this is 125 sentence
+this is 126 sentence
+this is 127 sentence
+this is 128 sentence
+this is 129 sentence
+this is 130 sentence
+this is 131 sentence
+this is 132 sentence
+this is 133 sentence
+this is 134 sentence
+this is 135 sentence
+this is 136 sentence
+this is 137 sentence
+this is 138 sentence
+this is 139 sentence
+this is 140 sentence
+this is 141 sentence
+this is 142 sentence
+this is 143 sentence
+this is 144 sentence
+this is 145 sentence
+this is 146 sentence
+this is 147 sentence
+this is 148 sentence
+this is 149 sentence
+this is 150 sentence
+this is 151 sentence
+this is 152 sentence
+this is 153 sentence
+this is 154 sentence
+this is 155 sentence
+this is 156 sentence
+this is 157 sentence
+this is 158 sentence
+this is 159 sentence
+this is 160 sentence
+this is 161 sentence
+this is 162 sentence
+this is 163 sentence
+this is 164 sentence
+this is 165 sentence
+this is 166 sentence
+this is 167 sentence
+this is 168 sentence
+this is 169 sentence
+this is 170 sentence
+this is 171 sentence
+this is 172 sentence
+this is 173 sentence
+this is 174 sentence
+this is 175 sentence
+this is 176 sentence
+this is 177 sentence
+this is 178 sentence
+this is 179 sentence
+this is 180 sentence
+this is 181 sentence
+this is 182 sentence
+this is 183 sentence
+this is 184 sentence
+this is 185 sentence
+this is 186 sentence
+this is 187 sentence
+this is 188 sentence
+this is 189 sentence
+this is 190 sentence
+this is 191 sentence
+this is 192 sentence
+this is 193 sentence
+this is 194 sentence
+this is 195 sentence
+this is 196 sentence
+this is 197 sentence
+this is 198 sentence
+this is 199 sentence
+this is 200 sentence
+this is 201 sentence
+this is 202 sentence
+this is 203 sentence
+this is 204 sentence
+this is 205 sentence
+this is 206 sentence
+this is 207 sentence
+this is 208 sentence
+this is 209 sentence
+this is 210 sentence
+this is 211 sentence
+this is 212 sentence
+this is 213 sentence
+this is 214 sentence
+this is 215 sentence
+this is 216 sentence
+this is 217 sentence
+this is 218 sentence
+this is 219 sentence
+this is 220 sentence
+this is 221 sentence
+this is 222 sentence
+this is 223 sentence
+this is 224 sentence
+this is 225 sentence
+this is 226 sentence
+this is 227 sentence
+this is 228 sentence
+this is 229 sentence
+this is 230 sentence
+this is 231 sentence
+this is 232 sentence
+this is 233 sentence
+this is 234 sentence
+this is 235 sentence
+this is 236 sentence
+this is 237 sentence
+this is 238 sentence
+this is 239 sentence
+this is 240 sentence
+this is 241 sentence
+this is 242 sentence
+this is 243 sentence
+this is 244 sentence
+this is 245 sentence
+this is 246 sentence
+this is 247 sentence
+this is 248 sentence
+this is 249 sentence
+this is 250 sentence
+this is 251 sentence
+this is 252 sentence
+this is 253 sentence
+this is 254 sentence
+this is 255 sentence
+this is 256 sentence
+this is 257 sentence
+this is 258 sentence
+this is 259 sentence
+this is 260 sentence
+this is 261 sentence
+this is 262 sentence
+this is 263 sentence
+this is 264 sentence
+this is 265 sentence
+this is 266 sentence
+this is 267 sentence
+this is 268 sentence
+this is 269 sentence
+this is 270 sentence
+this is 271 sentence
+this is 272 sentence
+this is 273 sentence
+this is 274 sentence
+this is 275 sentence
+this is 276 sentence
+this is 277 sentence
+this is 278 sentence
+this is 279 sentence
+this is 280 sentence
+this is 281 sentence
+this is 282 sentence
+this is 283 sentence
+this is 284 sentence
+this is 285 sentence
+this is 286 sentence
+this is 287 sentence
+this is 288 sentence
+this is 289 sentence
+this is 290 sentence
+this is 291 sentence
+this is 292 sentence
+this is 293 sentence
+this is 294 sentence
+this is 295 sentence
+this is 296 sentence
+this is 297 sentence
+this is 298 sentence
+this is 299 sentence
+this is 300 sentence
+this is 301 sentence
+this is 302 sentence
+this is 303 sentence
+this is 304 sentence
+this is 305 sentence
+this is 306 sentence
+this is 307 sentence
+this is 308 sentence
+this is 309 sentence
+this is 310 sentence
+this is 311 sentence
+this is 312 sentence
+this is 313 sentence
+this is 314 sentence
+this is 315 sentence
+this is 316 sentence
+this is 317 sentence
+this is 318 sentence
+this is 319 sentence
+this is 320 sentence
+this is 321 sentence
+this is 322 sentence
+this is 323 sentence
+this is 324 sentence
+this is 325 sentence
+this is 326 sentence
+this is 327 sentence
+this is 328 sentence
+this is 329 sentence
+this is 330 sentence
+this is 331 sentence
+this is 332 sentence
+this is 333 sentence
+this is 334 sentence
+this is 335 sentence
+this is 336 sentence
+this is 337 sentence
+this is 338 sentence
+this is 339 sentence
+this is 340 sentence
+this is 341 sentence
+this is 342 sentence
+this is 343 sentence
+this is 344 sentence
+this is 345 sentence
+this is 346 sentence
+this is 347 sentence
+this is 348 sentence
+this is 349 sentence
+this is 350 sentence
+this is 351 sentence
+this is 352 sentence
+this is 353 sentence
+this is 354 sentence
+this is 355 sentence
+this is 356 sentence
+this is 357 sentence
+this is 358 sentence
+this is 359 sentence
+this is 360 sentence
+this is 361 sentence
+this is 362 sentence
+this is 363 sentence
+this is 364 sentence
+this is 365 sentence
+this is 366 sentence
+this is 367 sentence
+this is 368 sentence
+this is 369 sentence
+this is 370 sentence
+this is 371 sentence
+this is 372 sentence
+this is 373 sentence
+this is 374 sentence
+this is 375 sentence
+this is 376 sentence
+this is 377 sentence
+this is 378 sentence
+this is 379 sentence
+this is 380 sentence
+this is 381 sentence
+this is 382 sentence
+this is 383 sentence
+this is 384 sentence
+this is 385 sentence
+this is 386 sentence
+this is 387 sentence
+this is 388 sentence
+this is 389 sentence
+this is 390 sentence
+this is 391 sentence
+this is 392 sentence
+this is 393 sentence
+this is 394 sentence
+this is 395 sentence
+this is 396 sentence
+this is 397 sentence
+this is 398 sentence
+this is 399 sentence
+this is 400 sentence
+this is 401 sentence
+this is 402 sentence
+this is 403 sentence
+this is 404 sentence
+this is 405 sentence
+this is 406 sentence
+this is 407 sentence
+this is 408 sentence
+this is 409 sentence
+this is 410 sentence
+this is 411 sentence
+this is 412 sentence
+this is 413 sentence
+this is 414 sentence
+this is 415 sentence
+this is 416 sentence
+this is 417 sentence
+this is 418 sentence
+this is 419 sentence
+this is 420 sentence
+this is 421 sentence
+this is 422 sentence
+this is 423 sentence
+this is 424 sentence
+this is 425 sentence
+this is 426 sentence
+this is 427 sentence
+this is 428 sentence
+this is 429 sentence
+this is 430 sentence
+this is 431 sentence
+this is 432 sentence
+this is 433 sentence
+this is 434 sentence
+this is 435 sentence
+this is 436 sentence
+this is 437 sentence
+this is 438 sentence
+this is 439 sentence
+this is 440 sentence
+this is 441 sentence
+this is 442 sentence
+this is 443 sentence
+this is 444 sentence
+this is 445 sentence
+this is 446 sentence
+this is 447 sentence
+this is 448 sentence
+this is 449 sentence
+this is 450 sentence
+this is 451 sentence
+this is 452 sentence
+this is 453 sentence
+this is 454 sentence
+this is 455 sentence
+this is 456 sentence
+this is 457 sentence
+this is 458 sentence
+this is 459 sentence
+this is 460 sentence
+this is 461 sentence
+this is 462 sentence
+this is 463 sentence
+this is 464 sentence
+this is 465 sentence
+this is 466 sentence
+this is 467 sentence
+this is 468 sentence
+this is 469 sentence
+this is 470 sentence
+this is 471 sentence
+this is 472 sentence
+this is 473 sentence
+this is 474 sentence
+this is 475 sentence
+this is 476 sentence
+this is 477 sentence
+this is 478 sentence
+this is 479 sentence
+this is 480 sentence
+this is 481 sentence
+this is 482 sentence
+this is 483 sentence
+this is 484 sentence
+this is 485 sentence
+this is 486 sentence
+this is 487 sentence
+this is 488 sentence
+this is 489 sentence
+this is 490 sentence
+this is 491 sentence
+this is 492 sentence
+this is 493 sentence
+this is 494 sentence
+this is 495 sentence
+this is 496 sentence
+this is 497 sentence
+this is 498 sentence
+this is 499 sentence
+this is 500 sentence
+this is 501 sentence
+this is 502 sentence
+this is 503 sentence
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+process has done!
+/usr/bin/python
+this is 1 sentence
+this is 2 sentence
+this is 3 sentence
+this is 4 sentence
+this is 5 sentence
+this is 6 sentence
+this is 7 sentence
+this is 8 sentence
+this is 9 sentence
+this is 10 sentence
+this is 11 sentence
+this is 12 sentence
+this is 13 sentence
+this is 14 sentence
+this is 15 sentence
+this is 16 sentence
+this is 17 sentence
+this is 18 sentence
+this is 19 sentence
+this is 20 sentence
+this is 21 sentence
+this is 22 sentence
+this is 23 sentence
+this is 24 sentence
+this is 25 sentence
+this is 26 sentence
+this is 27 sentence
+this is 28 sentence
+this is 29 sentence
+this is 30 sentence
+this is 31 sentence
+this is 32 sentence
+this is 33 sentence
+this is 34 sentence
+this is 35 sentence
+this is 36 sentence
+this is 37 sentence
+this is 38 sentence
+this is 39 sentence
+this is 40 sentence
+this is 41 sentence
+this is 42 sentence
+this is 43 sentence
+this is 44 sentence
+this is 45 sentence
+this is 46 sentence
+this is 47 sentence
+this is 48 sentence
+this is 49 sentence
+this is 50 sentence
+this is 51 sentence
+this is 52 sentence
+this is 53 sentence
+this is 54 sentence
+this is 55 sentence
+this is 56 sentence
+this is 57 sentence
+this is 58 sentence
+this is 59 sentence
+this is 60 sentence
+this is 61 sentence
+this is 62 sentence
+this is 63 sentence
+this is 64 sentence
+this is 65 sentence
+this is 66 sentence
+this is 67 sentence
+this is 68 sentence
+this is 69 sentence
+this is 70 sentence
+this is 71 sentence
+this is 72 sentence
+this is 73 sentence
+this is 74 sentence
+this is 75 sentence
+this is 76 sentence
+this is 77 sentence
+this is 78 sentence
+this is 79 sentence
+this is 80 sentence
+this is 81 sentence
+this is 82 sentence
+this is 83 sentence
+this is 84 sentence
+this is 85 sentence
+this is 86 sentence
+this is 87 sentence
+this is 88 sentence
+this is 89 sentence
+this is 90 sentence
+this is 91 sentence
+this is 92 sentence
+this is 93 sentence
+this is 94 sentence
+this is 95 sentence
+this is 96 sentence
+this is 97 sentence
+this is 98 sentence
+this is 99 sentence
+this is 100 sentence
+this is 101 sentence
+this is 102 sentence
+this is 103 sentence
+this is 104 sentence
+this is 105 sentence
+this is 106 sentence
+this is 107 sentence
+this is 108 sentence
+this is 109 sentence
+this is 110 sentence
+this is 111 sentence
+this is 112 sentence
+this is 113 sentence
+this is 114 sentence
+this is 115 sentence
+this is 116 sentence
+this is 117 sentence
+this is 118 sentence
+this is 119 sentence
+this is 120 sentence
+this is 121 sentence
+this is 122 sentence
+this is 123 sentence
+this is 124 sentence
+this is 125 sentence
+this is 126 sentence
+this is 127 sentence
+this is 128 sentence
+this is 129 sentence
+this is 130 sentence
+this is 131 sentence
+this is 132 sentence
+this is 133 sentence
+this is 134 sentence
+this is 135 sentence
+this is 136 sentence
+this is 137 sentence
+this is 138 sentence
+this is 139 sentence
+this is 140 sentence
+this is 141 sentence
+this is 142 sentence
+this is 143 sentence
+this is 144 sentence
+this is 145 sentence
+this is 146 sentence
+this is 147 sentence
+this is 148 sentence
+this is 149 sentence
+this is 150 sentence
+this is 151 sentence
+this is 152 sentence
+this is 153 sentence
+this is 154 sentence
+this is 155 sentence
+this is 156 sentence
+this is 157 sentence
+this is 158 sentence
+this is 159 sentence
+this is 160 sentence
+this is 161 sentence
+this is 162 sentence
+this is 163 sentence
+this is 164 sentence
+this is 165 sentence
+this is 166 sentence
+this is 167 sentence
+this is 168 sentence
+this is 169 sentence
+this is 170 sentence
+this is 171 sentence
+this is 172 sentence
+this is 173 sentence
+this is 174 sentence
+this is 175 sentence
+this is 176 sentence
+this is 177 sentence
+this is 178 sentence
+this is 179 sentence
+this is 180 sentence
+this is 181 sentence
+this is 182 sentence
+this is 183 sentence
+this is 184 sentence
+this is 185 sentence
+this is 186 sentence
+this is 187 sentence
+this is 188 sentence
+this is 189 sentence
+this is 190 sentence
+this is 191 sentence
+this is 192 sentence
+this is 193 sentence
+this is 194 sentence
+this is 195 sentence
+this is 196 sentence
+this is 197 sentence
+this is 198 sentence
+this is 199 sentence
+this is 200 sentence
+this is 201 sentence
+this is 202 sentence
+this is 203 sentence
+this is 204 sentence
+this is 205 sentence
+this is 206 sentence
+this is 207 sentence
+this is 208 sentence
+this is 209 sentence
+this is 210 sentence
+this is 211 sentence
+this is 212 sentence
+this is 213 sentence
+this is 214 sentence
+this is 215 sentence
+this is 216 sentence
+this is 217 sentence
+this is 218 sentence
+this is 219 sentence
+this is 220 sentence
+this is 221 sentence
+this is 222 sentence
+this is 223 sentence
+this is 224 sentence
+this is 225 sentence
+this is 226 sentence
+this is 227 sentence
+this is 228 sentence
+this is 229 sentence
+this is 230 sentence
+this is 231 sentence
+this is 232 sentence
+this is 233 sentence
+this is 234 sentence
+this is 235 sentence
+this is 236 sentence
+this is 237 sentence
+this is 238 sentence
+this is 239 sentence
+this is 240 sentence
+this is 241 sentence
+this is 242 sentence
+this is 243 sentence
+this is 244 sentence
+this is 245 sentence
+this is 246 sentence
+this is 247 sentence
+this is 248 sentence
+this is 249 sentence
+this is 250 sentence
+this is 251 sentence
+this is 252 sentence
+this is 253 sentence
+this is 254 sentence
+this is 255 sentence
+this is 256 sentence
+this is 257 sentence
+this is 258 sentence
+this is 259 sentence
+this is 260 sentence
+this is 261 sentence
+this is 262 sentence
+this is 263 sentence
+this is 264 sentence
+this is 265 sentence
+this is 266 sentence
+this is 267 sentence
+this is 268 sentence
+this is 269 sentence
+this is 270 sentence
+this is 271 sentence
+this is 272 sentence
+this is 273 sentence
+this is 274 sentence
+this is 275 sentence
+this is 276 sentence
+this is 277 sentence
+this is 278 sentence
+this is 279 sentence
+this is 280 sentence
+this is 281 sentence
+this is 282 sentence
+this is 283 sentence
+this is 284 sentence
+this is 285 sentence
+this is 286 sentence
+this is 287 sentence
+this is 288 sentence
+this is 289 sentence
+this is 290 sentence
+this is 291 sentence
+this is 292 sentence
+this is 293 sentence
+this is 294 sentence
+this is 295 sentence
+this is 296 sentence
+this is 297 sentence
+this is 298 sentence
+this is 299 sentence
+this is 300 sentence
+this is 301 sentence
+this is 302 sentence
+this is 303 sentence
+this is 304 sentence
+this is 305 sentence
+this is 306 sentence
+this is 307 sentence
+this is 308 sentence
+this is 309 sentence
+this is 310 sentence
+this is 311 sentence
+this is 312 sentence
+this is 313 sentence
+this is 314 sentence
+this is 315 sentence
+this is 316 sentence
+this is 317 sentence
+this is 318 sentence
+this is 319 sentence
+this is 320 sentence
+this is 321 sentence
+this is 322 sentence
+this is 323 sentence
+this is 324 sentence
+this is 325 sentence
+this is 326 sentence
+this is 327 sentence
+this is 328 sentence
+this is 329 sentence
+this is 330 sentence
+this is 331 sentence
+this is 332 sentence
+this is 333 sentence
+this is 334 sentence
+this is 335 sentence
+this is 336 sentence
+this is 337 sentence
+this is 338 sentence
+this is 339 sentence
+this is 340 sentence
+this is 341 sentence
+this is 342 sentence
+this is 343 sentence
+this is 344 sentence
+this is 345 sentence
+this is 346 sentence
+this is 347 sentence
+this is 348 sentence
+this is 349 sentence
+this is 350 sentence
+this is 351 sentence
+this is 352 sentence
+this is 353 sentence
+this is 354 sentence
+this is 355 sentence
+this is 356 sentence
+this is 357 sentence
+this is 358 sentence
+this is 359 sentence
+this is 360 sentence
+this is 361 sentence
+this is 362 sentence
+this is 363 sentence
+this is 364 sentence
+this is 365 sentence
+this is 366 sentence
+this is 367 sentence
+this is 368 sentence
+this is 369 sentence
+this is 370 sentence
+this is 371 sentence
+this is 372 sentence
+this is 373 sentence
+this is 374 sentence
+this is 375 sentence
+this is 376 sentence
+this is 377 sentence
+this is 378 sentence
+this is 379 sentence
+this is 380 sentence
+this is 381 sentence
+this is 382 sentence
+this is 383 sentence
+this is 384 sentence
+this is 385 sentence
+this is 386 sentence
+this is 387 sentence
+this is 388 sentence
+this is 389 sentence
+this is 390 sentence
+this is 391 sentence
+this is 392 sentence
+this is 393 sentence
+this is 394 sentence
+this is 395 sentence
+this is 396 sentence
+this is 397 sentence
+this is 398 sentence
+this is 399 sentence
+this is 400 sentence
+this is 401 sentence
+this is 402 sentence
+this is 403 sentence
+this is 404 sentence
+this is 405 sentence
+this is 406 sentence
+this is 407 sentence
+this is 408 sentence
+this is 409 sentence
+this is 410 sentence
+this is 411 sentence
+this is 412 sentence
+this is 413 sentence
+this is 414 sentence
+this is 415 sentence
+this is 416 sentence
+this is 417 sentence
+this is 418 sentence
+this is 419 sentence
+this is 420 sentence
+this is 421 sentence
+this is 422 sentence
+this is 423 sentence
+this is 424 sentence
+this is 425 sentence
+this is 426 sentence
+this is 427 sentence
+this is 428 sentence
+this is 429 sentence
+this is 430 sentence
+this is 431 sentence
+this is 432 sentence
+this is 433 sentence
+this is 434 sentence
+this is 435 sentence
+this is 436 sentence
+this is 437 sentence
+this is 438 sentence
+this is 439 sentence
+this is 440 sentence
+this is 441 sentence
+this is 442 sentence
+this is 443 sentence
+this is 444 sentence
+this is 445 sentence
+this is 446 sentence
+this is 447 sentence
+this is 448 sentence
+this is 449 sentence
+this is 450 sentence
+this is 451 sentence
+this is 452 sentence
+this is 453 sentence
+this is 454 sentence
+this is 455 sentence
+this is 456 sentence
+this is 457 sentence
+this is 458 sentence
+this is 459 sentence
+this is 460 sentence
+this is 461 sentence
+this is 462 sentence
+this is 463 sentence
+this is 464 sentence
+this is 465 sentence
+this is 466 sentence
+this is 467 sentence
+this is 468 sentence
+this is 469 sentence
+this is 470 sentence
+this is 471 sentence
+this is 472 sentence
+this is 473 sentence
+this is 474 sentence
+this is 475 sentence
+this is 476 sentence
+this is 477 sentence
+this is 478 sentence
+this is 479 sentence
+this is 480 sentence
+this is 481 sentence
+this is 482 sentence
+this is 483 sentence
+this is 484 sentence
+this is 485 sentence
+this is 486 sentence
+this is 487 sentence
+this is 488 sentence
+this is 489 sentence
+this is 490 sentence
+this is 491 sentence
+this is 492 sentence
+this is 493 sentence
+this is 494 sentence
+this is 495 sentence
+this is 496 sentence
+this is 497 sentence
+this is 498 sentence
+this is 499 sentence
+this is 500 sentence
+this is 501 sentence
+this is 502 sentence
+this is 503 sentence
+this is 504 sentence
+this is 505 sentence
+this is 506 sentence
+this is 507 sentence
+this is 508 sentence
+this is 509 sentence
+this is 510 sentence
+this is 511 sentence
+this is 512 sentence
+this is 513 sentence
+this is 514 sentence
+this is 515 sentence
+this is 516 sentence
+this is 517 sentence
+this is 518 sentence
+this is 519 sentence
+this is 520 sentence
+this is 521 sentence
+this is 522 sentence
+this is 523 sentence
+this is 524 sentence
+this is 525 sentence
+this is 526 sentence
+this is 527 sentence
+this is 528 sentence
+this is 529 sentence
+this is 530 sentence
+this is 531 sentence
+this is 532 sentence
+this is 533 sentence
+this is 534 sentence
+this is 535 sentence
+this is 536 sentence
+this is 537 sentence
+this is 538 sentence
+this is 539 sentence
+this is 540 sentence
+this is 541 sentence
+this is 542 sentence
+this is 543 sentence
+this is 544 sentence
+this is 545 sentence
+this is 546 sentence
+this is 547 sentence
+this is 548 sentence
+this is 549 sentence
+this is 550 sentence
+this is 551 sentence
+this is 552 sentence
+this is 553 sentence
+this is 554 sentence
+this is 555 sentence
+this is 556 sentence
+this is 557 sentence
+this is 558 sentence
+this is 559 sentence
+this is 560 sentence
+this is 561 sentence
+this is 562 sentence
+this is 563 sentence
+this is 564 sentence
+this is 565 sentence
+this is 566 sentence
+this is 567 sentence
+this is 568 sentence
+this is 569 sentence
+this is 570 sentence
+this is 571 sentence
+this is 572 sentence
+this is 573 sentence
+this is 574 sentence
+this is 575 sentence
+this is 576 sentence
+this is 577 sentence
+this is 578 sentence
+this is 579 sentence
+this is 580 sentence
+this is 581 sentence
+this is 582 sentence
+this is 583 sentence
+this is 584 sentence
+this is 585 sentence
+this is 586 sentence
+this is 587 sentence
+this is 588 sentence
+this is 589 sentence
+this is 590 sentence
+this is 591 sentence
+this is 592 sentence
+this is 593 sentence
+this is 594 sentence
+this is 595 sentence
+this is 596 sentence
+this is 597 sentence
+this is 598 sentence
+this is 599 sentence
+this is 600 sentence
+this is 601 sentence
+this is 602 sentence
+this is 603 sentence
+this is 604 sentence
+this is 605 sentence
+this is 606 sentence
+this is 607 sentence
+this is 608 sentence
+this is 609 sentence
+this is 610 sentence
+this is 611 sentence
+this is 612 sentence
+this is 613 sentence
+this is 614 sentence
+this is 615 sentence
+this is 616 sentence
+this is 617 sentence
+this is 618 sentence
+this is 619 sentence
+this is 620 sentence
+this is 621 sentence
+this is 622 sentence
+this is 623 sentence
+this is 624 sentence
+this is 625 sentence
+this is 626 sentence
+this is 627 sentence
+this is 628 sentence
+this is 629 sentence
+this is 630 sentence
+this is 631 sentence
+this is 632 sentence
+this is 633 sentence
+this is 634 sentence
+this is 635 sentence
+this is 636 sentence
+this is 637 sentence
+this is 638 sentence
+this is 639 sentence
+this is 640 sentence
+this is 641 sentence
+this is 642 sentence
+this is 643 sentence
+this is 644 sentence
+this is 645 sentence
+this is 646 sentence
+this is 647 sentence
+this is 648 sentence
+this is 649 sentence
+this is 650 sentence
+this is 651 sentence
+this is 652 sentence
+this is 653 sentence
+this is 654 sentence
+this is 655 sentence
+this is 656 sentence
+this is 657 sentence
+this is 658 sentence
+this is 659 sentence
+this is 660 sentence
+this is 661 sentence
+this is 662 sentence
+this is 663 sentence
+this is 664 sentence
+this is 665 sentence
+this is 666 sentence
+this is 667 sentence
+this is 668 sentence
+this is 669 sentence
+this is 670 sentence
+this is 671 sentence
+this is 672 sentence
+this is 673 sentence
+this is 674 sentence
+this is 675 sentence
+this is 676 sentence
+this is 677 sentence
+this is 678 sentence
+this is 679 sentence
+this is 680 sentence
+this is 681 sentence
+this is 682 sentence
+this is 683 sentence
+this is 684 sentence
+this is 685 sentence
+this is 686 sentence
+this is 687 sentence
+this is 688 sentence
+this is 689 sentence
+this is 690 sentence
+this is 691 sentence
+this is 692 sentence
+this is 693 sentence
+this is 694 sentence
+this is 695 sentence
+this is 696 sentence
+this is 697 sentence
+this is 698 sentence
+this is 699 sentence
+this is 700 sentence
+this is 701 sentence
+this is 702 sentence
+this is 703 sentence
+this is 704 sentence
+this is 705 sentence
+this is 706 sentence
+this is 707 sentence
+this is 708 sentence
+this is 709 sentence
+this is 710 sentence
+this is 711 sentence
+this is 712 sentence
+this is 713 sentence
+this is 714 sentence
+this is 715 sentence
+this is 716 sentence
+this is 717 sentence
+this is 718 sentence
+this is 719 sentence
+this is 720 sentence
+this is 721 sentence
+this is 722 sentence
+this is 723 sentence
+this is 724 sentence
+this is 725 sentence
+this is 726 sentence
+this is 727 sentence
+this is 728 sentence
+this is 729 sentence
+this is 730 sentence
+this is 731 sentence
+this is 732 sentence
+this is 733 sentence
+this is 734 sentence
+this is 735 sentence
+this is 736 sentence
+this is 737 sentence
+this is 738 sentence
+this is 739 sentence
+this is 740 sentence
+this is 741 sentence
+this is 742 sentence
+this is 743 sentence
+this is 744 sentence
+this is 745 sentence
+this is 746 sentence
+this is 747 sentence
+this is 748 sentence
+this is 749 sentence
+this is 750 sentence
+this is 751 sentence
+this is 752 sentence
+this is 753 sentence
+this is 754 sentence
+this is 755 sentence
+this is 756 sentence
+this is 757 sentence
+this is 758 sentence
+this is 759 sentence
+this is 760 sentence
+this is 761 sentence
+this is 762 sentence
+this is 763 sentence
+this is 764 sentence
+this is 765 sentence
+this is 766 sentence
+this is 767 sentence
+this is 768 sentence
+this is 769 sentence
+this is 770 sentence
+this is 771 sentence
+this is 772 sentence
+this is 773 sentence
+this is 774 sentence
+this is 775 sentence
+this is 776 sentence
+this is 777 sentence
+this is 778 sentence
+this is 779 sentence
+this is 780 sentence
+this is 781 sentence
+this is 782 sentence
+this is 783 sentence
+this is 784 sentence
+this is 785 sentence
+this is 786 sentence
+this is 787 sentence
+this is 788 sentence
+this is 789 sentence
+this is 790 sentence
+this is 791 sentence
+this is 792 sentence
+this is 793 sentence
+this is 794 sentence
+this is 795 sentence
+this is 796 sentence
+this is 797 sentence
+this is 798 sentence
+this is 799 sentence
+this is 800 sentence
+this is 801 sentence
+this is 802 sentence
+this is 803 sentence
+this is 804 sentence
+this is 805 sentence
+this is 806 sentence
+this is 807 sentence
+this is 808 sentence
+this is 809 sentence
+this is 810 sentence
+this is 811 sentence
+this is 812 sentence
+this is 813 sentence
+this is 814 sentence
+this is 815 sentence
+this is 816 sentence
+this is 817 sentence
+this is 818 sentence
+this is 819 sentence
+this is 820 sentence
+this is 821 sentence
+this is 822 sentence
+this is 823 sentence
+this is 824 sentence
+this is 825 sentence
+this is 826 sentence
+this is 827 sentence
+this is 828 sentence
+this is 829 sentence
+this is 830 sentence
+this is 831 sentence
+this is 832 sentence
+this is 833 sentence
+this is 834 sentence
+this is 835 sentence
+this is 836 sentence
+this is 837 sentence
+this is 838 sentence
+this is 839 sentence
+this is 840 sentence
+this is 841 sentence
+this is 842 sentence
+this is 843 sentence
+this is 844 sentence
+this is 845 sentence
+this is 846 sentence
+this is 847 sentence
+this is 848 sentence
+this is 849 sentence
+this is 850 sentence
+this is 851 sentence
+this is 852 sentence
+this is 853 sentence
+this is 854 sentence
+this is 855 sentence
+this is 856 sentence
+this is 857 sentence
+this is 858 sentence
+this is 859 sentence
+this is 860 sentence
+this is 861 sentence
+this is 862 sentence
+this is 863 sentence
+this is 864 sentence
+this is 865 sentence
+this is 866 sentence
+this is 867 sentence
+this is 868 sentence
+this is 869 sentence
+this is 870 sentence
+this is 871 sentence
+this is 872 sentence
+this is 873 sentence
+this is 874 sentence
+this is 875 sentence
+this is 876 sentence
+this is 877 sentence
+this is 878 sentence
+this is 879 sentence
+this is 880 sentence
+this is 881 sentence
+this is 882 sentence
+this is 883 sentence
+this is 884 sentence
+this is 885 sentence
+this is 886 sentence
+this is 887 sentence
+this is 888 sentence
+this is 889 sentence
+this is 890 sentence
+this is 891 sentence
+this is 892 sentence
+this is 893 sentence
+this is 894 sentence
+this is 895 sentence
+this is 896 sentence
+this is 897 sentence
+this is 898 sentence
+this is 899 sentence
+this is 900 sentence
+this is 901 sentence
+this is 902 sentence
+this is 903 sentence
+this is 904 sentence
+this is 905 sentence
+this is 906 sentence
+this is 907 sentence
+this is 908 sentence
+this is 909 sentence
+this is 910 sentence
+this is 911 sentence
+this is 912 sentence
+this is 913 sentence
+this is 914 sentence
+this is 915 sentence
+this is 916 sentence
+this is 917 sentence
+this is 918 sentence
+this is 919 sentence
+this is 920 sentence
+this is 921 sentence
+this is 922 sentence
+this is 923 sentence
+this is 924 sentence
+this is 925 sentence
+this is 926 sentence
+this is 927 sentence
+this is 928 sentence
+this is 929 sentence
+this is 930 sentence
+this is 931 sentence
+this is 932 sentence
+this is 933 sentence
+this is 934 sentence
+this is 935 sentence
+this is 936 sentence
+this is 937 sentence
+this is 938 sentence
+this is 939 sentence
+this is 940 sentence
+this is 941 sentence
+this is 942 sentence
+this is 943 sentence
+this is 944 sentence
+this is 945 sentence
+this is 946 sentence
+this is 947 sentence
+this is 948 sentence
+this is 949 sentence
+this is 950 sentence
+this is 951 sentence
+this is 952 sentence
+this is 953 sentence
+this is 954 sentence
+this is 955 sentence
+this is 956 sentence
+this is 957 sentence
+this is 958 sentence
+this is 959 sentence
+this is 960 sentence
+this is 961 sentence
+this is 962 sentence
+this is 963 sentence
+this is 964 sentence
+this is 965 sentence
+this is 966 sentence
+this is 967 sentence
+this is 968 sentence
+this is 969 sentence
+this is 970 sentence
+this is 971 sentence
+this is 972 sentence
+this is 973 sentence
+this is 974 sentence
+this is 975 sentence
+this is 976 sentence
+this is 977 sentence
+this is 978 sentence
+this is 979 sentence
+this is 980 sentence
+this is 981 sentence
+this is 982 sentence
+this is 983 sentence
+this is 984 sentence
+this is 985 sentence
+this is 986 sentence
+this is 987 sentence
+this is 988 sentence
+this is 989 sentence
+this is 990 sentence
+this is 991 sentence
+this is 992 sentence
+this is 993 sentence
+this is 994 sentence
+this is 995 sentence
+this is 996 sentence
+this is 997 sentence
+this is 998 sentence
+this is 999 sentence
+this is 1000 sentence
+this is 1001 sentence
+this is 1002 sentence
+this is 1003 sentence
+this is 1004 sentence
+this is 1005 sentence
+this is 1006 sentence
+this is 1007 sentence
+this is 1008 sentence
+this is 1009 sentence
+this is 1010 sentence
+this is 1011 sentence
+this is 1012 sentence
+this is 1013 sentence
+this is 1014 sentence
+this is 1015 sentence
+this is 1016 sentence
+this is 1017 sentence
+this is 1018 sentence
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+('cycle', 2)
+process has done!
+/usr/bin/python
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/ECNU/bin/:/home/ECNU/anaconda2/bin/
+0
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/ECNU/bin/:/home/ECNU/anaconda2/bin/
+0
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/ECNU/bin/:/home/ECNU/anaconda2/bin/
+0
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/ECNU/bin/:/home/ECNU/anaconda2/bin/
+0
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fda39a2b0e0>)

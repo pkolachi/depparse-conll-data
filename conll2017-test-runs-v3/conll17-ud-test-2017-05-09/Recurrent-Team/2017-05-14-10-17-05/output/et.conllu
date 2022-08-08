@@ -1,0 +1,13 @@
+#0
+1
+2
+3
+1	Alles	alles	ADV	D	_	7	obl	_	_
+2	hiljuti	hiljuti	ADV	D	_	6	nmod	_	_
+3	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	obl	_	_
+4	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+5	hiina	hi	PROPN	S	_	10	det	_	_
+6	restoranis	restoran	NOUN	S	Case=Ine|Number=Sing	10	amod	_	_
+7	kostitanud	kostitama	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	11	nmod	_	_
+8	ühe	üks	DET	P	Case=Gen|Number=Sing|PronType=Ind	7	nsubj	_	_
+9	tähtsa	tähts	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	7	punct	_	_

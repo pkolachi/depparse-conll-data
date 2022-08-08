@@ -1,0 +1,11 @@
+conll17-scripts/run.sh -i /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 -o /tmp/Stanford/2017-05-12-20-54-11/output
+
+
+Missing model directory: /media/data/UD_saves2/Altaic/Altaic-Tagger
+Missing model directory: /media/data/UD_saves2/Slavic/Slavic-Tagger
+Missing model directory: /media/data/UD_saves2/Indo_Iranian/Indo_Iranian-Tagger
+Missing model directory: /media/data/UD_saves2/Uralic/Uralic-Tagger
+/home/Stanford/anaconda2/bin/python main.py --save_dir /media/data/UD_saves2/Altaic/Altaic-Parser parse /tmp/Stanford/2017-05-12-20-54-11/output/bxr.conllu --output_file /tmp/Stanford/2017-05-12-20-54-11/output/bxr.conllu
+/home/Stanford/anaconda2/bin/python main.py --save_dir /media/data/UD_saves2/Slavic/Slavic-Parser parse /tmp/Stanford/2017-05-12-20-54-11/output/hsb.conllu --output_file /tmp/Stanford/2017-05-12-20-54-11/output/hsb.conllu
+/home/Stanford/anaconda2/bin/python main.py --save_dir /media/data/UD_saves2/Indo_Iranian/Indo_Iranian-Parser parse /tmp/Stanford/2017-05-12-20-54-11/output/kmr.conllu --output_file /tmp/Stanford/2017-05-12-20-54-11/output/kmr.conllu
+/home/Stanford/anaconda2/bin/python main.py --save_dir /media/data/UD_saves2/Uralic/Uralic-Parser parse /tmp/Stanford/2017-05-12-20-54-11/output/sme.conllu --output_file /tmp/Stanford/2017-05-12-20-54-11/output/sme.conllu

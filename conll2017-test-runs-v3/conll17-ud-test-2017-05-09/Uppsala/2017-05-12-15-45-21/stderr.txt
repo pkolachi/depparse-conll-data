@@ -1,0 +1,132 @@
+[dynet] random seed: 3550828465
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Fri May 12 16:04:54 CEST 2017
+.          	      1	      0s	      8MB
+.          	     10	      0s	      8MB
+.          	    100	      0s	     13MB
+..........	   1000	      0s	     17MB
+           	   1034	      0s	     19MB
+Finished: Fri May 12 16:04:55 CEST 2017
+[dynet] random seed: 586307643
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Fri May 12 16:06:13 CEST 2017
+.          	      1	      0s	      8MB
+.          	     10	      0s	      8MB
+.          	    100	      0s	     13MB
+..........	   1000	      0s	     45MB
+.........  	   1933	      0s	     31MB
+Finished: Fri May 12 16:06:14 CEST 2017
+[dynet] random seed: 1808352567
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Fri May 12 16:07:06 CEST 2017
+.          	      1	      0s	      3MB
+.          	      1	      0s	      3MB
+           	      1	      0s	      3MB
+Finished: Fri May 12 16:07:06 CEST 2017
+[dynet] random seed: 492822586
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Fri May 12 16:08:04 CEST 2017
+.          	      1	      0s	      3MB
+.          	      1	      0s	      3MB
+           	      1	      0s	      3MB
+Finished: Fri May 12 16:08:05 CEST 2017
+[dynet] random seed: 4170974274
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Fri May 12 16:08:44 CEST 2017
+.          	      1	      0s	      3MB
+.          	      1	      0s	      3MB
+           	      1	      0s	      3MB
+Finished: Fri May 12 16:08:44 CEST 2017
+[dynet] random seed: 2553665059
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Fri May 12 16:09:10 CEST 2017
+.          	      1	      0s	      3MB
+.          	      1	      0s	      3MB
+           	      1	      0s	      3MB
+Finished: Fri May 12 16:09:11 CEST 2017
+[dynet] random seed: 4017620139
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Fri May 12 16:09:45 CEST 2017
+.          	      1	      0s	      3MB
+.          	      1	      0s	      3MB
+           	      1	      0s	      3MB
+Finished: Fri May 12 16:09:45 CEST 2017
+[dynet] random seed: 2949263763
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+-----------------------------------------------------------------------------
+                          MaltParser 1.9.0                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Fri May 12 16:10:25 CEST 2017
+.          	      1	      0s	      4MB
+.          	      1	      0s	      4MB
+           	      1	      0s	      4MB
+Finished: Fri May 12 16:10:26 CEST 2017

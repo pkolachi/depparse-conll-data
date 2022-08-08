@@ -1,0 +1,2198 @@
+ls: cannot access 'models_ccg/ar_pud.pickle': No such file or directory
+loading ccg tagger for ar_pud
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/ar_pud.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/ar_pud-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/ar_pud-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/ar_pud-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/ar_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/ar_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/ar_pud-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/ar_pud-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for ar
+2017-05-13 13:54:04,901-|Supertagger:        load|-INFO-> loaded model from models_ccg/ar.pickle
+tagging ccg for ar dev
+2017-05-13 13:54:04,901-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 13:54:18,314-|Supertagger:         tag|-INFO-> 13.41s extracted test features
+2017-05-13 13:54:18,314-|Supertagger:         tag|-INFO-> processed 597 sentences
+2017-05-13 13:54:20,434-|Supertagger:         tag|-INFO-> 2.12s generated predictions
+2017-05-13 13:54:20,944-|Supertagger:         tag|-INFO-> 0.51s saved as data_ccg/ar-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/ar-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.231 (s)
+Initializing dependency parser ... done [10.2 sec].
+Test File: data_ccg/ar-udpipe-ccg-2.conllu
+OOV Words: 2378 / 27578 = 8.62%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 27578 words in 597 sentences in 10.1s at 2742.7 w/s, 59.4 sent/s.
+
+
+loading ccg tagger for bg
+2017-05-13 13:54:44,984-|Supertagger:        load|-INFO-> loaded model from models_ccg/bg.pickle
+tagging ccg for bg dev
+2017-05-13 13:54:44,984-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 13:55:04,607-|Supertagger:         tag|-INFO-> 19.62s extracted test features
+2017-05-13 13:55:04,607-|Supertagger:         tag|-INFO-> processed 1088 sentences
+2017-05-13 13:55:05,757-|Supertagger:         tag|-INFO-> 1.15s generated predictions
+2017-05-13 13:55:06,024-|Supertagger:         tag|-INFO-> 0.27s saved as data_ccg/bg-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/bg-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 71
+#Labels: 35
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.66 (s)
+Initializing dependency parser ... done [9.6 sec].
+Test File: data_ccg/bg-udpipe-ccg-2.conllu
+OOV Words: 1932 / 15719 = 12.29%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 15719 words in 1088 sentences in 7.0s at 2246.9 w/s, 155.5 sent/s.
+
+
+loading ccg tagger for bxr
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/bxr.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/bxr-udpipe-ccg-2.conllu': No such file or directory
+Loading depparse model file: models_dep/ru-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 81
+#Labels: 40
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.92 (s)
+Initializing dependency parser ... done [10.5 sec].
+Test File: data_ccg/bxr-udpipe-ccg-2.conllu
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "data_ccg/bxr-udpipe-ccg-2.conllu" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.Util.loadConllFile(Util.java:204)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.testCoNLL(DependencyParser.java:1128)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1315)
+Caused by: java.io.IOException: Unable to open "data_ccg/bxr-udpipe-ccg-2.conllu" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.Util.loadConllFile(Util.java:144)
+	... 2 more
+ls: cannot access 'data_dep/bxr-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/bxr-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for ca
+2017-05-13 13:55:38,753-|Supertagger:        load|-INFO-> loaded model from models_ccg/ca.pickle
+tagging ccg for ca dev
+2017-05-13 13:55:38,754-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 13:56:16,450-|Supertagger:         tag|-INFO-> 37.70s extracted test features
+2017-05-13 13:56:16,451-|Supertagger:         tag|-INFO-> processed 1851 sentences
+2017-05-13 13:56:21,360-|Supertagger:         tag|-INFO-> 4.91s generated predictions
+2017-05-13 13:56:22,235-|Supertagger:         tag|-INFO-> 0.87s saved as data_ccg/ca-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/ca-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 67
+#Labels: 33
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.407 (s)
+Initializing dependency parser ... done [10.8 sec].
+Test File: data_ccg/ca-udpipe-ccg-2.conllu
+OOV Words: 2922 / 57912 = 5.05%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 57912 words in 1851 sentences in 15.9s at 3639.5 w/s, 116.3 sent/s.
+
+
+loading ccg tagger for cs_cac
+2017-05-13 13:56:53,605-|Supertagger:        load|-INFO-> loaded model from models_ccg/cs_cac.pickle
+tagging ccg for cs_cac dev
+2017-05-13 13:56:53,606-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 13:57:05,109-|Supertagger:         tag|-INFO-> 11.50s extracted test features
+2017-05-13 13:57:05,109-|Supertagger:         tag|-INFO-> processed 628 sentences
+2017-05-13 13:57:06,038-|Supertagger:         tag|-INFO-> 0.93s generated predictions
+2017-05-13 13:57:06,219-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/cs_cac-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/cs_cac-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 83
+#Labels: 41
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.782 (s)
+Initializing dependency parser ... done [13.8 sec].
+Test File: data_ccg/cs_cac-udpipe-ccg-2.conllu
+OOV Words: 1367 / 10862 = 12.59%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10862 words in 628 sentences in 5.9s at 1839.1 w/s, 106.3 sent/s.
+
+
+loading ccg tagger for cs_cltt
+2017-05-13 13:57:28,785-|Supertagger:        load|-INFO-> loaded model from models_ccg/cs_cltt.pickle
+tagging ccg for cs_cltt dev
+2017-05-13 13:57:28,785-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 13:57:36,552-|Supertagger:         tag|-INFO-> 7.77s extracted test features
+2017-05-13 13:57:36,552-|Supertagger:         tag|-INFO-> processed 316 sentences
+2017-05-13 13:57:37,327-|Supertagger:         tag|-INFO-> 0.78s generated predictions
+2017-05-13 13:57:37,520-|Supertagger:         tag|-INFO-> 0.19s saved as data_ccg/cs_cltt-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/cs_cltt-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 71
+#Labels: 35
+ROOTLABEL: root
+PreComputed 22959, Elapsed Time: 1.11 (s)
+Initializing dependency parser ... done [3.7 sec].
+Test File: data_ccg/cs_cltt-udpipe-ccg-2.conllu
+OOV Words: 1496 / 10708 = 13.97%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10708 words in 316 sentences in 5.1s at 2096.7 w/s, 61.9 sent/s.
+
+
+ls: cannot access 'models_ccg/cs_pud.pickle': No such file or directory
+loading ccg tagger for cs_pud
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/cs_pud.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/cs_pud-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/cs_pud-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/cs_pud-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/cs_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/cs_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/cs_pud-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/cs_pud-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for cs
+2017-05-13 13:57:51,547-|Supertagger:        load|-INFO-> loaded model from models_ccg/cs.pickle
+tagging ccg for cs dev
+2017-05-13 13:57:51,548-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:01:12,528-|Supertagger:         tag|-INFO-> 200.98s extracted test features
+2017-05-13 14:01:12,528-|Supertagger:         tag|-INFO-> processed 9853 sentences
+2017-05-13 14:01:32,909-|Supertagger:         tag|-INFO-> 20.38s generated predictions
+2017-05-13 14:01:35,907-|Supertagger:         tag|-INFO-> 3.00s saved as data_ccg/cs-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/cs-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 83
+#Labels: 41
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.352 (s)
+Initializing dependency parser ... done [21.2 sec].
+Test File: data_ccg/cs-udpipe-ccg-2.conllu
+OOV Words: 12265 / 173781 = 7.06%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 173781 words in 9853 sentences in 63.6s at 2733.3 w/s, 155.0 sent/s.
+
+
+loading ccg tagger for cu
+2017-05-13 14:03:31,369-|Supertagger:        load|-INFO-> loaded model from models_ccg/cu.pickle
+tagging ccg for cu dev
+2017-05-13 14:03:31,371-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:03:45,702-|Supertagger:         tag|-INFO-> 14.33s extracted test features
+2017-05-13 14:03:45,702-|Supertagger:         tag|-INFO-> processed 917 sentences
+2017-05-13 14:03:46,337-|Supertagger:         tag|-INFO-> 0.64s generated predictions
+2017-05-13 14:03:46,510-|Supertagger:         tag|-INFO-> 0.17s saved as data_ccg/cu-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/cu-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 63
+#Labels: 31
+ROOTLABEL: root
+PreComputed 46537, Elapsed Time: 2.075 (s)
+Initializing dependency parser ... done [5.3 sec].
+Test File: data_ccg/cu-udpipe-ccg-2.conllu
+OOV Words: 1419 / 10034 = 14.14%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10034 words in 917 sentences in 4.4s at 2291.4 w/s, 209.4 sent/s.
+
+
+loading ccg tagger for da
+2017-05-13 14:03:59,425-|Supertagger:        load|-INFO-> loaded model from models_ccg/da.pickle
+tagging ccg for da dev
+2017-05-13 14:03:59,428-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:04:08,919-|Supertagger:         tag|-INFO-> 9.49s extracted test features
+2017-05-13 14:04:08,920-|Supertagger:         tag|-INFO-> processed 564 sentences
+2017-05-13 14:04:09,812-|Supertagger:         tag|-INFO-> 0.89s generated predictions
+2017-05-13 14:04:10,005-|Supertagger:         tag|-INFO-> 0.19s saved as data_ccg/da-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/da-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 73
+#Labels: 36
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.235 (s)
+Initializing dependency parser ... done [10.0 sec].
+Test File: data_ccg/da-udpipe-ccg-2.conllu
+OOV Words: 1541 / 10045 = 15.34%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10045 words in 564 sentences in 3.9s at 2582.3 w/s, 145.0 sent/s.
+
+
+ls: cannot access 'models_ccg/de_pud.pickle': No such file or directory
+loading ccg tagger for de_pud
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/de_pud.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/de_pud-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/de_pud-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/de_pud-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/de_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/de_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/de_pud-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/de_pud-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for de
+2017-05-13 14:04:28,689-|Supertagger:        load|-INFO-> loaded model from models_ccg/de.pickle
+tagging ccg for de dev
+2017-05-13 14:04:28,690-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:04:42,814-|Supertagger:         tag|-INFO-> 14.12s extracted test features
+2017-05-13 14:04:42,814-|Supertagger:         tag|-INFO-> processed 909 sentences
+2017-05-13 14:04:43,987-|Supertagger:         tag|-INFO-> 1.17s generated predictions
+2017-05-13 14:04:44,247-|Supertagger:         tag|-INFO-> 0.26s saved as data_ccg/de-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/de-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 71
+#Labels: 35
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.287 (s)
+Initializing dependency parser ... done [11.5 sec].
+Test File: data_ccg/de-udpipe-ccg-2.conllu
+OOV Words: 1913 / 16287 = 11.75%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 16287 words in 909 sentences in 6.3s at 2591.0 w/s, 144.6 sent/s.
+
+
+loading ccg tagger for el
+2017-05-13 14:05:05,277-|Supertagger:        load|-INFO-> loaded model from models_ccg/el.pickle
+tagging ccg for el dev
+2017-05-13 14:05:05,277-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:05:13,192-|Supertagger:         tag|-INFO-> 7.91s extracted test features
+2017-05-13 14:05:13,192-|Supertagger:         tag|-INFO-> processed 445 sentences
+2017-05-13 14:05:14,041-|Supertagger:         tag|-INFO-> 0.85s generated predictions
+2017-05-13 14:05:14,267-|Supertagger:         tag|-INFO-> 0.23s saved as data_ccg/el-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/el-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 68204, Elapsed Time: 3.3 (s)
+Initializing dependency parser ... done [6.8 sec].
+Test File: data_ccg/el-udpipe-ccg-2.conllu
+OOV Words: 1789 / 10428 = 17.16%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10428 words in 445 sentences in 5.3s at 1984.4 w/s, 84.7 sent/s.
+
+
+loading ccg tagger for en_lines
+2017-05-13 14:05:29,202-|Supertagger:        load|-INFO-> loaded model from models_ccg/en_lines.pickle
+tagging ccg for en_lines dev
+2017-05-13 14:05:29,203-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:05:42,670-|Supertagger:         tag|-INFO-> 13.47s extracted test features
+2017-05-13 14:05:42,670-|Supertagger:         tag|-INFO-> processed 908 sentences
+2017-05-13 14:05:43,344-|Supertagger:         tag|-INFO-> 0.67s generated predictions
+2017-05-13 14:05:43,581-|Supertagger:         tag|-INFO-> 0.24s saved as data_ccg/en_lines-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/en_lines-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 75
+#Labels: 37
+ROOTLABEL: root
+PreComputed 48373, Elapsed Time: 2.152 (s)
+Initializing dependency parser ... done [5.4 sec].
+Test File: data_ccg/en_lines-udpipe-ccg-2.conllu
+OOV Words: 1617 / 15626 = 10.35%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 15626 words in 908 sentences in 5.2s at 2983.2 w/s, 173.3 sent/s.
+
+
+loading ccg tagger for en_partut
+2017-05-13 14:05:57,599-|Supertagger:        load|-INFO-> loaded model from models_ccg/en_partut.pickle
+tagging ccg for en_partut dev
+2017-05-13 14:05:57,599-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:06:06,655-|Supertagger:         tag|-INFO-> 9.06s extracted test features
+2017-05-13 14:06:06,655-|Supertagger:         tag|-INFO-> processed 503 sentences
+2017-05-13 14:06:07,251-|Supertagger:         tag|-INFO-> 0.60s generated predictions
+2017-05-13 14:06:07,423-|Supertagger:         tag|-INFO-> 0.17s saved as data_ccg/en_partut-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/en_partut-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 89
+#Labels: 44
+ROOTLABEL: root
+PreComputed 48739, Elapsed Time: 2.374 (s)
+Initializing dependency parser ... done [5.2 sec].
+Test File: data_ccg/en_partut-udpipe-ccg-2.conllu
+OOV Words: 1380 / 11513 = 11.99%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 11513 words in 503 sentences in 4.3s at 2684.3 w/s, 117.3 sent/s.
+
+
+ls: cannot access 'models_ccg/en_pud.pickle': No such file or directory
+loading ccg tagger for en_pud
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/en_pud.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/en_pud-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/en_pud-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/en_pud-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/en_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/en_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/en_pud-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/en_pud-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for en
+2017-05-13 14:06:21,672-|Supertagger:        load|-INFO-> loaded model from models_ccg/en.pickle
+tagging ccg for en dev
+2017-05-13 14:06:21,672-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:06:50,371-|Supertagger:         tag|-INFO-> 28.70s extracted test features
+2017-05-13 14:06:50,371-|Supertagger:         tag|-INFO-> processed 1698 sentences
+2017-05-13 14:06:52,441-|Supertagger:         tag|-INFO-> 2.07s generated predictions
+2017-05-13 14:06:52,913-|Supertagger:         tag|-INFO-> 0.47s saved as data_ccg/en-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/en-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 101
+#Labels: 50
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.365 (s)
+Initializing dependency parser ... done [9.2 sec].
+Test File: data_ccg/en-udpipe-ccg-2.conllu
+OOV Words: 2358 / 25001 = 9.43%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 25001 words in 1698 sentences in 8.6s at 2923.8 w/s, 198.6 sent/s.
+
+
+loading ccg tagger for es_ancora
+2017-05-13 14:07:14,902-|Supertagger:        load|-INFO-> loaded model from models_ccg/es_ancora.pickle
+tagging ccg for es_ancora dev
+2017-05-13 14:07:14,902-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:07:50,336-|Supertagger:         tag|-INFO-> 35.43s extracted test features
+2017-05-13 14:07:50,336-|Supertagger:         tag|-INFO-> processed 1741 sentences
+2017-05-13 14:07:54,826-|Supertagger:         tag|-INFO-> 4.49s generated predictions
+2017-05-13 14:07:55,620-|Supertagger:         tag|-INFO-> 0.79s saved as data_ccg/es_ancora-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/es_ancora-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.549 (s)
+Initializing dependency parser ... done [10.5 sec].
+Test File: data_ccg/es_ancora-udpipe-ccg-2.conllu
+OOV Words: 2854 / 52613 = 5.42%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 52613 words in 1741 sentences in 13.7s at 3833.4 w/s, 126.8 sent/s.
+
+
+ls: cannot access 'models_ccg/es_pud.pickle': No such file or directory
+loading ccg tagger for es_pud
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/es_pud.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/es_pud-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/es_pud-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/es_pud-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/es_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/es_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/es_pud-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/es_pud-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for es
+2017-05-13 14:08:26,129-|Supertagger:        load|-INFO-> loaded model from models_ccg/es.pickle
+tagging ccg for es dev
+2017-05-13 14:08:26,129-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:08:33,358-|Supertagger:         tag|-INFO-> 7.23s extracted test features
+2017-05-13 14:08:33,358-|Supertagger:         tag|-INFO-> processed 411 sentences
+2017-05-13 14:08:34,304-|Supertagger:         tag|-INFO-> 0.94s generated predictions
+2017-05-13 14:08:34,490-|Supertagger:         tag|-INFO-> 0.19s saved as data_ccg/es-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/es-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.168 (s)
+Initializing dependency parser ... done [10.8 sec].
+Test File: data_ccg/es-udpipe-ccg-2.conllu
+OOV Words: 884 / 11997 = 7.37%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 11997 words in 411 sentences in 5.1s at 2331.8 w/s, 79.9 sent/s.
+
+
+loading ccg tagger for et
+2017-05-13 14:08:53,435-|Supertagger:        load|-INFO-> loaded model from models_ccg/et.pickle
+tagging ccg for et dev
+2017-05-13 14:08:53,435-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:09:07,315-|Supertagger:         tag|-INFO-> 13.88s extracted test features
+2017-05-13 14:09:07,316-|Supertagger:         tag|-INFO-> processed 952 sentences
+2017-05-13 14:09:07,982-|Supertagger:         tag|-INFO-> 0.67s generated predictions
+2017-05-13 14:09:08,193-|Supertagger:         tag|-INFO-> 0.21s saved as data_ccg/et-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/et-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 71
+#Labels: 35
+ROOTLABEL: root
+PreComputed 54632, Elapsed Time: 2.603 (s)
+Initializing dependency parser ... done [5.9 sec].
+Test File: data_ccg/et-udpipe-ccg-2.conllu
+OOV Words: 3895 / 12411 = 31.38%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 12411 words in 952 sentences in 6.9s at 1800.0 w/s, 138.1 sent/s.
+
+
+loading ccg tagger for eu
+2017-05-13 14:09:24,317-|Supertagger:        load|-INFO-> loaded model from models_ccg/eu.pickle
+tagging ccg for eu dev
+2017-05-13 14:09:24,318-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:09:53,752-|Supertagger:         tag|-INFO-> 29.43s extracted test features
+2017-05-13 14:09:53,753-|Supertagger:         tag|-INFO-> processed 1802 sentences
+2017-05-13 14:09:55,310-|Supertagger:         tag|-INFO-> 1.56s generated predictions
+2017-05-13 14:09:55,699-|Supertagger:         tag|-INFO-> 0.39s saved as data_ccg/eu-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/eu-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 61
+#Labels: 30
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.729 (s)
+Initializing dependency parser ... done [9.0 sec].
+Test File: data_ccg/eu-udpipe-ccg-2.conllu
+OOV Words: 4347 / 24376 = 17.83%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 24376 words in 1802 sentences in 10.1s at 2422.1 w/s, 179.1 sent/s.
+
+
+loading ccg tagger for fa
+2017-05-13 14:10:18,463-|Supertagger:        load|-INFO-> loaded model from models_ccg/fa.pickle
+tagging ccg for fa dev
+2017-05-13 14:10:18,464-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:10:28,300-|Supertagger:         tag|-INFO-> 9.84s extracted test features
+2017-05-13 14:10:28,301-|Supertagger:         tag|-INFO-> processed 598 sentences
+2017-05-13 14:10:29,353-|Supertagger:         tag|-INFO-> 1.05s generated predictions
+2017-05-13 14:10:29,628-|Supertagger:         tag|-INFO-> 0.28s saved as data_ccg/fa-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/fa-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 75
+#Labels: 37
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.449 (s)
+Initializing dependency parser ... done [8.8 sec].
+Test File: data_ccg/fa-udpipe-ccg-2.conllu
+OOV Words: 1339 / 15994 = 8.37%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 15994 words in 598 sentences in 5.5s at 2925.6 w/s, 109.4 sent/s.
+
+
+loading ccg tagger for fi_ftb
+2017-05-13 14:10:47,102-|Supertagger:        load|-INFO-> loaded model from models_ccg/fi_ftb.pickle
+tagging ccg for fi_ftb dev
+2017-05-13 14:10:47,102-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:11:16,086-|Supertagger:         tag|-INFO-> 28.98s extracted test features
+2017-05-13 14:11:16,086-|Supertagger:         tag|-INFO-> processed 1795 sentences
+2017-05-13 14:11:17,520-|Supertagger:         tag|-INFO-> 1.43s generated predictions
+2017-05-13 14:11:17,864-|Supertagger:         tag|-INFO-> 0.34s saved as data_ccg/fi_ftb-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/fi_ftb-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 77
+#Labels: 38
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.336 (s)
+Initializing dependency parser ... done [11.8 sec].
+Test File: data_ccg/fi_ftb-udpipe-ccg-2.conllu
+OOV Words: 3755 / 16296 = 23.04%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 16296 words in 1795 sentences in 7.5s at 2161.8 w/s, 238.1 sent/s.
+
+
+ls: cannot access 'models_ccg/fi_pud.pickle': No such file or directory
+loading ccg tagger for fi_pud
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/fi_pud.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/fi_pud-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/fi_pud-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/fi_pud-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/fi_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/fi_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/fi_pud-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/fi_pud-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for fi
+2017-05-13 14:11:42,542-|Supertagger:        load|-INFO-> loaded model from models_ccg/fi.pickle
+tagging ccg for fi dev
+2017-05-13 14:11:42,542-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:12:04,691-|Supertagger:         tag|-INFO-> 22.15s extracted test features
+2017-05-13 14:12:04,691-|Supertagger:         tag|-INFO-> processed 1444 sentences
+2017-05-13 14:12:06,227-|Supertagger:         tag|-INFO-> 1.54s generated predictions
+2017-05-13 14:12:06,557-|Supertagger:         tag|-INFO-> 0.33s saved as data_ccg/fi-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/fi-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 93
+#Labels: 46
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.479 (s)
+Initializing dependency parser ... done [11.6 sec].
+Test File: data_ccg/fi-udpipe-ccg-2.conllu
+OOV Words: 4998 / 21008 = 23.79%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 21008 words in 1444 sentences in 9.5s at 2222.4 w/s, 152.8 sent/s.
+
+
+ls: cannot access 'models_ccg/fr_partut.pickle': No such file or directory
+loading ccg tagger for fr_partut
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/fr_partut.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/fr_partut-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/fr_partut-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/fr_partut-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/fr_partut-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/fr_partut-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/fr_partut-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/fr_partut-udpipe-ccg-2-parsed.conllu'
+
+
+ls: cannot access 'models_ccg/fr_pud.pickle': No such file or directory
+loading ccg tagger for fr_pud
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/fr_pud.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/fr_pud-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/fr_pud-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/fr_pud-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/fr_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/fr_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/fr_pud-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/fr_pud-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for fr_sequoia
+2017-05-13 14:12:34,816-|Supertagger:        load|-INFO-> loaded model from models_ccg/fr_sequoia.pickle
+tagging ccg for fr_sequoia dev
+2017-05-13 14:12:34,816-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:12:41,895-|Supertagger:         tag|-INFO-> 7.08s extracted test features
+2017-05-13 14:12:41,896-|Supertagger:         tag|-INFO-> processed 430 sentences
+2017-05-13 14:12:42,639-|Supertagger:         tag|-INFO-> 0.74s generated predictions
+2017-05-13 14:12:42,843-|Supertagger:         tag|-INFO-> 0.20s saved as data_ccg/fr_sequoia-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/fr_sequoia-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 73
+#Labels: 36
+ROOTLABEL: root
+PreComputed 64746, Elapsed Time: 3.578 (s)
+Initializing dependency parser ... done [7.2 sec].
+Test File: data_ccg/fr_sequoia-udpipe-ccg-2.conllu
+OOV Words: 925 / 10111 = 9.15%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10111 words in 430 sentences in 4.1s at 2445.8 w/s, 104.0 sent/s.
+
+
+loading ccg tagger for fr
+2017-05-13 14:12:57,069-|Supertagger:        load|-INFO-> loaded model from models_ccg/fr.pickle
+tagging ccg for fr dev
+2017-05-13 14:12:57,069-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:13:03,886-|Supertagger:         tag|-INFO-> 6.82s extracted test features
+2017-05-13 14:13:03,886-|Supertagger:         tag|-INFO-> processed 411 sentences
+2017-05-13 14:13:04,636-|Supertagger:         tag|-INFO-> 0.75s generated predictions
+2017-05-13 14:13:04,806-|Supertagger:         tag|-INFO-> 0.17s saved as data_ccg/fr-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/fr-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 81
+#Labels: 40
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.686 (s)
+Initializing dependency parser ... done [11.4 sec].
+Test File: data_ccg/fr-udpipe-ccg-2.conllu
+OOV Words: 608 / 10078 = 6.03%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10078 words in 411 sentences in 4.0s at 2505.1 w/s, 102.2 sent/s.
+
+
+ls: cannot access 'models_ccg/ga.pickle': No such file or directory
+loading ccg tagger for ga
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/ga.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/ga-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/ga-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/ga-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/ga-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/ga-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/ga-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/ga-udpipe-ccg-2-parsed.conllu'
+
+
+ls: cannot access 'models_ccg/gl_treegal.pickle': No such file or directory
+loading ccg tagger for gl_treegal
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/gl_treegal.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/gl_treegal-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/gl_treegal-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/gl_treegal-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/gl_treegal-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/gl_treegal-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/gl_treegal-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/gl_treegal-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for gl
+2017-05-13 14:13:27,137-|Supertagger:        load|-INFO-> loaded model from models_ccg/gl.pickle
+tagging ccg for gl dev
+2017-05-13 14:13:27,137-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:13:39,856-|Supertagger:         tag|-INFO-> 12.72s extracted test features
+2017-05-13 14:13:39,856-|Supertagger:         tag|-INFO-> processed 877 sentences
+2017-05-13 14:13:41,457-|Supertagger:         tag|-INFO-> 1.60s generated predictions
+2017-05-13 14:13:41,921-|Supertagger:         tag|-INFO-> 0.46s saved as data_ccg/gl-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/gl-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 41
+#Labels: 20
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.072 (s)
+Initializing dependency parser ... done [9.3 sec].
+Test File: data_ccg/gl-udpipe-ccg-2.conllu
+OOV Words: 2940 / 29745 = 9.88%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 29745 words in 877 sentences in 9.0s at 3305.7 w/s, 97.5 sent/s.
+
+
+loading ccg tagger for got
+2017-05-13 14:14:04,159-|Supertagger:        load|-INFO-> loaded model from models_ccg/got.pickle
+tagging ccg for got dev
+2017-05-13 14:14:04,160-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:14:17,709-|Supertagger:         tag|-INFO-> 13.55s extracted test features
+2017-05-13 14:14:17,709-|Supertagger:         tag|-INFO-> processed 825 sentences
+2017-05-13 14:14:18,411-|Supertagger:         tag|-INFO-> 0.70s generated predictions
+2017-05-13 14:14:18,586-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/got-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/de-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 71
+#Labels: 35
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.303 (s)
+Initializing dependency parser ... done [12.2 sec].
+Test File: data_ccg/got-udpipe-ccg-2.conllu
+OOV Words: 8962 / 10182 = 88.02%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10182 words in 825 sentences in 17.8s at 572.1 w/s, 46.4 sent/s.
+
+
+loading ccg tagger for grc_proiel
+2017-05-13 14:14:51,843-|Supertagger:        load|-INFO-> loaded model from models_ccg/grc_proiel.pickle
+tagging ccg for grc_proiel dev
+2017-05-13 14:14:51,844-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:15:07,071-|Supertagger:         tag|-INFO-> 15.23s extracted test features
+2017-05-13 14:15:07,072-|Supertagger:         tag|-INFO-> processed 869 sentences
+2017-05-13 14:15:08,092-|Supertagger:         tag|-INFO-> 1.02s generated predictions
+2017-05-13 14:15:08,315-|Supertagger:         tag|-INFO-> 0.22s saved as data_ccg/grc_proiel-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/grc_proiel-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 67
+#Labels: 33
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.202 (s)
+Initializing dependency parser ... done [9.9 sec].
+Test File: data_ccg/grc_proiel-udpipe-ccg-2.conllu
+OOV Words: 1478 / 13314 = 11.10%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 13314 words in 869 sentences in 5.3s at 2509.2 w/s, 163.8 sent/s.
+
+
+loading ccg tagger for grc
+2017-05-13 14:15:26,549-|Supertagger:        load|-INFO-> loaded model from models_ccg/grc.pickle
+tagging ccg for grc dev
+2017-05-13 14:15:26,550-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:15:47,351-|Supertagger:         tag|-INFO-> 20.80s extracted test features
+2017-05-13 14:15:47,351-|Supertagger:         tag|-INFO-> processed 1309 sentences
+2017-05-13 14:15:48,668-|Supertagger:         tag|-INFO-> 1.32s generated predictions
+2017-05-13 14:15:49,026-|Supertagger:         tag|-INFO-> 0.36s saved as data_ccg/grc-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/grc-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 51
+#Labels: 25
+ROOTLABEL: root
+PreComputed 93302, Elapsed Time: 3.996 (s)
+Initializing dependency parser ... done [10.0 sec].
+Test File: data_ccg/grc-udpipe-ccg-2.conllu
+OOV Words: 5456 / 20964 = 26.03%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 20964 words in 1309 sentences in 10.0s at 2103.3 w/s, 131.3 sent/s.
+
+
+loading ccg tagger for he
+2017-05-13 14:16:12,917-|Supertagger:        load|-INFO-> loaded model from models_ccg/he.pickle
+tagging ccg for he dev
+2017-05-13 14:16:12,917-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:16:22,656-|Supertagger:         tag|-INFO-> 9.74s extracted test features
+2017-05-13 14:16:22,656-|Supertagger:         tag|-INFO-> processed 491 sentences
+2017-05-13 14:16:23,634-|Supertagger:         tag|-INFO-> 0.98s generated predictions
+2017-05-13 14:16:23,888-|Supertagger:         tag|-INFO-> 0.25s saved as data_ccg/he-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/ar-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.361 (s)
+Initializing dependency parser ... done [10.8 sec].
+Test File: data_ccg/he-udpipe-ccg-2.conllu
+OOV Words: 9812 / 11316 = 86.71%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 11316 words in 491 sentences in 19.1s at 592.7 w/s, 25.7 sent/s.
+
+
+ls: cannot access 'models_ccg/hi_pud.pickle': No such file or directory
+loading ccg tagger for hi_pud
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/hi_pud.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/hi_pud-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/hi_pud-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/hi_pud-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/hi_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/hi_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/hi_pud-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/hi_pud-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for hi
+2017-05-13 14:16:58,819-|Supertagger:        load|-INFO-> loaded model from models_ccg/hi.pickle
+tagging ccg for hi dev
+2017-05-13 14:16:58,819-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:17:28,080-|Supertagger:         tag|-INFO-> 29.26s extracted test features
+2017-05-13 14:17:28,080-|Supertagger:         tag|-INFO-> processed 1675 sentences
+2017-05-13 14:17:30,859-|Supertagger:         tag|-INFO-> 2.78s generated predictions
+2017-05-13 14:17:31,595-|Supertagger:         tag|-INFO-> 0.74s saved as data_ccg/hi-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/hi-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 55
+#Labels: 27
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.512 (s)
+Initializing dependency parser ... done [8.8 sec].
+Test File: data_ccg/hi-udpipe-ccg-2.conllu
+OOV Words: 1636 / 35430 = 4.62%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 35430 words in 1675 sentences in 8.6s at 4105.9 w/s, 194.1 sent/s.
+
+
+loading ccg tagger for hr
+2017-05-13 14:17:53,397-|Supertagger:        load|-INFO-> loaded model from models_ccg/hr.pickle
+tagging ccg for hr dev
+2017-05-13 14:17:53,399-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:18:04,614-|Supertagger:         tag|-INFO-> 11.22s extracted test features
+2017-05-13 14:18:04,615-|Supertagger:         tag|-INFO-> processed 601 sentences
+2017-05-13 14:18:05,717-|Supertagger:         tag|-INFO-> 1.10s generated predictions
+2017-05-13 14:18:05,987-|Supertagger:         tag|-INFO-> 0.27s saved as data_ccg/hr-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/hr-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 83
+#Labels: 41
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.204 (s)
+Initializing dependency parser ... done [10.6 sec].
+Test File: data_ccg/hr-udpipe-ccg-2.conllu
+OOV Words: 1862 / 13226 = 14.08%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 13226 words in 601 sentences in 5.5s at 2399.1 w/s, 109.0 sent/s.
+
+
+loading ccg tagger for hsb
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/hsb.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/hsb-udpipe-ccg-2.conllu': No such file or directory
+Loading depparse model file: models_dep/cs-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 83
+#Labels: 41
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.996 (s)
+Initializing dependency parser ... done [19.8 sec].
+Test File: data_ccg/hsb-udpipe-ccg-2.conllu
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "data_ccg/hsb-udpipe-ccg-2.conllu" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.Util.loadConllFile(Util.java:204)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.testCoNLL(DependencyParser.java:1128)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1315)
+Caused by: java.io.IOException: Unable to open "data_ccg/hsb-udpipe-ccg-2.conllu" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.Util.loadConllFile(Util.java:144)
+	... 2 more
+ls: cannot access 'data_dep/hsb-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/hsb-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for hu
+2017-05-13 14:18:46,890-|Supertagger:        load|-INFO-> loaded model from models_ccg/hu.pickle
+tagging ccg for hu dev
+2017-05-13 14:18:46,891-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:18:56,235-|Supertagger:         tag|-INFO-> 9.34s extracted test features
+2017-05-13 14:18:56,236-|Supertagger:         tag|-INFO-> processed 461 sentences
+2017-05-13 14:18:56,978-|Supertagger:         tag|-INFO-> 0.74s generated predictions
+2017-05-13 14:18:57,196-|Supertagger:         tag|-INFO-> 0.22s saved as data_ccg/hu-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/hu-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 109
+#Labels: 54
+ROOTLABEL: root
+PreComputed 50110, Elapsed Time: 2.531 (s)
+Initializing dependency parser ... done [6.0 sec].
+Test File: data_ccg/hu-udpipe-ccg-2.conllu
+OOV Words: 3878 / 10463 = 37.06%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10463 words in 461 sentences in 6.6s at 1594.7 w/s, 70.3 sent/s.
+
+
+loading ccg tagger for id
+2017-05-13 14:19:12,810-|Supertagger:        load|-INFO-> loaded model from models_ccg/id.pickle
+tagging ccg for id dev
+2017-05-13 14:19:12,810-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:19:20,368-|Supertagger:         tag|-INFO-> 7.56s extracted test features
+2017-05-13 14:19:20,368-|Supertagger:         tag|-INFO-> processed 562 sentences
+2017-05-13 14:19:20,991-|Supertagger:         tag|-INFO-> 0.62s generated predictions
+2017-05-13 14:19:21,172-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/id-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/id-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 63
+#Labels: 31
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.177 (s)
+Initializing dependency parser ... done [10.1 sec].
+Test File: data_ccg/id-udpipe-ccg-2.conllu
+OOV Words: 1630 / 11781 = 13.84%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 11781 words in 562 sentences in 4.5s at 2602.4 w/s, 124.1 sent/s.
+
+
+ls: cannot access 'models_ccg/it_pud.pickle': No such file or directory
+loading ccg tagger for it_pud
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/it_pud.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/it_pud-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/it_pud-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/it_pud-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/it_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/it_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/it_pud-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/it_pud-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for it
+2017-05-13 14:19:40,864-|Supertagger:        load|-INFO-> loaded model from models_ccg/it.pickle
+tagging ccg for it dev
+2017-05-13 14:19:40,865-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:19:49,621-|Supertagger:         tag|-INFO-> 8.76s extracted test features
+2017-05-13 14:19:49,621-|Supertagger:         tag|-INFO-> processed 484 sentences
+2017-05-13 14:19:50,291-|Supertagger:         tag|-INFO-> 0.67s generated predictions
+2017-05-13 14:19:50,459-|Supertagger:         tag|-INFO-> 0.17s saved as data_ccg/it-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/it-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 89
+#Labels: 44
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.999 (s)
+Initializing dependency parser ... done [10.8 sec].
+Test File: data_ccg/it-udpipe-ccg-2.conllu
+OOV Words: 605 / 10411 = 5.81%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10411 words in 484 sentences in 4.8s at 2180.3 w/s, 101.4 sent/s.
+
+
+ls: cannot access 'models_ccg/ja_pud.pickle': No such file or directory
+loading ccg tagger for ja_pud
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/ja_pud.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/ja_pud-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/ja_pud-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/ja_pud-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/ja_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/ja_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/ja_pud-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/ja_pud-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for ja
+2017-05-13 14:20:10,923-|Supertagger:        load|-INFO-> loaded model from models_ccg/ja.pickle
+tagging ccg for ja dev
+2017-05-13 14:20:10,923-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:20:18,928-|Supertagger:         tag|-INFO-> 8.01s extracted test features
+2017-05-13 14:20:18,929-|Supertagger:         tag|-INFO-> processed 545 sentences
+2017-05-13 14:20:19,775-|Supertagger:         tag|-INFO-> 0.85s generated predictions
+2017-05-13 14:20:20,038-|Supertagger:         tag|-INFO-> 0.26s saved as data_ccg/ja-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/ja-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 43
+#Labels: 21
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.951 (s)
+Initializing dependency parser ... done [10.1 sec].
+Test File: data_ccg/ja-udpipe-ccg-2.conllu
+OOV Words: 1164 / 12699 = 9.17%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 12699 words in 545 sentences in 4.7s at 2697.3 w/s, 115.8 sent/s.
+
+
+ls: cannot access 'models_ccg/kk.pickle': No such file or directory
+loading ccg tagger for kk
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/kk.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/kk-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/kk-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/kk-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/kk-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/kk-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/kk-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/kk-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for kmr
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/kmr.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/kmr-udpipe-ccg-2.conllu': No such file or directory
+Loading depparse model file: models_dep/fa-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 75
+#Labels: 37
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.217 (s)
+Initializing dependency parser ... done [9.8 sec].
+Test File: data_ccg/kmr-udpipe-ccg-2.conllu
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "data_ccg/kmr-udpipe-ccg-2.conllu" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.Util.loadConllFile(Util.java:204)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.testCoNLL(DependencyParser.java:1128)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1315)
+Caused by: java.io.IOException: Unable to open "data_ccg/kmr-udpipe-ccg-2.conllu" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.Util.loadConllFile(Util.java:144)
+	... 2 more
+ls: cannot access 'data_dep/kmr-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/kmr-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for ko
+2017-05-13 14:20:51,580-|Supertagger:        load|-INFO-> loaded model from models_ccg/ko.pickle
+tagging ccg for ko dev
+2017-05-13 14:20:51,580-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:21:03,891-|Supertagger:         tag|-INFO-> 12.31s extracted test features
+2017-05-13 14:21:03,891-|Supertagger:         tag|-INFO-> processed 969 sentences
+2017-05-13 14:21:04,404-|Supertagger:         tag|-INFO-> 0.51s generated predictions
+2017-05-13 14:21:04,583-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/ko-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/ko-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 49
+#Labels: 24
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.652 (s)
+Initializing dependency parser ... done [11.1 sec].
+Test File: data_ccg/ko-udpipe-ccg-2.conllu
+OOV Words: 4100 / 10928 = 37.52%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10928 words in 969 sentences in 5.7s at 1909.8 w/s, 169.3 sent/s.
+
+
+loading ccg tagger for la_ittb
+2017-05-13 14:21:24,717-|Supertagger:        load|-INFO-> loaded model from models_ccg/la_ittb.pickle
+tagging ccg for la_ittb dev
+2017-05-13 14:21:24,717-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:21:37,160-|Supertagger:         tag|-INFO-> 12.44s extracted test features
+2017-05-13 14:21:37,160-|Supertagger:         tag|-INFO-> processed 745 sentences
+2017-05-13 14:21:37,955-|Supertagger:         tag|-INFO-> 0.80s generated predictions
+2017-05-13 14:21:38,121-|Supertagger:         tag|-INFO-> 0.17s saved as data_ccg/la_ittb-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/la_ittb-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 69
+#Labels: 34
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.87 (s)
+Initializing dependency parser ... done [8.9 sec].
+Test File: data_ccg/la_ittb-udpipe-ccg-2.conllu
+OOV Words: 231 / 10562 = 2.19%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10562 words in 745 sentences in 3.6s at 2958.5 w/s, 208.7 sent/s.
+
+
+loading ccg tagger for la_proiel
+2017-05-13 14:21:53,577-|Supertagger:        load|-INFO-> loaded model from models_ccg/la_proiel.pickle
+tagging ccg for la_proiel dev
+2017-05-13 14:21:53,577-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:22:04,459-|Supertagger:         tag|-INFO-> 10.88s extracted test features
+2017-05-13 14:22:04,459-|Supertagger:         tag|-INFO-> processed 591 sentences
+2017-05-13 14:22:05,370-|Supertagger:         tag|-INFO-> 0.91s generated predictions
+2017-05-13 14:22:05,559-|Supertagger:         tag|-INFO-> 0.19s saved as data_ccg/la_proiel-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/la_proiel-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 69
+#Labels: 34
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.081 (s)
+Initializing dependency parser ... done [9.8 sec].
+Test File: data_ccg/la_proiel-udpipe-ccg-2.conllu
+OOV Words: 1194 / 12152 = 9.83%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 12152 words in 591 sentences in 5.6s at 2188.4 w/s, 106.4 sent/s.
+
+
+ls: cannot access 'models_ccg/la.pickle': No such file or directory
+loading ccg tagger for la
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/la.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/la-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/la-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/la-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/la-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/la-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/la-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/la-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for lv
+2017-05-13 14:22:25,742-|Supertagger:        load|-INFO-> loaded model from models_ccg/lv.pickle
+tagging ccg for lv dev
+2017-05-13 14:22:25,742-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:22:41,048-|Supertagger:         tag|-INFO-> 15.31s extracted test features
+2017-05-13 14:22:41,049-|Supertagger:         tag|-INFO-> processed 920 sentences
+2017-05-13 14:22:41,833-|Supertagger:         tag|-INFO-> 0.78s generated predictions
+2017-05-13 14:22:42,049-|Supertagger:         tag|-INFO-> 0.22s saved as data_ccg/lv-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/lv-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 73
+#Labels: 36
+ROOTLABEL: root
+PreComputed 92160, Elapsed Time: 5.056 (s)
+Initializing dependency parser ... done [9.3 sec].
+Test File: data_ccg/lv-udpipe-ccg-2.conllu
+OOV Words: 3065 / 10530 = 29.11%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10530 words in 920 sentences in 5.9s at 1774.5 w/s, 155.0 sent/s.
+
+
+loading ccg tagger for nl_lassysmall
+2017-05-13 14:23:00,632-|Supertagger:        load|-INFO-> loaded model from models_ccg/nl_lassysmall.pickle
+tagging ccg for nl_lassysmall dev
+2017-05-13 14:23:00,632-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:23:11,451-|Supertagger:         tag|-INFO-> 10.82s extracted test features
+2017-05-13 14:23:11,451-|Supertagger:         tag|-INFO-> processed 767 sentences
+2017-05-13 14:23:12,085-|Supertagger:         tag|-INFO-> 0.63s generated predictions
+2017-05-13 14:23:12,248-|Supertagger:         tag|-INFO-> 0.16s saved as data_ccg/nl_lassysmall-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/nl_lassysmall-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 63
+#Labels: 31
+ROOTLABEL: root
+PreComputed 70093, Elapsed Time: 3.803 (s)
+Initializing dependency parser ... done [7.5 sec].
+Test File: data_ccg/nl_lassysmall-udpipe-ccg-2.conllu
+OOV Words: 745 / 10083 = 7.39%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10083 words in 767 sentences in 4.4s at 2296.8 w/s, 174.7 sent/s.
+
+
+loading ccg tagger for nl
+2017-05-13 14:23:27,022-|Supertagger:        load|-INFO-> loaded model from models_ccg/nl.pickle
+tagging ccg for nl dev
+2017-05-13 14:23:27,022-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:23:37,420-|Supertagger:         tag|-INFO-> 10.40s extracted test features
+2017-05-13 14:23:37,420-|Supertagger:         tag|-INFO-> processed 588 sentences
+2017-05-13 14:23:38,428-|Supertagger:         tag|-INFO-> 1.01s generated predictions
+2017-05-13 14:23:38,610-|Supertagger:         tag|-INFO-> 0.18s saved as data_ccg/nl-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/nl-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.981 (s)
+Initializing dependency parser ... done [10.0 sec].
+Test File: data_ccg/nl-udpipe-ccg-2.conllu
+OOV Words: 1752 / 11490 = 15.25%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 11490 words in 588 sentences in 4.9s at 2322.2 w/s, 118.8 sent/s.
+
+
+loading ccg tagger for no_bokmaal
+2017-05-13 14:23:56,473-|Supertagger:        load|-INFO-> loaded model from models_ccg/no_bokmaal.pickle
+tagging ccg for no_bokmaal dev
+2017-05-13 14:23:56,473-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:24:29,102-|Supertagger:         tag|-INFO-> 32.63s extracted test features
+2017-05-13 14:24:29,103-|Supertagger:         tag|-INFO-> processed 1931 sentences
+2017-05-13 14:24:31,433-|Supertagger:         tag|-INFO-> 2.33s generated predictions
+2017-05-13 14:24:31,904-|Supertagger:         tag|-INFO-> 0.47s saved as data_ccg/no_bokmaal-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/no_bokmaal-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 75
+#Labels: 37
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.387 (s)
+Initializing dependency parser ... done [9.8 sec].
+Test File: data_ccg/no_bokmaal-udpipe-ccg-2.conllu
+OOV Words: 3382 / 29962 = 11.29%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 29962 words in 1931 sentences in 9.6s at 3105.8 w/s, 200.2 sent/s.
+
+
+loading ccg tagger for no_nynorsk
+2017-05-13 14:24:55,241-|Supertagger:        load|-INFO-> loaded model from models_ccg/no_nynorsk.pickle
+tagging ccg for no_nynorsk dev
+2017-05-13 14:24:55,242-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:25:19,448-|Supertagger:         tag|-INFO-> 24.21s extracted test features
+2017-05-13 14:25:19,448-|Supertagger:         tag|-INFO-> processed 1453 sentences
+2017-05-13 14:25:21,200-|Supertagger:         tag|-INFO-> 1.75s generated predictions
+2017-05-13 14:25:21,618-|Supertagger:         tag|-INFO-> 0.42s saved as data_ccg/no_nynorsk-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/no_nynorsk-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 75
+#Labels: 37
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 5.064 (s)
+Initializing dependency parser ... done [10.3 sec].
+Test File: data_ccg/no_nynorsk-udpipe-ccg-2.conllu
+OOV Words: 2766 / 24777 = 11.16%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 24777 words in 1453 sentences in 9.4s at 2629.1 w/s, 154.2 sent/s.
+
+
+loading ccg tagger for pl
+2017-05-13 14:25:45,308-|Supertagger:        load|-INFO-> loaded model from models_ccg/pl.pickle
+tagging ccg for pl dev
+2017-05-13 14:25:45,310-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:26:03,513-|Supertagger:         tag|-INFO-> 18.20s extracted test features
+2017-05-13 14:26:03,513-|Supertagger:         tag|-INFO-> processed 1100 sentences
+2017-05-13 14:26:04,331-|Supertagger:         tag|-INFO-> 0.82s generated predictions
+2017-05-13 14:26:04,531-|Supertagger:         tag|-INFO-> 0.20s saved as data_ccg/pl-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/pl-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 61
+#Labels: 30
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.605 (s)
+Initializing dependency parser ... done [9.5 sec].
+Test File: data_ccg/pl-udpipe-ccg-2.conllu
+OOV Words: 2572 / 10811 = 23.79%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10811 words in 1100 sentences in 4.8s at 2235.5 w/s, 227.5 sent/s.
+
+
+loading ccg tagger for pt_br
+2017-05-13 14:26:22,044-|Supertagger:        load|-INFO-> loaded model from models_ccg/pt_br.pickle
+tagging ccg for pt_br dev
+2017-05-13 14:26:22,044-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:26:41,281-|Supertagger:         tag|-INFO-> 19.24s extracted test features
+2017-05-13 14:26:41,282-|Supertagger:         tag|-INFO-> processed 1200 sentences
+2017-05-13 14:26:43,234-|Supertagger:         tag|-INFO-> 1.95s generated predictions
+2017-05-13 14:26:43,765-|Supertagger:         tag|-INFO-> 0.53s saved as data_ccg/pt_br-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/pt_br-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 69
+#Labels: 34
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.626 (s)
+Initializing dependency parser ... done [10.4 sec].
+Test File: data_ccg/pt_br-udpipe-ccg-2.conllu
+OOV Words: 2272 / 31520 = 7.21%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 31520 words in 1200 sentences in 10.0s at 3162.8 w/s, 120.4 sent/s.
+
+
+ls: cannot access 'models_ccg/pt_pud.pickle': No such file or directory
+loading ccg tagger for pt_pud
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/pt_pud.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/pt_pud-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/pt_pud-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/pt_pud-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/pt_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/pt_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/pt_pud-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/pt_pud-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for pt
+2017-05-13 14:27:10,347-|Supertagger:        load|-INFO-> loaded model from models_ccg/pt.pickle
+tagging ccg for pt dev
+2017-05-13 14:27:10,347-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:27:18,491-|Supertagger:         tag|-INFO-> 8.14s extracted test features
+2017-05-13 14:27:18,491-|Supertagger:         tag|-INFO-> processed 463 sentences
+2017-05-13 14:27:19,235-|Supertagger:         tag|-INFO-> 0.74s generated predictions
+2017-05-13 14:27:19,401-|Supertagger:         tag|-INFO-> 0.17s saved as data_ccg/pt-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/pt-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 85
+#Labels: 42
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.49 (s)
+Initializing dependency parser ... done [10.0 sec].
+Test File: data_ccg/pt-udpipe-ccg-2.conllu
+OOV Words: 870 / 10211 = 8.52%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 10211 words in 463 sentences in 4.7s at 2191.7 w/s, 99.4 sent/s.
+
+
+loading ccg tagger for ro
+2017-05-13 14:27:36,845-|Supertagger:        load|-INFO-> loaded model from models_ccg/ro.pickle
+tagging ccg for ro dev
+2017-05-13 14:27:36,846-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:27:51,028-|Supertagger:         tag|-INFO-> 14.18s extracted test features
+2017-05-13 14:27:51,028-|Supertagger:         tag|-INFO-> processed 731 sentences
+2017-05-13 14:27:52,416-|Supertagger:         tag|-INFO-> 1.39s generated predictions
+2017-05-13 14:27:52,684-|Supertagger:         tag|-INFO-> 0.27s saved as data_ccg/ro-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/ro-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 99
+#Labels: 49
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.214 (s)
+Initializing dependency parser ... done [10.5 sec].
+Test File: data_ccg/ro-udpipe-ccg-2.conllu
+OOV Words: 1708 / 16328 = 10.46%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 16328 words in 731 sentences in 6.5s at 2525.2 w/s, 113.1 sent/s.
+
+
+ls: cannot access 'models_ccg/ru_pud.pickle': No such file or directory
+loading ccg tagger for ru_pud
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/ru_pud.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/ru_pud-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/ru_pud-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/ru_pud-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/ru_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/ru_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/ru_pud-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/ru_pud-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for ru_syntagrus
+2017-05-13 14:28:15,117-|Supertagger:        load|-INFO-> loaded model from models_ccg/ru_syntagrus.pickle
+tagging ccg for ru_syntagrus dev
+2017-05-13 14:28:15,118-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:30:04,803-|Supertagger:         tag|-INFO-> 109.68s extracted test features
+2017-05-13 14:30:04,803-|Supertagger:         tag|-INFO-> processed 6518 sentences
+2017-05-13 14:30:15,639-|Supertagger:         tag|-INFO-> 10.84s generated predictions
+2017-05-13 14:30:17,706-|Supertagger:         tag|-INFO-> 2.07s saved as data_ccg/ru_syntagrus-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/ru_syntagrus-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 79
+#Labels: 39
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.806 (s)
+Initializing dependency parser ... done [18.3 sec].
+Test File: data_ccg/ru_syntagrus-udpipe-ccg-2.conllu
+OOV Words: 11361 / 117346 = 9.68%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 117346 words in 6518 sentences in 39.1s at 3002.6 w/s, 166.8 sent/s.
+
+
+loading ccg tagger for ru
+2017-05-13 14:31:27,426-|Supertagger:        load|-INFO-> loaded model from models_ccg/ru.pickle
+tagging ccg for ru dev
+2017-05-13 14:31:27,426-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:31:36,869-|Supertagger:         tag|-INFO-> 9.44s extracted test features
+2017-05-13 14:31:36,870-|Supertagger:         tag|-INFO-> processed 600 sentences
+2017-05-13 14:31:37,600-|Supertagger:         tag|-INFO-> 0.73s generated predictions
+2017-05-13 14:31:37,792-|Supertagger:         tag|-INFO-> 0.19s saved as data_ccg/ru-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/ru-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 81
+#Labels: 40
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.326 (s)
+Initializing dependency parser ... done [9.2 sec].
+Test File: data_ccg/ru-udpipe-ccg-2.conllu
+OOV Words: 3055 / 11547 = 26.46%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 11547 words in 600 sentences in 5.7s at 2039.4 w/s, 106.0 sent/s.
+
+
+loading ccg tagger for sk
+2017-05-13 14:31:55,520-|Supertagger:        load|-INFO-> loaded model from models_ccg/sk.pickle
+tagging ccg for sk dev
+2017-05-13 14:31:55,520-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:32:13,556-|Supertagger:         tag|-INFO-> 18.04s extracted test features
+2017-05-13 14:32:13,557-|Supertagger:         tag|-INFO-> processed 1082 sentences
+2017-05-13 14:32:14,399-|Supertagger:         tag|-INFO-> 0.84s generated predictions
+2017-05-13 14:32:14,629-|Supertagger:         tag|-INFO-> 0.23s saved as data_ccg/sk-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/sk-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 79
+#Labels: 39
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.5 (s)
+Initializing dependency parser ... done [9.4 sec].
+Test File: data_ccg/sk-udpipe-ccg-2.conllu
+OOV Words: 4658 / 13028 = 35.75%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 13028 words in 1082 sentences in 6.8s at 1917.0 w/s, 159.2 sent/s.
+
+
+ls: cannot access 'models_ccg/sl_sst.pickle': No such file or directory
+loading ccg tagger for sl_sst
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/sl_sst.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/sl_sst-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/sl_sst-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/sl_sst-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/sl_sst-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/sl_sst-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/sl_sst-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/sl_sst-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for sl
+2017-05-13 14:32:35,795-|Supertagger:        load|-INFO-> loaded model from models_ccg/sl.pickle
+tagging ccg for sl dev
+2017-05-13 14:32:35,796-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:32:48,770-|Supertagger:         tag|-INFO-> 12.97s extracted test features
+2017-05-13 14:32:48,770-|Supertagger:         tag|-INFO-> processed 788 sentences
+2017-05-13 14:32:49,622-|Supertagger:         tag|-INFO-> 0.85s generated predictions
+2017-05-13 14:32:49,848-|Supertagger:         tag|-INFO-> 0.23s saved as data_ccg/sl-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/sl-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 65
+#Labels: 32
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.335 (s)
+Initializing dependency parser ... done [9.6 sec].
+Test File: data_ccg/sl-udpipe-ccg-2.conllu
+OOV Words: 2797 / 14077 = 19.87%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 14077 words in 788 sentences in 6.1s at 2314.2 w/s, 129.5 sent/s.
+
+
+loading ccg tagger for sme
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/sme.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/sme-udpipe-ccg-2.conllu': No such file or directory
+Loading depparse model file: models_dep/fi-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 93
+#Labels: 46
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.259 (s)
+Initializing dependency parser ... done [11.2 sec].
+Test File: data_ccg/sme-udpipe-ccg-2.conllu
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "data_ccg/sme-udpipe-ccg-2.conllu" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.Util.loadConllFile(Util.java:204)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.testCoNLL(DependencyParser.java:1128)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1315)
+Caused by: java.io.IOException: Unable to open "data_ccg/sme-udpipe-ccg-2.conllu" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.Util.loadConllFile(Util.java:144)
+	... 2 more
+ls: cannot access 'data_dep/sme-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/sme-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for sv_lines
+2017-05-13 14:33:21,552-|Supertagger:        load|-INFO-> loaded model from models_ccg/sv_lines.pickle
+tagging ccg for sv_lines dev
+2017-05-13 14:33:21,553-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:33:32,520-|Supertagger:         tag|-INFO-> 10.97s extracted test features
+2017-05-13 14:33:32,521-|Supertagger:         tag|-INFO-> processed 907 sentences
+2017-05-13 14:33:33,197-|Supertagger:         tag|-INFO-> 0.68s generated predictions
+2017-05-13 14:33:33,434-|Supertagger:         tag|-INFO-> 0.24s saved as data_ccg/sv_lines-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/sv_lines-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 81
+#Labels: 40
+ROOTLABEL: root
+PreComputed 63342, Elapsed Time: 2.951 (s)
+Initializing dependency parser ... done [6.1 sec].
+Test File: data_ccg/sv_lines-udpipe-ccg-2.conllu
+OOV Words: 2249 / 15031 = 14.96%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 15031 words in 907 sentences in 6.7s at 2234.4 w/s, 134.8 sent/s.
+
+
+ls: cannot access 'models_ccg/sv_pud.pickle': No such file or directory
+loading ccg tagger for sv_pud
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/sv_pud.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/sv_pud-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/sv_pud-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/sv_pud-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/sv_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/sv_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/sv_pud-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/sv_pud-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for sv
+2017-05-13 14:33:51,564-|Supertagger:        load|-INFO-> loaded model from models_ccg/sv.pickle
+tagging ccg for sv dev
+2017-05-13 14:33:51,565-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:34:11,839-|Supertagger:         tag|-INFO-> 20.27s extracted test features
+2017-05-13 14:34:11,840-|Supertagger:         tag|-INFO-> processed 1207 sentences
+2017-05-13 14:34:13,199-|Supertagger:         tag|-INFO-> 1.36s generated predictions
+2017-05-13 14:34:13,538-|Supertagger:         tag|-INFO-> 0.34s saved as data_ccg/sv-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/sv-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 79
+#Labels: 39
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.394 (s)
+Initializing dependency parser ... done [8.1 sec].
+Test File: data_ccg/sv-udpipe-ccg-2.conllu
+OOV Words: 3049 / 20371 = 14.97%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 20371 words in 1207 sentences in 7.2s at 2828.1 w/s, 167.6 sent/s.
+
+
+ls: cannot access 'models_ccg/tr_pud.pickle': No such file or directory
+loading ccg tagger for tr_pud
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/tr_pud.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/tr_pud-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/tr_pud-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/tr_pud-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/tr_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/tr_pud-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/tr_pud-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/tr_pud-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for tr
+2017-05-13 14:34:33,973-|Supertagger:        load|-INFO-> loaded model from models_ccg/tr.pickle
+tagging ccg for tr dev
+2017-05-13 14:34:33,973-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:34:48,214-|Supertagger:         tag|-INFO-> 14.24s extracted test features
+2017-05-13 14:34:48,214-|Supertagger:         tag|-INFO-> processed 983 sentences
+2017-05-13 14:34:48,810-|Supertagger:         tag|-INFO-> 0.60s generated predictions
+2017-05-13 14:34:48,976-|Supertagger:         tag|-INFO-> 0.17s saved as data_ccg/tr-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/tr-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 59
+#Labels: 29
+ROOTLABEL: root
+PreComputed 93316, Elapsed Time: 4.672 (s)
+Initializing dependency parser ... done [9.0 sec].
+Test File: data_ccg/tr-udpipe-ccg-2.conllu
+OOV Words: 2583 / 9929 = 26.01%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 9929 words in 983 sentences in 4.3s at 2310.1 w/s, 228.7 sent/s.
+
+
+ls: cannot access 'models_ccg/ug.pickle': No such file or directory
+loading ccg tagger for ug
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/ug.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/ug-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/ug-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/ug-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/ug-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/ug-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/ug-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/ug-udpipe-ccg-2-parsed.conllu'
+
+
+ls: cannot access 'models_ccg/uk.pickle': No such file or directory
+loading ccg tagger for uk
+ERROR
+type : <class 'FileNotFoundError'>
+value: [Errno 2] No such file or directory: 'models_ccg/uk.pickle'
+trace:
+  File "src_ccg/ccg_tagger.py", line 26, in <module>
+    tagger.load(ccg_model)
+
+  File "/home/METU/src_ccg/tagger_crf.py", line 182, in load
+    f = open(file_name, 'rb')
+
+
+
+ls: cannot access 'data_ccg/uk-udpipe-ccg-2.conllu': No such file or directory
+ls: cannot access 'models_dep/uk-nndep-ccg.model.txt.gz': No such file or directory
+Loading depparse model file: models_dep/uk-nndep-ccg.model.txt.gz ... 
+Exception in thread "main" edu.stanford.nlp.io.RuntimeIOException: java.io.IOException: Unable to open "models_dep/uk-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:651)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:546)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.main(DependencyParser.java:1313)
+Caused by: java.io.IOException: Unable to open "models_dep/uk-nndep-ccg.model.txt.gz" as class path, filename or URL
+	at edu.stanford.nlp.io.IOUtils.getInputStreamFromURLOrClasspathOrFileSystem(IOUtils.java:480)
+	at edu.stanford.nlp.io.IOUtils.readerFromString(IOUtils.java:617)
+	at edu.stanford.nlp.parser.nndep.DependencyParser.loadModelFile(DependencyParser.java:555)
+	... 2 more
+ls: cannot access 'data_dep/uk-udpipe-ccg-2-parsed.conllu': No such file or directory
+Traceback (most recent call last):
+  File "src_util/concat_multi_lines.py", line 14, in <module>
+    with open(outfilename, 'r', encoding='utf-8') as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'data_dep/uk-udpipe-ccg-2-parsed.conllu'
+
+
+loading ccg tagger for ur
+2017-05-13 14:35:09,595-|Supertagger:        load|-INFO-> loaded model from models_ccg/ur.pickle
+tagging ccg for ur dev
+2017-05-13 14:35:09,596-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:35:19,832-|Supertagger:         tag|-INFO-> 10.24s extracted test features
+2017-05-13 14:35:19,833-|Supertagger:         tag|-INFO-> processed 535 sentences
+2017-05-13 14:35:20,914-|Supertagger:         tag|-INFO-> 1.08s generated predictions
+2017-05-13 14:35:21,170-|Supertagger:         tag|-INFO-> 0.26s saved as data_ccg/ur-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/ur-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 51
+#Labels: 25
+ROOTLABEL: root
+PreComputed 78363, Elapsed Time: 3.761 (s)
+Initializing dependency parser ... done [7.1 sec].
+Test File: data_ccg/ur-udpipe-ccg-2.conllu
+OOV Words: 942 / 14806 = 6.36%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 14806 words in 535 sentences in 4.3s at 3456.9 w/s, 124.9 sent/s.
+
+
+loading ccg tagger for vi
+2017-05-13 14:35:35,727-|Supertagger:        load|-INFO-> loaded model from models_ccg/vi.pickle
+tagging ccg for vi dev
+2017-05-13 14:35:35,728-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:35:45,704-|Supertagger:         tag|-INFO-> 9.98s extracted test features
+2017-05-13 14:35:45,704-|Supertagger:         tag|-INFO-> processed 833 sentences
+2017-05-13 14:35:46,163-|Supertagger:         tag|-INFO-> 0.46s generated predictions
+2017-05-13 14:35:46,360-|Supertagger:         tag|-INFO-> 0.20s saved as data_ccg/vi-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/vi-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 59
+#Labels: 29
+ROOTLABEL: root
+PreComputed 32699, Elapsed Time: 1.426 (s)
+Initializing dependency parser ... done [4.1 sec].
+Test File: data_ccg/vi-udpipe-ccg-2.conllu
+OOV Words: 2400 / 12178 = 19.71%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 12178 words in 833 sentences in 4.5s at 2705.0 w/s, 185.0 sent/s.
+
+
+loading ccg tagger for zh
+2017-05-13 14:35:57,785-|Supertagger:        load|-INFO-> loaded model from models_ccg/zh.pickle
+tagging ccg for zh dev
+2017-05-13 14:35:57,785-|Supertagger:         tag|-INFO-> started tagging
+2017-05-13 14:36:04,608-|Supertagger:         tag|-INFO-> 6.82s extracted test features
+2017-05-13 14:36:04,608-|Supertagger:         tag|-INFO-> processed 494 sentences
+2017-05-13 14:36:05,178-|Supertagger:         tag|-INFO-> 0.57s generated predictions
+2017-05-13 14:36:05,372-|Supertagger:         tag|-INFO-> 0.19s saved as data_ccg/zh-udpipe-ccg-2.conllu
+
+
+Loading depparse model file: models_dep/zh-nndep-ccg.model.txt.gz ... 
+###################
+#Transitions: 85
+#Labels: 42
+ROOTLABEL: root
+PreComputed 100000, Elapsed Time: 4.462 (s)
+Initializing dependency parser ... done [9.0 sec].
+Test File: data_ccg/zh-udpipe-ccg-2.conllu
+OOV Words: 1752 / 12108 = 14.47%
+UAS = 0.0000
+LAS = 0.0000
+DependencyParser parsed 12108 words in 494 sentences in 4.5s at 2667.5 w/s, 108.8 sent/s.
+
+

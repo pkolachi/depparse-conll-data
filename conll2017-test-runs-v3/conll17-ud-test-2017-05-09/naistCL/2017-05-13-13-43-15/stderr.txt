@@ -1,0 +1,330 @@
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 1731805612
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+[dynet] random seed: 335085782
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1363933441
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 4048058026
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+[dynet] random seed: 1383334787
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: cac
+[dynet] random seed: 1190028995
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: cltt
+[dynet] random seed: 3906243149
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 247537615
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+[dynet] random seed: 1668889860
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1297330656
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 966369121
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 1914813940
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+[dynet] random seed: 1673686858
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 4256172525
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: lines
+[dynet] random seed: 3397729720
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: partut
+[dynet] random seed: 3073841855
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 1319088802
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+[dynet] random seed: 1514019421
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: ancora
+[dynet] random seed: 630685525
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 578803710
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+[dynet] random seed: 2228272280
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2658881311
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1007582524
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 570633459
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: ftb
+[dynet] random seed: 1167475422
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 3493180091
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+[dynet] random seed: 3347849242
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: partut
+[dynet] random seed: 3632405489
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 1445214570
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+./run.sh: 17: [: Illegal number: sequoia
+[dynet] random seed: 3985519177
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 925318949
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1178420828
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: treegal
+[dynet] random seed: 912814535
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2759968128
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1942281266
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: proiel
+[dynet] random seed: 902919030
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 42196555
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3207970794
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 644153672
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+[dynet] random seed: 2412141074
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3130727315
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2675345926
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+[dynet] random seed: 1361533947
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3146871779
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 190590224
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+[dynet] random seed: 3652724684
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 260149527
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+[dynet] random seed: 1593504846
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 989313090
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 4057247351
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+[dynet] random seed: 4054976370
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: ittb
+[dynet] random seed: 3455868107
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: proiel
+[dynet] random seed: 1900573099
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3131798152
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1260723759
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: lassysmall
+[dynet] random seed: 2182326922
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 656338956
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: bokmaal
+[dynet] random seed: 2624084656
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: nynorsk
+[dynet] random seed: 3062890999
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2286750758
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: br
+[dynet] random seed: 1167202157
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 452018909
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+[dynet] random seed: 3829011735
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1489550135
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 1666870894
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+./run.sh: 17: [: Illegal number: syntagrus
+[dynet] random seed: 901999
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1138498260
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1930710446
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: sst
+[dynet] random seed: 3795383665
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 300305802
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1468688833
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+./run.sh: 17: [: Illegal number: lines
+[dynet] random seed: 2168674472
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 3392689439
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+[dynet] random seed: 2162578705
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+./run.sh: 17: [: Illegal number: pud
+[dynet] random seed: 336793961
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::program_options::invalid_command_line_syntax> >'
+  what():  the required argument for option '--model' is missing
+Aborted (core dumped)
+[dynet] random seed: 431397955
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 1624802909
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3252017825
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 2877346511
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 3179217245
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+[dynet] random seed: 885899683
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.

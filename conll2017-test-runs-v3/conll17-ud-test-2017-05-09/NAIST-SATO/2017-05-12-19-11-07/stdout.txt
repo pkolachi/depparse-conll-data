@@ -1,0 +1,4 @@
+python run.py --input_dataset /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 --output_dir /tmp/NAIST-SATO/2017-05-12-19-11-07/output
+
+
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar_pud-udpipe.conllu

@@ -1,0 +1,16 @@
+sh /home/Uppsala/bash_script.sh /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 /tmp/Uppsala/2017-05-13-02-35-34/output
+
+
+Encoding:  utf-8
+Joint sentence segmentation...
+Initialization....
+Bucket 1, 55.890572 seconds
+Done. Time consumed: 56 seconds
+Loading weights....
+Loaded.
+Done.
+Using external embedding: None
+0 dropped non-projective sentences.
+647 sentences read.
+Time: 19s
+Finished predicting test 18.7421979904

@@ -1,0 +1,485 @@
+python3 run_treebank_trained_wotok.py -i /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09 -o /tmp/TurkuNLP/2017-05-12-15-15-19/output
+
+
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar_pud-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/ar_pud.conllu ar
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar_pud-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/ar_pud.conllu
+model: ar
+ar Arabic tmpdata_ar
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/ar.conllu ar
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ar-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/ar.conllu
+model: ar
+ar Arabic tmpdata_ar
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bg-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/bg.conllu bg
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bg-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/bg.conllu
+model: bg
+bg Bulgarian tmpdata_bg
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/bxr.conllu kk
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/bxr-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/bxr.conllu
+model: kk
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ca-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/ca.conllu ca
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ca-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/ca.conllu
+model: ca
+ca Catalan tmpdata_ca
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cac-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/cs_cac.conllu cs_cac
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cac-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/cs_cac.conllu
+model: cs_cac
+cs_cac Czech tmpdata_cs_cac
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cltt-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/cs_cltt.conllu cs_cltt
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_cltt-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/cs_cltt.conllu
+model: cs_cltt
+cs_cltt Czech tmpdata_cs_cltt
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_pud-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/cs_pud.conllu cs
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs_pud-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/cs_pud.conllu
+model: cs
+cs Czech tmpdata_cs
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/cs.conllu cs
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cs-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/cs.conllu
+model: cs
+cs Czech tmpdata_cs
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cu-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/cu.conllu cu
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/cu-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/cu.conllu
+model: cu
+cu Old_Church_Slavonic tmpdata_cu
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/da-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/da.conllu da
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/da-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/da.conllu
+model: da
+da Danish tmpdata_da
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de_pud-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/de_pud.conllu de
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de_pud-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/de_pud.conllu
+model: de
+de German tmpdata_de
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/de.conllu de
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/de-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/de.conllu
+model: de
+de German tmpdata_de
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/el-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/el.conllu el
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/el-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/el.conllu
+model: el
+el Greek tmpdata_el
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_lines-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/en_lines.conllu en_lines
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_lines-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/en_lines.conllu
+model: en_lines
+en_lines English tmpdata_en_lines
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_partut-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/en_partut.conllu en_partut
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_partut-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/en_partut.conllu
+model: en_partut
+en_partut English tmpdata_en_partut
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_pud-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/en_pud.conllu en
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en_pud-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/en_pud.conllu
+model: en
+en English tmpdata_en
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/en.conllu en
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/en-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/en.conllu
+model: en
+en English tmpdata_en
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_ancora-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/es_ancora.conllu es_ancora
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_ancora-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/es_ancora.conllu
+model: es_ancora
+es_ancora Spanish tmpdata_es_ancora
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_pud-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/es_pud.conllu es
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es_pud-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/es_pud.conllu
+model: es
+es Spanish tmpdata_es
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/es.conllu es
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/es-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/es.conllu
+model: es
+es Spanish tmpdata_es
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/et-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/et.conllu et
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/et-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/et.conllu
+model: et
+et Estonian tmpdata_et
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/eu-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/eu.conllu eu
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/eu-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/eu.conllu
+model: eu
+eu Basque tmpdata_eu
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fa-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/fa.conllu fa
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fa-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/fa.conllu
+model: fa
+fa Persian tmpdata_fa
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_ftb-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/fi_ftb.conllu fi_ftb
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_ftb-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/fi_ftb.conllu
+model: fi_ftb
+fi_ftb Finnish tmpdata_fi_ftb
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_pud-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/fi_pud.conllu fi
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi_pud-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/fi_pud.conllu
+model: fi
+fi Finnish tmpdata_fi
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/fi.conllu fi
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fi-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/fi.conllu
+model: fi
+fi Finnish tmpdata_fi
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_partut-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/fr_partut.conllu fr_partut
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_partut-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/fr_partut.conllu
+model: fr_partut
+fr_partut French tmpdata_fr_partut
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_pud-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/fr_pud.conllu fr
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_pud-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/fr_pud.conllu
+model: fr
+fr French tmpdata_fr
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_sequoia-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/fr_sequoia.conllu fr_sequoia
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr_sequoia-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/fr_sequoia.conllu
+model: fr_sequoia
+fr_sequoia French tmpdata_fr_sequoia
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/fr.conllu fr
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/fr-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/fr.conllu
+model: fr
+fr French tmpdata_fr
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ga-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/ga.conllu ga
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ga-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/ga.conllu
+model: ga
+ga Irish tmpdata_ga
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl_treegal-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/gl_treegal.conllu gl_treegal
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl_treegal-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/gl_treegal.conllu
+model: gl_treegal
+gl_treegal Galician tmpdata_gl_treegal
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/gl.conllu gl
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/gl-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/gl.conllu
+model: gl
+gl Galician tmpdata_gl
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/got-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/got.conllu got
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/got-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/got.conllu
+model: got
+got Gothic tmpdata_got
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc_proiel-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/grc_proiel.conllu grc_proiel
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc_proiel-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/grc_proiel.conllu
+model: grc_proiel
+grc_proiel Ancient_Greek tmpdata_grc_proiel
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/grc.conllu grc
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/grc-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/grc.conllu
+model: grc
+grc Ancient_Greek tmpdata_grc
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/he-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/he.conllu he
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/he-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/he.conllu
+model: he
+he Hebrew tmpdata_he
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi_pud-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/hi_pud.conllu hi
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi_pud-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/hi_pud.conllu
+model: hi
+hi Hindi tmpdata_hi
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/hi.conllu hi
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hi-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/hi.conllu
+model: hi
+hi Hindi tmpdata_hi
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hr-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/hr.conllu hr
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hr-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/hr.conllu
+model: hr
+hr Croatian tmpdata_hr
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/hsb.conllu sl
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hsb-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/hsb.conllu
+model: sl
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hu-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/hu.conllu hu
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/hu-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/hu.conllu
+model: hu
+hu Hungarian tmpdata_hu
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/id-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/id.conllu id
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/id-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/id.conllu
+model: id
+id Indonesian tmpdata_id
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it_pud-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/it_pud.conllu it
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it_pud-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/it_pud.conllu
+model: it
+it Italian tmpdata_it
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/it.conllu it
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/it-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/it.conllu
+model: it
+it Italian tmpdata_it
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja_pud-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/ja_pud.conllu ja
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja_pud-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/ja_pud.conllu
+model: ja
+ja Japanese tmpdata_ja
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/ja.conllu ja
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ja-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/ja.conllu
+model: ja
+ja Japanese tmpdata_ja
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kk-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/kk.conllu kk
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kk-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/kk.conllu
+model: kk
+kk Kazakh tmpdata_kk
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/kmr.conllu gl_treegal
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/kmr-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/kmr.conllu
+model: gl_treegal
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ko-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/ko.conllu ko
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ko-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/ko.conllu
+model: ko
+ko Korean tmpdata_ko
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_ittb-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/la_ittb.conllu la_ittb
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_ittb-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/la_ittb.conllu
+model: la_ittb
+la_ittb Latin tmpdata_la_ittb
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_proiel-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/la_proiel.conllu la_proiel
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la_proiel-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/la_proiel.conllu
+model: la_proiel
+la_proiel Latin tmpdata_la_proiel
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/la.conllu la
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/la-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/la.conllu
+model: la
+la Latin tmpdata_la
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/lv-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/lv.conllu lv
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/lv-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/lv.conllu
+model: lv
+lv Latvian tmpdata_lv
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl_lassysmall-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/nl_lassysmall.conllu nl_lassysmall
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl_lassysmall-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/nl_lassysmall.conllu
+model: nl_lassysmall
+nl_lassysmall Dutch tmpdata_nl_lassysmall
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/nl.conllu nl
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/nl-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/nl.conllu
+model: nl
+nl Dutch tmpdata_nl
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_bokmaal-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/no_bokmaal.conllu no_bokmaal
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_bokmaal-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/no_bokmaal.conllu
+model: no_bokmaal
+no_bokmaal Norwegian-Bokmaal tmpdata_no_bokmaal
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_nynorsk-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/no_nynorsk.conllu no_nynorsk
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/no_nynorsk-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/no_nynorsk.conllu
+model: no_nynorsk
+no_nynorsk Norwegian-Nynorsk tmpdata_no_nynorsk
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pl-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/pl.conllu pl
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pl-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/pl.conllu
+model: pl
+pl Polish tmpdata_pl
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_br-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/pt_br.conllu pt_br
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_br-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/pt_br.conllu
+model: pt_br
+pt_br Portuguese tmpdata_pt_br
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_pud-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/pt_pud.conllu pt
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt_pud-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/pt_pud.conllu
+model: pt
+pt Portuguese tmpdata_pt
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/pt.conllu pt
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/pt-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/pt.conllu
+model: pt
+pt Portuguese tmpdata_pt
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ro-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/ro.conllu ro
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ro-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/ro.conllu
+model: ro
+ro Romanian tmpdata_ro
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_pud-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/ru_pud.conllu ru
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_pud-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/ru_pud.conllu
+model: ru
+ru Russian tmpdata_ru
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_syntagrus-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/ru_syntagrus.conllu ru_syntagrus
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru_syntagrus-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/ru_syntagrus.conllu
+model: ru_syntagrus
+ru_syntagrus Russian tmpdata_ru_syntagrus
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/ru.conllu ru
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ru-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/ru.conllu
+model: ru
+ru Russian tmpdata_ru
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sk-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/sk.conllu sk
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sk-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/sk.conllu
+model: sk
+sk Slovak tmpdata_sk
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl_sst-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/sl_sst.conllu sl_sst
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl_sst-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/sl_sst.conllu
+model: sl_sst
+sl_sst Slovenian tmpdata_sl_sst
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/sl.conllu sl
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sl-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/sl.conllu
+model: sl
+sl Slovenian tmpdata_sl
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/sme.conllu pt
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sme-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/sme.conllu
+model: pt
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_lines-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/sv_lines.conllu sv_lines
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_lines-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/sv_lines.conllu
+model: sv_lines
+sv_lines Swedish tmpdata_sv_lines
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_pud-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/sv_pud.conllu sv
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv_pud-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/sv_pud.conllu
+model: sv
+sv Swedish tmpdata_sv
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/sv.conllu sv
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/sv-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/sv.conllu
+model: sv
+sv Swedish tmpdata_sv
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr_pud-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/tr_pud.conllu tr
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr_pud-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/tr_pud.conllu
+model: tr
+tr Turkish tmpdata_tr
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/tr.conllu tr
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/tr-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/tr.conllu
+model: tr
+tr Turkish tmpdata_tr
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ug-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/ug.conllu ug
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ug-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/ug.conllu
+model: ug
+ug Uyghur tmpdata_ug
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/uk-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/uk.conllu uk
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/uk-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/uk.conllu
+model: uk
+uk Ukrainian tmpdata_uk
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ur-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/ur.conllu ur
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/ur-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/ur.conllu
+model: ur
+ur Urdu tmpdata_ur
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/vi-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/vi.conllu vi
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/vi-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/vi.conllu
+model: vi
+vi Vietnamese tmpdata_vi
+parsing done
+/media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh-udpipe.conllu /tmp/TurkuNLP/2017-05-12-15-15-19/output/zh.conllu zh
+parsing /media/test-datasets/universal-dependency-learning/conll17-ud-test-2017-05-09/zh-udpipe.conllu
+writing output to /tmp/TurkuNLP/2017-05-12-15-15-19/output/zh.conllu
+model: zh
+zh ChineseT tmpdata_zh
+parsing done

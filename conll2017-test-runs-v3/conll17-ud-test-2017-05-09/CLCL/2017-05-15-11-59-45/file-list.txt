@@ -1,0 +1,12 @@
+/mnt/nfs/tira/data/runs/conll17-ud-test-2017-05-09/CLCL/2017-05-15-11-59-45/output
+├── [523K]  fr.conllu
+├── [524K]  fr_sequoia.conllu
+├── [564K]  ga.conllu
+├── [1.1M]  gl.conllu
+├── [607K]  gl_treegal.conllu
+├── [696K]  got.conllu
+├── [1.6M]  grc.conllu
+├── [1.0M]  grc_proiel.conllu
+└── [738K]  he.conllu
+
+0 directories, 9 files
